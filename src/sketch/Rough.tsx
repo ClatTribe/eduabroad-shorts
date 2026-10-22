@@ -56,6 +56,28 @@ export const RoughBox: React.FC<{ id: string; color: string; progress: number; w
   );
 };
 
+/** Rough polyline / polygon in frame pixels, drawn edge by edge. */
+export const RoughPoly: React.FC<{
+  id: string;
+  points: [number, number][];
+  closed?: boolean;
+  color: string;
+  width?: number;
+  progress: number;
+  opacity?: number;
+}> = ({ id, points, closed, color, width = 5, progress, opacity = 1 }) => {
+  const seed = seedOf(id);
+  const pts = closed ? [...points, points[0]] : points;
+  const paths = pts.slice(1).flatMap((p, i) =>
+    gen.toPaths(gen.line(pts[i][0], pts[i][1], p[0], p[1], { seed: seed + i, roughness: 1.2, bowing: 1.5, stroke: color })),
+  );
+  return (
+    <svg width={1080} height={1920} style={{ position: "absolute", inset: 0, opacity }}>
+      <DrawOn paths={paths} color={color} width={width} progress={progress} />
+    </svg>
+  );
+};
+
 /** Rough line or arrow between two points in frame pixels. */
 export const RoughLine: React.FC<{
   id: string;
@@ -67,7 +89,8 @@ export const RoughLine: React.FC<{
   arrow?: boolean;
   progress: number;
   opacity?: number;
-}> = ({ id, x1, y1, x2, y2, color, arrow, progress, opacity = 1 }) => {
+  width?: number;
+}> = ({ id, x1, y1, x2, y2, color, arrow, progress, opacity = 1, width = 5 }) => {
   const seed = seedOf(id);
   const paths = gen.toPaths(gen.line(x1, y1, x2, y2, { seed, roughness: 1.4, bowing: 2, stroke: color }));
   if (arrow) {
@@ -81,7 +104,7 @@ export const RoughLine: React.FC<{
   }
   return (
     <svg width={1080} height={1920} style={{ position: "absolute", inset: 0, opacity }}>
-      <DrawOn paths={paths} color={color} width={5} progress={progress} />
+      <DrawOn paths={paths} color={color} width={width} progress={progress} />
     </svg>
   );
 };

@@ -32,6 +32,36 @@ export type SketchItem =
       y2: number;
       color?: string;
       arrow?: boolean;
+      width?: number;
+      out?: number;
+    }
+  | {
+      kind: "poly"; // hand-drawn shape through points, e.g. a triangle (drawn edge by edge)
+      at: number;
+      dur?: number;
+      points: [number, number][];
+      closed?: boolean;
+      color?: string;
+      width?: number;
+      out?: number;
+    }
+  | {
+      kind: "right-angle"; // small square in a corner
+      at: number;
+      x: number; // the corner
+      y: number;
+      dx: number; // direction along one side (+1/-1)
+      dy: number; // direction along the other side (+1/-1)
+      size?: number;
+      color?: string;
+    }
+  | {
+      kind: "image"; // e.g. the EduAbroad logo, wiped on like writing
+      at: number;
+      dur?: number;
+      src: string; // path inside public/
+      y: number;
+      height: number;
       out?: number;
     };
 
@@ -48,14 +78,15 @@ export type SketchSpec = {
 };
 
 export const INK = {
-  ink: "#1e1e1e",
+  ink: "#0F172A", // EduAbroad navy ink
   red: "#A51C30", // EduAbroad crimson doubles as the "red" pen
   blue: "#1971c2",
   green: "#2f9e44",
   orange: "#e8590c",
   purple: "#7048e8",
   muted: "#868e96",
-  highlighter: "#ffec4d",
+  highlighter: "rgba(252, 165, 165, 0.7)", // EduAbroad pink marker
+  paperGrid: "#EEF1F6",
 };
 
 export const inkColor = (name?: string) => (name ? (INK as Record<string, string>)[name] ?? name : INK.ink);

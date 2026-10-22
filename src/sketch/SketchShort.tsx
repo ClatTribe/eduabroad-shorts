@@ -3,6 +3,7 @@ import {
   AbsoluteFill,
   Audio,
   cancelRender,
+  Img,
   continueRender,
   delayRender,
   interpolate,
@@ -15,7 +16,7 @@ import {
 import { loadFonts } from "../fonts";
 import { SFX_VOLUME } from "../settings";
 import { decorations, Markup, parse, plain } from "./Markup";
-import { RoughLine } from "./Rough";
+import { RoughLine, RoughPoly } from "./Rough";
 import { INK, inkColor, writeSeconds, type SketchItem, type SketchSpec } from "./spec";
 
 loadFonts();
@@ -42,34 +43,84 @@ export const SKETCH_MUSIC = { file: "audio/sketch-music.wav", volume: 0.5 };
 const fadeOut = (t: number, out?: number) =>
   out === undefined ? 1 : interpolate(t, [out - 0.35, out], [1, 0], { extrapolateLeft: "clamp", extrapolateRight: "clamp" });
 
-/** Yellow tag + grey tag, like a notebook label. */
-const Chips: React.FC<{ tag: string; sub: string }> = ({ tag, sub }) => {
+/** Notebook paper in EduAbroad's homepage grid. */
+const Paper: React.FC = () => (
+  <AbsoluteFill
+    style={{
+      backgroundColor: "#ffffff",
+      backgroundImage: `linear-gradient(to right, ${INK.paperGrid} 2px, transparent 2px), linear-gradient(to bottom, ${INK.paperGrid} 2px, transparent 2px)`,
+      backgroundSize: "90px 90px",
+      backgroundPosition: "-20px -20px",
+    }}
+  />
+);
+
+/** Header: EduAbroad logo on the left, crimson topic tag on the right. */
+const Header: React.FC<{ tag: string; sub: string }> = ({ tag, sub }) => {
   const frame = useCurrentFrame();
   const { fps } = useVideoConfig();
   const p = spring({ frame: frame - 3, fps, config: { damping: 14, stiffness: 200, mass: 0.6 } });
+  const logo = spring({ frame, fps, config: { damping: 16, stiffness: 160, mass: 0.6 } });
   return (
-    <div style={{ position: "absolute", top: 205, left: 0, right: 0, display: "flex", justifyContent: "center" }}>
+    <div
+      style={{
+        position: "absolute",
+        top: 200,
+        left: 60,
+        right: 60,
+        display: "flex",
+        alignItems: "center",
+        justifyContent: "space-between",
+      }}
+    >
+      <Img
+        src={staticFile("brand/edulogo-clean.png")}
+        style={{ height: 66, opacity: logo, transform: `translateX(${(1 - logo) * -40}px)` }}
+      />
       <div
         style={{
           display: "flex",
           alignItems: "center",
           gap: 10,
-          padding: "10px 22px 10px 10px",
+          padding: "8px 22px 8px 8px",
           borderRadius: 999,
-          backgroundColor: "#f1f3f5",
+          backgroundColor: "#FEF2F3",
+          border: "2px solid #FECDD3",
           fontFamily: "Lato, sans-serif",
           fontWeight: 700,
-          fontSize: 34,
-          color: "#495057",
+          fontSize: 30,
+          color: "#A51C30",
           opacity: p,
           transform: `scale(${0.7 + p * 0.3})`,
         }}
       >
-        <span style={{ padding: "8px 22px", borderRadius: 999, backgroundColor: INK.highlighter, color: INK.ink, fontWeight: 900 }}>
+        <span
+          style={{
+            padding: "7px 20px",
+            borderRadius: 999,
+            background: "linear-gradient(to right, #A51C30, #8A1828)",
+            color: "#ffffff",
+            fontFamily: "Montserrat, sans-serif",
+            fontWeight: 900,
+            fontSize: 28,
+            letterSpacing: 1,
+          }}
+        >
           {tag}
         </span>
-        · {sub}
+        {sub}
       </div>
+    </div>
+  );
+};
+
+/** A picture (e.g. the logo) wiped on left to right. */
+const ImageItem: React.FC<{ item: Extract<SketchItem, { kind: "image" }>; t: number }> = ({ item, t }) => {
+  const p = interpolate(t, [item.at, item.at + (item.dur ?? 0.6)], [0, 1], { extrapolateLeft: "clamp", extrapolateRight: "clamp" });
+  if (p <= 0) return null;
+  return (
+    <div style={{ position: "absolute", top: item.y, left: 0, right: 0, display: "flex", justifyContent: "center", opacity: fadeOut(t, item.out) }}>
+      <Img src={staticFile(item.src)} style={{ height: item.height, clipPath: `inset(0 ${(1 - p) * 100}% 0 0)` }} />
     </div>
   );
 };
@@ -89,7 +140,7 @@ const TextItem: React.FC<{ item: Extract<SketchItem, { kind: "text" }>; index: n
         left: centred ? 40 : item.x,
         right: centred ? 40 : undefined,
         textAlign: centred ? "center" : "left",
-        whiteSpace: "nowrap",
+        whiteSpace: "pre", // keeps deliberate extra spaces (e.g. between answer options)
         fontFamily: HAND,
         fontSize: item.size,
         lineHeight: 1.2,
@@ -121,6 +172,10 @@ const cuesFor = (spec: SketchSpec): Cue[] => {
       cues.push({ file: "audio/pencil.wav", at: it.at, seconds: dur, volume: 0.55 });
       for (const d of decorations(nodes))
         cues.push(d.kind === "box" ? { file: "audio/scribble.wav", at: d.at, volume: 0.5 } : { file: "audio/marker.wav", at: d.at, volume: 0.6 });
+    } else if (it.kind === "poly") {
+      cues.push({ file: "audio/pencil.wav", at: it.at, seconds: it.dur ?? 1, volume: 0.5 });
+    } else if (it.kind === "image") {
+      cues.push({ file: "audio/marker.wav", at: it.at, volume: 0.5 });
     } else {
       cues.push({ file: "audio/scribble.wav", at: it.at, volume: 0.45 });
     }
@@ -141,11 +196,38 @@ export const SketchShort: React.FC<SketchProps> = ({ spec }) => {
   });
   return (
     <AbsoluteFill style={{ backgroundColor: "#ffffff" }}>
+      <Paper />
       <AbsoluteFill style={{ opacity: endFade }}>
-        <Chips tag={spec.chips.tag} sub={spec.chips.sub} />
+        <Header tag={spec.chips.tag} sub={spec.chips.sub} />
         {spec.items.map((it, i) =>
           it.kind === "text" ? (
             <TextItem key={i} item={it} index={i} t={t} />
+          ) : it.kind === "image" ? (
+            <ImageItem key={i} item={it} t={t} />
+          ) : it.kind === "poly" ? (
+            <RoughPoly
+              key={i}
+              id={`p${i}`}
+              points={it.points}
+              closed={it.closed}
+              color={inkColor(it.color)}
+              width={it.width}
+              opacity={fadeOut(t, it.out)}
+              progress={interpolate(t, [it.at, it.at + (it.dur ?? 1)], [0, 1], { extrapolateLeft: "clamp", extrapolateRight: "clamp" })}
+            />
+          ) : it.kind === "right-angle" ? (
+            <RoughPoly
+              key={i}
+              id={`r${i}`}
+              points={[
+                [it.x + it.dx * (it.size ?? 34), it.y],
+                [it.x + it.dx * (it.size ?? 34), it.y + it.dy * (it.size ?? 34)],
+                [it.x, it.y + it.dy * (it.size ?? 34)],
+              ]}
+              color={inkColor(it.color)}
+              width={4}
+              progress={interpolate(t, [it.at, it.at + 0.3], [0, 1], { extrapolateLeft: "clamp", extrapolateRight: "clamp" })}
+            />
           ) : (
             <RoughLine
               key={i}
@@ -156,6 +238,7 @@ export const SketchShort: React.FC<SketchProps> = ({ spec }) => {
               y2={it.y2}
               color={inkColor(it.color)}
               arrow={it.arrow}
+              width={it.width}
               opacity={fadeOut(t, it.out)}
               progress={interpolate(t, [it.at, it.at + (it.dur ?? 0.4)], [0, 1], {
                 extrapolateLeft: "clamp",
