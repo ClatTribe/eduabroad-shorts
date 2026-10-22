@@ -7,11 +7,18 @@ import { Short, type ShortProps } from "./Short";
 import samplePost from "../posts/samples/mon-checklist.json";
 import { slideCount, type Post } from "./posts/post";
 import { PostComposition, type PostProps } from "./posts/PostComposition";
+import sampleSketch from "../sketches/sat-exponent-trick.json";
+import { SketchShort, type SketchProps } from "./sketch/SketchShort";
+import type { SketchSpec } from "./sketch/spec";
 
 const FPS = 30;
 
 const calculateMetadata: CalculateMetadataFunction<ShortProps> = ({ props }) => ({
   durationInFrames: sec(totalSeconds(props.episode), FPS),
+});
+
+const sketchMetadata: CalculateMetadataFunction<SketchProps> = ({ props }) => ({
+  durationInFrames: sec(props.spec.seconds, FPS),
 });
 
 const postMetadata: CalculateMetadataFunction<PostProps> = ({ props }) => ({
@@ -34,6 +41,17 @@ export const RemotionRoot: React.FC = () => (
       height={1920}
       defaultProps={{ episode: sample as Episode }}
       calculateMetadata={calculateMetadata}
+    />
+    {/* Whiteboard-style Shorts (hand-drawn). Render with tools/render-sketch.sh sketches/<file>.json */}
+    <Composition
+      id="Sketch"
+      component={SketchShort}
+      durationInFrames={sec(24, FPS)}
+      fps={FPS}
+      width={1080}
+      height={1920}
+      defaultProps={{ spec: sampleSketch as SketchSpec }}
+      calculateMetadata={sketchMetadata}
     />
     {/* Social posts: 1080 x 1350, one frame per slide. Render all slides with tools/render-post.sh */}
     <Composition

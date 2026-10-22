@@ -1,0 +1,170 @@
+{
+  "id": "sat-exponent-trick",
+  "seconds": 24,
+  "chips": {
+    "tag": "SAT Math",
+    "sub": "Exponent trick"
+  },
+  "items": [
+    {
+      "kind": "text",
+      "at": 0.35,
+      "dur": 0.8,
+      "text": "Try solving this",
+      "y": 280,
+      "size": 110
+    },
+    {
+      "kind": "text",
+      "at": 1.2,
+      "dur": 0.9,
+      "text": "without finding {red|x}.",
+      "y": 405,
+      "size": 110
+    },
+    {
+      "kind": "text",
+      "at": 2.5,
+      "dur": 1.3,
+      "text": "If {blue|2^{x}} = 5, what is the value of",
+      "x": 70,
+      "y": 585,
+      "size": 58
+    },
+    {
+      "kind": "text",
+      "at": 3.9,
+      "dur": 1.0,
+      "text": "{blue|2^{x}} + 2^{2x} + 2^{3x} ?",
+      "x": 70,
+      "y": 672,
+      "size": 76
+    },
+    {
+      "kind": "text",
+      "at": 5.2,
+      "dur": 0.9,
+      "out": 8.0,
+      "text": "Pause & comment your answer!",
+      "y": 830,
+      "size": 60,
+      "color": "red"
+    },
+    {
+      "kind": "text",
+      "at": 8.1,
+      "dur": 1.3,
+      "text": "= {box blue 9.5|2^{x}} + ({box blue 9.8|2^{x}})^{2} + ({box blue 10.1|2^{x}})^{3}",
+      "x": 70,
+      "y": 800,
+      "size": 90
+    },
+    {
+      "kind": "text",
+      "at": 11.0,
+      "dur": 1.0,
+      "text": "= {blue|5} + {blue|5}^{2} + {blue|5}^{3}",
+      "x": 70,
+      "y": 915,
+      "size": 90
+    },
+    {
+      "kind": "text",
+      "at": 12.1,
+      "dur": 0.8,
+      "text": "( {blue|2^{x}} is 5, so swap it in )",
+      "x": 150,
+      "y": 1028,
+      "size": 40,
+      "color": "muted"
+    },
+    {
+      "kind": "text",
+      "at": 13.4,
+      "dur": 0.9,
+      "text": "= 5 + 25 + 125",
+      "x": 70,
+      "y": 1075,
+      "size": 90
+    },
+    {
+      "kind": "text",
+      "at": 14.7,
+      "dur": 0.6,
+      "text": "= {box ink 16.0|{hl 15.4|{red|1}{blue|5}{green|5}}}",
+      "x": 70,
+      "y": 1185,
+      "size": 140
+    },
+    {
+      "kind": "line",
+      "at": 16.7,
+      "dur": 0.35,
+      "x1": 670,
+      "y1": 1285,
+      "x2": 530,
+      "y2": 1285,
+      "color": "red",
+      "arrow": true
+    },
+    {
+      "kind": "text",
+      "at": 16.9,
+      "dur": 0.7,
+      "text": "no x needed!",
+      "x": 690,
+      "y": 1256,
+      "size": 52,
+      "color": "red"
+    },
+    {
+      "kind": "text",
+      "at": 18.6,
+      "dur": 0.8,
+      "text": "Follow {hl 19.5|EduAbroad}",
+      "y": 1372,
+      "size": 68
+    },
+    {
+      "kind": "text",
+      "at": 19.6,
+      "dur": 0.8,
+      "text": "for more SAT tricks",
+      "y": 1455,
+      "size": 46
+    }
+  ],
+  "sfx": [
+    {
+      "file": "audio/ding.wav",
+      "at": 15.4,
+      "volume": 0.6
+    }
+  ],
+  "youtube": {
+    "title": "SAT Math trick: if 2^x = 5, find 2^x + 2^2x + 2^3x (no x needed)",
+    "description": "A Digital SAT Advanced Math question you can solve without finding x.\n\nRewrite every power using 2^x:\n2^2x = (2^x)^2 = 25\n2^3x = (2^x)^3 = 125\n5 + 25 + 125 = 155\n\nMore DSAT practice sets on EduAbroad Study Materials 👉 https://app.goeduabroad.com/study-material\n\nEduAbroad: Run by Harvard-Cambridge Alumni.",
+    "tags": [
+      "SAT",
+      "Digital SAT",
+      "SAT Math",
+      "SAT tricks",
+      "DSAT",
+      "exponents",
+      "EduAbroad"
+    ]
+  },
+  "instagram": {
+    "caption": "Try solving this without finding x ✏️\n\nIf 2^x = 5, what is 2^x + 2^2x + 2^3x?\n\nPause and comment your answer before the solution 👇\n\nMore DSAT practice on EduAbroad Study Materials 👉 app.goeduabroad.com/study-material (link in bio)\n\n#SAT #DigitalSAT #SATMath #SATPrep #EduAbroad"
+  },
+  "claims": [
+    {
+      "text": "If 2^x = 5, what is the value of 2^x + 2^2x + 2^3x?",
+      "source": "Portal Study Materials, 'DSAT Advanced Math' PDF, Exercises: Laws of Exponents, question 4 (checked against the PDF page)"
+    },
+    {
+      "text": "5 + 25 + 125 = 155",
+      "source": "worked solution on screen, arithmetic checked"
+    }
+  ]
+}
