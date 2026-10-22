@@ -70,6 +70,8 @@ export type SketchSpec = {
   seconds: number;
   chips: { tag: string; sub: string };
   items: SketchItem[];
+  /** Optional narration (open-source Kokoro voice), built into public/voice/<id>.wav by tools/make_sketch_voice.py. */
+  voice?: { name: string; speed: number; lines: { at: number; text: string }[] };
   /** Extra sound effects (seconds from the start), e.g. the answer "ding". */
   sfx?: { file: string; at: number; volume?: number }[];
   youtube: { title: string; description: string; tags: string[] };

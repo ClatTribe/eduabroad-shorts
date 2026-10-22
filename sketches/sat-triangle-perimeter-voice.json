@@ -1,0 +1,335 @@
+{
+  "id": "sat-triangle-perimeter-voice",
+  "seconds": 34,
+  "chips": {
+    "tag": "SAT Math",
+    "sub": "Geometry"
+  },
+  "items": [
+    {
+      "kind": "text",
+      "at": 0.3,
+      "dur": 0.8,
+      "text": "Try solving this",
+      "y": 300,
+      "size": 100
+    },
+    {
+      "kind": "text",
+      "at": 1.1,
+      "dur": 0.8,
+      "text": "in {red|30 seconds}.",
+      "y": 405,
+      "size": 100
+    },
+    {
+      "kind": "text",
+      "at": 2.4,
+      "dur": 1.1,
+      "text": "The area of right triangle ABC is 60.",
+      "x": 70,
+      "y": 540,
+      "size": 48
+    },
+    {
+      "kind": "text",
+      "at": 3.6,
+      "dur": 1.1,
+      "text": "What is the perimeter of triangle ABC?",
+      "x": 70,
+      "y": 605,
+      "size": 48
+    },
+    {
+      "kind": "poly",
+      "at": 6.2,
+      "dur": 1.0,
+      "points": [
+        [
+          200,
+          1020
+        ],
+        [
+          800,
+          1020
+        ],
+        [
+          200,
+          700
+        ]
+      ],
+      "closed": true,
+      "width": 6
+    },
+    {
+      "kind": "right-angle",
+      "at": 7.2,
+      "x": 200,
+      "y": 1020,
+      "dx": 1,
+      "dy": -1,
+      "size": 36
+    },
+    {
+      "kind": "text",
+      "at": 7.3,
+      "dur": 0.25,
+      "text": "A",
+      "x": 140,
+      "y": 670,
+      "size": 56
+    },
+    {
+      "kind": "text",
+      "at": 7.45,
+      "dur": 0.25,
+      "text": "C",
+      "x": 140,
+      "y": 990,
+      "size": 56
+    },
+    {
+      "kind": "text",
+      "at": 7.6,
+      "dur": 0.25,
+      "text": "B",
+      "x": 815,
+      "y": 990,
+      "size": 56
+    },
+    {
+      "kind": "text",
+      "at": 7.9,
+      "dur": 0.3,
+      "text": "15",
+      "x": 470,
+      "y": 1030,
+      "size": 54
+    },
+    {
+      "kind": "text",
+      "at": 8.4,
+      "dur": 0.2,
+      "out": 17.2,
+      "text": "?",
+      "x": 140,
+      "y": 830,
+      "size": 60,
+      "color": "blue"
+    },
+    {
+      "kind": "text",
+      "at": 8.55,
+      "dur": 0.2,
+      "out": 23.3,
+      "text": "?",
+      "x": 525,
+      "y": 775,
+      "size": 60,
+      "color": "green"
+    },
+    {
+      "kind": "text",
+      "at": 8.7,
+      "dur": 0.8,
+      "out": 28.7,
+      "text": "A) 34   B) 36   C) 38   D) 40",
+      "y": 1120,
+      "size": 52
+    },
+    {
+      "kind": "text",
+      "at": 9.2,
+      "dur": 0.9,
+      "out": 12.3,
+      "text": "Pause & comment your answer!",
+      "y": 1220,
+      "size": 56,
+      "color": "red"
+    },
+    {
+      "kind": "text",
+      "at": 12.6,
+      "dur": 4.4,
+      "out": 30.4,
+      "text": "½ × 15 × {blue|AC} = 60, so {blue|AC = 8}",
+      "x": 70,
+      "y": 1215,
+      "size": 54
+    },
+    {
+      "kind": "line",
+      "at": 17.2,
+      "dur": 0.4,
+      "x1": 200,
+      "y1": 700,
+      "x2": 200,
+      "y2": 1020,
+      "color": "blue",
+      "width": 10
+    },
+    {
+      "kind": "text",
+      "at": 17.5,
+      "dur": 0.3,
+      "text": "8",
+      "x": 140,
+      "y": 830,
+      "size": 64,
+      "color": "blue"
+    },
+    {
+      "kind": "text",
+      "at": 18.9,
+      "dur": 4.2,
+      "out": 30.4,
+      "text": "{green|AB}^2 = 8^2 + 15^2 = 289, so {green|AB = 17}",
+      "x": 70,
+      "y": 1305,
+      "size": 54
+    },
+    {
+      "kind": "line",
+      "at": 23.3,
+      "dur": 0.5,
+      "x1": 200,
+      "y1": 700,
+      "x2": 800,
+      "y2": 1020,
+      "color": "green",
+      "width": 10
+    },
+    {
+      "kind": "text",
+      "at": 23.6,
+      "dur": 0.3,
+      "text": "17",
+      "x": 520,
+      "y": 770,
+      "size": 64,
+      "color": "green"
+    },
+    {
+      "kind": "text",
+      "at": 24.7,
+      "dur": 2.9,
+      "out": 30.4,
+      "text": "Perimeter = 8 + 15 + 17 = {box red 28.3|{hl 27.9|40}}",
+      "x": 70,
+      "y": 1395,
+      "size": 58
+    },
+    {
+      "kind": "text",
+      "at": 28.85,
+      "dur": 0.6,
+      "text": "Answer: {box ink 29.7|{hl 29.3|D) 40}}",
+      "y": 1105,
+      "size": 68
+    },
+    {
+      "kind": "text",
+      "at": 30.6,
+      "dur": 0.4,
+      "text": "Follow",
+      "y": 1225,
+      "size": 58
+    },
+    {
+      "kind": "image",
+      "at": 30.9,
+      "dur": 0.6,
+      "src": "brand/edulogo.png",
+      "y": 1305,
+      "height": 120
+    },
+    {
+      "kind": "text",
+      "at": 31.6,
+      "dur": 0.7,
+      "text": "for more SAT tricks",
+      "y": 1440,
+      "size": 48
+    }
+  ],
+  "sfx": [
+    {
+      "file": "audio/ding.wav",
+      "at": 27.9,
+      "volume": 0.4
+    },
+    {
+      "file": "audio/ding.wav",
+      "at": 29.3,
+      "volume": 0.5
+    }
+  ],
+  "youtube": {
+    "title": "SAT Geometry: area is 60, find the perimeter (3 steps)",
+    "description": "A Digital SAT geometry question, solved in 3 steps.\n\nRight triangle ABC has area 60 and one leg of 15.\n1. ½ × 15 × AC = 60, so AC = 8\n2. AB² = 8² + 15² = 289, so AB = 17\n3. Perimeter = 8 + 15 + 17 = 40\n\nAnswer: D) 40\n\nMore DSAT geometry practice on EduAbroad Study Materials 👉 https://app.goeduabroad.com/study-material\n\nEduAbroad: Run by Harvard-Cambridge Alumni.",
+    "tags": [
+      "SAT",
+      "Digital SAT",
+      "SAT Math",
+      "SAT geometry",
+      "DSAT",
+      "Pythagorean theorem",
+      "EduAbroad"
+    ]
+  },
+  "instagram": {
+    "caption": "Try solving this in 30 seconds ✏️\n\nThe area of right triangle ABC is 60 and one leg is 15. What is the perimeter?\nA) 34  B) 36  C) 38  D) 40\n\nComment your answer before the solution 👇\n\nMore DSAT geometry practice on EduAbroad Study Materials 👉 app.goeduabroad.com/study-material (link in bio)\n\n#SAT #DigitalSAT #SATMath #SATPrep #EduAbroad"
+  },
+  "claims": [
+    {
+      "text": "Right triangle ABC, CB = 15, area 60, perimeter? A) 34 B) 36 C) 38 D) 40",
+      "source": "Portal Study Materials, 'DSAT Geometry Practice' PDF, Exercises: Area of a Triangle, question 1 (figure redrawn to scale)"
+    },
+    {
+      "text": "½ × 15 × 8 = 60; 8² + 15² = 289 = 17²; 8 + 15 + 17 = 40 (D)",
+      "source": "worked solution on screen, arithmetic checked"
+    }
+  ],
+  "voice": {
+    "name": "af_heart",
+    "speed": 1.08,
+    "lines": [
+      {
+        "at": 0.3,
+        "text": "Try solving this in thirty seconds."
+      },
+      {
+        "at": 2.4,
+        "text": "The area of right triangle A B C is sixty. What's its perimeter?"
+      },
+      {
+        "at": 6.2,
+        "text": "Here's the triangle. One leg is fifteen."
+      },
+      {
+        "at": 9.2,
+        "text": "Pause, and drop your answer in the comments."
+      },
+      {
+        "at": 12.2,
+        "text": "Area is half of base times height. So half of fifteen, times A C, is sixty. That makes A C eight."
+      },
+      {
+        "at": 18.55,
+        "text": "Now Pythagoras. Eight squared plus fifteen squared is two eighty-nine. So A B is seventeen."
+      },
+      {
+        "at": 24.5,
+        "text": "Add all three sides. Eight, plus fifteen, plus seventeen, is forty."
+      },
+      {
+        "at": 28.85,
+        "text": "So the answer is D."
+      },
+      {
+        "at": 30.6,
+        "text": "Follow EduAbroad for more SAT tricks."
+      }
+    ]
+  }
+}

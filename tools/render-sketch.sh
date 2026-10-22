@@ -14,6 +14,11 @@ if [ ! -x tools/.venv/bin/python ]; then
   tools/.venv/bin/pip install -q numpy scipy soundfile
 fi
 tools/.venv/bin/python -I tools/make_sketch_audio.py --duration "$DUR" --seed "$SEED"
+# narration, if the spec has a "voice" block
+if node -e "process.exit(JSON.parse(require('fs').readFileSync('$SPEC','utf8')).voice?0:1)"; then
+  tools/.venv/bin/python -c "import kokoro_onnx" 2>/dev/null || tools/.venv/bin/pip install -q kokoro-onnx==0.6.1
+  tools/.venv/bin/python -I tools/make_sketch_voice.py "$SPEC"
+fi
 
 node -e "const fs=require('fs');fs.writeFileSync('out/props-$NAME.json',JSON.stringify({spec:JSON.parse(fs.readFileSync('$SPEC','utf8'))}))"
 npx remotion render src/index.ts Sketch "out/$NAME-raw.mp4" --props="out/props-$NAME.json" --codec=h264 --crf=18 --log=error

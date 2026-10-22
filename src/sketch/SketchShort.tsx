@@ -38,7 +38,7 @@ const loadVirgil = () => {
 loadVirgil();
 
 const HAND = "Virgil, 'Comic Sans MS', cursive";
-export const SKETCH_MUSIC = { file: "audio/sketch-music.wav", volume: 0.5 };
+export const SKETCH_MUSIC = { file: "audio/sketch-music.wav", volume: 0.5, underVoice: 0.2 };
 
 const fadeOut = (t: number, out?: number) =>
   out === undefined ? 1 : interpolate(t, [out - 0.35, out], [1, 0], { extrapolateLeft: "clamp", extrapolateRight: "clamp" });
@@ -161,7 +161,7 @@ const TextItem: React.FC<{ item: Extract<SketchItem, { kind: "text" }>; index: n
   );
 };
 
-/** Sound cues: pencil while writing, a scribble for each box, a swish for each highlight. */
+/** Sound cues: marker pen while writing, a short stroke for each box, a swish for each highlight. */
 type Cue = { file: string; at: number; seconds?: number; volume?: number };
 const cuesFor = (spec: SketchSpec): Cue[] => {
   const cues: Cue[] = [];
@@ -169,15 +169,15 @@ const cuesFor = (spec: SketchSpec): Cue[] => {
     if (it.kind === "text") {
       const nodes = parse(it.text);
       const dur = it.dur ?? writeSeconds(plain(nodes).length);
-      cues.push({ file: "audio/pencil.wav", at: it.at, seconds: dur, volume: 0.55 });
+      cues.push({ file: "audio/pen.wav", at: it.at, seconds: dur, volume: 0.55 });
       for (const d of decorations(nodes))
-        cues.push(d.kind === "box" ? { file: "audio/scribble.wav", at: d.at, volume: 0.5 } : { file: "audio/marker.wav", at: d.at, volume: 0.6 });
+        cues.push(d.kind === "box" ? { file: "audio/pen-scribble.wav", at: d.at, volume: 0.5 } : { file: "audio/marker.wav", at: d.at, volume: 0.6 });
     } else if (it.kind === "poly") {
-      cues.push({ file: "audio/pencil.wav", at: it.at, seconds: it.dur ?? 1, volume: 0.5 });
+      cues.push({ file: "audio/pen.wav", at: it.at, seconds: it.dur ?? 1, volume: 0.5 });
     } else if (it.kind === "image") {
       cues.push({ file: "audio/marker.wav", at: it.at, volume: 0.5 });
     } else {
-      cues.push({ file: "audio/scribble.wav", at: it.at, volume: 0.45 });
+      cues.push({ file: "audio/pen-scribble.wav", at: it.at, volume: 0.45 });
     }
   }
   return [...cues, ...(spec.sfx ?? [])];
@@ -258,7 +258,8 @@ export const SketchShort: React.FC<SketchProps> = ({ spec }) => {
           <Audio src={staticFile(c.file)} volume={(c.volume ?? 0.7) * SFX_VOLUME} />
         </Sequence>
       ))}
-      <Audio src={staticFile(SKETCH_MUSIC.file)} volume={SKETCH_MUSIC.volume} />
+      {spec.voice ? <Audio src={staticFile(`voice/${spec.id}.wav`)} volume={1} /> : null}
+      <Audio src={staticFile(SKETCH_MUSIC.file)} volume={spec.voice ? SKETCH_MUSIC.underVoice : SKETCH_MUSIC.volume} />
     </AbsoluteFill>
   );
 };
