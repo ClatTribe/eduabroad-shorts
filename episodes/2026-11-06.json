@@ -1,0 +1,75 @@
+{
+  "date": "2026-11-06",
+  "series": "myth-fact",
+  "template": "mythfact",
+  "musicSeed": 1106,
+  "hook": {
+    "line1": [
+      "Myth",
+      "ya"
+    ],
+    "line2": [
+      "Fact?"
+    ],
+    "highlight": "Fact?",
+    "subline": "Admissions ke 3 bade myths."
+  },
+  "myths": {
+    "seriesLabel": "Myth vs Fact",
+    "items": [
+      {
+        "myth": "IELTS 8+ hai toh admit pakka",
+        "fact": "Score sirf ek hissa hai",
+        "detail": "GPA, SOP, LOR aur experience bhi dekhe jaate hain. Admit Finder pe IELTS 9 wale bhi reject hue hain."
+      },
+      {
+        "myth": "Low GPA matlab koi chance nahi",
+        "fact": "Poori profile matter karti hai",
+        "detail": "Strong SOP, projects, experience aur sahi shortlist se raaste khulte hain."
+      },
+      {
+        "myth": "Jitni zyada applications, utna better",
+        "fact": "Sahi applications, zyada nahi",
+        "detail": "Har application mein fees aur mehnat lagti hai. Dream, target, safe ka balance rakho."
+      }
+    ]
+  },
+  "closing": {
+    "line1": "Myths pe mat chalo,",
+    "line2": "data dekho."
+  },
+  "cta": {
+    "button": "Admits dekho",
+    "url": "app.goeduabroad.com/admit-finder"
+  },
+  "youtube": {
+    "title": "IELTS 8+ matlab admit pakka? Myth vs Fact",
+    "description": "Admissions ke 3 bade myths, aur unka sach.\n\nIELTS score sirf ek hissa hai. EduAbroad ke Admit Finder pe aise real profiles bhi hain jinka IELTS 9 tha aur phir bhi reject hue. Poori profile matter karti hai.\n\n👉 https://app.goeduabroad.com\n\nEduAbroad: Run by Harvard-Cambridge Alumni. 100% private. Contact aap karoge, hum nahi.",
+    "tags": [
+      "study abroad",
+      "Indian students",
+      "study abroad tips",
+      "EduAbroad",
+      "IELTS",
+      "admission myths",
+      "admit finder"
+    ]
+  },
+  "instagram": {
+    "caption": "Myth ya Fact? 🤔\n\nIELTS 8+ = admit pakka? Nahi. Admit Finder pe IELTS 9 wale bhi reject hue hain. Poori profile matter karti hai.\n\nAur 2 myths video mein 👆\n\n👉 app.goeduabroad.com (link in bio)\n\n#StudyAbroad #IndianStudents #StudyAbroadTips #EduAbroad #Reels"
+  },
+  "claims": [
+    {
+      "text": "Admissions ke 3 bade myths.",
+      "source": "count of myths in this video"
+    },
+    {
+      "text": "IELTS 8+ hai toh admit pakka",
+      "source": "a common myth, shown as a myth (busted on screen)"
+    },
+    {
+      "text": "Admit Finder pe IELTS 9 wale bhi reject hue hain.",
+      "source": "Real Tufts card on Admit Finder (IELTS 9, Rejected), recorded 2026-10-22"
+    }
+  ]
+}

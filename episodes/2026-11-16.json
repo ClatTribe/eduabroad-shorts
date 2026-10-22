@@ -1,0 +1,65 @@
+{
+  "date": "2026-11-16",
+  "series": "seedhi-baat",
+  "template": "tips",
+  "musicSeed": 1116,
+  "hook": {
+    "line1": [
+      "SOP",
+      "likh",
+      "rahe"
+    ],
+    "line2": [
+      "ho?",
+      "Ruko."
+    ],
+    "highlight": "Ruko.",
+    "subline": "Ye galtiyan mat karna."
+  },
+  "tips": {
+    "seriesLabel": "Seedhi Baat",
+    "items": [
+      {
+        "title": "Resume copy mat karo",
+        "detail": "Committee ke paas resume already hai. SOP mein batao kyun aur kaise."
+      },
+      {
+        "title": "Quote se shuru mat karo",
+        "detail": "Famous quotes sab likhte hain. Apni ek real story se shuru karo."
+      },
+      {
+        "title": "Har uni ko same SOP nahi",
+        "detail": "Course, faculty aur fit ke hisaab se har SOP thoda customise karo."
+      },
+      {
+        "title": "Zor se padh ke check karo",
+        "detail": "Jahan atko, wahan line chhoti karo. Simple English sabse strong hoti hai."
+      }
+    ]
+  },
+  "closing": {
+    "line1": "Apni kahani,",
+    "line2": "apne shabdon mein."
+  },
+  "cta": {
+    "button": "Explore karo",
+    "url": "app.goeduabroad.com"
+  },
+  "youtube": {
+    "title": "SOP likh rahe ho? Ye 4 galtiyan mat karna",
+    "description": "SOP mein sabse common galtiyan: resume copy karna, famous quote se shuru karna, har university ko same SOP bhejna, aur bina padhe submit kar dena.\n\nApni kahani, apne shabdon mein likho.\n\n👉 https://app.goeduabroad.com\n\nEduAbroad: Run by Harvard-Cambridge Alumni. 100% private. Contact aap karoge, hum nahi.",
+    "tags": [
+      "study abroad",
+      "Indian students",
+      "study abroad tips",
+      "EduAbroad",
+      "SOP",
+      "statement of purpose",
+      "SOP tips"
+    ]
+  },
+  "instagram": {
+    "caption": "SOP likh rahe ho? ✋ Ruko.\n\n❌ Resume copy\n❌ Famous quote se start\n❌ Sabko same SOP\n✅ Apni real story, simple English\n\nSave karo, SOP likhte waqt kaam aayega.\n\n👉 app.goeduabroad.com (link in bio)\n\n#StudyAbroad #IndianStudents #StudyAbroadTips #EduAbroad #Reels"
+  },
+  "claims": []
+}

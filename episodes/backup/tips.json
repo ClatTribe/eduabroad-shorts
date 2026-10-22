@@ -1,0 +1,62 @@
+{
+  "date": "BACKUP",
+  "series": "seedhi-baat",
+  "template": "tips",
+  "musicSeed": 9001,
+  "hook": {
+    "line1": [
+      "Apply",
+      "karne",
+      "wale"
+    ],
+    "line2": [
+      "ho?",
+      "Ruko."
+    ],
+    "highlight": "Ruko.",
+    "subline": "Ye documents pehle ready rakho."
+  },
+  "tips": {
+    "seriesLabel": "Seedhi Baat",
+    "items": [
+      {
+        "title": "Passport check karo",
+        "detail": "Expiry date dekho. Naam ki spelling har document mein same honi chahiye."
+      },
+      {
+        "title": "Marksheets aur transcripts",
+        "detail": "School aur graduation ki marksheets, sab ki scanned copies ek folder mein rakho."
+      },
+      {
+        "title": "Test scores",
+        "detail": "IELTS, TOEFL, PTE ya GRE, jo bhi diya hai, uska score report save karo."
+      },
+      {
+        "title": "Updated CV",
+        "detail": "Projects, internships aur achievements. Ek page, saaf aur simple."
+      }
+    ]
+  },
+  "closing": {
+    "line1": "Documents ready,",
+    "line2": "tension half."
+  },
+  "cta": {
+    "button": "Explore karo",
+    "url": "app.goeduabroad.com"
+  },
+  "youtube": {
+    "title": "Abroad apply karne se pehle ye documents ready rakho",
+    "description": "Application shuru karne se pehle ye 4 cheezein ready rakho: passport, marksheets aur transcripts, test score reports, aur ek updated CV.\n\n👉 https://app.goeduabroad.com\n\nEduAbroad: Run by Harvard-Cambridge Alumni. 100% private. Contact aap karoge, hum nahi.",
+    "tags": [
+      "study abroad",
+      "study abroad documents",
+      "Indian students",
+      "EduAbroad"
+    ]
+  },
+  "instagram": {
+    "caption": "Apply karne wale ho? ✋ Ruko.\n\nPassport, marksheets, test scores, updated CV. Pehle ye ready rakho, baaki sab aasaan.\n\nSave karo 📌\n\n👉 app.goeduabroad.com (link in bio)\n\n#StudyAbroad #IndianStudents #StudyAbroadTips #EduAbroad #Reels"
+  },
+  "claims": []
+}

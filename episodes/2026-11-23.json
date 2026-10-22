@@ -1,0 +1,68 @@
+{
+  "date": "2026-11-23",
+  "series": "seedhi-baat",
+  "template": "tips",
+  "musicSeed": 1123,
+  "hook": {
+    "line1": [
+      "Education",
+      "loan"
+    ],
+    "line2": [
+      "samajh",
+      "aaya?"
+    ],
+    "highlight": "aaya?",
+    "subline": "Collateral vs non-collateral."
+  },
+  "tips": {
+    "seriesLabel": "Seedhi Baat",
+    "items": [
+      {
+        "title": "Collateral loan kya hai?",
+        "detail": "Property ya FD jaisi cheez security ke taur pe rakhi jaati hai."
+      },
+      {
+        "title": "Non-collateral kya hai?",
+        "detail": "Kuch girvi nahi rakhna padta. Lender aapki profile, course aur co-applicant dekhta hai."
+      },
+      {
+        "title": "Fark kahan padta hai?",
+        "detail": "Interest rate, loan amount aur approval ki shartein alag hoti hain."
+      },
+      {
+        "title": "Pehle kya karein?",
+        "detail": "Kai lenders se offers lo aur sirf rate nahi, total repayment compare karo."
+      }
+    ]
+  },
+  "closing": {
+    "line1": "Interest rate nahi,",
+    "line2": "total cost dekho."
+  },
+  "cta": {
+    "button": "Explore karo",
+    "url": "app.goeduabroad.com"
+  },
+  "youtube": {
+    "title": "Education loan: collateral vs non-collateral, simple mein",
+    "description": "Education loan do tarah ke hote hain: collateral (security ke saath) aur non-collateral (bina security ke). Dono mein interest rate, loan amount aur approval ki shartein alag hoti hain.\n\nKai lenders se offers lo aur total repayment compare karo, sirf interest rate nahi.\n\n👉 https://app.goeduabroad.com\n\nEduAbroad: Run by Harvard-Cambridge Alumni. 100% private. Contact aap karoge, hum nahi.",
+    "tags": [
+      "study abroad",
+      "Indian students",
+      "study abroad tips",
+      "EduAbroad",
+      "education loan",
+      "study abroad loan"
+    ]
+  },
+  "instagram": {
+    "caption": "Education loan samajh aaya? 🏦\n\nCollateral = security rakhni padti hai\nNon-collateral = bina security, profile dekhi jaati hai\n\nSirf interest rate nahi, total repayment compare karo.\n\n👉 app.goeduabroad.com (link in bio)\n\n#StudyAbroad #IndianStudents #StudyAbroadTips #EduAbroad #Reels"
+  },
+  "claims": [
+    {
+      "text": "Collateral vs non-collateral definitions",
+      "source": "VERIFY before posting: general education-loan explainer wording"
+    }
+  ]
+}

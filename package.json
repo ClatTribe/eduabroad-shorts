@@ -1,0 +1,27 @@
+{
+  "name": "eduabroad-shorts",
+  "version": "1.0.0",
+  "private": true,
+  "description": "EduAbroad automated YouTube Shorts + Instagram Reels",
+  "scripts": {
+    "preview": "remotion studio src/index.ts",
+    "render": "bash tools/render.sh",
+    "check": "node tools/check-episode.mjs",
+    "upload:youtube": "node tools/upload-youtube.mjs",
+    "upload:instagram": "node tools/upload-instagram.mjs",
+    "capture": "node tools/capture-portal.mjs"
+  },
+  "dependencies": {
+    "@fontsource/lato": "5.2.5",
+    "@fontsource/montserrat": "5.2.5",
+    "@remotion/cli": "4.0.537",
+    "react": "19.1.0",
+    "react-dom": "19.1.0",
+    "remotion": "4.0.537"
+  },
+  "devDependencies": {
+    "@types/react": "19.1.8",
+    "tsx": "^4.20.6",
+    "typescript": "5.8.3"
+  }
+}

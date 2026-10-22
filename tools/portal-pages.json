@@ -1,0 +1,257 @@
+{
+  "_help": "How to film each portal feature. Each clip is a list of steps: scroll (to a page position over N seconds), hold (keep still N seconds), click (a button by its visible text). Clips are saved to public/footage/<feature>/<clip>.mp4. `mustSee` = text that must be on the page (proves data loaded); `mustNotSee` = text that means the page is broken.",
+  "admit-finder": {
+    "path": "/admit-finder",
+    "mustSee": [
+      "profiles found"
+    ],
+    "mustNotSee": [
+      "Failed to fetch",
+      "0 profiles found",
+      "No profiles found"
+    ],
+    "clips": {
+      "scroll": [
+        {
+          "hold": 0.4
+        },
+        {
+          "scroll": 2200,
+          "seconds": 4.2
+        },
+        {
+          "hold": 0.4
+        }
+      ],
+      "filter": [
+        {
+          "hold": 0.3
+        },
+        {
+          "click": "Filter"
+        },
+        {
+          "hold": 0.8
+        },
+        {
+          "scroll": 500,
+          "seconds": 1.5
+        },
+        {
+          "hold": 0.6
+        }
+      ]
+    }
+  },
+  "course-finder": {
+    "path": "/course-finder",
+    "mustSee": [
+      "Find Your Perfect Course"
+    ],
+    "mustNotSee": [
+      "Failed to fetch",
+      "No courses found",
+      "Loading courses"
+    ],
+    "clips": {
+      "scroll": [
+        {
+          "hold": 0.4
+        },
+        {
+          "scroll": 2400,
+          "seconds": 4.2
+        },
+        {
+          "hold": 0.4
+        }
+      ],
+      "detail": [
+        {
+          "scroll": 900,
+          "seconds": 0.01
+        },
+        {
+          "hold": 0.5
+        },
+        {
+          "scroll": 1800,
+          "seconds": 2.5
+        },
+        {
+          "hold": 0.6
+        }
+      ]
+    }
+  },
+  "scholarship-finder": {
+    "path": "/scholarship-finder",
+    "mustSee": [
+      "Find Scholarships"
+    ],
+    "mustNotSee": [
+      "Failed to fetch",
+      "Loading scholarships"
+    ],
+    "clips": {
+      "scroll": [
+        {
+          "hold": 0.4
+        },
+        {
+          "scroll": 2400,
+          "seconds": 4.2
+        },
+        {
+          "hold": 0.4
+        }
+      ],
+      "detail": [
+        {
+          "scroll": 900,
+          "seconds": 0.01
+        },
+        {
+          "hold": 0.5
+        },
+        {
+          "scroll": 1800,
+          "seconds": 2.5
+        },
+        {
+          "hold": 0.6
+        }
+      ]
+    }
+  },
+  "ielts-kit": {
+    "path": "/ielts-online-test-kit",
+    "mustSee": [
+      "IELTS ONLINE TEST KIT"
+    ],
+    "mustNotSee": [],
+    "clips": {
+      "tabs": [
+        {
+          "hold": 0.5
+        },
+        {
+          "scroll": 320,
+          "seconds": 0.6
+        },
+        {
+          "click": "Free Mock"
+        },
+        {
+          "hold": 0.9
+        },
+        {
+          "click": "Flashcards"
+        },
+        {
+          "hold": 0.9
+        },
+        {
+          "click": "Sample Tasks"
+        },
+        {
+          "hold": 0.9
+        },
+        {
+          "click": "Failure Patterns"
+        },
+        {
+          "hold": 0.8
+        }
+      ],
+      "mock": [
+        {
+          "hold": 0.2
+        },
+        {
+          "click": "Free Mock"
+        },
+        {
+          "scroll": 300,
+          "seconds": 0.01
+        },
+        {
+          "hold": 0.6
+        },
+        {
+          "scroll": 1100,
+          "seconds": 2.2
+        },
+        {
+          "hold": 0.7
+        }
+      ]
+    },
+    "_note": "Do not film the Band Predictor tab: it shows unverified accuracy claims ('gold standard', '10,000 transcripts')."
+  },
+  "magazine": {
+    "path": "/magazine",
+    "mustSee": [
+      "Magazine"
+    ],
+    "mustNotSee": [
+      "Failed to fetch"
+    ],
+    "clips": {
+      "scroll": [
+        {
+          "hold": 0.4
+        },
+        {
+          "scroll": 2600,
+          "seconds": 4.2
+        },
+        {
+          "hold": 0.4
+        }
+      ]
+    }
+  },
+  "study-material": {
+    "path": "/study-material",
+    "mustSee": [
+      "Study Materials"
+    ],
+    "mustNotSee": [],
+    "clips": {
+      "scroll": [
+        {
+          "hold": 0.4
+        },
+        {
+          "scroll": 2600,
+          "seconds": 4.2
+        },
+        {
+          "hold": 0.4
+        }
+      ]
+    }
+  },
+  "fly-settle": {
+    "path": "/fly-&-settle-services",
+    "mustSee": [
+      "Fly and Settle"
+    ],
+    "mustNotSee": [],
+    "clips": {
+      "scroll": [
+        {
+          "hold": 0.4
+        },
+        {
+          "scroll": 2200,
+          "seconds": 4.2
+        },
+        {
+          "hold": 0.4
+        }
+      ]
+    }
+  }
+}

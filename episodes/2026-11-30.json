@@ -1,0 +1,76 @@
+{
+  "date": "2026-11-30",
+  "series": "seedhi-baat",
+  "template": "tips",
+  "musicSeed": 1130,
+  "hook": {
+    "line1": [
+      "Germany",
+      "mein"
+    ],
+    "line2": [
+      "free",
+      "padhai?"
+    ],
+    "highlight": "free",
+    "subline": "Poora sach, simple mein."
+  },
+  "tips": {
+    "seriesLabel": "Seedhi Baat",
+    "items": [
+      {
+        "title": "Zyada public unis mein tuition nahi",
+        "detail": "Lekin har semester ek semester contribution dena padta hai."
+      },
+      {
+        "title": "Kuch jagah fees hai",
+        "detail": "Kuch states aur universities non-EU students se tuition leti hain. Pehle check karo."
+      },
+      {
+        "title": "Rehne ka kharcha apna",
+        "detail": "Rent, khaana, insurance. Visa ke liye funds ka proof bhi dikhana padta hai."
+      },
+      {
+        "title": "German aati ho toh plus",
+        "detail": "Kai courses English mein hain, par German aane se rozmarra aasaan hota hai."
+      }
+    ]
+  },
+  "closing": {
+    "line1": "Free ka matlab,",
+    "line2": "zero kharcha nahi."
+  },
+  "cta": {
+    "button": "Explore karo",
+    "url": "app.goeduabroad.com"
+  },
+  "youtube": {
+    "title": "Germany mein free padhai? Poora sach",
+    "description": "Germany ki zyada public universities mein tuition fee nahi hoti, lekin semester contribution, rehne ka kharcha aur visa ke liye funds ka proof sab aapka. Kuch states aur universities non-EU students se fees bhi leti hain.\n\nFree ka matlab zero kharcha nahi.\n\n👉 https://app.goeduabroad.com\n\nEduAbroad: Run by Harvard-Cambridge Alumni. 100% private. Contact aap karoge, hum nahi.",
+    "tags": [
+      "study abroad",
+      "Indian students",
+      "study abroad tips",
+      "EduAbroad",
+      "study in Germany",
+      "Germany free education"
+    ]
+  },
+  "instagram": {
+    "caption": "Germany mein free padhai? 🇩🇪\n\nTuition nahi (zyada public unis mein), par semester contribution, rent, insurance aur funds proof sab aapka. Kuch jagah non-EU fees bhi hai.\n\nFree ≠ zero kharcha.\n\n👉 app.goeduabroad.com (link in bio)\n\n#StudyAbroad #IndianStudents #StudyAbroadTips #EduAbroad #Reels"
+  },
+  "claims": [
+    {
+      "text": "Zyada public unis mein tuition nahi",
+      "source": "VERIFY before posting: general knowledge about German public universities; ideally link your magazine article"
+    },
+    {
+      "text": "Kuch jagah fees hai",
+      "source": "VERIFY before posting: some states/universities charge non-EU students"
+    },
+    {
+      "text": "Visa ke liye funds ka proof",
+      "source": "VERIFY before posting: German student visa financial proof requirement"
+    }
+  ]
+}

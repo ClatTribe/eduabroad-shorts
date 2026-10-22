@@ -1,0 +1,114 @@
+{
+  "month": "2026-11",
+  "postTimeIST": "18:30",
+  "items": [
+    {
+      "date": "2026-11-02",
+      "day": "Mon",
+      "series": "seedhi-baat",
+      "template": "tips",
+      "topic": "Next year abroad? 4 cheezein abhi shuru karo (shortlist, test, SOP, LOR)",
+      "episode": "episodes/2026-11-02.json"
+    },
+    {
+      "date": "2026-11-04",
+      "day": "Wed",
+      "series": "portal",
+      "template": "feature",
+      "topic": "Admit Finder: Mera profile kaafi hai kya? (Version 1)",
+      "episode": "episodes/2026-11-04.json",
+      "feature": "admit-finder"
+    },
+    {
+      "date": "2026-11-06",
+      "day": "Fri",
+      "series": "myth-fact",
+      "template": "mythfact",
+      "topic": "IELTS 8+ = admit pakka? + low GPA + zyada applications",
+      "episode": "episodes/2026-11-06.json"
+    },
+    {
+      "date": "2026-11-09",
+      "day": "Mon",
+      "series": "seedhi-baat",
+      "template": "tips",
+      "topic": "Mummy Papa ke 4 sawaal: kharcha, safety, funding, padhai ke baad",
+      "episode": "episodes/2026-11-09.json"
+    },
+    {
+      "date": "2026-11-11",
+      "day": "Wed",
+      "series": "portal",
+      "template": "feature",
+      "topic": "Course Finder: lists nahi, fit dekho",
+      "episode": "episodes/2026-11-11.json",
+      "feature": "course-finder"
+    },
+    {
+      "date": "2026-11-13",
+      "day": "Fri",
+      "series": "myth-fact",
+      "template": "mythfact",
+      "topic": "Abroad sirf toppers ke liye? + mehenga + perfect English",
+      "episode": "episodes/2026-11-13.json"
+    },
+    {
+      "date": "2026-11-16",
+      "day": "Mon",
+      "series": "seedhi-baat",
+      "template": "tips",
+      "topic": "SOP ki 4 galtiyan",
+      "episode": "episodes/2026-11-16.json"
+    },
+    {
+      "date": "2026-11-18",
+      "day": "Wed",
+      "series": "portal",
+      "template": "feature",
+      "topic": "Scholarship Finder: paisa kahan se aayega?",
+      "episode": "episodes/2026-11-18.json",
+      "feature": "scholarship-finder"
+    },
+    {
+      "date": "2026-11-20",
+      "day": "Fri",
+      "series": "myth-fact",
+      "template": "mythfact",
+      "topic": "LOR ke 3 myths",
+      "episode": "episodes/2026-11-20.json"
+    },
+    {
+      "date": "2026-11-23",
+      "day": "Mon",
+      "series": "seedhi-baat",
+      "template": "tips",
+      "topic": "Education loan: collateral vs non-collateral (VERIFY wording)",
+      "episode": "episodes/2026-11-23.json"
+    },
+    {
+      "date": "2026-11-25",
+      "day": "Wed",
+      "series": "portal",
+      "template": "feature",
+      "topic": "IELTS Online Test Kit: free mock (151 min), flashcards, sample tasks",
+      "episode": "episodes/2026-11-25.json",
+      "feature": "ielts-kit"
+    },
+    {
+      "date": "2026-11-27",
+      "day": "Fri",
+      "series": "myth-fact",
+      "template": "mythfact",
+      "topic": "Shortlist myths: sirf dream uni, ranking, dost ki list",
+      "episode": "episodes/2026-11-27.json"
+    },
+    {
+      "date": "2026-11-30",
+      "day": "Mon",
+      "series": "seedhi-baat",
+      "template": "tips",
+      "topic": "Germany mein free padhai? Poora sach (VERIFY facts)",
+      "episode": "episodes/2026-11-30.json"
+    }
+  ]
+}

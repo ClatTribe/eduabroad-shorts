@@ -1,0 +1,114 @@
+{
+  "month": "2027-01",
+  "postTimeIST": "18:30",
+  "items": [
+    {
+      "date": "2027-01-01",
+      "day": "Fri",
+      "series": "myth-fact",
+      "template": "mythfact",
+      "topic": "New year myths: 'abhi bahut time hai', 'deadline baad mein dekhenge', 'ek hi test kaafi'",
+      "episode": null
+    },
+    {
+      "date": "2027-01-04",
+      "day": "Mon",
+      "series": "seedhi-baat",
+      "template": "tips",
+      "topic": "Accommodation: on-campus vs off-campus, kya poochna hai",
+      "episode": null
+    },
+    {
+      "date": "2027-01-06",
+      "day": "Wed",
+      "series": "portal",
+      "template": "feature",
+      "topic": "Scholarship Finder: naye saal mein funding plan",
+      "episode": null,
+      "feature": "scholarship-finder"
+    },
+    {
+      "date": "2027-01-08",
+      "day": "Fri",
+      "series": "myth-fact",
+      "template": "mythfact",
+      "topic": "Average student ke liye scholarship nahi? + sirf merit + late apply",
+      "episode": null
+    },
+    {
+      "date": "2027-01-11",
+      "day": "Mon",
+      "series": "seedhi-baat",
+      "template": "tips",
+      "topic": "Pehle hafte abroad: SIM, bank, ID, groceries, seniors se milo",
+      "episode": null
+    },
+    {
+      "date": "2027-01-13",
+      "day": "Wed",
+      "series": "portal",
+      "template": "feature",
+      "topic": "Admit Finder: kaun accept, kaun reject, aur kyun",
+      "episode": null,
+      "feature": "admit-finder"
+    },
+    {
+      "date": "2027-01-15",
+      "day": "Fri",
+      "series": "myth-fact",
+      "template": "mythfact",
+      "topic": "Sirf USA, UK, Canada hi options? (no claims about specific countries' rules)",
+      "episode": null
+    },
+    {
+      "date": "2027-01-18",
+      "day": "Mon",
+      "series": "seedhi-baat",
+      "template": "tips",
+      "topic": "Interview call aaya? University interview ke 4 tips",
+      "episode": null
+    },
+    {
+      "date": "2027-01-20",
+      "day": "Wed",
+      "series": "portal",
+      "template": "feature",
+      "topic": "Course Finder: country, level, intake filters",
+      "episode": null,
+      "feature": "course-finder"
+    },
+    {
+      "date": "2027-01-22",
+      "day": "Fri",
+      "series": "myth-fact",
+      "template": "mythfact",
+      "topic": "Homesickness myths: 'strong log nahi rote', 'call se sab theek', 'akele handle karo'",
+      "episode": null
+    },
+    {
+      "date": "2027-01-25",
+      "day": "Mon",
+      "series": "seedhi-baat",
+      "template": "tips",
+      "topic": "Offer letter aaya, ab kya? Deposit, visa, loan, housing ka order",
+      "episode": null
+    },
+    {
+      "date": "2027-01-27",
+      "day": "Wed",
+      "series": "portal",
+      "template": "feature",
+      "topic": "IELTS Online Test Kit: flashcards aur sample tasks se daily practice",
+      "episode": null,
+      "feature": "ielts-kit"
+    },
+    {
+      "date": "2027-01-29",
+      "day": "Fri",
+      "series": "myth-fact",
+      "template": "mythfact",
+      "topic": "IELTS ke bina admit nahi? (only say: requirements course pe depend karte hain, university site check karo)",
+      "episode": null
+    }
+  ]
+}

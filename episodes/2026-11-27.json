@@ -1,0 +1,68 @@
+{
+  "date": "2026-11-27",
+  "series": "myth-fact",
+  "template": "mythfact",
+  "musicSeed": 1127,
+  "hook": {
+    "line1": [
+      "Sirf",
+      "dream",
+      "uni?"
+    ],
+    "line2": [
+      "Ruko",
+      "zara."
+    ],
+    "highlight": "zara.",
+    "subline": "Shortlist ke 3 myths."
+  },
+  "myths": {
+    "seriesLabel": "Myth vs Fact",
+    "items": [
+      {
+        "myth": "Sirf top universities mein apply karo",
+        "fact": "Dream, target, safe teeno rakho",
+        "detail": "Balanced list se admit ke chances aur options dono badhte hain."
+      },
+      {
+        "myth": "Ranking hi sab kuch hai",
+        "fact": "Course aur fit zyada zaroori",
+        "detail": "Curriculum, location, budget aur career outcome bhi dekho."
+      },
+      {
+        "myth": "Jo dost ne chuna, wahi sahi",
+        "fact": "Aapki profile, aapki list",
+        "detail": "Har profile alag hai. Apne jaise real admits dekh ke decide karo."
+      }
+    ]
+  },
+  "closing": {
+    "line1": "Smart list,",
+    "line2": "kam stress."
+  },
+  "cta": {
+    "button": "Admits dekho",
+    "url": "app.goeduabroad.com/admit-finder"
+  },
+  "youtube": {
+    "title": "Sirf dream university mein apply karo? Myth vs Fact",
+    "description": "University shortlist ke 3 bade myths.\n\nDream, target aur safe, teeno rakho. Ranking se zyada course aur fit dekho. Aur dost ki list copy mat karo, apne jaise real admits dekh ke decide karo.\n\n👉 https://app.goeduabroad.com\n\nEduAbroad: Run by Harvard-Cambridge Alumni. 100% private. Contact aap karoge, hum nahi.",
+    "tags": [
+      "study abroad",
+      "Indian students",
+      "study abroad tips",
+      "EduAbroad",
+      "university shortlist",
+      "dream target safe"
+    ]
+  },
+  "instagram": {
+    "caption": "Sirf dream uni? ✋ Ruko zara.\n\nDream + target + safe = smart shortlist. Ranking se zyada fit matter karta hai.\n\nApne jaise real admits dekho: Admit Finder 👇\n\n👉 app.goeduabroad.com (link in bio)\n\n#StudyAbroad #IndianStudents #StudyAbroadTips #EduAbroad #Reels"
+  },
+  "claims": [
+    {
+      "text": "Shortlist ke 3 myths.",
+      "source": "count of myths in this video"
+    }
+  ]
+}

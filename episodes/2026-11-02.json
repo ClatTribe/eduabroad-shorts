@@ -1,0 +1,70 @@
+{
+  "date": "2026-11-02",
+  "series": "seedhi-baat",
+  "template": "tips",
+  "musicSeed": 1102,
+  "hook": {
+    "line1": [
+      "Next",
+      "year",
+      "abroad?"
+    ],
+    "line2": [
+      "Abhi",
+      "shuru",
+      "karo."
+    ],
+    "highlight": "shuru",
+    "subline": "4 cheezein jo abhi karni hain."
+  },
+  "tips": {
+    "seriesLabel": "Seedhi Baat",
+    "items": [
+      {
+        "title": "Shortlist banao",
+        "detail": "Dream, target aur safe, teeno type ki universities. Sirf naam pe mat jao, course dekho."
+      },
+      {
+        "title": "Test date book karo",
+        "detail": "IELTS, TOEFL ya PTE, jo bhi chahiye. Ek retake ka time bhi haath mein rakho."
+      },
+      {
+        "title": "SOP ka pehla draft",
+        "detail": "Apni kahani likho, resume mat dohrao. Pehla draft rough hoga, chalega."
+      },
+      {
+        "title": "LOR ke liye pehle poocho",
+        "detail": "Professor ya manager ko kaafi pehle bolo. Last minute pe sab busy hote hain."
+      }
+    ]
+  },
+  "closing": {
+    "line1": "Jaldi shuru karo,",
+    "line2": "kam tension lo."
+  },
+  "cta": {
+    "button": "Explore karo",
+    "url": "app.goeduabroad.com"
+  },
+  "youtube": {
+    "title": "Abroad jaana hai? Ye 4 cheezein abhi shuru karo",
+    "description": "Next year abroad padhne ka plan hai? Ye 4 cheezein abhi se shuru karo: shortlist, test date, SOP ka pehla draft, aur LOR ke liye pehle se poochna.\n\nJaldi shuru karoge toh last minute ki tension nahi hogi.\n\n👉 https://app.goeduabroad.com\n\nEduAbroad: Run by Harvard-Cambridge Alumni. 100% private. Contact aap karoge, hum nahi.",
+    "tags": [
+      "study abroad",
+      "Indian students",
+      "study abroad tips",
+      "EduAbroad",
+      "fall 2027",
+      "application timeline"
+    ]
+  },
+  "instagram": {
+    "caption": "Next year abroad? 🎓 Ye 4 cheezein abhi shuru karo:\n1. Shortlist\n2. Test date\n3. SOP ka pehla draft\n4. LOR ke liye pehle poocho\n\nSave karo, baad mein kaam aayega.\n\n👉 app.goeduabroad.com (link in bio)\n\n#StudyAbroad #IndianStudents #StudyAbroadTips #EduAbroad #Reels"
+  },
+  "claims": [
+    {
+      "text": "4 cheezein jo abhi karni hain.",
+      "source": "count of tips in this video; general advice (no statistics)"
+    }
+  ]
+}

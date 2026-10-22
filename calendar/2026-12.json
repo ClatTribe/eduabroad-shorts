@@ -1,0 +1,115 @@
+{
+  "month": "2026-12",
+  "postTimeIST": "18:30",
+  "items": [
+    {
+      "date": "2026-12-02",
+      "day": "Wed",
+      "series": "portal",
+      "template": "feature",
+      "topic": "Magazine: roz updated country guides aur visa tips, free",
+      "episode": null,
+      "feature": "magazine"
+    },
+    {
+      "date": "2026-12-04",
+      "day": "Fri",
+      "series": "myth-fact",
+      "template": "mythfact",
+      "topic": "Visa interview myths: perfect English, rattna, sirf documents",
+      "episode": null
+    },
+    {
+      "date": "2026-12-07",
+      "day": "Mon",
+      "series": "seedhi-baat",
+      "template": "tips",
+      "topic": "Visa interview ki tayyari: 4 cheezein (apna course samjho, funding clear, honest raho, documents order mein)",
+      "episode": null
+    },
+    {
+      "date": "2026-12-09",
+      "day": "Wed",
+      "series": "portal",
+      "template": "feature",
+      "topic": "Study Materials: free GMAT, PTE, TOEFL, Digital SAT guides",
+      "episode": null,
+      "feature": "study-material"
+    },
+    {
+      "date": "2026-12-11",
+      "day": "Fri",
+      "series": "myth-fact",
+      "template": "mythfact",
+      "topic": "Gap year matlab reject? + non-English medium + pehli baar reject",
+      "episode": null
+    },
+    {
+      "date": "2026-12-14",
+      "day": "Mon",
+      "series": "seedhi-baat",
+      "template": "tips",
+      "topic": "Packing list: documents, dawai, adapters, pehle mahine ka budget",
+      "episode": null
+    },
+    {
+      "date": "2026-12-16",
+      "day": "Wed",
+      "series": "portal",
+      "template": "feature",
+      "topic": "Fly & Settle: accommodation, visa, pick-up, loans, forex, insurance ek jagah",
+      "episode": null,
+      "feature": "fly-settle"
+    },
+    {
+      "date": "2026-12-18",
+      "day": "Fri",
+      "series": "myth-fact",
+      "template": "mythfact",
+      "topic": "Abroad jaake part-time job turant mil jaati hai? (no country rules, general)",
+      "episode": null
+    },
+    {
+      "date": "2026-12-21",
+      "day": "Mon",
+      "series": "seedhi-baat",
+      "template": "tips",
+      "topic": "Budget sheet kaise banayein: tuition, rent, khaana, travel, buffer",
+      "episode": null
+    },
+    {
+      "date": "2026-12-23",
+      "day": "Wed",
+      "series": "portal",
+      "template": "feature",
+      "topic": "Admit Finder: apne college ke admits dekho (filter by course/intake)",
+      "episode": null,
+      "feature": "admit-finder"
+    },
+    {
+      "date": "2026-12-25",
+      "day": "Fri",
+      "series": "myth-fact",
+      "template": "mythfact",
+      "topic": "Loan lena galat hai? + EMI ka darr + sirf scholarship se jaana",
+      "episode": null
+    },
+    {
+      "date": "2026-12-28",
+      "day": "Mon",
+      "series": "seedhi-baat",
+      "template": "tips",
+      "topic": "Naye saal ka study abroad plan: Jan se June tak",
+      "episode": null
+    },
+    {
+      "date": "2026-12-30",
+      "day": "Wed",
+      "series": "portal",
+      "template": "feature",
+      "topic": "Course Finder: budget ke andar shortlist",
+      "episode": null,
+      "feature": "course-finder"
+    }
+  ]
+}
