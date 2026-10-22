@@ -1,0 +1,47 @@
+{
+  "date": "2026-11-02",
+  "content": {
+    "type": "checklist",
+    "title": "Abroad jaana hai?",
+    "highlight": "Ye 5 kaam abhi karo.",
+    "subtitle": "Jaldi shuru karoge, toh last minute ki tension nahi hogi.",
+    "steps": [
+      {
+        "title": "Shortlist banao",
+        "detail": "Dream, target aur safe, teeno type ki universities. Sirf ranking nahi, course aur budget bhi dekho.",
+        "tip": "Apne jaise real profiles Admit Finder pe dekho."
+      },
+      {
+        "title": "Test date book karo",
+        "detail": "IELTS, TOEFL, PTE ya GRE, jo bhi chahiye. Date pehle lo aur ek retake ka time bhi rakho.",
+        "tip": "IELTS kit ke free mock se pehle apna level check karo."
+      },
+      {
+        "title": "SOP ka pehla draft",
+        "detail": "Apni kahani likho, resume mat dohrao. Pehla draft rough hoga, chalega.",
+        "tip": "Zor se padho. Jahan atko, wahan line chhoti karo."
+      },
+      {
+        "title": "LOR ke liye pehle poocho",
+        "detail": "Professor ya manager ko kaafi pehle bolo, aur apna resume aur goals unke saath share karo."
+      },
+      {
+        "title": "Budget sheet banao",
+        "detail": "Tuition, rent, khaana, travel aur ek emergency buffer. Sab ek sheet mein likho.",
+        "tip": "Funding ke teen raaste: savings, scholarship, loan."
+      }
+    ],
+    "saveLine": "baad mein kaam aayega."
+  },
+  "caption": "Abroad jaana hai? Ye 5 kaam abhi shuru karo 👇\n\n1. Shortlist\n2. Test date\n3. SOP draft\n4. LOR\n5. Budget sheet\n\nSave karo 📌 aur us dost ko bhejo jo abhi bhi 'next year dekhenge' bol raha hai.\n\n👉 app.goeduabroad.com\n\n#StudyAbroad #IndianStudents #StudyAbroadTips #EduAbroad #StudyAbroadChecklist",
+  "claims": [
+    {
+      "text": "Ye 5 kaam abhi karo.",
+      "source": "count of steps in this post"
+    },
+    {
+      "text": "IELTS kit ke free mock",
+      "source": "IELTS kit page: 'Free Full-Length IELTS Mock Test' (needs sign-up)"
+    }
+  ]
+}
