@@ -1,0 +1,67 @@
+{
+  "date": "2026-12-04",
+  "series": "myth-fact",
+  "template": "mythfact",
+  "musicSeed": 1204,
+  "hook": {
+    "line1": [
+      "Visa",
+      "interview"
+    ],
+    "line2": [
+      "ka",
+      "darr?"
+    ],
+    "highlight": "darr?",
+    "subline": "3 myths, seedha sach."
+  },
+  "myths": {
+    "seriesLabel": "Myth vs Fact",
+    "items": [
+      {
+        "myth": "Visa officer ko perfect English chahiye",
+        "fact": "Clear aur honest jawab chahiye",
+        "detail": "Simple English mein seedha jawab do. Accent se fark nahi padta."
+      },
+      {
+        "myth": "Jawab ratt ke jao",
+        "fact": "Apni baat, apne shabdon mein",
+        "detail": "Ratta lagta hai, sunne wale ko pata chalta hai. Points yaad rakho, lines nahi."
+      },
+      {
+        "myth": "Documents hi sab kuch hain",
+        "fact": "Documents aur clarity, dono",
+        "detail": "Documents ready rakho, par apna plan bhi samjha pao."
+      }
+    ]
+  },
+  "closing": {
+    "line1": "Darr kam,",
+    "line2": "tayyari zyada."
+  },
+  "cta": {
+    "button": "Explore karo",
+    "url": "app.goeduabroad.com"
+  },
+  "youtube": {
+    "title": "Visa interview mein perfect English chahiye? Myth vs Fact",
+    "description": "Visa interview ke 3 bade myths. Perfect English nahi, clear aur honest jawab chahiye. Ratta mat lagao, apne shabdon mein bolo. Aur documents ke saath apna plan bhi samjha pao.\n\n👉 https://app.goeduabroad.com\n\nEduAbroad: Run by Harvard-Cambridge Alumni. 100% private. Contact aap karoge, hum nahi.",
+    "tags": [
+      "study abroad",
+      "Indian students",
+      "study abroad tips",
+      "EduAbroad",
+      "visa interview",
+      "student visa"
+    ]
+  },
+  "instagram": {
+    "caption": "Visa interview ka darr? 😰\n\nPerfect English nahi, clear jawab chahiye. Ratta nahi, apne shabd. Documents ke saath clarity bhi.\n\n👉 app.goeduabroad.com (link in bio)\n\n#StudyAbroad #IndianStudents #StudyAbroadTips #EduAbroad #Reels"
+  },
+  "claims": [
+    {
+      "text": "3 myths, seedha sach.",
+      "source": "count of myths in this video"
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "date": "2026-12-07",
+  "series": "seedhi-baat",
+  "template": "tips",
+  "musicSeed": 1207,
+  "hook": {
+    "line1": [
+      "Visa",
+      "interview"
+    ],
+    "line2": [
+      "aa",
+      "raha",
+      "hai?"
+    ],
+    "highlight": "hai?",
+    "subline": "4 cheezein pehle se ready."
+  },
+  "tips": {
+    "seriesLabel": "Seedhi Baat",
+    "items": [
+      {
+        "title": "Apna course samjho",
+        "detail": "Ye course kyun, ye university kyun, aur baad mein kya. Do line mein bol pao."
+      },
+      {
+        "title": "Funding clear rakho",
+        "detail": "Kharcha kaun uthayega aur kaise. Uske documents haath mein rakho."
+      },
+      {
+        "title": "Honest raho",
+        "detail": "Jo sach hai wahi bolo. Kuch nahi pata toh seedha bolo, kahani mat banao."
+      },
+      {
+        "title": "Documents order mein",
+        "detail": "Ek folder, sahi sequence. Jo maanga jaaye, wahi do."
+      }
+    ]
+  },
+  "closing": {
+    "line1": "Tayyari poori,",
+    "line2": "confidence apne aap."
+  },
+  "cta": {
+    "button": "Explore karo",
+    "url": "app.goeduabroad.com"
+  },
+  "youtube": {
+    "title": "Visa interview aa raha hai? Ye 4 cheezein ready rakho",
+    "description": "Visa interview se pehle ye 4 cheezein ready rakho: apna course aur university kyun chuni, funding ka clear plan aur documents, honest jawab, aur documents ek folder mein sahi order mein.\n\n👉 https://app.goeduabroad.com\n\nEduAbroad: Run by Harvard-Cambridge Alumni. 100% private. Contact aap karoge, hum nahi.",
+    "tags": [
+      "study abroad",
+      "Indian students",
+      "study abroad tips",
+      "EduAbroad",
+      "visa interview tips",
+      "student visa"
+    ]
+  },
+  "instagram": {
+    "caption": "Visa interview aa raha hai? 🛂\n\n1. Course aur university kyun\n2. Funding clear\n3. Honest jawab\n4. Documents order mein\n\nSave karo 📌\n\n👉 app.goeduabroad.com (link in bio)\n\n#StudyAbroad #IndianStudents #StudyAbroadTips #EduAbroad #Reels"
+  },
+  "claims": [
+    {
+      "text": "4 cheezein pehle se ready.",
+      "source": "count of tips in this video"
+    }
+  ]
+}

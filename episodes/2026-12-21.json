@@ -1,0 +1,68 @@
+{
+  "date": "2026-12-21",
+  "series": "seedhi-baat",
+  "template": "tips",
+  "musicSeed": 1221,
+  "hook": {
+    "line1": [
+      "Kharcha",
+      "kitna"
+    ],
+    "line2": [
+      "hoga?",
+      "Likho."
+    ],
+    "highlight": "Likho.",
+    "subline": "Budget sheet, 4 line mein."
+  },
+  "tips": {
+    "seriesLabel": "Seedhi Baat",
+    "items": [
+      {
+        "title": "Tuition fees",
+        "detail": "University ki official site se, poore course ke liye. Har saal ki alag likho."
+      },
+      {
+        "title": "Rent aur bills",
+        "detail": "Kamra, bijli, internet. Seniors se city ka real kharcha poocho."
+      },
+      {
+        "title": "Khaana aur travel",
+        "detail": "Groceries, bus pass, phone. Chhote kharche bhi jodo."
+      },
+      {
+        "title": "Emergency buffer",
+        "detail": "Ek hissa alag rakho jo sirf emergency ke liye ho."
+      }
+    ]
+  },
+  "closing": {
+    "line1": "Likha hua budget,",
+    "line2": "kam surprise."
+  },
+  "cta": {
+    "button": "Explore karo",
+    "url": "app.goeduabroad.com"
+  },
+  "youtube": {
+    "title": "Abroad padhai ka kharcha kaise plan karein? Simple budget sheet",
+    "description": "Abroad padhai ka budget 4 line mein: tuition fees (official site se), rent aur bills, khaana aur travel, aur ek emergency buffer. Likha hua budget, kam surprise.\n\n👉 https://app.goeduabroad.com\n\nEduAbroad: Run by Harvard-Cambridge Alumni. 100% private. Contact aap karoge, hum nahi.",
+    "tags": [
+      "study abroad",
+      "Indian students",
+      "study abroad tips",
+      "EduAbroad",
+      "study abroad budget",
+      "study abroad cost"
+    ]
+  },
+  "instagram": {
+    "caption": "Kharcha kitna hoga? ✍️ Likho.\n\nTuition, rent + bills, khaana + travel, emergency buffer. Bas 4 line ka budget, aur tension half.\n\nSave karo 📌\n\n👉 app.goeduabroad.com (link in bio)\n\n#StudyAbroad #IndianStudents #StudyAbroadTips #EduAbroad #Reels"
+  },
+  "claims": [
+    {
+      "text": "Budget sheet, 4 line mein.",
+      "source": "count of tips in this video"
+    }
+  ]
+}

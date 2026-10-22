@@ -1,0 +1,64 @@
+{
+  "date": "2026-12-14",
+  "series": "seedhi-baat",
+  "template": "tips",
+  "musicSeed": 1214,
+  "hook": {
+    "line1": [
+      "Bag",
+      "pack"
+    ],
+    "line2": [
+      "kar",
+      "rahe",
+      "ho?"
+    ],
+    "highlight": "ho?",
+    "subline": "Ye bhoolna mat."
+  },
+  "tips": {
+    "seriesLabel": "Seedhi Baat",
+    "items": [
+      {
+        "title": "Documents ka folder",
+        "detail": "Passport, visa, admit letter aur marksheets ki copies. Ek hand bag mein rakho."
+      },
+      {
+        "title": "Dawai aur prescription",
+        "detail": "Regular dawaiyan aur doctor ki prescription saath rakho."
+      },
+      {
+        "title": "Adapter aur charger",
+        "detail": "Wahan ka plug alag ho sakta hai. Ek universal adapter le lo."
+      },
+      {
+        "title": "Pehle mahine ka budget",
+        "detail": "Rent, khaana aur travel ke liye pehle mahine ka paisa alag rakho."
+      }
+    ]
+  },
+  "closing": {
+    "line1": "Smart packing,",
+    "line2": "kam panic."
+  },
+  "cta": {
+    "button": "Explore karo",
+    "url": "app.goeduabroad.com"
+  },
+  "youtube": {
+    "title": "Abroad ja rahe ho? Packing mein ye 4 cheezein mat bhoolna",
+    "description": "Abroad jaane se pehle packing checklist: documents ka folder hand bag mein, dawai aur prescription, universal adapter aur charger, aur pehle mahine ka budget alag.\n\n👉 https://app.goeduabroad.com\n\nEduAbroad: Run by Harvard-Cambridge Alumni. 100% private. Contact aap karoge, hum nahi.",
+    "tags": [
+      "study abroad",
+      "Indian students",
+      "study abroad tips",
+      "EduAbroad",
+      "packing list",
+      "pre departure"
+    ]
+  },
+  "instagram": {
+    "caption": "Bag pack kar rahe ho? 🧳\n\nDocuments folder, dawai + prescription, universal adapter, aur pehle mahine ka budget. Ye bhoolna mat!\n\nJaane wale dost ko bhejo 👇\n\n👉 app.goeduabroad.com (link in bio)\n\n#StudyAbroad #IndianStudents #StudyAbroadTips #EduAbroad #Reels"
+  },
+  "claims": []
+}

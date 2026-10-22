@@ -17,7 +17,7 @@
       "series": "myth-fact",
       "template": "mythfact",
       "topic": "Visa interview myths: perfect English, rattna, sirf documents",
-      "episode": null
+      "episode": "episodes/2026-12-04.json"
     },
     {
       "date": "2026-12-07",
@@ -25,7 +25,7 @@
       "series": "seedhi-baat",
       "template": "tips",
       "topic": "Visa interview ki tayyari: 4 cheezein (apna course samjho, funding clear, honest raho, documents order mein)",
-      "episode": null
+      "episode": "episodes/2026-12-07.json"
     },
     {
       "date": "2026-12-09",
@@ -41,8 +41,8 @@
       "day": "Fri",
       "series": "myth-fact",
       "template": "mythfact",
-      "topic": "Gap year matlab reject? + non-English medium + pehli baar reject",
-      "episode": null
+      "topic": "Course myths: sirf CS ka scope? + bada city zaroori? + naam se course chunna",
+      "episode": "episodes/2026-12-11.json"
     },
     {
       "date": "2026-12-14",
@@ -50,7 +50,7 @@
       "series": "seedhi-baat",
       "template": "tips",
       "topic": "Packing list: documents, dawai, adapters, pehle mahine ka budget",
-      "episode": null
+      "episode": "episodes/2026-12-14.json"
     },
     {
       "date": "2026-12-16",
@@ -67,7 +67,7 @@
       "series": "myth-fact",
       "template": "mythfact",
       "topic": "Abroad jaake part-time job turant mil jaati hai? (no country rules, general)",
-      "episode": null
+      "episode": "episodes/2026-12-18.json"
     },
     {
       "date": "2026-12-21",
@@ -75,7 +75,7 @@
       "series": "seedhi-baat",
       "template": "tips",
       "topic": "Budget sheet kaise banayein: tuition, rent, khaana, travel, buffer",
-      "episode": null
+      "episode": "episodes/2026-12-21.json"
     },
     {
       "date": "2026-12-23",
@@ -92,7 +92,7 @@
       "series": "myth-fact",
       "template": "mythfact",
       "topic": "Loan lena galat hai? + EMI ka darr + sirf scholarship se jaana",
-      "episode": null
+      "episode": "episodes/2026-12-25.json"
     },
     {
       "date": "2026-12-28",
@@ -100,7 +100,7 @@
       "series": "seedhi-baat",
       "template": "tips",
       "topic": "Naye saal ka study abroad plan: Jan se June tak",
-      "episode": null
+      "episode": "episodes/2026-12-28.json"
     },
     {
       "date": "2026-12-30",

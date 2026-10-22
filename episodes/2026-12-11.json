@@ -1,0 +1,68 @@
+{
+  "date": "2026-12-11",
+  "series": "myth-fact",
+  "template": "mythfact",
+  "musicSeed": 1211,
+  "hook": {
+    "line1": [
+      "Sirf",
+      "CS",
+      "ka"
+    ],
+    "line2": [
+      "scope",
+      "hai?"
+    ],
+    "highlight": "scope",
+    "subline": "Course chunne ke 3 myths."
+  },
+  "myths": {
+    "seriesLabel": "Myth vs Fact",
+    "items": [
+      {
+        "myth": "Abroad mein sirf CS ka scope hai",
+        "fact": "Har field ke achhe courses hain",
+        "detail": "Business, design, health, public policy. Apni interest aur profile se chuno."
+      },
+      {
+        "myth": "Bade city mein hi padhna chahiye",
+        "fact": "City se zyada fit zaroori",
+        "detail": "Chhote city mein bhi achhe campus hote hain. Kharcha aur lifestyle bhi dekho."
+      },
+      {
+        "myth": "Course ka naam dekh ke chuno",
+        "fact": "Curriculum padho",
+        "detail": "Same naam, alag subjects. Modules, projects aur internships check karo."
+      }
+    ]
+  },
+  "closing": {
+    "line1": "Trend nahi,",
+    "line2": "apna fit chuno."
+  },
+  "cta": {
+    "button": "Explore karo",
+    "url": "app.goeduabroad.com"
+  },
+  "youtube": {
+    "title": "Abroad mein sirf CS ka scope hai? Myth vs Fact",
+    "description": "Course chunne ke 3 bade myths. Sirf CS hi option nahi, bada city zaroori nahi, aur course ka naam nahi, curriculum padho.\n\n👉 https://app.goeduabroad.com\n\nEduAbroad: Run by Harvard-Cambridge Alumni. 100% private. Contact aap karoge, hum nahi.",
+    "tags": [
+      "study abroad",
+      "Indian students",
+      "study abroad tips",
+      "EduAbroad",
+      "course selection",
+      "MS abroad"
+    ]
+  },
+  "instagram": {
+    "caption": "Sirf CS ka scope hai? ❌ Myth.\n\nHar field ke achhe courses hain. City se zyada fit matter karta hai. Aur naam nahi, curriculum padho.\n\n👉 app.goeduabroad.com (link in bio)\n\n#StudyAbroad #IndianStudents #StudyAbroadTips #EduAbroad #Reels"
+  },
+  "claims": [
+    {
+      "text": "Course chunne ke 3 myths.",
+      "source": "count of myths in this video"
+    }
+  ]
+}

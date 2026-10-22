@@ -1,0 +1,63 @@
+{
+  "date": "2026-12-28",
+  "series": "seedhi-baat",
+  "template": "tips",
+  "musicSeed": 1228,
+  "hook": {
+    "line1": [
+      "Naya",
+      "saal,"
+    ],
+    "line2": [
+      "naya",
+      "plan?"
+    ],
+    "highlight": "plan?",
+    "subline": "Abroad ka saal bhar ka plan."
+  },
+  "tips": {
+    "seriesLabel": "Seedhi Baat",
+    "items": [
+      {
+        "title": "Shuru ke mahine: research",
+        "detail": "Countries, courses aur budget samjho. Ek lambi list banao."
+      },
+      {
+        "title": "Phir: tests",
+        "detail": "IELTS, TOEFL, PTE ya GRE. Date book karo aur prep shuru."
+      },
+      {
+        "title": "Uske baad: SOP aur LOR",
+        "detail": "Drafts likho, recommenders ko pehle se bolo."
+      },
+      {
+        "title": "Phir: applications",
+        "detail": "Deadlines ki list banao aur ek ek karke submit karo."
+      }
+    ]
+  },
+  "closing": {
+    "line1": "Plan saal bhar ka,",
+    "line2": "kaam roz thoda."
+  },
+  "cta": {
+    "button": "Explore karo",
+    "url": "app.goeduabroad.com"
+  },
+  "youtube": {
+    "title": "Naye saal mein abroad ka plan? Saal bhar ka simple roadmap",
+    "description": "Naye saal mein abroad padhai ka plan: pehle research aur shortlist, phir tests, uske baad SOP aur LOR, aur phir applications. Har university ki deadline uski official site pe check karo.\n\n👉 https://app.goeduabroad.com\n\nEduAbroad: Run by Harvard-Cambridge Alumni. 100% private. Contact aap karoge, hum nahi.",
+    "tags": [
+      "study abroad",
+      "Indian students",
+      "study abroad tips",
+      "EduAbroad",
+      "study abroad plan",
+      "study abroad roadmap"
+    ]
+  },
+  "instagram": {
+    "caption": "Naya saal, naya plan? 🗓️\n\nResearch, phir tests, phir SOP + LOR, phir applications. Roz thoda kaam, saal bhar mein ready.\n\nSave karo 📌\n\n👉 app.goeduabroad.com (link in bio)\n\n#StudyAbroad #IndianStudents #StudyAbroadTips #EduAbroad #Reels"
+  },
+  "claims": []
+}

@@ -1,0 +1,67 @@
+{
+  "date": "2026-12-18",
+  "series": "myth-fact",
+  "template": "mythfact",
+  "musicSeed": 1218,
+  "hook": {
+    "line1": [
+      "Part-time",
+      "job"
+    ],
+    "line2": [
+      "easy",
+      "hai?"
+    ],
+    "highlight": "easy",
+    "subline": "3 myths jo pakadte nahi."
+  },
+  "myths": {
+    "seriesLabel": "Myth vs Fact",
+    "items": [
+      {
+        "myth": "Wahan pahunchte hi job mil jaati hai",
+        "fact": "Job dhundhne mein time lagta hai",
+        "detail": "Pehle kuch mahine ka kharcha apne budget se plan karo."
+      },
+      {
+        "myth": "Part-time se poori fees nikal jaayegi",
+        "fact": "Part-time ek support hai, plan nahi",
+        "detail": "Fees aur rent ka plan pehle se banao. Job se bas madad milti hai."
+      },
+      {
+        "myth": "Kaam ke hours ki koi limit nahi",
+        "fact": "Har country ke apne rules hain",
+        "detail": "Student visa ke work rules pehle padho, aur unhe follow karo."
+      }
+    ]
+  },
+  "closing": {
+    "line1": "Job pe nahi,",
+    "line2": "plan pe chalo."
+  },
+  "cta": {
+    "button": "Explore karo",
+    "url": "app.goeduabroad.com"
+  },
+  "youtube": {
+    "title": "Abroad mein part-time job easy hai? Myth vs Fact",
+    "description": "Part-time job ke 3 bade myths. Job milne mein time lagta hai, part-time se poori fees nahi nikalti, aur har country ke student visa ke apne work rules hain. Pehle padho, phir plan karo.\n\n👉 https://app.goeduabroad.com\n\nEduAbroad: Run by Harvard-Cambridge Alumni. 100% private. Contact aap karoge, hum nahi.",
+    "tags": [
+      "study abroad",
+      "Indian students",
+      "study abroad tips",
+      "EduAbroad",
+      "part time job abroad",
+      "student life abroad"
+    ]
+  },
+  "instagram": {
+    "caption": "Part-time job easy hai? 🤔\n\nJob milne mein time lagta hai, fees ka plan pehle banao, aur visa ke work rules zaroor padho.\n\n👉 app.goeduabroad.com (link in bio)\n\n#StudyAbroad #IndianStudents #StudyAbroadTips #EduAbroad #Reels"
+  },
+  "claims": [
+    {
+      "text": "3 myths jo pakadte nahi.",
+      "source": "count of myths in this video"
+    }
+  ]
+}
