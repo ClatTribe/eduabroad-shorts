@@ -1,0 +1,131 @@
+{
+  "date": "2026-12-09",
+  "series": "portal",
+  "template": "feature",
+  "musicSeed": 1209,
+  "hook": {
+    "line1": [
+      "Admit",
+      "mil",
+      "gaya?"
+    ],
+    "line2": [
+      "Ab",
+      "asli",
+      "kaam."
+    ],
+    "highlight": "kaam.",
+    "subline": "Loan, visa, forex, insurance.",
+    "chips": [
+      "Loan: ?",
+      "Forex: ?",
+      "Visa: ?"
+    ]
+  },
+  "build": {
+    "beats": [
+      {
+        "speaker": "Senior",
+        "line": "“Sab apne aap ho jaayega”"
+      },
+      {
+        "speaker": "Relatives",
+        "line": "“Bank wale uncle se baat karte hain”"
+      },
+      {
+        "speaker": "Google",
+        "line": "Har kaam ka alag portal."
+      }
+    ],
+    "googleTabs": [
+      "education loan",
+      "forex card",
+      "student insurance",
+      "visa process",
+      "documents list",
+      "visa slots"
+    ],
+    "punchline": {
+      "line1": "Kaam bahut hain.",
+      "line2": "Ek jagah kahan?"
+    }
+  },
+  "reveal": {
+    "kicker": "Bhaag daud nahi.",
+    "headline": "Ek jagah.",
+    "featurePill": "Fly & Settle",
+    "clips": [
+      {
+        "kind": "video",
+        "src": "footage/fly-settle/services.mp4",
+        "caption": "Loan, visa, forex, insurance.",
+        "subcaption": "Sab services ek jagah.",
+        "seconds": 3.6,
+        "playbackRate": 1.25
+      },
+      {
+        "kind": "video",
+        "src": "footage/fly-settle/expert.mp4",
+        "caption": "Confused? Expert se baat karo.",
+        "subcaption": "Apni zaroorat ke hisaab se.",
+        "seconds": 3.0,
+        "playbackRate": 1.1
+      }
+    ]
+  },
+  "proof": {
+    "points": [
+      "Education loan assistance",
+      "Visa process mein expert guidance",
+      "Travel aur health insurance"
+    ]
+  },
+  "closing": {
+    "line1": "Admit ke baad,",
+    "line2": "plan easy."
+  },
+  "cta": {
+    "button": "Explore karo",
+    "url": "app.goeduabroad.com/fly-&-settle-services"
+  },
+  "youtube": {
+    "title": "Admit mil gaya? Ab loan, visa, forex, insurance ek jagah",
+    "description": "Admit ke baad asli kaam shuru hota hai. EduAbroad Fly & Settle Services pe loans, visa assistance, forex, insurance, accommodation, airport pick-up aur job assistance ek jagah hain. Confused ho toh expert se baat karo.\n\n👉 https://app.goeduabroad.com/fly-&-settle-services\n\nEduAbroad: Run by Harvard-Cambridge Alumni. 100% private. Contact aap karoge, hum nahi.",
+    "tags": [
+      "study abroad",
+      "Indian students",
+      "EduAbroad",
+      "education loan",
+      "student visa",
+      "forex"
+    ]
+  },
+  "instagram": {
+    "caption": "Admit mil gaya? 🎉 Ab asli kaam.\n\nLoan, visa, forex, insurance: Fly & Settle pe sab ek jagah. Confused? Expert se baat karo.\n\n👉 app.goeduabroad.com/fly-&-settle-services (link in bio)\n\n#StudyAbroad #IndianStudents #StudyAbroadTips #EduAbroad #Reels"
+  },
+  "claims": [
+    {
+      "text": "Loan, visa, forex, insurance. / Sab services ek jagah.",
+      "source": "Fly & Settle page lists Loans, Accommodation, Visa Assistance, Forex, Insurance, Pick Up Services, Job Assistance"
+    },
+    {
+      "text": "Education loan assistance",
+      "source": "Fly & Settle page: 'Get financial assistance for your education abroad'"
+    },
+    {
+      "text": "Visa process mein expert guidance",
+      "source": "Fly & Settle page: 'Our experts will guide you through every step of your application'"
+    },
+    {
+      "text": "Travel aur health insurance",
+      "source": "Fly & Settle page: 'comprehensive travel and health insurance coverage tailored for international students'"
+    },
+    {
+      "text": "Confused? Expert se baat karo.",
+      "source": "Fly & Settle page: 'Talk to an Expert'"
+    }
+  ],
+  "requiresCapture": [
+    "fly-settle"
+  ]
+}

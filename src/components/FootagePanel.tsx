@@ -14,7 +14,7 @@ export const FootagePanel: React.FC<{
   trimStartFrames?: number;
   width?: number;
   top?: number;
-}> = ({ video, playbackRate = 1, trimStartFrames = 0, width = 820, top = 520 }) => {
+}> = ({ video, playbackRate = 1, trimStartFrames = 0, width = 820, top = 560 }) => {
   const frame = useCurrentFrame();
   const { fps } = useVideoConfig();
   const g = glide(frame, fps, 0);

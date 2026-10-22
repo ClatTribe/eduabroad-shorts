@@ -1,0 +1,124 @@
+{
+  "date": "2026-12-23",
+  "series": "portal",
+  "template": "feature",
+  "musicSeed": 1223,
+  "hook": {
+    "line1": [
+      "Budget",
+      "kam,"
+    ],
+    "line2": [
+      "sapne",
+      "bade?"
+    ],
+    "highlight": "bade?",
+    "subline": "Dono saath chal sakte hain.",
+    "chips": [
+      "Budget: ₹?",
+      "Country: ?",
+      "Course: ?"
+    ]
+  },
+  "build": {
+    "beats": [
+      {
+        "speaker": "Senior",
+        "line": "“Mehenga hai, rehne de”"
+      },
+      {
+        "speaker": "Relatives",
+        "line": "“Loan lena padega beta”"
+      },
+      {
+        "speaker": "Google",
+        "line": "Fees har jagah alag."
+      }
+    ],
+    "googleTabs": [
+      "cheap MS abroad",
+      "low fees universities",
+      "tuition fees",
+      "budget country",
+      "affordable courses",
+      "MS cost"
+    ],
+    "punchline": {
+      "line1": "Andaaza mat lagao.",
+      "line2": "Fees dekho."
+    }
+  },
+  "reveal": {
+    "kicker": "Andaaza nahi.",
+    "headline": "Fees dekho.",
+    "featurePill": "Course Finder",
+    "clips": [
+      {
+        "kind": "video",
+        "src": "footage/course-finder/scroll.mp4",
+        "caption": "Tuition fees ek nazar mein.",
+        "subcaption": "Program ke saath.",
+        "seconds": 3.6,
+        "playbackRate": 1.2
+      },
+      {
+        "kind": "video",
+        "src": "footage/course-finder/detail.mp4",
+        "caption": "Country aur intake se filter.",
+        "subcaption": "Budget wali list banao.",
+        "seconds": 3.0,
+        "playbackRate": 1.1
+      }
+    ]
+  },
+  "proof": {
+    "points": [
+      "Worldwide programs, ek jagah",
+      "Tuition fees pehle dekho",
+      "100% private. Koi spam call nahi."
+    ]
+  },
+  "closing": {
+    "line1": "Sapne bade rakho,",
+    "line2": "list smart rakho."
+  },
+  "cta": {
+    "button": "Explore karo",
+    "url": "app.goeduabroad.com/course-finder"
+  },
+  "youtube": {
+    "title": "Budget kam, sapne bade? Fees dekh ke course chuno",
+    "description": "Andaaza mat lagao, fees dekho. EduAbroad Course Finder pe programs aur universities worldwide, tuition fees ke saath. Country, study level aur intake se filter karo aur budget wali shortlist banao.\n\n👉 https://app.goeduabroad.com/course-finder\n\nEduAbroad: Run by Harvard-Cambridge Alumni. 100% private. Contact aap karoge, hum nahi.",
+    "tags": [
+      "study abroad",
+      "Indian students",
+      "EduAbroad",
+      "course finder",
+      "study abroad cost"
+    ]
+  },
+  "instagram": {
+    "caption": "Budget kam, sapne bade? 💸\n\nAndaaza nahi, fees dekho. Course Finder pe programs worldwide, fees aur filters ke saath.\n\n👉 app.goeduabroad.com/course-finder (link in bio)\n\n#StudyAbroad #IndianStudents #StudyAbroadTips #EduAbroad #Reels"
+  },
+  "claims": [
+    {
+      "text": "Worldwide programs, ek jagah",
+      "source": "Course Finder page: 'Explore programs and universities worldwide'"
+    },
+    {
+      "text": "Tuition fees ek nazar mein. / Tuition fees pehle dekho",
+      "source": "Course Finder shows Tuition Fees"
+    },
+    {
+      "text": "Country aur intake se filter.",
+      "source": "Course Finder filters: All Countries, All Study Levels, All Universities, All Intakes"
+    },
+    {
+      "text": "100% private. Koi spam call nahi.",
+      "source": "Homepage: '100% Private. You initiate contact, not us.'"
+    }
+  ],
+  "requiresCapture": [
+    "course-finder"
+  ]
+}

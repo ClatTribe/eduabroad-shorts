@@ -1,0 +1,131 @@
+{
+  "date": "2026-12-02",
+  "series": "portal",
+  "template": "feature",
+  "musicSeed": 1202,
+  "hook": {
+    "line1": [
+      "GMAT,",
+      "PTE,"
+    ],
+    "line2": [
+      "TOEFL",
+      "ki",
+      "prep?"
+    ],
+    "highlight": "prep?",
+    "subline": "Material dhundne mein time gaya?",
+    "chips": [
+      "GMAT: ?",
+      "PTE: ?",
+      "TOEFL: ?"
+    ]
+  },
+  "build": {
+    "beats": [
+      {
+        "speaker": "Senior",
+        "line": "“Mere purane notes le le”"
+      },
+      {
+        "speaker": "Relatives",
+        "line": "“Coaching join kar lo beta”"
+      },
+      {
+        "speaker": "Google",
+        "line": "Har site pe alag PDF."
+      }
+    ],
+    "googleTabs": [
+      "GMAT focus guide",
+      "PTE tips pdf",
+      "TOEFL strategy",
+      "DSAT practice",
+      "free prep material",
+      "exam pattern"
+    ],
+    "punchline": {
+      "line1": "Material bikhra hai.",
+      "line2": "Guide kahan hai?"
+    }
+  },
+  "reveal": {
+    "kicker": "Bikhra nahi.",
+    "headline": "Guides yahan.",
+    "featurePill": "Study Materials",
+    "clips": [
+      {
+        "kind": "video",
+        "src": "footage/study-material/featured.mp4",
+        "caption": "GMAT, PTE, TOEFL guides.",
+        "subcaption": "Ek jagah, structured.",
+        "seconds": 3.6,
+        "playbackRate": 1.1
+      },
+      {
+        "kind": "video",
+        "src": "footage/study-material/scroll.mp4",
+        "caption": "Digital SAT practice bhi.",
+        "subcaption": "Grammar se maths tak.",
+        "seconds": 3.0,
+        "playbackRate": 1.1
+      }
+    ]
+  },
+  "proof": {
+    "points": [
+      "GMAT Focus guide: 38 pages",
+      "TOEFL guide, Harvard-Cambridge alumni ka",
+      "100% private. Koi spam call nahi."
+    ]
+  },
+  "closing": {
+    "line1": "Bikhre PDFs chhodo,",
+    "line2": "guide se padho."
+  },
+  "cta": {
+    "button": "Explore karo",
+    "url": "app.goeduabroad.com/study-material"
+  },
+  "youtube": {
+    "title": "GMAT, PTE, TOEFL ki prep? Saari guides ek jagah",
+    "description": "Material dhundne mein hi time nikal jaata hai? EduAbroad Study Materials pe GMAT Focus Edition guide, PTE Priority Tasks guide aur TOEFL iBT preparation guide ek jagah hain, saath mein Digital SAT practice sets bhi.\n\n👉 https://app.goeduabroad.com/study-material\n\nEduAbroad: Run by Harvard-Cambridge Alumni. 100% private. Contact aap karoge, hum nahi.",
+    "tags": [
+      "study abroad",
+      "Indian students",
+      "EduAbroad",
+      "GMAT",
+      "PTE",
+      "TOEFL",
+      "DSAT"
+    ]
+  },
+  "instagram": {
+    "caption": "GMAT, PTE, TOEFL ki prep? 📚\n\nSaari guides ek jagah, aur Digital SAT practice bhi. Bikhre PDFs chhodo, guide se padho.\n\n👉 app.goeduabroad.com/study-material (link in bio)\n\n#StudyAbroad #IndianStudents #StudyAbroadTips #EduAbroad #Reels"
+  },
+  "claims": [
+    {
+      "text": "GMAT, PTE, TOEFL guides. / Ek jagah, structured.",
+      "source": "Study Materials page: GMAT Focus Edition Guide, PTE Priority Tasks Guide, TOEFL iBT Preparation Guide"
+    },
+    {
+      "text": "GMAT Focus guide: 38 pages",
+      "source": "Study Materials page: GMAT Focus Edition Guide, '38 pages'"
+    },
+    {
+      "text": "TOEFL guide, Harvard-Cambridge alumni ka",
+      "source": "Study Materials page: TOEFL guide 'expert tips curated by Harvard-Cambridge alumni'"
+    },
+    {
+      "text": "Digital SAT practice bhi. / Grammar se maths tak.",
+      "source": "Study Materials page: DSAT conventions, vocabulary, geometry, advanced math practice"
+    },
+    {
+      "text": "100% private. Koi spam call nahi.",
+      "source": "Homepage: '100% Private. You initiate contact, not us.'"
+    }
+  ],
+  "requiresCapture": [
+    "study-material"
+  ]
+}

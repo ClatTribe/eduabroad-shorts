@@ -24,7 +24,7 @@
       "series": "portal",
       "template": "feature",
       "topic": "Scholarship Finder: naye saal mein funding plan",
-      "episode": null,
+      "episode": "episodes/2027-01-06.json",
       "feature": "scholarship-finder"
     },
     {
@@ -49,7 +49,7 @@
       "series": "portal",
       "template": "feature",
       "topic": "Admit Finder: kaun accept, kaun reject, aur kyun",
-      "episode": null,
+      "episode": "episodes/2027-01-13.json",
       "feature": "admit-finder"
     },
     {
@@ -74,7 +74,7 @@
       "series": "portal",
       "template": "feature",
       "topic": "Course Finder: country, level, intake filters",
-      "episode": null,
+      "episode": "episodes/2027-01-20.json",
       "feature": "course-finder"
     },
     {
@@ -99,7 +99,7 @@
       "series": "portal",
       "template": "feature",
       "topic": "IELTS Online Test Kit: flashcards aur sample tasks se daily practice",
-      "episode": null,
+      "episode": "episodes/2027-01-27.json",
       "feature": "ielts-kit"
     },
     {

@@ -1,0 +1,133 @@
+{
+  "date": "2026-12-16",
+  "series": "portal",
+  "template": "feature",
+  "musicSeed": 1216,
+  "hook": {
+    "line1": [
+      "Mere",
+      "jaise"
+    ],
+    "line2": [
+      "kaun",
+      "gaya?"
+    ],
+    "highlight": "gaya?",
+    "subline": "Same course, same intake.",
+    "chips": [
+      "B.Tech ECE",
+      "GRE: 310",
+      "Fall"
+    ]
+  },
+  "build": {
+    "beats": [
+      {
+        "speaker": "Senior",
+        "line": "“Mere batch se sab US gaye”"
+      },
+      {
+        "speaker": "Relatives",
+        "line": "“Padosi ka beta UK mein hai”"
+      },
+      {
+        "speaker": "Google",
+        "line": "Stories bahut, data zero."
+      }
+    ],
+    "googleTabs": [
+      "MS admit profile",
+      "low GPA admit",
+      "GRE 310 colleges",
+      "ECE MS USA",
+      "admit chances",
+      "profile evaluation"
+    ],
+    "punchline": {
+      "line1": "Kahaniyan bahut hain.",
+      "line2": "Data kahan hai?"
+    }
+  },
+  "reveal": {
+    "kicker": "Kahani nahi.",
+    "headline": "Data dekho.",
+    "featurePill": "Admit Finder",
+    "clips": [
+      {
+        "kind": "video",
+        "src": "footage/admit-finder/scroll.mp4",
+        "caption": "Real admits, real numbers.",
+        "subcaption": "GPA, GRE, IELTS, result.",
+        "seconds": 3.6,
+        "playbackRate": 1.2
+      },
+      {
+        "kind": "video",
+        "src": "footage/admit-finder/filter.mp4",
+        "caption": "Course aur intake chuno.",
+        "subcaption": "Apne jaise profiles dekho.",
+        "seconds": 3.0,
+        "playbackRate": 1.2
+      }
+    ]
+  },
+  "proof": {
+    "points": [
+      "Accepted aur rejected, dono",
+      "Login ki zaroorat nahi",
+      "100% private. Koi spam call nahi."
+    ]
+  },
+  "closing": {
+    "line1": "Apne jaise dekho,",
+    "line2": "phir decide karo."
+  },
+  "cta": {
+    "button": "Try it free",
+    "url": "app.goeduabroad.com/admit-finder"
+  },
+  "youtube": {
+    "title": "Mere jaise profile wale kahan gaye? Admit Finder dekho",
+    "description": "Seniors aur padosiyon ki kahaniyan bahut hain, data nahi. EduAbroad Admit Finder pe real students ke profiles dekho: GPA, GRE, IELTS ya TOEFL, work experience aur result. Course aur intake se filter karke apne jaise profiles dhundo. Free hai, login ki zaroorat nahi.\n\n👉 https://app.goeduabroad.com/admit-finder\n\nEduAbroad: Run by Harvard-Cambridge Alumni. 100% private. Contact aap karoge, hum nahi.",
+    "tags": [
+      "study abroad",
+      "Indian students",
+      "EduAbroad",
+      "admit finder",
+      "MS in USA",
+      "university admissions"
+    ]
+  },
+  "instagram": {
+    "caption": "Mere jaise kaun gaya? 🤔\n\nKahani nahi, data dekho. Admit Finder pe real profiles, course aur intake filters ke saath. Free, login nahi.\n\n👉 app.goeduabroad.com/admit-finder (link in bio)\n\n#StudyAbroad #IndianStudents #StudyAbroadTips #EduAbroad #Reels"
+  },
+  "claims": [
+    {
+      "text": "Real admits, real numbers. / GPA, GRE, IELTS, result.",
+      "source": "Admit Finder cards show GPA, GRE, English test and result"
+    },
+    {
+      "text": "Course aur intake chuno.",
+      "source": "Admit Finder filters: Intake, Year, Course, Work Experience, Acceptance"
+    },
+    {
+      "text": "Accepted aur rejected, dono / Accepted bhi. Rejected bhi.",
+      "source": "Admit Finder cards show Accepted and Rejected results"
+    },
+    {
+      "text": "Login ki zaroorat nahi",
+      "source": "app.goeduabroad.com/admit-finder loads without login"
+    },
+    {
+      "text": "100% private. Koi spam call nahi.",
+      "source": "Homepage: '100% Private. You initiate contact, not us.'"
+    },
+    {
+      "text": "Try it free",
+      "source": "Admit Finder is public and free"
+    }
+  ],
+  "requiresCapture": [
+    "admit-finder"
+  ]
+}

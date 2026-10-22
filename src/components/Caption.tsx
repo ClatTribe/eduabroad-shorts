@@ -1,6 +1,7 @@
 import React from "react";
 import { useCurrentFrame, useVideoConfig } from "remotion";
 import { pop } from "../anim";
+import { fitSize } from "../text";
 import { SAFE, theme } from "../theme";
 
 /**
@@ -46,7 +47,9 @@ export const Caption: React.FC<{
         <div
           style={{
             marginTop: 14,
-            fontSize: size * 0.72,
+            // one line only, shrunk to fit, so captions never run into the footage below
+            fontSize: Math.min(size * 0.72, fitSize([line2 ?? ""], 60, 760)),
+            whiteSpace: "nowrap",
             fontWeight: 800,
             color: onDark ? theme.color.pinkBorder : undefined,
             backgroundImage: onDark ? undefined : theme.gradient.headlineText,

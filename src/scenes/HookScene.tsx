@@ -41,7 +41,8 @@ export const HookScene: React.FC = () => {
   const { fps } = useVideoConfig();
   const duration = sec(T.hook, fps);
   const words = [...hook.line1, ...hook.line2];
-  const size = fitSize([hook.line1.join(" "), hook.line2.join(" ")], 132, 960);
+  // each popping word has 0.12em margin on both sides
+  const size = fitSize([hook.line1.join(" "), hook.line2.join(" ")], 132, 940, (l) => l.split(" ").length * 0.24);
   const sub = pop(frame, fps, words.length * WORD_GAP + 8);
   const zoom = interpolate(frame, [0, duration], [1, 1.06]);
   const out = exitOut(frame, duration, 5);

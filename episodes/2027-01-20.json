@@ -1,0 +1,124 @@
+{
+  "date": "2027-01-20",
+  "series": "portal",
+  "template": "feature",
+  "musicSeed": 120,
+  "hook": {
+    "line1": [
+      "Kaunsa",
+      "country?"
+    ],
+    "line2": [
+      "Kaunsa",
+      "intake?"
+    ],
+    "highlight": "intake?",
+    "subline": "Sawaal bahut, jawab ek jagah.",
+    "chips": [
+      "Fall?",
+      "Spring?",
+      "UK? USA?"
+    ]
+  },
+  "build": {
+    "beats": [
+      {
+        "speaker": "Senior",
+        "line": "“Fall hi best hai, bas”"
+      },
+      {
+        "speaker": "Relatives",
+        "line": "“Canada jao, sab jaate hain”"
+      },
+      {
+        "speaker": "Google",
+        "line": "Har blog alag bolta hai."
+      }
+    ],
+    "googleTabs": [
+      "fall vs spring",
+      "best country",
+      "intake dates",
+      "MS in UK",
+      "MS in USA",
+      "which intake"
+    ],
+    "punchline": {
+      "line1": "Sab alag bolte hain.",
+      "line2": "Khud dekho."
+    }
+  },
+  "reveal": {
+    "kicker": "Sabki suno.",
+    "headline": "Khud dekho.",
+    "featurePill": "Course Finder",
+    "clips": [
+      {
+        "kind": "video",
+        "src": "footage/course-finder/scroll.mp4",
+        "caption": "Country, level, intake chuno.",
+        "subcaption": "List turant chhoti.",
+        "seconds": 3.6,
+        "playbackRate": 1.2
+      },
+      {
+        "kind": "video",
+        "src": "footage/course-finder/detail.mp4",
+        "caption": "Fees aur intake saath mein.",
+        "subcaption": "Compare karna aasaan.",
+        "seconds": 3.0,
+        "playbackRate": 1.1
+      }
+    ]
+  },
+  "proof": {
+    "points": [
+      "Worldwide programs, ek jagah",
+      "Country, level, intake filters",
+      "100% private. Koi spam call nahi."
+    ]
+  },
+  "closing": {
+    "line1": "Sabki suno,",
+    "line2": "data se chuno."
+  },
+  "cta": {
+    "button": "Explore karo",
+    "url": "app.goeduabroad.com/course-finder"
+  },
+  "youtube": {
+    "title": "Kaunsa country, kaunsa intake? Course Finder se khud dekho",
+    "description": "Sab alag bolte hain, toh khud dekho. EduAbroad Course Finder pe programs aur universities worldwide, country, study level, university aur intake filters ke saath, aur tuition fees bhi.\n\n👉 https://app.goeduabroad.com/course-finder\n\nEduAbroad: Run by Harvard-Cambridge Alumni. 100% private. Contact aap karoge, hum nahi.",
+    "tags": [
+      "study abroad",
+      "Indian students",
+      "EduAbroad",
+      "course finder",
+      "fall vs spring intake"
+    ]
+  },
+  "instagram": {
+    "caption": "Kaunsa country, kaunsa intake? 🌍\n\nSabki suno, data se chuno. Course Finder pe country, level aur intake filters.\n\n👉 app.goeduabroad.com/course-finder (link in bio)\n\n#StudyAbroad #IndianStudents #StudyAbroadTips #EduAbroad #Reels"
+  },
+  "claims": [
+    {
+      "text": "Worldwide programs, ek jagah",
+      "source": "Course Finder page: 'Explore programs and universities worldwide'"
+    },
+    {
+      "text": "Country, level, intake chuno. / Country, level, intake filters",
+      "source": "Course Finder filters: All Countries, All Study Levels, All Universities, All Intakes"
+    },
+    {
+      "text": "Fees aur intake saath mein.",
+      "source": "Course Finder shows Tuition Fees and intakes"
+    },
+    {
+      "text": "100% private. Koi spam call nahi.",
+      "source": "Homepage: '100% Private. You initiate contact, not us.'"
+    }
+  ],
+  "requiresCapture": [
+    "course-finder"
+  ]
+}

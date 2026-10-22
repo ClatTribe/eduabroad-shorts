@@ -69,6 +69,19 @@ async function main() {
       process.exit(1);
     }
     await page.waitForTimeout(1500); // images settle
+    // Pages with the portal's sidebar layout scroll an inner panel, not the window: find it.
+    await page.evaluate(() => {
+      window.__scroller = null;
+      if (document.scrollingElement.scrollHeight > window.innerHeight + 50) return;
+      let best = null;
+      for (const el of document.querySelectorAll("*")) {
+        const st = getComputedStyle(el);
+        if (/(auto|scroll)/.test(st.overflowY) && el.scrollHeight > el.clientHeight + 50) {
+          if (!best || el.clientHeight * el.clientWidth > best.clientHeight * best.clientWidth) best = el;
+        }
+      }
+      window.__scroller = best;
+    });
 
     const tmp = path.join("out/capture-tmp", feature, clipName);
     rmSync(tmp, { recursive: true, force: true });
@@ -91,11 +104,11 @@ async function main() {
         await shoot();
         await repeatLast(Math.max(0, Math.round(step.hold * FPS) - 1));
       } else if (step.scroll !== undefined) {
-        const from = await page.evaluate(() => window.scrollY);
+        const from = await page.evaluate(() => (window.__scroller ? window.__scroller.scrollTop : window.scrollY));
         const frames = Math.max(1, Math.round(step.seconds * FPS));
         for (let i = 1; i <= frames; i++) {
           const y = from + (step.scroll - from) * ease(i / frames);
-          await page.evaluate((yy) => window.scrollTo(0, yy), y);
+          await page.evaluate((yy) => (window.__scroller ? (window.__scroller.scrollTop = yy) : window.scrollTo(0, yy)), y);
           if (frames > 1) await shoot();
         }
         if (frames === 1) await page.waitForTimeout(300);

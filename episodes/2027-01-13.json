@@ -1,0 +1,135 @@
+{
+  "date": "2027-01-13",
+  "series": "portal",
+  "template": "feature",
+  "musicSeed": 113,
+  "hook": {
+    "line1": [
+      "Kaun",
+      "accept,"
+    ],
+    "line2": [
+      "kaun",
+      "reject?"
+    ],
+    "highlight": "reject?",
+    "subline": "Aur kyun? Data batata hai."
+  },
+  "build": {
+    "beats": [
+      {
+        "speaker": "Senior",
+        "line": "“Luck ki baat hai yaar”"
+      },
+      {
+        "speaker": "Relatives",
+        "line": "“Bade college wale hi jaate hain”"
+      },
+      {
+        "speaker": "Google",
+        "line": "Forums pe sab confuse."
+      }
+    ],
+    "googleTabs": [
+      "admit or reject",
+      "why rejected",
+      "MS profile review",
+      "admit chances",
+      "GPA vs GRE",
+      "IELTS score enough"
+    ],
+    "punchline": {
+      "line1": "Andaaze bahut hain.",
+      "line2": "Pattern dekho."
+    }
+  },
+  "reveal": {
+    "kicker": "Luck nahi.",
+    "headline": "Pattern dekho.",
+    "featurePill": "Admit Finder",
+    "clips": [
+      {
+        "kind": "video",
+        "src": "footage/admit-finder/scroll.mp4",
+        "caption": "Accepted bhi. Rejected bhi.",
+        "subcaption": "Real profiles, real numbers.",
+        "seconds": 3.6,
+        "playbackRate": 1.2
+      },
+      {
+        "kind": "card",
+        "card": "admit-rejected",
+        "caption": "IELTS 9. Phir bhi reject.",
+        "subcaption": "Score sab kuch nahi.",
+        "seconds": 1.8
+      },
+      {
+        "kind": "video",
+        "src": "footage/admit-finder/filter.mp4",
+        "caption": "Apna course chuno.",
+        "subcaption": "Pattern khud samjho.",
+        "seconds": 2.4,
+        "playbackRate": 1.3
+      }
+    ]
+  },
+  "proof": {
+    "points": [
+      "Accepted aur rejected, dono dikhte hain",
+      "Login ki zaroorat nahi",
+      "100% private. Koi spam call nahi."
+    ]
+  },
+  "closing": {
+    "line1": "Luck pe nahi,",
+    "line2": "data pe chalo."
+  },
+  "cta": {
+    "button": "Try it free",
+    "url": "app.goeduabroad.com/admit-finder"
+  },
+  "youtube": {
+    "title": "Kaun accept, kaun reject, aur kyun? Admit Finder dekho",
+    "description": "Admission luck nahi, pattern hai. EduAbroad Admit Finder pe real students ke accepted aur rejected dono profiles hain, GPA, GRE, IELTS ya TOEFL aur work experience ke saath. Ek profile mein IELTS 9 tha, phir bhi reject. Score sab kuch nahi. Free hai, login ki zaroorat nahi.\n\n👉 https://app.goeduabroad.com/admit-finder\n\nEduAbroad: Run by Harvard-Cambridge Alumni. 100% private. Contact aap karoge, hum nahi.",
+    "tags": [
+      "study abroad",
+      "Indian students",
+      "EduAbroad",
+      "admit finder",
+      "admission chances",
+      "IELTS"
+    ]
+  },
+  "instagram": {
+    "caption": "Kaun accept, kaun reject? 🤔\n\nLuck nahi, pattern. Admit Finder pe accepted aur rejected dono profiles. IELTS 9 wala bhi reject hua hai.\n\n👉 app.goeduabroad.com/admit-finder (link in bio)\n\n#StudyAbroad #IndianStudents #StudyAbroadTips #EduAbroad #Reels"
+  },
+  "claims": [
+    {
+      "text": "IELTS 9. Phir bhi reject.",
+      "source": "Real Tufts card on Admit Finder (IELTS 9, Rejected), recorded 2026-10-22"
+    },
+    {
+      "text": "Real profiles, real numbers.",
+      "source": "Admit Finder cards show GPA, GRE, English test and result"
+    },
+    {
+      "text": "Accepted aur rejected, dono / Accepted bhi. Rejected bhi.",
+      "source": "Admit Finder cards show Accepted and Rejected results"
+    },
+    {
+      "text": "Login ki zaroorat nahi",
+      "source": "app.goeduabroad.com/admit-finder loads without login"
+    },
+    {
+      "text": "100% private. Koi spam call nahi.",
+      "source": "Homepage: '100% Private. You initiate contact, not us.'"
+    },
+    {
+      "text": "Try it free",
+      "source": "Admit Finder is public and free"
+    }
+  ],
+  "requiresCapture": [
+    "admit-finder"
+  ]
+}

@@ -7,9 +7,9 @@
       "day": "Wed",
       "series": "portal",
       "template": "feature",
-      "topic": "Magazine: roz updated country guides aur visa tips, free",
-      "episode": null,
-      "feature": "magazine"
+      "topic": "Study Materials: GMAT, PTE, TOEFL guides + Digital SAT practice",
+      "episode": "episodes/2026-12-02.json",
+      "feature": "study-material"
     },
     {
       "date": "2026-12-04",
@@ -32,9 +32,9 @@
       "day": "Wed",
       "series": "portal",
       "template": "feature",
-      "topic": "Study Materials: free GMAT, PTE, TOEFL, Digital SAT guides",
-      "episode": null,
-      "feature": "study-material"
+      "topic": "Fly & Settle: loan, visa, forex, insurance ek jagah",
+      "episode": "episodes/2026-12-09.json",
+      "feature": "fly-settle"
     },
     {
       "date": "2026-12-11",
@@ -57,9 +57,9 @@
       "day": "Wed",
       "series": "portal",
       "template": "feature",
-      "topic": "Fly & Settle: accommodation, visa, pick-up, loans, forex, insurance ek jagah",
-      "episode": null,
-      "feature": "fly-settle"
+      "topic": "Admit Finder: mere jaise kaun gaya? (course + intake filter)",
+      "episode": "episodes/2026-12-16.json",
+      "feature": "admit-finder"
     },
     {
       "date": "2026-12-18",
@@ -82,9 +82,9 @@
       "day": "Wed",
       "series": "portal",
       "template": "feature",
-      "topic": "Admit Finder: apne college ke admits dekho (filter by course/intake)",
-      "episode": null,
-      "feature": "admit-finder"
+      "topic": "Course Finder: budget kam, sapne bade (fees first)",
+      "episode": "episodes/2026-12-23.json",
+      "feature": "course-finder"
     },
     {
       "date": "2026-12-25",
@@ -107,9 +107,9 @@
       "day": "Wed",
       "series": "portal",
       "template": "feature",
-      "topic": "Course Finder: budget ke andar shortlist",
-      "episode": null,
-      "feature": "course-finder"
+      "topic": "Fly & Settle: pehla din abroad (accommodation, pick-up, job)",
+      "episode": "episodes/2026-12-30.json",
+      "feature": "fly-settle"
     }
   ]
 }

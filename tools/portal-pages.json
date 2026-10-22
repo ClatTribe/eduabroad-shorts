@@ -195,7 +195,8 @@
       "Magazine"
     ],
     "mustNotSee": [
-      "Failed to fetch"
+      "Failed to fetch",
+      "Coming soon"
     ],
     "clips": {
       "scroll": [
@@ -219,13 +220,29 @@
     ],
     "mustNotSee": [],
     "clips": {
+      "featured": [
+        {
+          "hold": 0.6
+        },
+        {
+          "scroll": 900,
+          "seconds": 2.6
+        },
+        {
+          "hold": 0.8
+        }
+      ],
       "scroll": [
+        {
+          "scroll": 1000,
+          "seconds": 0.01
+        },
         {
           "hold": 0.4
         },
         {
-          "scroll": 2600,
-          "seconds": 4.2
+          "scroll": 2800,
+          "seconds": 2.4
         },
         {
           "hold": 0.4
@@ -240,18 +257,35 @@
     ],
     "mustNotSee": [],
     "clips": {
-      "scroll": [
+      "services": [
+        {
+          "hold": 0.5
+        },
+        {
+          "scroll": 1500,
+          "seconds": 3.4
+        },
+        {
+          "hold": 0.6
+        }
+      ],
+      "expert": [
+        {
+          "scroll": 1700,
+          "seconds": 0.01
+        },
         {
           "hold": 0.4
         },
         {
-          "scroll": 2200,
-          "seconds": 4.2
+          "scroll": 3200,
+          "seconds": 2.2
         },
         {
-          "hold": 0.4
+          "hold": 0.8
         }
       ]
-    }
+    },
+    "_note": "Do not quote 'best rates' or 'competitive interest rates' from this page; only name the services."
   }
 }
