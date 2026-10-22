@@ -1,0 +1,41 @@
+{
+  "date": "2026-11-02",
+  "content": {
+    "type": "checklist",
+    "title": "Apply karne wale ho?",
+    "highlight": "Ye 5 documents ready?",
+    "subtitle": "Last week mein dhoondhoge toh deadline nikal jaayegi.",
+    "steps": [
+      {
+        "title": "Passport",
+        "detail": "Valid hona chahiye aur naam baaki documents se match kare. Expiry date abhi check karo.",
+        "tip": "Spelling ka mismatch sabse common galti hai."
+      },
+      {
+        "title": "Marksheets aur transcripts",
+        "detail": "Har semester ki copies scan karke ek folder mein. Official transcript ka process college se pehle pooch lo."
+      },
+      {
+        "title": "Test score reports",
+        "detail": "IELTS, TOEFL, PTE ya GRE, jo bhi diya. Score report ka PDF aur login details sambhal ke rakho."
+      },
+      {
+        "title": "Updated resume",
+        "detail": "Saaf format, seedhi lines. Projects, internships aur achievements upar rakho."
+      },
+      {
+        "title": "SOP aur LOR drafts",
+        "detail": "Final na ho toh bhi chalega. Draft ready hai toh editing ka time milta hai.",
+        "tip": "Har file ka naam aisa rakho: Naam_Document_University."
+      }
+    ],
+    "saveLine": "apply karte waqt kaam aayega."
+  },
+  "caption": "Application season mein sabse zyada time documents dhoondhne mein jaata hai. Ye 5 abhi ready karo 👇\n\n1. Passport\n2. Marksheets aur transcripts\n3. Test score reports\n4. Updated resume\n5. SOP aur LOR drafts\n\nSave karo 📌 aur us dost ko bhejo jise iski zaroorat hai.\n\n👉 app.goeduabroad.com\n\n#StudyAbroad #IndianStudents #StudyAbroadTips #EduAbroad #StudyAbroadChecklist",
+  "claims": [
+    {
+      "text": "Ye 5 documents ready?",
+      "source": "count of items in this post"
+    }
+  ]
+}

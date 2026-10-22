@@ -1,0 +1,40 @@
+{
+  "date": "2026-11-16",
+  "content": {
+    "type": "checklist",
+    "title": "Application resume",
+    "highlight": "5 steps mein ready.",
+    "subtitle": "Job wala resume aur application wala resume thoda alag hota hai.",
+    "steps": [
+      {
+        "title": "Chhota rakho",
+        "detail": "Zyada lamba hoga toh zaroori cheezein chhup jaayengi. Jo course se juda hai, wahi rakho."
+      },
+      {
+        "title": "Education sabse upar",
+        "detail": "Degree, college aur score pehle. Uske baad projects aur experience."
+      },
+      {
+        "title": "Projects ka result likho",
+        "detail": "Kya banaya, kaunse tools use kiye aur result kya nikla. Chhoti, seedhi lines."
+      },
+      {
+        "title": "Course se match karo",
+        "detail": "Data Science ke liye apply kar rahe ho? Data wale projects pehle dikhao."
+      },
+      {
+        "title": "Simple format",
+        "detail": "Ek font, saaf headings, PDF mein bhejo. Fancy design ki zaroorat nahi.",
+        "tip": "File ka naam: Naam_Resume.pdf"
+      }
+    ],
+    "saveLine": "apply se pehle kaam aayega."
+  },
+  "caption": "Application ke liye resume bana rahe ho? Ye 5 steps follow karo 👇\n\n1. Chhota rakho\n2. Education sabse upar\n3. Projects ka result likho\n4. Course se match karo\n5. Simple format\n\nSave karo 📌 aur us dost ko bhejo jise iski zaroorat hai.\n\n👉 app.goeduabroad.com\n\n#StudyAbroad #IndianStudents #StudyAbroadTips #EduAbroad #StudyAbroadChecklist",
+  "claims": [
+    {
+      "text": "5 steps mein ready.",
+      "source": "count of items in this post"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "date": "2027-01-18",
+  "content": {
+    "type": "checklist",
+    "title": "Deadlines bhool jaate ho?",
+    "highlight": "Tracker banao.",
+    "subtitle": "Ek sheet, 5 columns, zero tension.",
+    "steps": [
+      {
+        "title": "University aur course",
+        "detail": "Har row mein ek application. Naam bilkul wahi jo portal pe hai."
+      },
+      {
+        "title": "Deadline",
+        "detail": "Application aur scholarship, dono ki dates. Timezone ke saath."
+      },
+      {
+        "title": "Documents",
+        "detail": "Kya bhej diya, kya baaki hai. Chhote tick marks kaafi hain."
+      },
+      {
+        "title": "Application fee",
+        "detail": "Kitni hai aur di ya nahi. Payment ka receipt bhi save karo."
+      },
+      {
+        "title": "Status",
+        "detail": "Submitted, interview, result. Har hafte ek baar update karo.",
+        "tip": "Sheet ko phone pe bhi pin kar lo."
+      }
+    ],
+    "saveLine": "apply karte waqt kaam aayega."
+  },
+  "caption": "Kai universities, kai deadlines, ek dimaag. Ek simple tracker banao 👇\n\n1. University aur course\n2. Deadline\n3. Documents\n4. Application fee\n5. Status\n\nSave karo 📌 aur us dost ko bhejo jise iski zaroorat hai.\n\n👉 app.goeduabroad.com\n\n#StudyAbroad #IndianStudents #StudyAbroadTips #EduAbroad #StudyAbroadChecklist",
+  "claims": [
+    {
+      "text": "Tracker banao.",
+      "source": "count of items in this post"
+    },
+    {
+      "text": "Ek sheet, 5 columns, zero tension.",
+      "source": "count of columns in this post"
+    }
+  ]
+}

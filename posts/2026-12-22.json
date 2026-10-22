@@ -1,0 +1,29 @@
+{
+  "date": "2026-12-22",
+  "content": {
+    "type": "admit-guess",
+    "university": "University of Cincinnati",
+    "course": "Computer Engineering",
+    "intake": "Fall 2025",
+    "major": "CS",
+    "stats": [
+      {
+        "label": "GPA",
+        "value": "8.41/10"
+      },
+      {
+        "label": "GRE",
+        "value": "324"
+      }
+    ],
+    "result": "Rejected",
+    "takeaway": "GRE 324 ke saath bhi reject. Isliye shortlist mein alag level ki universities rakho."
+  },
+  "caption": "Ye profile dekho. Admit mila ya nahi? 🤔\n\nComment mein jawab do, phir swipe karke dekho 👉\n\nYe real profile hai EduAbroad Admit Finder se (undergrad college hidden). Aur profiles free mein dekho, login ki zaroorat nahi.\n\n👉 app.goeduabroad.com/admit-finder\n\n#StudyAbroad #IndianStudents #StudyAbroadTips #EduAbroad #AdmitFinder",
+  "claims": [
+    {
+      "text": "University of Cincinnati · Computer Engineering · Fall 2025 · GPA 8.41/10 · GRE 324 · Rejected",
+      "source": "Real card on Admit Finder, recorded 2026-10-22"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "date": "2026-12-10",
+  "content": {
+    "type": "versus",
+    "title": "Aage kya padhein?",
+    "highlight": "MS vs MBA",
+    "left": "MS",
+    "right": "MBA",
+    "rows": [
+      {
+        "label": "Focus",
+        "left": "Technical, ek subject",
+        "right": "Business aur management"
+      },
+      {
+        "label": "Work ex",
+        "left": "Aksar zaroori nahi",
+        "right": "Aksar chahiye hota hai"
+      },
+      {
+        "label": "Class",
+        "left": "Labs, projects, research",
+        "right": "Case studies, discussions"
+      },
+      {
+        "label": "Kiske liye",
+        "left": "Specialist banna hai",
+        "right": "Team aur business chalana"
+      }
+    ],
+    "bottomLine": "Dono acche hain. Sawaal ye hai ki kuch saal baad aap kya kaam karna chahte ho."
+  },
+  "caption": "MS ya MBA? Ye confusion bahut common hai.\n\nAap kis taraf ho? Comment karo 👇\n\n👉 app.goeduabroad.com\n\n#StudyAbroad #IndianStudents #StudyAbroadTips #EduAbroad #MastersAbroad",
+  "claims": []
+}

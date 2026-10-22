@@ -1,0 +1,29 @@
+{
+  "date": "2026-11-24",
+  "content": {
+    "type": "admit-guess",
+    "university": "Texas A&M University, College Station",
+    "course": "Computer Engineering",
+    "intake": "Spring 2025",
+    "major": "CS",
+    "stats": [
+      {
+        "label": "GPA",
+        "value": "8.2/10"
+      },
+      {
+        "label": "GRE",
+        "value": "327"
+      }
+    ],
+    "result": "Rejected",
+    "takeaway": "GRE 327 ke saath bhi reject. Ek university ka result poori kahani nahi batata."
+  },
+  "caption": "Guess karo: accept ya reject? 🤔\n\nComment mein jawab do, phir swipe karke dekho 👉\n\nYe real profile hai EduAbroad Admit Finder se (undergrad college hidden). Aur profiles free mein dekho, login ki zaroorat nahi.\n\n👉 app.goeduabroad.com/admit-finder\n\n#StudyAbroad #IndianStudents #StudyAbroadTips #EduAbroad #AdmitFinder",
+  "claims": [
+    {
+      "text": "Texas A&M University, College Station · Computer Engineering · Spring 2025 · GPA 8.2/10 · GRE 327 · Rejected",
+      "source": "Real card on Admit Finder, recorded 2026-10-22"
+    }
+  ]
+}

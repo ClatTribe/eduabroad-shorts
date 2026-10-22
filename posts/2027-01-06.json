@@ -1,0 +1,42 @@
+{
+  "date": "2027-01-06",
+  "content": {
+    "type": "feature",
+    "feature": "Scholarship Finder",
+    "promise": "Naye saal ka funding plan.",
+    "screenshot": "footage/scholarship-finder/still.png",
+    "screenshotCaption": "Profile bharo, match pao",
+    "capture": {
+      "feature": "scholarship-finder",
+      "clip": "scroll",
+      "at": 0.3
+    },
+    "benefits": [
+      "Profile se personal recommendations",
+      "Scholarships worldwide, ek list",
+      "Country aur level se filter"
+    ],
+    "howTo": [
+      "app.goeduabroad.com/scholarship-finder kholo",
+      "Apna profile complete karo",
+      "Recommended For You dekho"
+    ],
+    "button": "Dhoondo",
+    "url": "app.goeduabroad.com/scholarship-finder"
+  },
+  "caption": "Naya saal, naya plan. Is baar funding pehle.\n\nScholarship Finder pe profile complete karo aur apne liye recommended scholarships dekho. Country aur level se filter bhi.\n\n👉 app.goeduabroad.com/scholarship-finder\n\n#StudyAbroad #IndianStudents #StudyAbroadTips #EduAbroad #Scholarships",
+  "claims": [
+    {
+      "text": "Profile se personal recommendations / Profile bharo, match pao / Recommended For You",
+      "source": "Scholarship Finder: 'Recommended For You (Complete profile)'"
+    },
+    {
+      "text": "Scholarships worldwide, ek list",
+      "source": "Scholarship Finder page: 'Discover scholarships from top universities and institutions worldwide'"
+    },
+    {
+      "text": "Scholarship Finder pe country aur level se filter",
+      "source": "Scholarship Finder filters: All Countries, All Levels"
+    }
+  ]
+}

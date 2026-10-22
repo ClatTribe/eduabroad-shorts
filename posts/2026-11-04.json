@@ -1,0 +1,45 @@
+{
+  "date": "2026-11-04",
+  "content": {
+    "type": "feature",
+    "feature": "Admit Finder",
+    "promise": "Real admits. Real numbers.",
+    "screenshot": "footage/admit-finder/card-accepted.png",
+    "screenshotCaption": "Real students ke profiles",
+    "screenshotBlur": [
+      {
+        "x": 76,
+        "y": 578,
+        "w": 520,
+        "h": 46
+      }
+    ],
+    "benefits": [
+      "Accepted aur rejected, dono dikhte hain",
+      "GPA, GRE, IELTS, work ex, sab",
+      "Free, login ki zaroorat nahi"
+    ],
+    "howTo": [
+      "app.goeduabroad.com/admit-finder kholo",
+      "Course aur intake se filter karo",
+      "Apne jaise profiles dekho"
+    ],
+    "button": "Try it free",
+    "url": "app.goeduabroad.com/admit-finder"
+  },
+  "caption": "Mera profile kaafi hai kya? Opinions nahi, proof dekho.\n\nAdmit Finder pe real students ke profiles: GPA, GRE, IELTS, work ex aur result. Accepted bhi, rejected bhi.\n\nFree hai, login nahi chahiye 👉 app.goeduabroad.com/admit-finder\n\n#StudyAbroad #IndianStudents #StudyAbroadTips #EduAbroad",
+  "claims": [
+    {
+      "text": "Accepted aur rejected, dono dikhte hain",
+      "source": "Admit Finder cards show Accepted and Rejected"
+    },
+    {
+      "text": "GPA, GRE, IELTS, work ex, sab",
+      "source": "Admit Finder cards: GPA, GRE, English Test, Work Exp"
+    },
+    {
+      "text": "Free, login ki zaroorat nahi",
+      "source": "Admit Finder is public, loads without login"
+    }
+  ]
+}

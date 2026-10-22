@@ -1,0 +1,30 @@
+{
+  "date": "2026-11-15",
+  "content": {
+    "type": "parents",
+    "label": "Har mummy papa ka sawaal",
+    "question": "Itna kharcha kaise manage hoga?",
+    "answers": [
+      {
+        "title": "Saath mein budget sheet",
+        "detail": "Tuition, rent, khaana aur travel. Saath baith ke ek sheet pe likho, andaaza nahi."
+      },
+      {
+        "title": "Funding ke teen raaste",
+        "detail": "Savings, scholarship aur education loan. Teeno ko milake plan banao."
+      },
+      {
+        "title": "Scholarships pehle dhoondo",
+        "detail": "Scholarship Finder pe country aur level se filter karke saath mein dekho."
+      }
+    ],
+    "closing": "ye post bhejo."
+  },
+  "caption": "\"Itna kharcha kaise manage hoga?\" 💛\n\nPaise ki baat sabse pehle aati hai, aur sahi bhi hai. 3 seedhe jawab jo tension kam karenge.\n\nMummy Papa ko ye post bhejo 👇\n\n👉 app.goeduabroad.com\n\n#StudyAbroad #IndianParents #StudyAbroadTips #EduAbroad",
+  "claims": [
+    {
+      "text": "Scholarship Finder pe country aur level se filter",
+      "source": "Scholarship Finder filters: All Countries, All Levels"
+    }
+  ]
+}

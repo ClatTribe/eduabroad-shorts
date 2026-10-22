@@ -1,0 +1,35 @@
+{
+  "date": "2026-11-26",
+  "content": {
+    "type": "versus",
+    "title": "Kahan padhna hai?",
+    "highlight": "Bada vs chhota shehar",
+    "left": "Bada shehar",
+    "right": "Chhota shehar",
+    "rows": [
+      {
+        "label": "Kharcha",
+        "left": "Rent aksar zyada",
+        "right": "Aksar kam"
+      },
+      {
+        "label": "Campus life",
+        "left": "Shehar mein bikhri hui",
+        "right": "Campus hi centre"
+      },
+      {
+        "label": "Aana jaana",
+        "left": "Lamba ho sakta hai",
+        "right": "Aksar paidal ya cycle"
+      },
+      {
+        "label": "Mahaul",
+        "left": "Bheed, speed, variety",
+        "right": "Shaant, padhai pe focus"
+      }
+    ],
+    "bottomLine": "Shehar se zyada course aur kharcha dekho. Wahan padh rahe seniors se baat karo."
+  },
+  "caption": "Bade shehar ki chamak ya chhote shehar ka sukoon?\n\nAapko kya pasand hai? Comment karo 👇\n\n👉 app.goeduabroad.com\n\n#StudyAbroad #IndianStudents #StudyAbroadTips #EduAbroad #StudentLife",
+  "claims": []
+}

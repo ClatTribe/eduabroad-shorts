@@ -1,0 +1,35 @@
+{
+  "date": "2026-12-31",
+  "content": {
+    "type": "versus",
+    "title": "Rehna kiske saath?",
+    "highlight": "Flatmates vs Akele",
+    "left": "Flatmates",
+    "right": "Akele",
+    "rows": [
+      {
+        "label": "Kharcha",
+        "left": "Rent baant jaata hai",
+        "right": "Poora rent khud"
+      },
+      {
+        "label": "Privacy",
+        "left": "Kam",
+        "right": "Poori"
+      },
+      {
+        "label": "Saath",
+        "left": "Akelapan kam",
+        "right": "Shuru mein akela lag sakta hai"
+      },
+      {
+        "label": "Rules",
+        "left": "Safai, bills pe settlement",
+        "right": "Apne rules, apni marzi"
+      }
+    ],
+    "bottomLine": "Pehle saal flatmates ke saath aasaan rehta hai. Bills aur safai ke rules pehle din tay karo."
+  },
+  "caption": "Flatmates ke saath ya akele? Dono ka apna maza aur apni dikkat.\n\nAap kya chunoge? Comment karo 👇\n\n👉 app.goeduabroad.com\n\n#StudyAbroad #IndianStudents #StudyAbroadTips #EduAbroad #StudentLife",
+  "claims": []
+}

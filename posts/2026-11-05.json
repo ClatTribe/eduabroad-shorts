@@ -1,0 +1,35 @@
+{
+  "date": "2026-11-05",
+  "content": {
+    "type": "versus",
+    "title": "Rehna kahan hai?",
+    "highlight": "On vs off campus",
+    "left": "On-campus",
+    "right": "Off-campus",
+    "rows": [
+      {
+        "label": "Setup",
+        "left": "Ready, aasaan shuruaat",
+        "right": "Khud dhundna padta hai"
+      },
+      {
+        "label": "Kharcha",
+        "left": "Aksar fixed package",
+        "right": "Flatmates ke saath kam ho sakta hai"
+      },
+      {
+        "label": "Campus",
+        "left": "Bilkul paas",
+        "right": "Location pe depend"
+      },
+      {
+        "label": "Azaadi",
+        "left": "Rules zyada",
+        "right": "Zyada freedom"
+      }
+    ],
+    "bottomLine": "Pehle saal ke liye on-campus aasaan rehta hai. Lease hamesha padh ke sign karo."
+  },
+  "caption": "On-campus ya off-campus? 🏠\n\nDono ke apne fayde hain. Pehle saal ke liye on-campus aasaan, baad mein off-campus mein zyada options.\n\nAap kya chunoge? Comment karo 👇\n\n👉 app.goeduabroad.com\n\n#StudyAbroad #IndianStudents #StudyAbroadTips #EduAbroad",
+  "claims": []
+}

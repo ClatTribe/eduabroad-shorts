@@ -1,0 +1,45 @@
+{
+  "date": "2026-12-09",
+  "content": {
+    "type": "feature",
+    "feature": "Fly & Settle",
+    "promise": "Loan, visa, forex, insurance.",
+    "screenshot": "post-shots/fly-settle-services.png",
+    "screenshotCaption": "Sab services ek jagah",
+    "benefits": [
+      "Education loan assistance",
+      "Visa process mein expert guidance",
+      "Travel aur health insurance"
+    ],
+    "howTo": [
+      "Fly & Settle page kholo",
+      "Service chuno, Learn More dabao",
+      "Confused? Talk to an Expert"
+    ],
+    "button": "Baat karo",
+    "url": "app.goeduabroad.com/fly-&-settle-services"
+  },
+  "caption": "Admit mil gaya. Ab loan, visa, forex aur insurance ka kya?\n\nFly & Settle pe ye sab services ek jagah. Samajh na aaye toh Talk to an Expert pe click karo.\n\n👉 app.goeduabroad.com/fly-&-settle-services\n\n#StudyAbroad #IndianStudents #StudyAbroadTips #EduAbroad #StudentVisa",
+  "claims": [
+    {
+      "text": "Loan, visa, forex, insurance. / Sab services ek jagah",
+      "source": "Fly & Settle page lists Loans, Accommodation, Visa Assistance, Forex, Insurance, Pick Up Services, Job Assistance"
+    },
+    {
+      "text": "Education loan assistance",
+      "source": "Fly & Settle page: 'Get financial assistance for your education abroad'"
+    },
+    {
+      "text": "Visa process mein expert guidance",
+      "source": "Fly & Settle page: 'Our experts will guide you through every step of your application'"
+    },
+    {
+      "text": "Fly & Settle: travel aur health insurance",
+      "source": "Fly & Settle page: 'comprehensive travel and health insurance coverage tailored for international students'"
+    },
+    {
+      "text": "Talk to an Expert",
+      "source": "Fly & Settle page button: 'Talk to an Expert'"
+    }
+  ]
+}

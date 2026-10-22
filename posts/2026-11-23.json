@@ -1,0 +1,44 @@
+{
+  "date": "2026-11-23",
+  "content": {
+    "type": "checklist",
+    "title": "Kal test hai?",
+    "highlight": "Ye 5 kaam aaj karo.",
+    "subtitle": "Taiyari ho gayi. Ab bas chhoti galtiyon se bachna hai.",
+    "steps": [
+      {
+        "title": "ID check karo",
+        "detail": "Wahi ID le jao jo registration mein di thi. Naam ki spelling bhi match karo."
+      },
+      {
+        "title": "Centre ka rasta dekho",
+        "detail": "Wahan pahunchne mein kitna time lagega, aaj hi check karo. Kal jaldi niklo."
+      },
+      {
+        "title": "Poori neend lo",
+        "detail": "Raat bhar padhne se kuch naya nahi aayega. Fresh dimaag zyada kaam aata hai."
+      },
+      {
+        "title": "Halka revision",
+        "detail": "Naya topic mat kholo. Apne notes aur purani galtiyan dekh lo.",
+        "tip": "IELTS kit ke Failure Patterns ek baar padh lo."
+      },
+      {
+        "title": "Bag raat ko pack karo",
+        "detail": "ID, confirmation email aur paani. Jo allowed hai, wahi rakho. Subah ki bhaag daud bachegi."
+      }
+    ],
+    "saveLine": "test se pehle kaam aayega."
+  },
+  "caption": "Kal IELTS, TOEFL ya GRE hai? Aaj ye 5 kaam kar lo, kal tension kam hogi 👇\n\n1. ID check\n2. Centre ka rasta\n3. Poori neend\n4. Halka revision\n5. Bag raat ko pack\n\nSave karo 📌 aur us dost ko bhejo jise iski zaroorat hai.\n\n👉 app.goeduabroad.com\n\n#StudyAbroad #IndianStudents #StudyAbroadTips #EduAbroad #IELTS",
+  "claims": [
+    {
+      "text": "Ye 5 kaam aaj karo.",
+      "source": "count of items in this post"
+    },
+    {
+      "text": "IELTS kit ka Failure Patterns tab",
+      "source": "IELTS kit 'Failure Patterns' tab"
+    }
+  ]
+}

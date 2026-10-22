@@ -1,0 +1,35 @@
+{
+  "date": "2027-01-07",
+  "content": {
+    "type": "versus",
+    "title": "Course kitna lamba?",
+    "highlight": "Chhota vs Lamba course",
+    "left": "Chhota course",
+    "right": "Lamba course",
+    "rows": [
+      {
+        "label": "Kharcha",
+        "left": "Kam time, kam rent",
+        "right": "Zyada time, zyada kharcha"
+      },
+      {
+        "label": "Pace",
+        "left": "Tez, packed schedule",
+        "right": "Aaram se, zyada subjects"
+      },
+      {
+        "label": "Internship",
+        "left": "Time kam milta hai",
+        "right": "Beech mein mauka ho sakta hai"
+      },
+      {
+        "label": "Job",
+        "left": "Jaldi entry",
+        "right": "Zyada taiyari ke saath"
+      }
+    ],
+    "bottomLine": "Course ki length country aur university pe depend karti hai. Sirf duration nahi, modules dekho."
+  },
+  "caption": "Chhota course ya lamba? Sasta hamesha behtar nahi, lamba hamesha zaroori nahi.\n\nAap kya chunoge? Comment karo 👇\n\n👉 app.goeduabroad.com\n\n#StudyAbroad #IndianStudents #StudyAbroadTips #EduAbroad #MastersAbroad",
+  "claims": []
+}

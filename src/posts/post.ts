@@ -34,6 +34,8 @@ export type PostContent =
       /** Areas of the screenshot to blur (pixels of the original image), e.g. a student's college. */
       screenshotBlur?: { x: number; y: number; w: number; h: number }[];
       screenshotWidth?: number; // original pixel width of the screenshot (default 798)
+      /** Refresh the screenshot on the posting day: film this portal clip and use the frame at `at` seconds. */
+      capture?: { feature: string; clip: string; at: number };
       benefits: string[];
       howTo: string[];
       button: string;

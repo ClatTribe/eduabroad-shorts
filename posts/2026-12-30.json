@@ -1,0 +1,37 @@
+{
+  "date": "2026-12-30",
+  "content": {
+    "type": "feature",
+    "feature": "Fly & Settle",
+    "promise": "Pehla din abroad, aasaan.",
+    "screenshot": "post-shots/fly-settle-arrival.png",
+    "screenshotCaption": "Pick-up se job support tak",
+    "benefits": [
+      "Campus ke paas verified options",
+      "Airport pick-up service",
+      "Resume aur job support"
+    ],
+    "howTo": [
+      "Fly & Settle page kholo",
+      "Accommodation ya Pick Up chuno",
+      "Learn More dabao, details dekho"
+    ],
+    "button": "Baat karo",
+    "url": "app.goeduabroad.com/fly-&-settle-services"
+  },
+  "caption": "Flight land hui. Ab rehna kahan hai, airport se kaise jaana hai?\n\nFly & Settle pe campus ke paas verified accommodation, airport pick-up aur baad mein job support.\n\n👉 app.goeduabroad.com/fly-&-settle-services\n\n#StudyAbroad #IndianStudents #StudyAbroadTips #EduAbroad #StudentLife",
+  "claims": [
+    {
+      "text": "Campus ke paas verified options",
+      "source": "Fly & Settle page: 'verified accommodation options near your university campus'"
+    },
+    {
+      "text": "Airport pick-up service / Pick-up",
+      "source": "Fly & Settle page: 'airport pickup services'"
+    },
+    {
+      "text": "Resume aur job support",
+      "source": "Fly & Settle page: 'career guidance, resume help, and job placement support'"
+    }
+  ]
+}

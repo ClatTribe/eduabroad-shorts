@@ -1,0 +1,45 @@
+{
+  "date": "2027-01-04",
+  "content": {
+    "type": "checklist",
+    "title": "Mock test dena hai?",
+    "highlight": "Aise do, fayda hoga.",
+    "subtitle": "Mock sirf score dekhne ke liye nahi, galtiyan pakadne ke liye hai.",
+    "steps": [
+      {
+        "title": "Asli test jaisa mahaul",
+        "detail": "Timer lagao, phone door rakho, ek baar mein poora test. Beech mein break nahi."
+      },
+      {
+        "title": "Galtiyan likho",
+        "detail": "Har galat answer ke saamne likho kyun galat hua. Time, vocab ya samajh."
+      },
+      {
+        "title": "Pattern dhoondo",
+        "detail": "Ek hi type ki galti baar baar? Asli kaam wahi hai.",
+        "tip": "IELTS kit ka Failure Patterns tab isi ke liye hai."
+      },
+      {
+        "title": "Weak section pe focus",
+        "detail": "Sab kuch dobara mat padho. Jahan marks ja rahe hain, wahan time do."
+      },
+      {
+        "title": "Phir se mock",
+        "detail": "Kuch din practice ke baad agla mock. Farak khud dikhega.",
+        "tip": "IELTS kit mein free full mock hai, sign up karke."
+      }
+    ],
+    "saveLine": "practice mein kaam aayega."
+  },
+  "caption": "Mock test diya, score dekha, aage badh gaye? Aise mat karo. Mock ka sahi tareeka 👇\n\n1. Asli test jaisa mahaul\n2. Galtiyan likho\n3. Pattern dhoondo\n4. Weak section pe focus\n5. Phir se mock\n\nSave karo 📌 aur us dost ko bhejo jise iski zaroorat hai.\n\n👉 app.goeduabroad.com\n\n#StudyAbroad #IndianStudents #StudyAbroadTips #EduAbroad #IELTS",
+  "claims": [
+    {
+      "text": "IELTS kit ka Failure Patterns tab",
+      "source": "IELTS kit 'Failure Patterns' tab"
+    },
+    {
+      "text": "IELTS kit mein free full mock (sign up karke)",
+      "source": "IELTS kit page: 'Free Full-Length IELTS Mock Test' (needs sign-up)"
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "date": "2026-12-16",
+  "content": {
+    "type": "feature",
+    "feature": "Admit Finder",
+    "promise": "Kaun accept, kaun reject?",
+    "screenshot": "post-shots/admit-tufts.png",
+    "screenshotCaption": "IELTS 9. Phir bhi reject.",
+    "screenshotBlur": [
+      {
+        "x": 76,
+        "y": 592,
+        "w": 400,
+        "h": 46
+      }
+    ],
+    "benefits": [
+      "Accepted aur rejected, dono",
+      "GPA, GRE, IELTS aur result",
+      "Login ki zaroorat nahi"
+    ],
+    "howTo": [
+      "app.goeduabroad.com/admit-finder kholo",
+      "Course aur intake se filter karo",
+      "Apne jaise profiles dekho"
+    ],
+    "button": "Try it free",
+    "url": "app.goeduabroad.com/admit-finder"
+  },
+  "caption": "IELTS 9 aur phir bhi reject. Ye real profile hai, Admit Finder se.\n\nSirf success stories nahi, rejected profiles bhi dikhte hain. Taaki aap sach dekh ke plan karo. Free hai, login nahi chahiye.\n\n👉 app.goeduabroad.com/admit-finder\n\n#StudyAbroad #IndianStudents #StudyAbroadTips #EduAbroad #AdmitFinder",
+  "claims": [
+    {
+      "text": "IELTS 9. Phir bhi reject.",
+      "source": "Real Tufts card on Admit Finder (IELTS 9, Rejected), recorded 2026-10-22"
+    },
+    {
+      "text": "Accepted aur rejected, dono",
+      "source": "Admit Finder cards show Accepted and Rejected results"
+    },
+    {
+      "text": "GPA, GRE, IELTS aur result",
+      "source": "Admit Finder cards show GPA, GRE, English test and result"
+    },
+    {
+      "text": "Login ki zaroorat nahi / Free hai",
+      "source": "app.goeduabroad.com/admit-finder is public and loads without login"
+    }
+  ]
+}

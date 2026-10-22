@@ -1,0 +1,286 @@
+{
+  "month": "2026-12",
+  "postTimeIST": "13:00",
+  "items": [
+    {
+      "date": "2026-12-01",
+      "day": "Tue",
+      "format": "admit-guess",
+      "series": "Guess the Admit",
+      "kind": "carousel",
+      "topic": "Tufts University, Mechanical Engineering (answer: Rejected)",
+      "post": "posts/2026-12-01.json"
+    },
+    {
+      "date": "2026-12-02",
+      "day": "Wed",
+      "format": "feature",
+      "series": "Portal Feature",
+      "kind": "carousel",
+      "topic": "Study Materials: GMAT, PTE, TOEFL guides.",
+      "post": "posts/2026-12-02.json"
+    },
+    {
+      "date": "2026-12-03",
+      "day": "Thu",
+      "format": "versus",
+      "series": "This vs That",
+      "kind": "single",
+      "topic": "Ranking vs Course fit",
+      "post": "posts/2026-12-03.json"
+    },
+    {
+      "date": "2026-12-04",
+      "day": "Fri",
+      "format": "myth",
+      "series": "Myth vs Fact",
+      "kind": "single",
+      "topic": "\"GRE har Masters ke liye zaroori hai\"",
+      "post": "posts/2026-12-04.json"
+    },
+    {
+      "date": "2026-12-05",
+      "day": "Sat",
+      "format": "word",
+      "series": "IELTS Shabd",
+      "kind": "single",
+      "topic": "Flexible (Adaptable, Versatile, Adjustable)",
+      "post": "posts/2026-12-05.json"
+    },
+    {
+      "date": "2026-12-06",
+      "day": "Sun",
+      "format": "parents",
+      "series": "Parents' Corner",
+      "kind": "carousel",
+      "topic": "\"Wahan beemar pade toh?\"",
+      "post": "posts/2026-12-06.json"
+    },
+    {
+      "date": "2026-12-07",
+      "day": "Mon",
+      "format": "checklist",
+      "series": "Seedhi Baat Checklist",
+      "kind": "carousel",
+      "topic": "Do offers aa gaye? Aise compare karo.",
+      "post": "posts/2026-12-07.json"
+    },
+    {
+      "date": "2026-12-08",
+      "day": "Tue",
+      "format": "admit-guess",
+      "series": "Guess the Admit",
+      "kind": "carousel",
+      "topic": "University of Texas, Dallas, Computer Engineering (answer: Accepted)",
+      "post": "posts/2026-12-08.json"
+    },
+    {
+      "date": "2026-12-09",
+      "day": "Wed",
+      "format": "feature",
+      "series": "Portal Feature",
+      "kind": "carousel",
+      "topic": "Fly & Settle: Loan, visa, forex, insurance.",
+      "post": "posts/2026-12-09.json"
+    },
+    {
+      "date": "2026-12-10",
+      "day": "Thu",
+      "format": "versus",
+      "series": "This vs That",
+      "kind": "single",
+      "topic": "MS vs MBA",
+      "post": "posts/2026-12-10.json"
+    },
+    {
+      "date": "2026-12-11",
+      "day": "Fri",
+      "format": "myth",
+      "series": "Myth vs Fact",
+      "kind": "single",
+      "topic": "\"Ghar wahan jaake dhoondh lenge\"",
+      "post": "posts/2026-12-11.json"
+    },
+    {
+      "date": "2026-12-12",
+      "day": "Sat",
+      "format": "word",
+      "series": "IELTS Shabd",
+      "kind": "single",
+      "topic": "Persuade (Convince, Influence, Sway)",
+      "post": "posts/2026-12-12.json"
+    },
+    {
+      "date": "2026-12-13",
+      "day": "Sun",
+      "format": "parents",
+      "series": "Parents' Corner",
+      "kind": "carousel",
+      "topic": "\"Itni door padhai pe focus karoge?\"",
+      "post": "posts/2026-12-13.json"
+    },
+    {
+      "date": "2026-12-14",
+      "day": "Mon",
+      "format": "checklist",
+      "series": "Seedhi Baat Checklist",
+      "kind": "carousel",
+      "topic": "University ko email? Ye 5 rules yaad rakho.",
+      "post": "posts/2026-12-14.json"
+    },
+    {
+      "date": "2026-12-15",
+      "day": "Tue",
+      "format": "admit-guess",
+      "series": "Guess the Admit",
+      "kind": "carousel",
+      "topic": "University of California, San Diego, Computer Engineering (answer: Rejected)",
+      "post": "posts/2026-12-15.json"
+    },
+    {
+      "date": "2026-12-16",
+      "day": "Wed",
+      "format": "feature",
+      "series": "Portal Feature",
+      "kind": "carousel",
+      "topic": "Admit Finder: Kaun accept, kaun reject?",
+      "post": "posts/2026-12-16.json"
+    },
+    {
+      "date": "2026-12-17",
+      "day": "Thu",
+      "format": "versus",
+      "series": "This vs That",
+      "kind": "single",
+      "topic": "Meal plan vs Cooking",
+      "post": "posts/2026-12-17.json"
+    },
+    {
+      "date": "2026-12-18",
+      "day": "Fri",
+      "format": "myth",
+      "series": "Myth vs Fact",
+      "kind": "single",
+      "topic": "\"SOP ka template copy karo, chalega\"",
+      "post": "posts/2026-12-18.json"
+    },
+    {
+      "date": "2026-12-19",
+      "day": "Sat",
+      "format": "word",
+      "series": "IELTS Shabd",
+      "kind": "single",
+      "topic": "Resilient (Strong, Tough, Durable)",
+      "post": "posts/2026-12-19.json"
+    },
+    {
+      "date": "2026-12-20",
+      "day": "Sun",
+      "format": "parents",
+      "series": "Parents' Corner",
+      "kind": "carousel",
+      "topic": "\"Wahan ke log kaise honge?\"",
+      "post": "posts/2026-12-20.json"
+    },
+    {
+      "date": "2026-12-21",
+      "day": "Mon",
+      "format": "checklist",
+      "series": "Seedhi Baat Checklist",
+      "kind": "carousel",
+      "topic": "Shortlist banana hai? 5 steps, simple.",
+      "post": "posts/2026-12-21.json"
+    },
+    {
+      "date": "2026-12-22",
+      "day": "Tue",
+      "format": "admit-guess",
+      "series": "Guess the Admit",
+      "kind": "carousel",
+      "topic": "University of Cincinnati, Computer Engineering (answer: Rejected)",
+      "post": "posts/2026-12-22.json"
+    },
+    {
+      "date": "2026-12-23",
+      "day": "Wed",
+      "format": "feature",
+      "series": "Portal Feature",
+      "kind": "carousel",
+      "topic": "Course Finder: Budget kam, sapne bade.",
+      "post": "posts/2026-12-23.json",
+      "capture": "course-finder"
+    },
+    {
+      "date": "2026-12-24",
+      "day": "Thu",
+      "format": "versus",
+      "series": "This vs That",
+      "kind": "single",
+      "topic": "Job pehle vs Seedha",
+      "post": "posts/2026-12-24.json"
+    },
+    {
+      "date": "2026-12-25",
+      "day": "Fri",
+      "format": "myth",
+      "series": "Myth vs Fact",
+      "kind": "single",
+      "topic": "\"Foreign degree mili toh job pakki\"",
+      "post": "posts/2026-12-25.json"
+    },
+    {
+      "date": "2026-12-26",
+      "day": "Sat",
+      "format": "word",
+      "series": "IELTS Shabd",
+      "kind": "single",
+      "topic": "Significant (Important, Notable, Considerable)",
+      "post": "posts/2026-12-26.json"
+    },
+    {
+      "date": "2026-12-27",
+      "day": "Sun",
+      "format": "parents",
+      "series": "Parents' Corner",
+      "kind": "carousel",
+      "topic": "\"College achha hai, kaise pata chalega?\"",
+      "post": "posts/2026-12-27.json"
+    },
+    {
+      "date": "2026-12-28",
+      "day": "Mon",
+      "format": "checklist",
+      "series": "Seedhi Baat Checklist",
+      "kind": "carousel",
+      "topic": "LOR chahiye? Aise maango.",
+      "post": "posts/2026-12-28.json"
+    },
+    {
+      "date": "2026-12-29",
+      "day": "Tue",
+      "format": "admit-guess",
+      "series": "Guess the Admit",
+      "kind": "carousel",
+      "topic": "Boston University, Mechanical Engineering (answer: Rejected)",
+      "post": "posts/2026-12-29.json"
+    },
+    {
+      "date": "2026-12-30",
+      "day": "Wed",
+      "format": "feature",
+      "series": "Portal Feature",
+      "kind": "carousel",
+      "topic": "Fly & Settle: Pehla din abroad, aasaan.",
+      "post": "posts/2026-12-30.json"
+    },
+    {
+      "date": "2026-12-31",
+      "day": "Thu",
+      "format": "versus",
+      "series": "This vs That",
+      "kind": "single",
+      "topic": "Flatmates vs Akele",
+      "post": "posts/2026-12-31.json"
+    }
+  ]
+}

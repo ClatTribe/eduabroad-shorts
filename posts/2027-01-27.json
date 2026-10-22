@@ -1,0 +1,41 @@
+{
+  "date": "2027-01-27",
+  "content": {
+    "type": "feature",
+    "feature": "IELTS Test Kit",
+    "promise": "Roz thodi practice.",
+    "screenshot": "post-shots/ielts-sample-tasks.png",
+    "screenshotCaption": "Sample tasks, charon sections",
+    "benefits": [
+      "Sample tasks, charon sections",
+      "Daily 25 vocab flashcards",
+      "Free full mock: 151 minutes"
+    ],
+    "howTo": [
+      "IELTS Test Kit page kholo",
+      "Sample Tasks se shuru karo",
+      "Roz flashcards, hafte mein mock"
+    ],
+    "button": "Try it free",
+    "url": "app.goeduabroad.com/ielts-online-test-kit"
+  },
+  "caption": "IELTS ki taiyari roz thodi thodi, ek din mein sab nahi.\n\nIELTS Test Kit mein charon sections ke sample tasks, 25 vocab flashcards aur 151 minute ka full mock (sign up karke).\n\n👉 app.goeduabroad.com/ielts-online-test-kit\n\n#StudyAbroad #IndianStudents #StudyAbroadTips #EduAbroad #IELTS",
+  "claims": [
+    {
+      "text": "Sample tasks, charon sections",
+      "source": "IELTS kit Sample Tasks: Listening, Reading, Speaking, Writing PDFs"
+    },
+    {
+      "text": "Daily 25 vocab flashcards / 25 vocab flashcards",
+      "source": "IELTS kit Flashcards tab: 'Here are 25 IELTS-worthy words'"
+    },
+    {
+      "text": "Free full mock: 151 minutes / 151 minute",
+      "source": "IELTS kit page: 'Free Full-Length IELTS Mock Test... 151 minutes' (needs sign-up, stated in caption)"
+    },
+    {
+      "text": "IELTS kit mein free resources",
+      "source": "IELTS kit page header: 'IELTS FREE LEARNING RESOURCES'"
+    }
+  ]
+}

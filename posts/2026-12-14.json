@@ -1,0 +1,40 @@
+{
+  "date": "2026-12-14",
+  "content": {
+    "type": "checklist",
+    "title": "University ko email?",
+    "highlight": "Ye 5 rules yaad rakho.",
+    "subtitle": "Ek saaf email ka jawab jaldi aata hai.",
+    "steps": [
+      {
+        "title": "Clear subject line",
+        "detail": "Course ka naam aur sawaal ek line mein. Jaise: MS Data Science, document query."
+      },
+      {
+        "title": "Pehle website padho",
+        "detail": "Jo jawab FAQ mein likha hai, wo poochne se pehle ek baar dekh lo."
+      },
+      {
+        "title": "Chhota rakho",
+        "detail": "Apna naam, application ID aur ek clear sawaal. Lambi kahani nahi."
+      },
+      {
+        "title": "Polite tone",
+        "detail": "Dear Admissions Team se shuru karo, thank you ke saath khatam karo."
+      },
+      {
+        "title": "Sahi time pe follow up",
+        "detail": "Jawab na aaye toh kuch working days ruko, phir ek chhota reminder bhejo.",
+        "tip": "Professional email ID use karo, nickname wali nahi."
+      }
+    ],
+    "saveLine": "email se pehle kaam aayega."
+  },
+  "caption": "University ko email likhna hai par samajh nahi aa raha kaise? Ye 5 rules 👇\n\n1. Clear subject line\n2. Pehle website padho\n3. Chhota rakho\n4. Polite tone\n5. Sahi time pe follow up\n\nSave karo 📌 aur us dost ko bhejo jise iski zaroorat hai.\n\n👉 app.goeduabroad.com\n\n#StudyAbroad #IndianStudents #StudyAbroadTips #EduAbroad #StudyAbroadChecklist",
+  "claims": [
+    {
+      "text": "Ye 5 rules yaad rakho.",
+      "source": "count of items in this post"
+    }
+  ]
+}

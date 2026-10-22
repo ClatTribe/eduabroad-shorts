@@ -1,0 +1,35 @@
+{
+  "date": "2026-12-07",
+  "content": {
+    "type": "checklist",
+    "title": "Do offers aa gaye?",
+    "highlight": "Aise compare karo.",
+    "subtitle": "Sirf naam aur ranking se decide mat karo.",
+    "steps": [
+      {
+        "title": "Total kharcha",
+        "detail": "Tuition ke saath rent, khaana aur travel. Poore course ka hisaab lagao."
+      },
+      {
+        "title": "Scholarship ya funding",
+        "detail": "Kis offer mein kitni madad mil rahi hai? Wo kharche mein se ghatao."
+      },
+      {
+        "title": "Course modules",
+        "detail": "Jo subjects aapko chahiye, wo kahan zyada hain? Dono syllabus saath rakh ke dekho."
+      },
+      {
+        "title": "City aur rehna",
+        "detail": "Mausam, rent aur rehne ka mahaul. Wahan ke seniors se baat karo."
+      },
+      {
+        "title": "Deposit ki deadline",
+        "detail": "Kis offer ko kab tak confirm karna hai? Galti se koi offer expire na ho.",
+        "tip": "Ek simple table banao: offer, kharcha, funding, deadline."
+      }
+    ],
+    "saveLine": "decision ke time kaam aayega."
+  },
+  "caption": "Ek se zyada offer aaye? Badhai ho! Ab aise compare karo 👇\n\n1. Total kharcha\n2. Scholarship ya funding\n3. Course modules\n4. City aur rehna\n5. Deposit ki deadline\n\nSave karo 📌 aur us dost ko bhejo jise iski zaroorat hai.\n\n👉 app.goeduabroad.com\n\n#StudyAbroad #IndianStudents #StudyAbroadTips #EduAbroad #StudyAbroadChecklist",
+  "claims": []
+}

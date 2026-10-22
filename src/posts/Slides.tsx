@@ -190,9 +190,10 @@ const AdmitCard: React.FC<{ c: Extract<PostContent, { type: "admit-guess" }>; re
         style={{
           fontFamily: theme.font.heading,
           fontWeight: 900,
-          fontSize: fitSize([c.university], 60, 860),
+          fontSize: fitSize([c.university], 60, 760),
           color: theme.color.ink,
           lineHeight: 1.1,
+          paddingRight: reveal ? 0 : 110, // keep clear of the "?" bubble
         }}
       >
         {c.university}
@@ -217,7 +218,15 @@ const AdmitCard: React.FC<{ c: Extract<PostContent, { type: "admit-guess" }>; re
       </div>
       <div style={{ display: "grid", gridTemplateColumns: "1fr 1fr", gap: 20, marginTop: 34 }}>
         {c.stats.map((s) => (
-          <div key={s.label} style={{ padding: "24px 28px", borderRadius: 24, backgroundColor: theme.color.pinkBg }}>
+          <div
+            key={s.label}
+            style={{
+              padding: "24px 28px",
+              borderRadius: 24,
+              backgroundColor: theme.color.pinkBg,
+              gridColumn: c.stats.length === 1 ? "span 2" : undefined,
+            }}
+          >
             <div style={{ ...body(28), color: theme.color.muted }}>{s.label}</div>
             <div style={{ fontFamily: theme.font.heading, fontWeight: 900, fontSize: 52, color: theme.color.crimson }}>
               {s.value}
@@ -472,14 +481,16 @@ const Versus: React.FC<{ c: Extract<PostContent, { type: "versus" }> }> = ({ c }
         <div
           key={name}
           style={{
-            padding: "26px 20px",
+            // inner side padding keeps the label clear of the VS circle
+            padding: k === 0 ? "26px 56px 26px 20px" : "26px 20px 26px 56px",
             borderRadius: 26,
             textAlign: "center",
+            whiteSpace: "nowrap",
             color: "white",
             background: k === 0 ? theme.color.ink : theme.gradient.button,
             fontFamily: theme.font.heading,
             fontWeight: 900,
-            fontSize: fitSize([name], 46, 400),
+            fontSize: fitSize([name], 46, 360),
           }}
         >
           {name}
@@ -551,13 +562,14 @@ const Versus: React.FC<{ c: Extract<PostContent, { type: "versus" }> }> = ({ c }
 const Myth: React.FC<{ c: Extract<PostContent, { type: "myth" }> }> = ({ c }) => (
   <Area style={{ gap: 46, justifyContent: "center" }}>
     <div style={{ position: "relative" }}>
-      <div style={{ ...body(38), color: theme.color.muted, marginBottom: 14 }}>Log kehte hain...</div>
-      <Card style={{ padding: "48px 44px", backgroundColor: theme.color.pinkBg }}>
+      <div style={{ ...body(38), color: theme.color.muted, marginBottom: 30 }}>Log kehte hain...</div>
+      <Card style={{ padding: "58px 44px 48px", backgroundColor: theme.color.pinkBg }}>
         <div
           style={{
             fontFamily: theme.font.heading,
             fontWeight: 800,
-            fontSize: fitSize([c.myth.slice(0, Math.ceil(c.myth.length / 2))], 70, 820),
+            // long myths drop a size so they stay on two lines
+            fontSize: Math.min(fitSize([c.myth.slice(0, Math.ceil(c.myth.length / 2))], 70, 820), c.myth.length > 32 ? 56 : 70),
             lineHeight: 1.18,
             color: theme.color.ink,
             textDecorationLine: "line-through",
@@ -571,18 +583,18 @@ const Myth: React.FC<{ c: Extract<PostContent, { type: "myth" }> }> = ({ c }) =>
       <div
         style={{
           position: "absolute",
-          top: -66,
+          top: 0,
           right: 0,
-          padding: "10px 32px",
-          border: `9px solid ${theme.color.crimson}`,
+          padding: "6px 28px",
+          border: `8px solid ${theme.color.crimson}`,
           borderRadius: 20,
           color: theme.color.crimson,
           backgroundColor: "rgba(255,255,255,0.95)",
           fontFamily: theme.font.heading,
           fontWeight: 900,
-          fontSize: 70,
+          fontSize: 52,
           letterSpacing: 4,
-          transform: "rotate(-9deg)",
+          transform: "rotate(-7deg)",
         }}
       >
         MYTH

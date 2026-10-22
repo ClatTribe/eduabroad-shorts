@@ -1,0 +1,53 @@
+{
+  "date": "2026-12-21",
+  "content": {
+    "type": "checklist",
+    "title": "Shortlist banana hai?",
+    "highlight": "5 steps, simple.",
+    "subtitle": "Dost ki list copy mat karo. Apni profile se shuru karo.",
+    "steps": [
+      {
+        "title": "Apni profile likho",
+        "detail": "GPA, test scores, experience aur budget. Sab ek jagah."
+      },
+      {
+        "title": "Real data dekho",
+        "detail": "Apne jaise profiles ka result dekho, accepted bhi aur rejected bhi.",
+        "tip": "Admit Finder pe course aur intake se filter karo."
+      },
+      {
+        "title": "Courses filter karo",
+        "detail": "Country, level aur intake chuno. Fees pehle dekho, phir dil lagao.",
+        "tip": "Course Finder mein ye saare filters hain."
+      },
+      {
+        "title": "Teen bucket banao",
+        "detail": "Dream, target aur safe. Har bucket mein kuch universities."
+      },
+      {
+        "title": "Deadline ke saath list",
+        "detail": "Final list mein har university ki deadline aur documents likh do."
+      }
+    ],
+    "saveLine": "shortlist mein kaam aayega."
+  },
+  "caption": "Shortlist banana sabse confusing step lagta hai. 5 steps mein simple karo 👇\n\n1. Apni profile likho\n2. Real data dekho\n3. Courses filter karo\n4. Teen bucket banao\n5. Deadline ke saath list\n\nSave karo 📌 aur us dost ko bhejo jise iski zaroorat hai.\n\n👉 app.goeduabroad.com\n\n#StudyAbroad #IndianStudents #StudyAbroadTips #EduAbroad #StudyAbroadChecklist",
+  "claims": [
+    {
+      "text": "5 steps, simple.",
+      "source": "count of items in this post"
+    },
+    {
+      "text": "Admit Finder pe course aur intake se filter karo.",
+      "source": "Admit Finder filters: Intake, Year, Course, Work Experience, Acceptance"
+    },
+    {
+      "text": "Admit Finder pe real profiles, accepted bhi aur rejected bhi",
+      "source": "Admit Finder cards show Accepted and Rejected results"
+    },
+    {
+      "text": "Course Finder mein country, level aur intake filters",
+      "source": "Course Finder filters: All Countries, All Study Levels, All Universities, All Intakes"
+    }
+  ]
+}

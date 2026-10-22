@@ -1,0 +1,40 @@
+{
+  "date": "2027-01-14",
+  "content": {
+    "type": "versus",
+    "title": "IELTS ki taiyari?",
+    "highlight": "Self-study vs Coaching",
+    "left": "Self-study",
+    "right": "Coaching",
+    "rows": [
+      {
+        "label": "Kharcha",
+        "left": "Kam ya free",
+        "right": "Fees lagti hai"
+      },
+      {
+        "label": "Discipline",
+        "left": "Khud karna padta hai",
+        "right": "Schedule milta hai"
+      },
+      {
+        "label": "Feedback",
+        "left": "Mock tests se",
+        "right": "Teacher se seedha"
+      },
+      {
+        "label": "Speed",
+        "left": "Apni marzi se",
+        "right": "Batch ke saath"
+      }
+    ],
+    "bottomLine": "Coaching lo ya na lo, mock test zaroor do. IELTS kit mein free resources ek jagah hain."
+  },
+  "caption": "Self-study ya coaching? Dono se log achha score laate hain.\n\nAap kaise padh rahe ho? Comment karo 👇\n\n👉 app.goeduabroad.com\n\n#StudyAbroad #IndianStudents #StudyAbroadTips #EduAbroad #IELTS",
+  "claims": [
+    {
+      "text": "IELTS kit mein free resources",
+      "source": "IELTS kit page header: 'IELTS FREE LEARNING RESOURCES'"
+    }
+  ]
+}

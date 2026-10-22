@@ -1,0 +1,28 @@
+{
+  "date": "2026-12-01",
+  "content": {
+    "type": "admit-guess",
+    "university": "Tufts University",
+    "course": "Mechanical Engineering",
+    "intake": "Fall 2025",
+    "stats": [
+      {
+        "label": "GPA",
+        "value": "8.5/10"
+      },
+      {
+        "label": "IELTS",
+        "value": "9"
+      }
+    ],
+    "result": "Rejected",
+    "takeaway": "IELTS 9 ke saath bhi reject. English score ek hissa hai, poori profile nahi."
+  },
+  "caption": "Ye profile dekho. Admit mila ya nahi? 🤔\n\nComment mein jawab do, phir swipe karke dekho 👉\n\nYe real profile hai EduAbroad Admit Finder se (undergrad college hidden). Aur profiles free mein dekho, login ki zaroorat nahi.\n\n👉 app.goeduabroad.com/admit-finder\n\n#StudyAbroad #IndianStudents #StudyAbroadTips #EduAbroad #AdmitFinder",
+  "claims": [
+    {
+      "text": "Tufts University · Mechanical Engineering · Fall 2025 · GPA 8.5/10 · IELTS 9 · Rejected",
+      "source": "Real card on Admit Finder, recorded 2026-10-22"
+    }
+  ]
+}

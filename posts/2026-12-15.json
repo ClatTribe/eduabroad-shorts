@@ -1,0 +1,28 @@
+{
+  "date": "2026-12-15",
+  "content": {
+    "type": "admit-guess",
+    "university": "University of California, San Diego",
+    "course": "Computer Engineering",
+    "intake": "Fall 2025",
+    "stats": [
+      {
+        "label": "GPA",
+        "value": "3.91/4"
+      },
+      {
+        "label": "GRE",
+        "value": "332"
+      }
+    ],
+    "result": "Rejected",
+    "takeaway": "GRE 332 ke saath bhi reject. Dream ke saath target aur safe options bhi rakho."
+  },
+  "caption": "Guess karo: accept ya reject? 🤔\n\nComment mein jawab do, phir swipe karke dekho 👉\n\nYe real profile hai EduAbroad Admit Finder se (undergrad college hidden). Aur profiles free mein dekho, login ki zaroorat nahi.\n\n👉 app.goeduabroad.com/admit-finder\n\n#StudyAbroad #IndianStudents #StudyAbroadTips #EduAbroad #AdmitFinder",
+  "claims": [
+    {
+      "text": "University of California, San Diego · Computer Engineering · Fall 2025 · GPA 3.91/4 · GRE 332 · Rejected",
+      "source": "Real card on Admit Finder, recorded 2026-10-22"
+    }
+  ]
+}

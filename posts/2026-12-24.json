@@ -1,0 +1,40 @@
+{
+  "date": "2026-12-24",
+  "content": {
+    "type": "versus",
+    "title": "Masters kab?",
+    "highlight": "Job pehle vs Seedha",
+    "left": "Job pehle",
+    "right": "Seedha Masters",
+    "rows": [
+      {
+        "label": "Profile",
+        "left": "Experience jud jaata hai",
+        "right": "Academics fresh rehte hain"
+      },
+      {
+        "label": "Paisa",
+        "left": "Kuch savings ban jaati hain",
+        "right": "Funding pehle plan karo"
+      },
+      {
+        "label": "Clarity",
+        "left": "Goal zyada saaf",
+        "right": "Goal pe kaam karna hoga"
+      },
+      {
+        "label": "Time",
+        "left": "Degree thodi der se",
+        "right": "Career jaldi shuru"
+      }
+    ],
+    "bottomLine": "Galat option koi nahi. Admit Finder pe work ex filter se apne course ke admits dekho."
+  },
+  "caption": "Pehle job ya seedha Masters? Dono raaste chalte hain.\n\nAapka plan kya hai? Comment karo 👇\n\n👉 app.goeduabroad.com\n\n#StudyAbroad #IndianStudents #StudyAbroadTips #EduAbroad #MastersAbroad",
+  "claims": [
+    {
+      "text": "Admit Finder pe work ex filter",
+      "source": "Admit Finder filters: Intake, Year, Course, Work Experience, Acceptance"
+    }
+  ]
+}

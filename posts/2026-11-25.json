@@ -1,0 +1,49 @@
+{
+  "date": "2026-11-25",
+  "content": {
+    "type": "feature",
+    "feature": "IELTS Test Kit",
+    "promise": "Free resources, ek jagah.",
+    "screenshot": "post-shots/ielts-mock.png",
+    "screenshotCaption": "Free full mock: 151 minutes",
+    "benefits": [
+      "Free full mock: 151 minutes",
+      "Daily 25 vocab flashcards",
+      "Failure patterns se seekho"
+    ],
+    "howTo": [
+      "IELTS Test Kit page kholo",
+      "Free Mock ke liye sign up karo",
+      "Test do, feedback padho"
+    ],
+    "button": "Try it free",
+    "url": "app.goeduabroad.com/ielts-online-test-kit"
+  },
+  "caption": "IELTS ki taiyari ke liye sab kuch ek jagah.\n\nFull length mock test (151 minutes, charon modules, feedback ke saath), 25 vocab flashcards aur common failure patterns. Mock ke liye sign up karna hota hai.\n\n👉 app.goeduabroad.com/ielts-online-test-kit\n\n#StudyAbroad #IndianStudents #StudyAbroadTips #EduAbroad #IELTS",
+  "claims": [
+    {
+      "text": "Free full mock: 151 minutes",
+      "source": "IELTS kit page: 'Free Full-Length IELTS Mock Test... 151 minutes' (needs sign-up, stated in caption)"
+    },
+    {
+      "text": "Daily 25 vocab flashcards",
+      "source": "IELTS kit Flashcards tab: 'Here are 25 IELTS-worthy words'"
+    },
+    {
+      "text": "151 minutes, charon modules, feedback ke saath",
+      "source": "IELTS kit page: '151 Minutes · Full Feedback · All 4 Modules'"
+    },
+    {
+      "text": "IELTS kit ka Failure Patterns tab",
+      "source": "IELTS kit 'Failure Patterns' tab"
+    },
+    {
+      "text": "IELTS kit mein free resources",
+      "source": "IELTS kit page header: 'IELTS FREE LEARNING RESOURCES'"
+    },
+    {
+      "text": "IELTS kit mein free full mock (sign up karke)",
+      "source": "IELTS kit page: 'Free Full-Length IELTS Mock Test' (needs sign-up)"
+    }
+  ]
+}

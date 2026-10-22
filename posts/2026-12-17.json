@@ -1,0 +1,35 @@
+{
+  "date": "2026-12-17",
+  "content": {
+    "type": "versus",
+    "title": "Khaana kaise?",
+    "highlight": "Meal plan vs Cooking",
+    "left": "Meal plan",
+    "right": "Khud cooking",
+    "rows": [
+      {
+        "label": "Time",
+        "left": "Bachta hai",
+        "right": "Roz thoda lagta hai"
+      },
+      {
+        "label": "Kharcha",
+        "left": "Aksar fixed",
+        "right": "Planning se kam"
+      },
+      {
+        "label": "Taste",
+        "left": "Jo milega wahi",
+        "right": "Ghar jaisa, apni marzi"
+      },
+      {
+        "label": "Skill",
+        "left": "Kuch naya nahi",
+        "right": "Life skill ban jaati hai"
+      }
+    ],
+    "bottomLine": "Shuru mein meal plan aasaan hai. Par dal chawal banana abhi se seekh lo."
+  },
+  "caption": "Mess ka khaana ya apni rasoi?\n\nAap kya chunoge? Comment karo 👇\n\n👉 app.goeduabroad.com\n\n#StudyAbroad #IndianStudents #StudyAbroadTips #EduAbroad #StudentLife",
+  "claims": []
+}

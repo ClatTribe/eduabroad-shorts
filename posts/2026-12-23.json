@@ -1,0 +1,42 @@
+{
+  "date": "2026-12-23",
+  "content": {
+    "type": "feature",
+    "feature": "Course Finder",
+    "promise": "Budget kam, sapne bade.",
+    "screenshot": "footage/course-finder/still.png",
+    "screenshotCaption": "Tuition fees ek nazar mein",
+    "capture": {
+      "feature": "course-finder",
+      "clip": "scroll",
+      "at": 0.3
+    },
+    "benefits": [
+      "Tuition fees pehle dekho",
+      "Programs worldwide, ek jagah",
+      "Country aur intake se filter"
+    ],
+    "howTo": [
+      "app.goeduabroad.com/course-finder kholo",
+      "Country aur intake chuno",
+      "Fees dekh ke shortlist karo"
+    ],
+    "button": "Explore karo",
+    "url": "app.goeduabroad.com/course-finder"
+  },
+  "caption": "Course pasand aaya, fees dekh ke dil toot gaya? Ulta karo: pehle fees dekho.\n\nCourse Finder pe tuition fees aur intake saath mein dikhte hain. Budget ke andar wale options pehle.\n\n👉 app.goeduabroad.com/course-finder\n\n#StudyAbroad #IndianStudents #StudyAbroadTips #EduAbroad #CourseFinder",
+  "claims": [
+    {
+      "text": "Course Finder pe tuition fees",
+      "source": "Course Finder shows Tuition Fees and intakes"
+    },
+    {
+      "text": "Course Finder: programs worldwide",
+      "source": "Course Finder page: 'Explore programs and universities worldwide'"
+    },
+    {
+      "text": "Course Finder mein country, level aur intake filters",
+      "source": "Course Finder filters: All Countries, All Study Levels, All Universities, All Intakes"
+    }
+  ]
+}

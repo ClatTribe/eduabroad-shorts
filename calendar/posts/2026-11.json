@@ -1,0 +1,269 @@
+{
+  "month": "2026-11",
+  "postTimeIST": "13:00",
+  "items": [
+    {
+      "date": "2026-11-02",
+      "day": "Mon",
+      "format": "checklist",
+      "series": "Seedhi Baat Checklist",
+      "kind": "carousel",
+      "topic": "Apply karne wale ho? Ye 5 documents ready?",
+      "post": "posts/2026-11-02.json"
+    },
+    {
+      "date": "2026-11-03",
+      "day": "Tue",
+      "format": "admit-guess",
+      "series": "Guess the Admit",
+      "kind": "carousel",
+      "topic": "University of Texas, Dallas, Computer Engineering (answer: Accepted)",
+      "post": "posts/2026-11-03.json"
+    },
+    {
+      "date": "2026-11-04",
+      "day": "Wed",
+      "format": "feature",
+      "series": "Portal Feature",
+      "kind": "carousel",
+      "topic": "Admit Finder: Real admits. Real numbers.",
+      "post": "posts/2026-11-04.json"
+    },
+    {
+      "date": "2026-11-05",
+      "day": "Thu",
+      "format": "versus",
+      "series": "This vs That",
+      "kind": "single",
+      "topic": "On vs off campus",
+      "post": "posts/2026-11-05.json"
+    },
+    {
+      "date": "2026-11-06",
+      "day": "Fri",
+      "format": "myth",
+      "series": "Myth vs Fact",
+      "kind": "single",
+      "topic": "\"SOP jitna lamba, utna accha\"",
+      "post": "posts/2026-11-06.json"
+    },
+    {
+      "date": "2026-11-07",
+      "day": "Sat",
+      "format": "word",
+      "series": "IELTS Shabd",
+      "kind": "single",
+      "topic": "Abundant (Ample, Plentiful, Copious)",
+      "post": "posts/2026-11-07.json"
+    },
+    {
+      "date": "2026-11-08",
+      "day": "Sun",
+      "format": "parents",
+      "series": "Parents' Corner",
+      "kind": "carousel",
+      "topic": "\"Beta, wahan safe toh rahoge?\"",
+      "post": "posts/2026-11-08.json"
+    },
+    {
+      "date": "2026-11-09",
+      "day": "Mon",
+      "format": "checklist",
+      "series": "Seedhi Baat Checklist",
+      "kind": "carousel",
+      "topic": "University website pe? Ye 5 cheezein dekho.",
+      "post": "posts/2026-11-09.json"
+    },
+    {
+      "date": "2026-11-10",
+      "day": "Tue",
+      "format": "admit-guess",
+      "series": "Guess the Admit",
+      "kind": "carousel",
+      "topic": "New York University, Computer Engineering (answer: Rejected)",
+      "post": "posts/2026-11-10.json"
+    },
+    {
+      "date": "2026-11-11",
+      "day": "Wed",
+      "format": "feature",
+      "series": "Portal Feature",
+      "kind": "carousel",
+      "topic": "Course Finder: Lists nahi, fit dekho.",
+      "post": "posts/2026-11-11.json",
+      "capture": "course-finder"
+    },
+    {
+      "date": "2026-11-12",
+      "day": "Thu",
+      "format": "versus",
+      "series": "This vs That",
+      "kind": "single",
+      "topic": "Fall vs Spring",
+      "post": "posts/2026-11-12.json"
+    },
+    {
+      "date": "2026-11-13",
+      "day": "Fri",
+      "format": "myth",
+      "series": "Myth vs Fact",
+      "kind": "single",
+      "topic": "\"Gap year hai toh reject hi hoga\"",
+      "post": "posts/2026-11-13.json"
+    },
+    {
+      "date": "2026-11-14",
+      "day": "Sat",
+      "format": "word",
+      "series": "IELTS Shabd",
+      "kind": "single",
+      "topic": "Beneficial (Advantageous, Helpful, Positive)",
+      "post": "posts/2026-11-14.json"
+    },
+    {
+      "date": "2026-11-15",
+      "day": "Sun",
+      "format": "parents",
+      "series": "Parents' Corner",
+      "kind": "carousel",
+      "topic": "\"Itna kharcha kaise manage hoga?\"",
+      "post": "posts/2026-11-15.json"
+    },
+    {
+      "date": "2026-11-16",
+      "day": "Mon",
+      "format": "checklist",
+      "series": "Seedhi Baat Checklist",
+      "kind": "carousel",
+      "topic": "Application resume 5 steps mein ready.",
+      "post": "posts/2026-11-16.json"
+    },
+    {
+      "date": "2026-11-17",
+      "day": "Tue",
+      "format": "admit-guess",
+      "series": "Guess the Admit",
+      "kind": "carousel",
+      "topic": "State University of New York, Stony Brook, Computer Engineering (answer: Accepted)",
+      "post": "posts/2026-11-17.json"
+    },
+    {
+      "date": "2026-11-18",
+      "day": "Wed",
+      "format": "feature",
+      "series": "Portal Feature",
+      "kind": "carousel",
+      "topic": "Scholarship Finder: Paisa kahan se aayega?",
+      "post": "posts/2026-11-18.json",
+      "capture": "scholarship-finder"
+    },
+    {
+      "date": "2026-11-19",
+      "day": "Thu",
+      "format": "versus",
+      "series": "This vs That",
+      "kind": "single",
+      "topic": "Thesis vs Non-thesis",
+      "post": "posts/2026-11-19.json"
+    },
+    {
+      "date": "2026-11-20",
+      "day": "Fri",
+      "format": "myth",
+      "series": "Myth vs Fact",
+      "kind": "single",
+      "topic": "\"Commerce aur Arts wale abroad nahi jaate\"",
+      "post": "posts/2026-11-20.json"
+    },
+    {
+      "date": "2026-11-21",
+      "day": "Sat",
+      "format": "word",
+      "series": "IELTS Shabd",
+      "kind": "single",
+      "topic": "Diverse (Varied, Different, Assorted)",
+      "post": "posts/2026-11-21.json"
+    },
+    {
+      "date": "2026-11-22",
+      "day": "Sun",
+      "format": "parents",
+      "series": "Parents' Corner",
+      "kind": "carousel",
+      "topic": "\"Wahan khaana kaun banayega?\"",
+      "post": "posts/2026-11-22.json"
+    },
+    {
+      "date": "2026-11-23",
+      "day": "Mon",
+      "format": "checklist",
+      "series": "Seedhi Baat Checklist",
+      "kind": "carousel",
+      "topic": "Kal test hai? Ye 5 kaam aaj karo.",
+      "post": "posts/2026-11-23.json"
+    },
+    {
+      "date": "2026-11-24",
+      "day": "Tue",
+      "format": "admit-guess",
+      "series": "Guess the Admit",
+      "kind": "carousel",
+      "topic": "Texas A&M University, College Station, Computer Engineering (answer: Rejected)",
+      "post": "posts/2026-11-24.json"
+    },
+    {
+      "date": "2026-11-25",
+      "day": "Wed",
+      "format": "feature",
+      "series": "Portal Feature",
+      "kind": "carousel",
+      "topic": "IELTS Test Kit: Free resources, ek jagah.",
+      "post": "posts/2026-11-25.json"
+    },
+    {
+      "date": "2026-11-26",
+      "day": "Thu",
+      "format": "versus",
+      "series": "This vs That",
+      "kind": "single",
+      "topic": "Bada vs chhota shehar",
+      "post": "posts/2026-11-26.json"
+    },
+    {
+      "date": "2026-11-27",
+      "day": "Fri",
+      "format": "myth",
+      "series": "Myth vs Fact",
+      "kind": "single",
+      "topic": "\"Ek baar reject hua toh sab khatam\"",
+      "post": "posts/2026-11-27.json"
+    },
+    {
+      "date": "2026-11-28",
+      "day": "Sat",
+      "format": "word",
+      "series": "IELTS Shabd",
+      "kind": "single",
+      "topic": "Essential (Necessary, Vital, Crucial)",
+      "post": "posts/2026-11-28.json"
+    },
+    {
+      "date": "2026-11-29",
+      "day": "Sun",
+      "format": "parents",
+      "series": "Parents' Corner",
+      "kind": "carousel",
+      "topic": "\"Padhai ke baad wapas aaoge na?\"",
+      "post": "posts/2026-11-29.json"
+    },
+    {
+      "date": "2026-11-30",
+      "day": "Mon",
+      "format": "checklist",
+      "series": "Seedhi Baat Checklist",
+      "kind": "carousel",
+      "topic": "Scholarship apply? Ye 5 steps follow karo.",
+      "post": "posts/2026-11-30.json"
+    }
+  ]
+}

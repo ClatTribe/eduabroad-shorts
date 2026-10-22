@@ -1,0 +1,29 @@
+{
+  "date": "2026-11-03",
+  "content": {
+    "type": "admit-guess",
+    "university": "University of Texas, Dallas",
+    "course": "Computer Engineering",
+    "intake": "Spring 2025",
+    "major": "ECE",
+    "stats": [
+      {
+        "label": "GPA",
+        "value": "8.6/10"
+      },
+      {
+        "label": "GRE",
+        "value": "318"
+      }
+    ],
+    "result": "Accepted",
+    "takeaway": "GPA 8.6 aur GRE 318 ke saath admit. Apne jaise profiles Admit Finder pe dekho."
+  },
+  "caption": "Guess karo: accept ya reject? 🤔\n\nComment mein jawab do, phir swipe karke dekho 👉\n\nYe real profile hai EduAbroad Admit Finder se (undergrad college hidden). Aur profiles free mein dekho, login ki zaroorat nahi.\n\n👉 app.goeduabroad.com/admit-finder\n\n#StudyAbroad #IndianStudents #StudyAbroadTips #EduAbroad #AdmitFinder",
+  "claims": [
+    {
+      "text": "University of Texas, Dallas · Computer Engineering · Spring 2025 · GPA 8.6/10 · GRE 318 · Accepted",
+      "source": "Real card on Admit Finder, recorded 2026-10-22"
+    }
+  ]
+}

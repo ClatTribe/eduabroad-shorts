@@ -1,0 +1,30 @@
+{
+  "date": "2026-12-03",
+  "content": {
+    "type": "versus",
+    "title": "Kis basis pe chuno?",
+    "highlight": "Ranking vs Course fit",
+    "left": "Ranking",
+    "right": "Course fit",
+    "rows": [
+      {
+        "label": "Batata hai",
+        "left": "University ka overall naam",
+        "right": "Aapke subject ki padhai"
+      },
+      {
+        "label": "Fayda",
+        "left": "Resume pe naam",
+        "right": "Skills aur projects"
+      },
+      {
+        "label": "Risk",
+        "left": "Course kaam ka na ho",
+        "right": "Naam kam suna ho"
+      }
+    ],
+    "bottomLine": "Ranking ek filter hai, faisla nahi. Modules padho, phir decide karo."
+  },
+  "caption": "Ranking ya course fit? Dono zaroori, par faisla ek se nahi hota.\n\nAap kisko zyada weight doge? Comment karo 👇\n\n👉 app.goeduabroad.com\n\n#StudyAbroad #IndianStudents #StudyAbroadTips #EduAbroad #StudyAbroadTips",
+  "claims": []
+}

@@ -1,0 +1,42 @@
+{
+  "date": "2026-11-18",
+  "content": {
+    "type": "feature",
+    "feature": "Scholarship Finder",
+    "promise": "Paisa kahan se aayega?",
+    "screenshot": "footage/scholarship-finder/still.png",
+    "screenshotCaption": "Top universities ki scholarships",
+    "capture": {
+      "feature": "scholarship-finder",
+      "clip": "scroll",
+      "at": 0.3
+    },
+    "benefits": [
+      "Scholarships worldwide, ek list",
+      "Country aur level se filter",
+      "Profile se personal recommendations"
+    ],
+    "howTo": [
+      "app.goeduabroad.com/scholarship-finder kholo",
+      "Country aur level chuno",
+      "Profile complete karo, match pao"
+    ],
+    "button": "Dhoondo",
+    "url": "app.goeduabroad.com/scholarship-finder"
+  },
+  "caption": "Funding ki tension? Pehle dekho kya kya available hai.\n\nScholarship Finder pe top universities aur institutions ki scholarships ek list mein. Profile complete karoge toh personal recommendations bhi milengi.\n\n👉 app.goeduabroad.com/scholarship-finder\n\n#StudyAbroad #IndianStudents #StudyAbroadTips #EduAbroad #Scholarships",
+  "claims": [
+    {
+      "text": "Top universities ki scholarships / Scholarships worldwide, ek list",
+      "source": "Scholarship Finder page: 'Discover scholarships from top universities and institutions worldwide'"
+    },
+    {
+      "text": "Scholarship Finder pe country aur level se filter",
+      "source": "Scholarship Finder filters: All Countries, All Levels"
+    },
+    {
+      "text": "Profile se personal recommendations / Profile complete karo, match pao",
+      "source": "Scholarship Finder: 'Recommended For You (Complete profile)'"
+    }
+  ]
+}

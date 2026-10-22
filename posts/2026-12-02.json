@@ -1,0 +1,41 @@
+{
+  "date": "2026-12-02",
+  "content": {
+    "type": "feature",
+    "feature": "Study Materials",
+    "promise": "GMAT, PTE, TOEFL guides.",
+    "screenshot": "post-shots/study-material.png",
+    "screenshotCaption": "Featured guides, ek jagah",
+    "benefits": [
+      "GMAT Focus guide: 38 pages",
+      "TOEFL guide, Harvard-Cambridge alumni ka",
+      "Digital SAT practice bhi"
+    ],
+    "howTo": [
+      "Study Materials page kholo",
+      "Apna exam ka guide chuno",
+      "View pe click karo, padhna shuru"
+    ],
+    "button": "Dekho",
+    "url": "app.goeduabroad.com/study-material"
+  },
+  "caption": "Alag alag websites se notes jodna band karo.\n\nEduAbroad Study Materials mein GMAT Focus, PTE aur TOEFL guides, aur Digital SAT practice, sab ek jagah.\n\n👉 app.goeduabroad.com/study-material\n\n#StudyAbroad #IndianStudents #StudyAbroadTips #EduAbroad #GMAT",
+  "claims": [
+    {
+      "text": "GMAT, PTE, TOEFL guides",
+      "source": "Study Materials page: GMAT Focus Edition Guide, PTE Priority Tasks Guide, TOEFL iBT Preparation Guide"
+    },
+    {
+      "text": "GMAT Focus guide: 38 pages",
+      "source": "Study Materials page: GMAT Focus Edition Guide, '38 pages'"
+    },
+    {
+      "text": "TOEFL guide, Harvard-Cambridge alumni ka",
+      "source": "Study Materials page: TOEFL guide 'expert tips curated by Harvard-Cambridge alumni'"
+    },
+    {
+      "text": "Digital SAT practice bhi",
+      "source": "Study Materials page: DSAT practice sets"
+    }
+  ]
+}
