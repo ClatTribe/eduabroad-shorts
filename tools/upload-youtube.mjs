@@ -3,6 +3,7 @@
  * Uploads a rendered Short to YouTube.
  *
  *   node tools/upload-youtube.mjs 2026-11-04 [--publish-at 2026-11-04T18:30:00+05:30] [--dry-run]
+ *   node tools/upload-youtube.mjs sketches/sat-triangle-perimeter-voice.json   (SAT whiteboard Short, English)
  *
  * With --publish-at in the future, the video is uploaded as private and YouTube
  * makes it public at exactly that time. Otherwise it goes public immediately.
@@ -27,19 +28,21 @@ const DRY = process.argv.includes("--dry-run");
 const publishAt = arg("--publish-at");
 const PRIVATE = process.argv.includes("--private"); // setup test: stays private, never goes public
 
-if (!/^\d{4}-\d{2}-\d{2}$/.test(date ?? "")) {
-  console.error("usage: node tools/upload-youtube.mjs YYYY-MM-DD [--publish-at ISO] [--dry-run]");
+const isSketch = (date ?? "").endsWith(".json");
+if (!isSketch && !/^\d{4}-\d{2}-\d{2}$/.test(date ?? "")) {
+  console.error("usage: node tools/upload-youtube.mjs YYYY-MM-DD|sketches/<file>.json [--publish-at ISO] [--dry-run]");
   process.exit(2);
 }
-const ep = JSON.parse(readFileSync(`episodes/${date}.json`, "utf8"));
-const file = `out/${date}.mp4`;
+const ep = JSON.parse(readFileSync(isSketch ? date : `episodes/${date}.json`, "utf8"));
+const file = isSketch ? `out/${ep.id}.mp4` : `out/${date}.mp4`;
+const lang = isSketch ? "en" : "hi"; // SAT whiteboard Shorts are in English
 const missing = ["YOUTUBE_CLIENT_ID", "YOUTUBE_CLIENT_SECRET", "YOUTUBE_REFRESH_TOKEN"].filter((k) => !process.env[k]);
 
 const title = ep.youtube.title.slice(0, 100);
 const description = (ep.youtube.description.includes("#Shorts") ? ep.youtube.description : `${ep.youtube.description}\n\n#Shorts`).slice(0, 5000);
 const future = publishAt && new Date(publishAt).getTime() > Date.now() + 5 * 60 * 1000;
 const body = {
-  snippet: { title, description, tags: (ep.youtube.tags ?? []).slice(0, 15), categoryId: "27", defaultLanguage: "hi", defaultAudioLanguage: "hi" },
+  snippet: { title, description, tags: (ep.youtube.tags ?? []).slice(0, 15), categoryId: "27", defaultLanguage: lang, defaultAudioLanguage: lang },
   status: {
     privacyStatus: future || PRIVATE ? "private" : "public",
     ...(future && !PRIVATE ? { publishAt: new Date(publishAt).toISOString() } : {}),
