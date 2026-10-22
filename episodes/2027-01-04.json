@@ -1,0 +1,63 @@
+{
+  "date": "2027-01-04",
+  "series": "seedhi-baat",
+  "template": "tips",
+  "musicSeed": 104,
+  "hook": {
+    "line1": [
+      "Rehna",
+      "kahan"
+    ],
+    "line2": [
+      "hai?",
+      "Socho."
+    ],
+    "highlight": "Socho.",
+    "subline": "On-campus vs off-campus."
+  },
+  "tips": {
+    "seriesLabel": "Seedhi Baat",
+    "items": [
+      {
+        "title": "On-campus: aasaan shuruaat",
+        "detail": "Campus paas, setup simple. Aksar jaldi apply karna padta hai."
+      },
+      {
+        "title": "Off-campus: zyada options",
+        "detail": "Rent aur location compare karo. Flatmates ke saath kharcha baant sakte ho."
+      },
+      {
+        "title": "Lease dhyan se padho",
+        "detail": "Deposit, notice period aur bills kiske zimme hain, sab likha hona chahiye."
+      },
+      {
+        "title": "Scam se bacho",
+        "detail": "Bina dekhe ya bina contract ke advance paisa mat bhejo."
+      }
+    ]
+  },
+  "closing": {
+    "line1": "Ghar sahi,",
+    "line2": "padhai sahi."
+  },
+  "cta": {
+    "button": "Explore karo",
+    "url": "app.goeduabroad.com"
+  },
+  "youtube": {
+    "title": "Abroad mein rehna kahan hai? On-campus vs off-campus",
+    "description": "On-campus housing mein shuruaat aasaan hoti hai, off-campus mein zyada options. Lease dhyan se padho aur bina contract ke advance paisa kabhi mat bhejo.\n\n👉 https://app.goeduabroad.com\n\nEduAbroad: Run by Harvard-Cambridge Alumni. 100% private. Contact aap karoge, hum nahi.",
+    "tags": [
+      "study abroad",
+      "Indian students",
+      "study abroad tips",
+      "EduAbroad",
+      "student accommodation",
+      "housing abroad"
+    ]
+  },
+  "instagram": {
+    "caption": "Rehna kahan hai? 🏠\n\nOn-campus = aasaan shuruaat\nOff-campus = zyada options\nLease padho, aur bina contract paisa mat bhejo!\n\nSave karo 📌\n\n👉 app.goeduabroad.com (link in bio)\n\n#StudyAbroad #IndianStudents #StudyAbroadTips #EduAbroad #Reels"
+  },
+  "claims": []
+}

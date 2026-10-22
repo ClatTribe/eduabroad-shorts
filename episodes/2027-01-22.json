@@ -1,0 +1,68 @@
+{
+  "date": "2027-01-22",
+  "series": "myth-fact",
+  "template": "mythfact",
+  "musicSeed": 122,
+  "hook": {
+    "line1": [
+      "Ghar",
+      "ki",
+      "yaad?"
+    ],
+    "line2": [
+      "Normal",
+      "hai."
+    ],
+    "highlight": "Normal",
+    "subline": "Homesickness ke 3 myths."
+  },
+  "myths": {
+    "seriesLabel": "Myth vs Fact",
+    "items": [
+      {
+        "myth": "Strong log homesick nahi hote",
+        "fact": "Homesick hona normal hai",
+        "detail": "Naya desh, naye log. Thoda time lagta hai, aur ye theek hai."
+      },
+      {
+        "myth": "Roz ghar call karo, sab theek",
+        "fact": "Wahan bhi routine banao",
+        "detail": "Call achhi hai, par wahan dost, clubs aur routine zaroori hain."
+      },
+      {
+        "myth": "Sab akele handle karo",
+        "fact": "Madad maangna strength hai",
+        "detail": "University ki student support services aur seniors se baat karo."
+      }
+    ]
+  },
+  "closing": {
+    "line1": "Ghar door hai,",
+    "line2": "akele nahi ho."
+  },
+  "cta": {
+    "button": "Explore karo",
+    "url": "app.goeduabroad.com"
+  },
+  "youtube": {
+    "title": "Abroad mein ghar ki yaad aati hai? Myth vs Fact",
+    "description": "Homesickness ke 3 myths. Homesick hona normal hai, wahan bhi dost aur routine banao, aur madad maangna strength hai. University ki student support services aur seniors se baat karo.\n\n👉 https://app.goeduabroad.com\n\nEduAbroad: Run by Harvard-Cambridge Alumni. 100% private. Contact aap karoge, hum nahi.",
+    "tags": [
+      "study abroad",
+      "Indian students",
+      "study abroad tips",
+      "EduAbroad",
+      "homesickness",
+      "student life abroad"
+    ]
+  },
+  "instagram": {
+    "caption": "Ghar ki yaad aati hai? 🏡 Normal hai.\n\nWahan dost aur routine banao, aur madad maangne se mat jhijhko.\n\nAbroad wale dost ko bhejo 💛\n\n👉 app.goeduabroad.com (link in bio)\n\n#StudyAbroad #IndianStudents #StudyAbroadTips #EduAbroad #Reels"
+  },
+  "claims": [
+    {
+      "text": "Homesickness ke 3 myths.",
+      "source": "count of myths in this video"
+    }
+  ]
+}

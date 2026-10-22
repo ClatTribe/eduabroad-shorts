@@ -1,0 +1,73 @@
+{
+  "date": "2027-01-29",
+  "series": "myth-fact",
+  "template": "mythfact",
+  "musicSeed": 129,
+  "hook": {
+    "line1": [
+      "IELTS",
+      "ke"
+    ],
+    "line2": [
+      "bina",
+      "admit?"
+    ],
+    "highlight": "admit?",
+    "subline": "English tests ke 3 myths."
+  },
+  "myths": {
+    "seriesLabel": "Myth vs Fact",
+    "items": [
+      {
+        "myth": "IELTS ke bina admit nahi milta",
+        "fact": "Requirement course pe depend karti hai",
+        "detail": "Kai universities TOEFL, PTE ya Duolingo bhi maanti hain. Official site check karo."
+      },
+      {
+        "myth": "IELTS ek hi baar de sakte ho",
+        "fact": "Retake kar sakte ho",
+        "detail": "Kitni baar bhi de sakte ho. Pichhli galtiyon se seekh ke dobara do."
+      },
+      {
+        "myth": "Speaking mein accent judge hota hai",
+        "fact": "Clarity aur fluency dekhi jaati hai",
+        "detail": "Apne accent mein, saaf aur bina ruke bolo. Wahi kaafi hai."
+      }
+    ]
+  },
+  "closing": {
+    "line1": "Test se mat daro,",
+    "line2": "tayyari karo."
+  },
+  "cta": {
+    "button": "Explore karo",
+    "url": "app.goeduabroad.com"
+  },
+  "youtube": {
+    "title": "IELTS ke bina admit nahi milta? Myth vs Fact",
+    "description": "English tests ke 3 myths. Requirement course pe depend karti hai (kai universities TOEFL, PTE ya Duolingo bhi maanti hain), IELTS retake kar sakte ho, aur speaking mein accent nahi, clarity aur fluency dekhi jaati hai. Free IELTS resources: app.goeduabroad.com/ielts-online-test-kit\n\n👉 https://app.goeduabroad.com\n\nEduAbroad: Run by Harvard-Cambridge Alumni. 100% private. Contact aap karoge, hum nahi.",
+    "tags": [
+      "study abroad",
+      "Indian students",
+      "study abroad tips",
+      "EduAbroad",
+      "IELTS",
+      "English test",
+      "TOEFL",
+      "PTE"
+    ]
+  },
+  "instagram": {
+    "caption": "IELTS ke bina admit? 🤔\n\nRequirement course pe depend karti hai, IELTS retake kar sakte ho, aur speaking mein clarity matter karti hai, accent nahi.\n\n👉 app.goeduabroad.com (link in bio)\n\n#StudyAbroad #IndianStudents #StudyAbroadTips #EduAbroad #Reels"
+  },
+  "claims": [
+    {
+      "text": "English tests ke 3 myths.",
+      "source": "count of myths in this video"
+    },
+    {
+      "text": "Retake kar sakte ho / Kitni baar bhi de sakte ho",
+      "source": "EduAbroad IELTS kit page: 'There is no limit to the number of times you can take the exam'"
+    }
+  ]
+}

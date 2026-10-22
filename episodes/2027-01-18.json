@@ -1,0 +1,63 @@
+{
+  "date": "2027-01-18",
+  "series": "seedhi-baat",
+  "template": "tips",
+  "musicSeed": 118,
+  "hook": {
+    "line1": [
+      "Interview",
+      "call"
+    ],
+    "line2": [
+      "aaya?",
+      "Ready?"
+    ],
+    "highlight": "Ready?",
+    "subline": "University interview tips."
+  },
+  "tips": {
+    "seriesLabel": "Seedhi Baat",
+    "items": [
+      {
+        "title": "SOP dobara padho",
+        "detail": "Jo likha hai, wahi poocha ja sakta hai. Har line pe bol pao."
+      },
+      {
+        "title": "Kyun ye course?",
+        "detail": "Ye sawaal pakka aayega. Seedha, apna jawab tayyar rakho."
+      },
+      {
+        "title": "Apne sawaal bhi poocho",
+        "detail": "Course, projects ya student life ke baare mein ek do sawaal rakho."
+      },
+      {
+        "title": "Tech check pehle",
+        "detail": "Camera, mic, internet aur shant kamra. Pehle test karo."
+      }
+    ]
+  },
+  "closing": {
+    "line1": "Tayyari poori,",
+    "line2": "nervousness kam."
+  },
+  "cta": {
+    "button": "Explore karo",
+    "url": "app.goeduabroad.com"
+  },
+  "youtube": {
+    "title": "University interview call aaya? 4 tips",
+    "description": "University interview se pehle: apni SOP dobara padho, 'kyun ye course' ka jawab tayyar rakho, apne sawaal bhi poocho, aur camera, mic aur internet pehle test karo.\n\n👉 https://app.goeduabroad.com\n\nEduAbroad: Run by Harvard-Cambridge Alumni. 100% private. Contact aap karoge, hum nahi.",
+    "tags": [
+      "study abroad",
+      "Indian students",
+      "study abroad tips",
+      "EduAbroad",
+      "university interview",
+      "admission interview"
+    ]
+  },
+  "instagram": {
+    "caption": "Interview call aaya? 🎤\n\nSOP padho, 'kyun ye course' ready rakho, apne sawaal poocho, aur tech check pehle.\n\nSave karo 📌\n\n👉 app.goeduabroad.com (link in bio)\n\n#StudyAbroad #IndianStudents #StudyAbroadTips #EduAbroad #Reels"
+  },
+  "claims": []
+}

@@ -1,0 +1,64 @@
+{
+  "date": "2027-01-11",
+  "series": "seedhi-baat",
+  "template": "tips",
+  "musicSeed": 111,
+  "hook": {
+    "line1": [
+      "Pehla",
+      "hafta"
+    ],
+    "line2": [
+      "abroad?",
+      "Ye",
+      "karo."
+    ],
+    "highlight": "karo.",
+    "subline": "Settle hone ki checklist."
+  },
+  "tips": {
+    "seriesLabel": "Seedhi Baat",
+    "items": [
+      {
+        "title": "Local SIM aur bank",
+        "detail": "Pehle din SIM lo, phir bank account khulwao. Baaki sab isi se judta hai."
+      },
+      {
+        "title": "Student ID aur registration",
+        "detail": "University ke saare registration time pe poore karo."
+      },
+      {
+        "title": "Groceries ka setup",
+        "detail": "Paas ki dukaan dhundo aur pehle hafte ka khaana plan karo."
+      },
+      {
+        "title": "Logon se milo",
+        "detail": "Seniors, classmates aur Indian community. Akele mat raho."
+      }
+    ]
+  },
+  "closing": {
+    "line1": "Pehla hafta set,",
+    "line2": "baaki sab easy."
+  },
+  "cta": {
+    "button": "Explore karo",
+    "url": "app.goeduabroad.com"
+  },
+  "youtube": {
+    "title": "Abroad mein pehla hafta: settle hone ki checklist",
+    "description": "Abroad pahunch ke pehle hafte mein: local SIM aur bank account, student ID aur registration, groceries ka setup, aur seniors aur classmates se milna.\n\n👉 https://app.goeduabroad.com\n\nEduAbroad: Run by Harvard-Cambridge Alumni. 100% private. Contact aap karoge, hum nahi.",
+    "tags": [
+      "study abroad",
+      "Indian students",
+      "study abroad tips",
+      "EduAbroad",
+      "first week abroad",
+      "student life abroad"
+    ]
+  },
+  "instagram": {
+    "caption": "Pehla hafta abroad? ✈️\n\nSIM + bank, student ID, groceries, aur naye log. Bas itna, aur settle ho gaye!\n\nJaane wale dost ko bhejo 👇\n\n👉 app.goeduabroad.com (link in bio)\n\n#StudyAbroad #IndianStudents #StudyAbroadTips #EduAbroad #Reels"
+  },
+  "claims": []
+}

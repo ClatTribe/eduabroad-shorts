@@ -8,7 +8,7 @@
       "series": "myth-fact",
       "template": "mythfact",
       "topic": "New year myths: 'abhi bahut time hai', 'deadline baad mein dekhenge', 'ek hi test kaafi'",
-      "episode": null
+      "episode": "episodes/2027-01-01.json"
     },
     {
       "date": "2027-01-04",
@@ -16,7 +16,7 @@
       "series": "seedhi-baat",
       "template": "tips",
       "topic": "Accommodation: on-campus vs off-campus, kya poochna hai",
-      "episode": null
+      "episode": "episodes/2027-01-04.json"
     },
     {
       "date": "2027-01-06",
@@ -33,7 +33,7 @@
       "series": "myth-fact",
       "template": "mythfact",
       "topic": "Average student ke liye scholarship nahi? + sirf merit + late apply",
-      "episode": null
+      "episode": "episodes/2027-01-08.json"
     },
     {
       "date": "2027-01-11",
@@ -41,7 +41,7 @@
       "series": "seedhi-baat",
       "template": "tips",
       "topic": "Pehle hafte abroad: SIM, bank, ID, groceries, seniors se milo",
-      "episode": null
+      "episode": "episodes/2027-01-11.json"
     },
     {
       "date": "2027-01-13",
@@ -58,7 +58,7 @@
       "series": "myth-fact",
       "template": "mythfact",
       "topic": "Sirf USA, UK, Canada hi options? (no claims about specific countries' rules)",
-      "episode": null
+      "episode": "episodes/2027-01-15.json"
     },
     {
       "date": "2027-01-18",
@@ -66,7 +66,7 @@
       "series": "seedhi-baat",
       "template": "tips",
       "topic": "Interview call aaya? University interview ke 4 tips",
-      "episode": null
+      "episode": "episodes/2027-01-18.json"
     },
     {
       "date": "2027-01-20",
@@ -83,7 +83,7 @@
       "series": "myth-fact",
       "template": "mythfact",
       "topic": "Homesickness myths: 'strong log nahi rote', 'call se sab theek', 'akele handle karo'",
-      "episode": null
+      "episode": "episodes/2027-01-22.json"
     },
     {
       "date": "2027-01-25",
@@ -91,7 +91,7 @@
       "series": "seedhi-baat",
       "template": "tips",
       "topic": "Offer letter aaya, ab kya? Deposit, visa, loan, housing ka order",
-      "episode": null
+      "episode": "episodes/2027-01-25.json"
     },
     {
       "date": "2027-01-27",
@@ -108,7 +108,7 @@
       "series": "myth-fact",
       "template": "mythfact",
       "topic": "IELTS ke bina admit nahi? (only say: requirements course pe depend karte hain, university site check karo)",
-      "episode": null
+      "episode": "episodes/2027-01-29.json"
     }
   ]
 }

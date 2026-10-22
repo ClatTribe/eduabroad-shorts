@@ -1,0 +1,69 @@
+{
+  "date": "2027-01-15",
+  "series": "myth-fact",
+  "template": "mythfact",
+  "musicSeed": 115,
+  "hook": {
+    "line1": [
+      "Sirf",
+      "USA,",
+      "UK?"
+    ],
+    "line2": [
+      "Aur",
+      "bhi",
+      "hain!"
+    ],
+    "highlight": "hain!",
+    "subline": "Country chunne ke 3 myths."
+  },
+  "myths": {
+    "seriesLabel": "Myth vs Fact",
+    "items": [
+      {
+        "myth": "Sirf USA, UK, Canada hi options hain",
+        "fact": "Aur bhi countries hain",
+        "detail": "Germany, Ireland, Australia, New Zealand aur kai aur. Course aur budget se chuno."
+      },
+      {
+        "myth": "Jo popular hai, wahi mere liye best",
+        "fact": "Apna fit dekho",
+        "detail": "Kharcha, course, language aur career plan. Sabka jawab alag hota hai."
+      },
+      {
+        "myth": "Naam bada, degree badi",
+        "fact": "University aur course dekho",
+        "detail": "Country nahi, university aur course ki quality matter karti hai."
+      }
+    ]
+  },
+  "closing": {
+    "line1": "Map bada hai,",
+    "line2": "options bhi."
+  },
+  "cta": {
+    "button": "Explore karo",
+    "url": "app.goeduabroad.com"
+  },
+  "youtube": {
+    "title": "Sirf USA, UK, Canada hi options hain? Myth vs Fact",
+    "description": "Country chunne ke 3 myths. Aur bhi countries hain jaise Germany, Ireland, Australia aur New Zealand. Popular hamesha best nahi, apna fit dekho. Aur university aur course ki quality matter karti hai.\n\n👉 https://app.goeduabroad.com\n\nEduAbroad: Run by Harvard-Cambridge Alumni. 100% private. Contact aap karoge, hum nahi.",
+    "tags": [
+      "study abroad",
+      "Indian students",
+      "study abroad tips",
+      "EduAbroad",
+      "study destinations",
+      "country selection"
+    ]
+  },
+  "instagram": {
+    "caption": "Sirf USA, UK, Canada? 🌍 Aur bhi hain!\n\nApna fit dekho: kharcha, course, language aur career plan.\n\n👉 app.goeduabroad.com (link in bio)\n\n#StudyAbroad #IndianStudents #StudyAbroadTips #EduAbroad #Reels"
+  },
+  "claims": [
+    {
+      "text": "Country chunne ke 3 myths.",
+      "source": "count of myths in this video"
+    }
+  ]
+}

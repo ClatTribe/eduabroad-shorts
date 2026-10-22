@@ -1,0 +1,67 @@
+{
+  "date": "2027-01-01",
+  "series": "myth-fact",
+  "template": "mythfact",
+  "musicSeed": 101,
+  "hook": {
+    "line1": [
+      "Naya",
+      "saal,"
+    ],
+    "line2": [
+      "purane",
+      "myths?"
+    ],
+    "highlight": "myths?",
+    "subline": "3 myths jo saal kharab karte hain."
+  },
+  "myths": {
+    "seriesLabel": "Myth vs Fact",
+    "items": [
+      {
+        "myth": "Abhi bahut time hai",
+        "fact": "Jaldi shuru, kam pressure",
+        "detail": "Research aur tests ke liye time lagta hai. Aaj se thoda thoda karo."
+      },
+      {
+        "myth": "Deadlines baad mein dekhenge",
+        "fact": "Deadlines ki list abhi banao",
+        "detail": "Har university ki deadline official site pe check karo aur ek sheet mein likho."
+      },
+      {
+        "myth": "Ek hi test sab jagah chalega",
+        "fact": "Har course ki requirement alag hai",
+        "detail": "Kaunsa test, kitna score, ye har university ki site pe check karo."
+      }
+    ]
+  },
+  "closing": {
+    "line1": "Naya saal,",
+    "line2": "naya plan."
+  },
+  "cta": {
+    "button": "Explore karo",
+    "url": "app.goeduabroad.com"
+  },
+  "youtube": {
+    "title": "Naya saal, purane myths? Study abroad Myth vs Fact",
+    "description": "Naye saal ke 3 study abroad myths: abhi bahut time hai, deadlines baad mein, aur ek test sab jagah chalega. Jaldi shuru karo, deadlines ki list banao, aur har course ki requirement official site pe check karo.\n\n👉 https://app.goeduabroad.com\n\nEduAbroad: Run by Harvard-Cambridge Alumni. 100% private. Contact aap karoge, hum nahi.",
+    "tags": [
+      "study abroad",
+      "Indian students",
+      "study abroad tips",
+      "EduAbroad",
+      "new year plan",
+      "study abroad myths"
+    ]
+  },
+  "instagram": {
+    "caption": "Naya saal, purane myths? 🎆\n\nAbhi se shuru karo, deadlines ki list banao, aur har course ki requirement check karo.\n\n👉 app.goeduabroad.com (link in bio)\n\n#StudyAbroad #IndianStudents #StudyAbroadTips #EduAbroad #Reels"
+  },
+  "claims": [
+    {
+      "text": "3 myths jo saal kharab karte hain.",
+      "source": "count of myths in this video"
+    }
+  ]
+}

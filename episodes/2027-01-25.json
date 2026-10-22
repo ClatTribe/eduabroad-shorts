@@ -1,0 +1,63 @@
+{
+  "date": "2027-01-25",
+  "series": "seedhi-baat",
+  "template": "tips",
+  "musicSeed": 125,
+  "hook": {
+    "line1": [
+      "Offer",
+      "aaya!"
+    ],
+    "line2": [
+      "Ab",
+      "kya?"
+    ],
+    "highlight": "kya?",
+    "subline": "Agle kadam, sahi order mein."
+  },
+  "tips": {
+    "seriesLabel": "Seedhi Baat",
+    "items": [
+      {
+        "title": "Shartein padho",
+        "detail": "Conditional hai ya unconditional? Kya submit karna baaki hai, note karo."
+      },
+      {
+        "title": "Deposit ki date",
+        "detail": "Seat confirm karne ki deadline calendar mein daalo."
+      },
+      {
+        "title": "Visa ki list banao",
+        "detail": "Kaunse documents chahiye, aur appointment kab tak lena hai."
+      },
+      {
+        "title": "Housing aur funding saath mein",
+        "detail": "Rehne ki jagah aur loan ya funds, dono parallel mein shuru karo."
+      }
+    ]
+  },
+  "closing": {
+    "line1": "Offer mil gaya,",
+    "line2": "ab plan pe chalo."
+  },
+  "cta": {
+    "button": "Explore karo",
+    "url": "app.goeduabroad.com"
+  },
+  "youtube": {
+    "title": "Offer letter aaya, ab kya? Agle 4 kadam",
+    "description": "Offer letter ke baad: shartein dhyan se padho, deposit ki deadline note karo, visa documents ki list banao, aur housing aur funding parallel mein shuru karo.\n\n👉 https://app.goeduabroad.com\n\nEduAbroad: Run by Harvard-Cambridge Alumni. 100% private. Contact aap karoge, hum nahi.",
+    "tags": [
+      "study abroad",
+      "Indian students",
+      "study abroad tips",
+      "EduAbroad",
+      "offer letter",
+      "after admit"
+    ]
+  },
+  "instagram": {
+    "caption": "Offer aaya! 🎉 Ab kya?\n\nShartein padho, deposit date note karo, visa list banao, housing + funding saath mein.\n\nCongratulations, aur save karo 📌\n\n👉 app.goeduabroad.com (link in bio)\n\n#StudyAbroad #IndianStudents #StudyAbroadTips #EduAbroad #Reels"
+  },
+  "claims": []
+}
