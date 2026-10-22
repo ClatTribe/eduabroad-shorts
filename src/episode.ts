@@ -5,8 +5,8 @@
  */
 import type { CardShot } from "./cards";
 
-export type Template = "feature" | "tips" | "mythfact";
-export type Series = "portal" | "seedhi-baat" | "myth-fact";
+export type Template = "feature" | "tips" | "mythfact" | "quiz";
+export type Series = "portal" | "seedhi-baat" | "myth-fact" | "sat";
 
 export type Hook = {
   /** Words of line 1 and line 2; each pops in one by one. */
@@ -74,6 +74,18 @@ export type Episode = {
     items: { myth: string; fact: string; detail: string }[];
   };
 
+  /** template: quiz (SAT Quick Quiz): one real practice question, countdown, answer, why */
+  quiz?: {
+    seriesLabel: string; // e.g. "SAT Quick Quiz"
+    section: string; // e.g. "Grammar"
+    prompt: string; // e.g. "Blank mein kya aayega?"
+    /** The question text; "____" marks the blank, which fills with the answer on reveal. */
+    passage: string;
+    options: string[]; // exactly 4, shown as A to D
+    answer: number; // index into options
+    why: { title: string; focus: string; points: string[] };
+  };
+
   closing: { line1: string; line2: string };
   cta: { button: string; url: string };
 
@@ -98,6 +110,9 @@ export const T = {
   fact: 4.2,
   closing: 2.6,
   cta: 3,
+  question: 10, // read (4s) + options + 5 second countdown
+  answer: 3.4,
+  why: 6,
 };
 
 export type SceneSpan = { name: string; seconds: number };
@@ -120,6 +135,16 @@ export const scenesFor = (ep: Episode): SceneSpan[] => {
     const tips = T.seriesCard + (ep.tips?.items.length ?? 0) * T.tip;
     return [hook, { name: "tips", seconds: tips }, { name: "closing", seconds: T.closing }, cta];
   }
+  if (ep.template === "quiz") {
+    return [
+      hook,
+      { name: "question", seconds: T.question },
+      { name: "answer", seconds: T.answer },
+      { name: "why", seconds: T.why },
+      { name: "closing", seconds: T.closing },
+      cta,
+    ];
+  }
   const myths = T.seriesCard + (ep.myths?.items.length ?? 0) * (T.myth + T.fact);
   return [hook, { name: "myths", seconds: myths }, { name: "closing", seconds: T.closing }, cta];
 };
@@ -129,6 +154,6 @@ export const totalSeconds = (ep: Episode) => scenesFor(ep).reduce((s, x) => s + 
 /** Where the music "drop" lands: the moment the answer appears. */
 export const dropSeconds = (ep: Episode) => {
   const spans = scenesFor(ep);
-  const idx = spans.findIndex((s) => ["reveal", "tips", "myths"].includes(s.name));
+  const idx = spans.findIndex((s) => ["reveal", "tips", "myths", "answer"].includes(s.name));
   return spans.slice(0, idx).reduce((s, x) => s + x.seconds, 0);
 };

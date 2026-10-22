@@ -41,6 +41,13 @@ const L = {
   factDetail: 110,
   closing: 24,
   button: 16,
+  quizPrompt: 26,
+  quizSection: 16,
+  passage: 170,
+  option: 22,
+  whyTitle: 12,
+  whyFocus: 20,
+  whyPoint: 40,
   ytTitle: 100,
   ytDescription: 4500,
   igCaption: 2200,
@@ -67,11 +74,12 @@ const add = (label, text, limit) => {
 };
 
 if (!/^\d{4}-\d{2}-\d{2}$/.test(ep.date ?? "")) fail("date must be YYYY-MM-DD");
-if (path.basename(file, ".json") !== ep.date) fail(`file name must match date (${ep.date}.json)`);
-if (!["feature", "tips", "mythfact"].includes(ep.template)) fail("template must be feature | tips | mythfact");
-if (!["portal", "seedhi-baat", "myth-fact"].includes(ep.series)) fail("series must be portal | seedhi-baat | myth-fact");
+if (!file.includes("samples") && path.basename(file, ".json") !== ep.date) fail(`file name must match date (${ep.date}.json)`);
+if (!["feature", "tips", "mythfact", "quiz"].includes(ep.template)) fail("template must be feature | tips | mythfact | quiz");
+if (!["portal", "seedhi-baat", "myth-fact", "sat"].includes(ep.series)) fail("series must be portal | seedhi-baat | myth-fact | sat");
 if (!Number.isInteger(ep.musicSeed)) fail("musicSeed must be a whole number");
 
+const claims0 = Array.isArray(ep.claims) ? ep.claims : [];
 const h = ep.hook ?? {};
 if (!Array.isArray(h.line1) || !Array.isArray(h.line2)) fail("hook.line1 and hook.line2 must be arrays of words");
 else {
@@ -126,6 +134,22 @@ if (ep.template === "mythfact") {
     add(`myths.items[${i}].detail`, x.detail, L.factDetail);
   });
 }
+if (ep.template === "quiz") {
+  const q = ep.quiz;
+  add("quiz.seriesLabel", q?.seriesLabel, L.pill);
+  add("quiz.section", q?.section, L.quizSection);
+  add("quiz.prompt", q?.prompt, L.quizPrompt);
+  add("quiz.passage", q?.passage, L.passage);
+  if ((q?.passage ?? "").split("____").length !== 2) fail('quiz.passage must contain exactly one blank written as "____"');
+  if (!Array.isArray(q?.options) || q.options.length !== 4) fail("quiz.options: exactly 4");
+  q?.options?.forEach((o, i) => add(`quiz.options[${i}]`, o, L.option));
+  if (!Number.isInteger(q?.answer) || q.answer < 0 || q.answer > 3) fail("quiz.answer must be 0 to 3 (A to D)");
+  add("quiz.why.title", q?.why?.title, L.whyTitle);
+  add("quiz.why.focus", q?.why?.focus, L.whyFocus);
+  if (!q?.why?.points?.length || q.why.points.length > 3) fail("quiz.why.points: 1 to 3");
+  q?.why?.points?.forEach((x, i) => add(`quiz.why.points[${i}]`, x, L.whyPoint));
+  if (!claims0.some((c) => /Study Materials/.test(c.source ?? ""))) fail("quiz must cite the portal Study Materials question it comes from");
+}
 add("closing.line1", ep.closing?.line1, L.closing);
 add("closing.line2", ep.closing?.line2, L.closing);
 add("cta.button", ep.cta?.button, L.button);
@@ -179,11 +203,12 @@ for (const [label, text] of onScreen) {
 }
 
 // ---------- duration ----------
-const T = { hook: 3, beat: 2.2, punchline: 2.4, revealIntro: 1.2, proof: 5, seriesCard: 1.2, tip: 4.2, myth: 2.4, fact: 4.2, closing: 2.6, cta: 3 };
+const T = { question: 10, answer: 3.4, why: 6, hook: 3, beat: 2.2, punchline: 2.4, revealIntro: 1.2, proof: 5, seriesCard: 1.2, tip: 4.2, myth: 2.4, fact: 4.2, closing: 2.6, cta: 3 };
 let total = T.hook + T.cta;
 if (ep.template === "feature")
   total += (ep.build?.beats?.length ?? 0) * T.beat + T.punchline + T.revealIntro + (ep.reveal?.clips ?? []).reduce((s, c) => s + (c.seconds ?? 0), 0) + T.proof;
 if (ep.template === "tips") total += T.seriesCard + (ep.tips?.items?.length ?? 0) * T.tip + T.closing;
+if (ep.template === "quiz") total += T.question + T.answer + T.why + T.closing;
 if (ep.template === "mythfact") total += T.seriesCard + (ep.myths?.items?.length ?? 0) * (T.myth + T.fact) + T.closing;
 if (total < 20 || total > 40) fail(`total length ${total.toFixed(1)}s (keep between 20 and 40s)`);
 

@@ -5,8 +5,8 @@
 # 4. evens out loudness (-14 LUFS, YouTube standard)  5. saves review frames
 set -euo pipefail
 cd "$(dirname "$0")/.."
-DATE="${1:?usage: tools/render.sh YYYY-MM-DD}"
-EP="episodes/$DATE.json"
+ARG="${1:?usage: tools/render.sh YYYY-MM-DD (or a path like episodes/samples/sat-quiz.json)}"
+if [[ "$ARG" == *.json ]]; then EP="$ARG"; DATE="$(basename "$ARG" .json)"; else DATE="$ARG"; EP="episodes/$DATE.json"; fi
 mkdir -p out
 # Full ffmpeg if installed (cloud sessions have it); otherwise the one bundled with Remotion
 if command -v ffmpeg >/dev/null; then FF=ffmpeg; else FF="npx remotion ffmpeg"; fi

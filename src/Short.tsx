@@ -12,6 +12,7 @@ import { CtaScene } from "./scenes/CtaScene";
 import { HookScene } from "./scenes/HookScene";
 import { MythsScene } from "./scenes/MythsScene";
 import { ProofScene } from "./scenes/ProofScene";
+import { AnswerScene, QuestionScene, WhyScene } from "./scenes/QuizScene";
 import { RevealScene } from "./scenes/RevealScene";
 import { TipsScene } from "./scenes/TipsScene";
 import { MUSIC, SHOW_SAFE_ZONES, WATERMARK } from "./settings";
@@ -25,6 +26,9 @@ const COMPONENTS: Record<string, React.FC> = {
   proof: ProofScene,
   tips: TipsScene,
   myths: MythsScene,
+  question: QuestionScene,
+  answer: AnswerScene,
+  why: WhyScene,
   closing: ClosingScene,
   cta: CtaScene,
 };

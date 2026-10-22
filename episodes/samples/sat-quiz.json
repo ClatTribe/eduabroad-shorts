@@ -1,0 +1,83 @@
+{
+  "date": "2026-11-07",
+  "series": "sat",
+  "template": "quiz",
+  "musicSeed": 1107,
+  "hook": {
+    "line1": [
+      "SAT",
+      "grammar"
+    ],
+    "line2": [
+      "test",
+      "karein?"
+    ],
+    "highlight": "SAT",
+    "subline": "Sirf 5 second milenge."
+  },
+  "quiz": {
+    "seriesLabel": "SAT Quick Quiz",
+    "section": "Grammar",
+    "prompt": "Blank mein kya aayega?",
+    "passage": "In the United States and worldwide, high school ____ have been gradually improving over the last several years.",
+    "options": [
+      "student’s scores",
+      "students’ scores’",
+      "students score’s",
+      "students’ scores"
+    ],
+    "answer": 3,
+    "why": {
+      "title": "Kyun D?",
+      "focus": "students’ scores",
+      "points": [
+        "students: kai saare, yaani plural",
+        "Plural possessive: apostrophe s ke baad",
+        "scores pe apostrophe nahi lagta"
+      ]
+    }
+  },
+  "closing": {
+    "line1": "Aise 100 sawaal,",
+    "line2": "Study Materials pe."
+  },
+  "cta": {
+    "button": "Practice karo",
+    "url": "app.goeduabroad.com/study-material"
+  },
+  "youtube": {
+    "title": "SAT grammar: 5 second mein ye sawaal solve karo",
+    "description": "Digital SAT Reading and Writing ka ek grammar sawaal. Apostrophe ka chhota sa farak, aur poora answer badal jaata hai.\n\nAise 100 Standard English Conventions sawaal, aur vocabulary, geometry aur advanced math ke DSAT practice sets EduAbroad Study Materials pe.\n\n👉 https://app.goeduabroad.com/study-material\n\nEduAbroad: Run by Harvard-Cambridge Alumni. 100% private. Contact aap karoge, hum nahi.",
+    "tags": [
+      "SAT",
+      "Digital SAT",
+      "SAT grammar",
+      "SAT prep",
+      "DSAT",
+      "SAT Reading and Writing",
+      "EduAbroad",
+      "study abroad"
+    ]
+  },
+  "instagram": {
+    "caption": "SAT grammar quiz ⏱️ Sirf 5 second!\n\nAapka answer kya hai: A, B, C ya D? Comment karo, phir video end tak dekho 👇\n\nAise 100 sawaal EduAbroad Study Materials pe 👉 app.goeduabroad.com/study-material (link in bio)\n\n#SAT #DigitalSAT #SATPrep #EduAbroad #StudyAbroad"
+  },
+  "claims": [
+    {
+      "text": "Sirf 5 second milenge.",
+      "source": "length of the countdown in this video"
+    },
+    {
+      "text": "Question and options (shortened): In the United States and worldwide, high school ____ have been gradually improving...",
+      "source": "Portal Study Materials, 'Standard English Conventions Practice' PDF, question 2 (last clause trimmed for the phone screen)"
+    },
+    {
+      "text": "Answer D: students’ scores (plural possessive)",
+      "source": "VERIFY: the portal PDF has no answer key. Answer worked out by Claude from the standard plural-possessive rule; a person must confirm it before this posts"
+    },
+    {
+      "text": "Aise 100 sawaal,",
+      "source": "Portal Study Materials, 'Standard English Conventions Practice' PDF: 100 questions over 33 pages"
+    }
+  ]
+}
