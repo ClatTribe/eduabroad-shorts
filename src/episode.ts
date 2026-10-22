@@ -5,7 +5,7 @@
  */
 import type { CardShot } from "./cards";
 
-export type Template = "feature" | "tips" | "mythfact" | "quiz";
+export type Template = "feature" | "tips" | "mythfact" | "quiz" | "solve";
 export type Series = "portal" | "seedhi-baat" | "myth-fact" | "sat";
 
 export type Hook = {
@@ -86,6 +86,19 @@ export type Episode = {
     why: { title: string; focus: string; points: string[] };
   };
 
+  /** template: solve (SAT Solve It): one real question worked out step by step. Math uses ^{} for powers. */
+  solve?: {
+    seriesLabel: string; // e.g. "SAT Math"
+    section: string; // e.g. "Advanced Math"
+    question: string;
+    options?: string[]; // leave out for a grid-in (student-produced) answer
+    pauseLine: string; // e.g. "Pause and try it first"
+    steps: { label: string; math: string[] }[]; // math pieces reveal one by one
+    answer: string; // e.g. "155" or "D"
+    takeaway: string; // one line under the answer
+  };
+
+  /** Not shown by every template (solve skips it). */
   closing: { line1: string; line2: string };
   cta: { button: string; url: string };
 
@@ -110,6 +123,9 @@ export const T = {
   fact: 4.2,
   closing: 2.6,
   cta: 3,
+  problem: 5,
+  step: 3.6,
+  result: 4,
   question: 10, // read (4s) + options + 5 second countdown
   answer: 3.4,
   why: 6,
@@ -135,6 +151,15 @@ export const scenesFor = (ep: Episode): SceneSpan[] => {
     const tips = T.seriesCard + (ep.tips?.items.length ?? 0) * T.tip;
     return [hook, { name: "tips", seconds: tips }, { name: "closing", seconds: T.closing }, cta];
   }
+  if (ep.template === "solve") {
+    return [
+      hook,
+      { name: "problem", seconds: T.problem },
+      { name: "steps", seconds: (ep.solve?.steps.length ?? 0) * T.step + 0.6 },
+      { name: "result", seconds: T.result },
+      cta,
+    ];
+  }
   if (ep.template === "quiz") {
     return [
       hook,
@@ -154,6 +179,6 @@ export const totalSeconds = (ep: Episode) => scenesFor(ep).reduce((s, x) => s + 
 /** Where the music "drop" lands: the moment the answer appears. */
 export const dropSeconds = (ep: Episode) => {
   const spans = scenesFor(ep);
-  const idx = spans.findIndex((s) => ["reveal", "tips", "myths", "answer"].includes(s.name));
+  const idx = spans.findIndex((s) => ["reveal", "tips", "myths", "answer", "steps"].includes(s.name));
   return spans.slice(0, idx).reduce((s, x) => s + x.seconds, 0);
 };

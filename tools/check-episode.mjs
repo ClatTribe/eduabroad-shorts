@@ -48,6 +48,12 @@ const L = {
   whyTitle: 12,
   whyFocus: 20,
   whyPoint: 40,
+  solveQuestion: 160,
+  stepLabel: 18,
+  mathLine: 40,
+  answer: 12,
+  takeaway: 44,
+  pauseLine: 26,
   ytTitle: 100,
   ytDescription: 4500,
   igCaption: 2200,
@@ -75,7 +81,7 @@ const add = (label, text, limit) => {
 
 if (!/^\d{4}-\d{2}-\d{2}$/.test(ep.date ?? "")) fail("date must be YYYY-MM-DD");
 if (!file.includes("samples") && path.basename(file, ".json") !== ep.date) fail(`file name must match date (${ep.date}.json)`);
-if (!["feature", "tips", "mythfact", "quiz"].includes(ep.template)) fail("template must be feature | tips | mythfact | quiz");
+if (!["feature", "tips", "mythfact", "quiz", "solve"].includes(ep.template)) fail("template must be feature | tips | mythfact | quiz | solve");
 if (!["portal", "seedhi-baat", "myth-fact", "sat"].includes(ep.series)) fail("series must be portal | seedhi-baat | myth-fact | sat");
 if (!Number.isInteger(ep.musicSeed)) fail("musicSeed must be a whole number");
 
@@ -150,8 +156,28 @@ if (ep.template === "quiz") {
   q?.why?.points?.forEach((x, i) => add(`quiz.why.points[${i}]`, x, L.whyPoint));
   if (!claims0.some((c) => /Study Materials/.test(c.source ?? ""))) fail("quiz must cite the portal Study Materials question it comes from");
 }
-add("closing.line1", ep.closing?.line1, L.closing);
-add("closing.line2", ep.closing?.line2, L.closing);
+if (ep.template === "solve") {
+  const sv = ep.solve;
+  const plain = (t) => (t ?? "").replace(/\^\{([^}]*)\}/g, "$1").replace(/\^(.)/g, "$1");
+  add("solve.seriesLabel", sv?.seriesLabel, L.pill);
+  add("solve.section", sv?.section, L.quizSection);
+  add("solve.question", sv?.question, L.solveQuestion);
+  if (sv?.options && sv.options.length !== 4) fail("solve.options: exactly 4, or leave out for a grid-in answer");
+  sv?.options?.forEach((o, i) => add(`solve.options[${i}]`, o, L.option));
+  add("solve.pauseLine", sv?.pauseLine, L.pauseLine);
+  if (!sv?.steps?.length || sv.steps.length > 4) fail("solve.steps: 1 to 4");
+  sv?.steps?.forEach((st, i) => {
+    add(`solve.steps[${i}].label`, st.label, L.stepLabel);
+    add(`solve.steps[${i}].math`, (st.math ?? []).join(" = "), 99);
+    if (plain((st.math ?? []).join(" = ")).length > L.mathLine) fail(`solve.steps[${i}].math is too long for one line (max ${L.mathLine} chars)`);
+  });
+  add("solve.answer", sv?.answer, L.answer);
+  add("solve.takeaway", sv?.takeaway, L.takeaway);
+  if (!claims0.some((c) => /Study Materials/.test(c.source ?? ""))) fail("solve must cite the portal Study Materials question it comes from");
+} else {
+  add("closing.line1", ep.closing?.line1, L.closing);
+  add("closing.line2", ep.closing?.line2, L.closing);
+}
 add("cta.button", ep.cta?.button, L.button);
 add("cta.url", ep.cta?.url, 48);
 if (ep.cta?.url && !/^app\.goeduabroad\.com(\/[a-z0-9\-/&]*)?$/i.test(ep.cta.url)) fail("cta.url must be on app.goeduabroad.com");
@@ -203,11 +229,12 @@ for (const [label, text] of onScreen) {
 }
 
 // ---------- duration ----------
-const T = { question: 10, answer: 3.4, why: 6, hook: 3, beat: 2.2, punchline: 2.4, revealIntro: 1.2, proof: 5, seriesCard: 1.2, tip: 4.2, myth: 2.4, fact: 4.2, closing: 2.6, cta: 3 };
+const T = { problem: 5, step: 3.6, result: 4, question: 10, answer: 3.4, why: 6, hook: 3, beat: 2.2, punchline: 2.4, revealIntro: 1.2, proof: 5, seriesCard: 1.2, tip: 4.2, myth: 2.4, fact: 4.2, closing: 2.6, cta: 3 };
 let total = T.hook + T.cta;
 if (ep.template === "feature")
   total += (ep.build?.beats?.length ?? 0) * T.beat + T.punchline + T.revealIntro + (ep.reveal?.clips ?? []).reduce((s, c) => s + (c.seconds ?? 0), 0) + T.proof;
 if (ep.template === "tips") total += T.seriesCard + (ep.tips?.items?.length ?? 0) * T.tip + T.closing;
+if (ep.template === "solve") total += T.problem + (ep.solve?.steps?.length ?? 0) * T.step + 0.6 + T.result;
 if (ep.template === "quiz") total += T.question + T.answer + T.why + T.closing;
 if (ep.template === "mythfact") total += T.seriesCard + (ep.myths?.items?.length ?? 0) * (T.myth + T.fact) + T.closing;
 if (total < 20 || total > 40) fail(`total length ${total.toFixed(1)}s (keep between 20 and 40s)`);

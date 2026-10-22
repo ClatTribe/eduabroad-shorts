@@ -1,0 +1,39 @@
+{
+  "date": "2026-11-07",
+  "series": "sat",
+  "template": "solve",
+  "musicSeed": 1171,
+  "hook": {
+    "line1": ["Can", "you", "solve"],
+    "line2": ["this", "SAT", "question?"],
+    "highlight": "SAT",
+    "subline": "Hint: you never need x."
+  },
+  "solve": {
+    "seriesLabel": "SAT Math",
+    "section": "Advanced Math",
+    "question": "If 2^{x} = 5, what is the value of 2^{x} + 2^{2x} + 2^{3x}?",
+    "pauseLine": "Pause and try it first",
+    "steps": [
+      { "label": "Square it", "math": ["2^{2x}", "(2^{x})^{2}", "5^{2}", "25"] },
+      { "label": "Cube it", "math": ["2^{3x}", "(2^{x})^{3}", "5^{3}", "125"] },
+      { "label": "Add them up", "math": ["5 + 25 + 125", "155"] }
+    ],
+    "answer": "155",
+    "takeaway": "Rewrite every power using 2^{x}. Done."
+  },
+  "closing": { "line1": "", "line2": "" },
+  "cta": { "button": "Practice now", "url": "app.goeduabroad.com/study-material" },
+  "youtube": {
+    "title": "SAT Math in 3 steps: if 2^x = 5, find 2^x + 2^2x + 2^3x",
+    "description": "A Digital SAT Advanced Math question, solved in 3 steps. The trick: you never need to find x. Rewrite each power using 2^x = 5.\n\n2^2x = (2^x)^2 = 25\n2^3x = (2^x)^3 = 125\n5 + 25 + 125 = 155\n\nMore DSAT practice sets (Advanced Math, Geometry, Algebra, Reading and Writing) on EduAbroad Study Materials.\n\n👉 https://app.goeduabroad.com/study-material\n\nEduAbroad: Run by Harvard-Cambridge Alumni.",
+    "tags": ["SAT", "Digital SAT", "SAT Math", "SAT prep", "DSAT", "exponents", "EduAbroad"]
+  },
+  "instagram": {
+    "caption": "Can you solve this SAT question without finding x? 🧠\n\nIf 2^x = 5, what is 2^x + 2^2x + 2^3x?\n\nPause, try it, and drop your answer in the comments before the solution 👇\n\nMore DSAT practice sets on EduAbroad Study Materials 👉 app.goeduabroad.com/study-material (link in bio)\n\n#SAT #DigitalSAT #SATMath #SATPrep #EduAbroad"
+  },
+  "claims": [
+    { "text": "If 2^x = 5, what is the value of 2^x + 2^2x + 2^3x? (2 5 3)", "source": "Portal Study Materials, 'DSAT Advanced Math' PDF, Exercises: Laws of Exponents, question 4 (checked against the PDF page)" },
+    { "text": "Working: 2^2x = (2^x)^2 = 5^2 = 25; 2^3x = (2^x)^3 = 5^3 = 125; 5 + 25 + 125 = 155", "source": "worked solution, arithmetic checked (5 + 25 + 125 = 155)" }
+  ]
+}

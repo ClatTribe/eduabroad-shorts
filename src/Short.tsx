@@ -13,6 +13,7 @@ import { HookScene } from "./scenes/HookScene";
 import { MythsScene } from "./scenes/MythsScene";
 import { ProofScene } from "./scenes/ProofScene";
 import { AnswerScene, QuestionScene, WhyScene } from "./scenes/QuizScene";
+import { ProblemScene, ResultScene, StepsScene } from "./scenes/SolveScene";
 import { RevealScene } from "./scenes/RevealScene";
 import { TipsScene } from "./scenes/TipsScene";
 import { MUSIC, SHOW_SAFE_ZONES, WATERMARK } from "./settings";
@@ -29,6 +30,9 @@ const COMPONENTS: Record<string, React.FC> = {
   question: QuestionScene,
   answer: AnswerScene,
   why: WhyScene,
+  problem: ProblemScene,
+  steps: StepsScene,
+  result: ResultScene,
   closing: ClosingScene,
   cta: CtaScene,
 };
