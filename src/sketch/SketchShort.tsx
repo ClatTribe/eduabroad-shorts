@@ -39,6 +39,9 @@ loadVirgil();
 
 const HAND = "Virgil, 'Comic Sans MS', cursive";
 export const SKETCH_MUSIC = { file: "audio/sketch-music.wav", volume: 0.5, underVoice: 0.2 };
+/** With narration the pen, box and highlighter sounds sit far back, so the voice carries the video. */
+const WRITING_UNDER_VOICE = 0.2;
+const WRITING_SOUNDS = ["audio/pen.wav", "audio/pen-scribble.wav", "audio/marker.wav"];
 
 const fadeOut = (t: number, out?: number) =>
   out === undefined ? 1 : interpolate(t, [out - 0.35, out], [1, 0], { extrapolateLeft: "clamp", extrapolateRight: "clamp" });
@@ -255,7 +258,12 @@ export const SketchShort: React.FC<SketchProps> = ({ spec }) => {
           durationInFrames={c.seconds ? Math.max(1, Math.round(c.seconds * fps)) : undefined}
           layout="none"
         >
-          <Audio src={staticFile(c.file)} volume={(c.volume ?? 0.7) * SFX_VOLUME} />
+          <Audio
+            src={staticFile(c.file)}
+            volume={
+              (c.volume ?? 0.7) * SFX_VOLUME * (spec.voice && WRITING_SOUNDS.includes(c.file) ? WRITING_UNDER_VOICE : 1)
+            }
+          />
         </Sequence>
       ))}
       {spec.voice ? <Audio src={staticFile(`voice/${spec.id}.wav`)} volume={1} /> : null}

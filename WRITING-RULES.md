@@ -46,3 +46,20 @@ Copy an existing episode of the same template as your starting point.
 - `cta.url`: must be on app.goeduabroad.com. Point to the feature page when there is one.
 - `youtube.description`: must include an app.goeduabroad.com link; end with the EduAbroad sign-off line.
 - `instagram.caption`: 5 hashtags max, mention app.goeduabroad.com (link in bio).
+
+## SAT Solve-it Shorts (whiteboard style, final format)
+Files: `sketches/<name>.json`, rendered with `bash tools/render-sketch.sh sketches/<name>.json`.
+Copy `sketches/sat-triangle-perimeter-voice.json` as the starting point.
+
+- English only (no Hinglish). Calm tutor tone, short sentences.
+- Every question comes from a portal Study Materials PDF. Cite the PDF and question number in `claims[]`.
+  Check the question against the rendered PDF page (text extraction scrambles maths).
+- Only use questions whose answer is proved on screen (maths), or that have an answer key. No guessed answers.
+- Figures are redrawn to scale with `poly`, `right-angle` and `line` items; label sides with `text` items.
+- Colour-code what the steps find (blue, then green) and colour the matching side or term in the figure.
+- Voice: `"voice": {"name": "af_heart", "speed": 1.08, "lines": [...]}`. Each line says only what is on screen.
+  `tools/make_sketch_voice.py` warns when a line runs into the next; leave about 0.3 s between lines and
+  time each drawing step to the word that names it (e.g. the "8" appears on "eight").
+- Writing sounds are automatic and sit very low under the voice. The answer gets a `ding` in `sfx`.
+- Structure: "Try solving this in 30 seconds." → question (+ figure) → options → "Pause & comment your answer!"
+  → 2 to 4 steps → "Answer: X" boxed → "Follow" + EduAbroad logo + "for more SAT tricks". About 30 to 35 s.
