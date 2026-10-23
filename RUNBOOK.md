@@ -14,6 +14,7 @@ If `DATE` is before **2026-11-02** (the first planned day), stop and reply "Befo
 ```bash
 git clone --depth 1 https://github.com/ClatTribe/eduabroad-shorts.git ~/shorts && cd ~/shorts
 npm ci --no-audit --no-fund
+export NODE_USE_ENV_PROXY=1 NODE_NO_WARNINGS=1   # Node's fetch needs this to use the session's proxy
 export REMOTION_BROWSER_EXECUTABLE=$(ls -d /opt/pw-browsers/chromium_headless_shell-*/chrome-linux/headless_shell | head -1)
 node tools/upload-youtube.mjs "$DATE" --dry-run; node tools/upload-instagram.mjs "$DATE" --dry-run
 ```

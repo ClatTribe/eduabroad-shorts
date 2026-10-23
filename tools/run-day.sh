@@ -10,6 +10,8 @@
 #
 # Exit codes: 0 posted (or rendered with --no-upload), 3 episode needs writing, 1 failure.
 set -uo pipefail
+# Node's fetch only uses the cloud session's outbound proxy when this is set
+export NODE_USE_ENV_PROXY=1 NODE_NO_WARNINGS=1
 cd "$(dirname "$0")/.."
 DATE="${1:?usage: tools/run-day.sh YYYY-MM-DD [--no-upload]}"
 UPLOAD=1
