@@ -1,0 +1,285 @@
+{
+  "id": "sat-rectangle-diagonal-voice",
+  "seconds": 30,
+  "chips": {
+    "tag": "SAT Math",
+    "sub": "Geometry"
+  },
+  "items": [
+    {
+      "kind": "text",
+      "at": 0.3,
+      "dur": 0.8,
+      "text": "Try solving this",
+      "y": 300,
+      "size": 100
+    },
+    {
+      "kind": "text",
+      "at": 1.1,
+      "dur": 0.8,
+      "text": "in {red|30 seconds}.",
+      "y": 405,
+      "size": 100
+    },
+    {
+      "kind": "text",
+      "at": 2.4,
+      "dur": 1.1,
+      "text": "A rectangle has a diagonal of 13",
+      "x": 70,
+      "y": 540,
+      "size": 48
+    },
+    {
+      "kind": "text",
+      "at": 3.6,
+      "dur": 1.1,
+      "text": "and a width of 5. What is its area?",
+      "x": 70,
+      "y": 605,
+      "size": 48
+    },
+    {
+      "kind": "poly",
+      "at": 7.1,
+      "dur": 1.0,
+      "points": [
+        [
+          200,
+          740
+        ],
+        [
+          800,
+          740
+        ],
+        [
+          800,
+          990
+        ],
+        [
+          200,
+          990
+        ]
+      ],
+      "closed": true,
+      "width": 6
+    },
+    {
+      "kind": "line",
+      "at": 8.1,
+      "dur": 0.5,
+      "x1": 200,
+      "y1": 990,
+      "x2": 800,
+      "y2": 740,
+      "width": 5
+    },
+    {
+      "kind": "right-angle",
+      "at": 8.45,
+      "x": 200,
+      "y": 990,
+      "dx": 1,
+      "dy": -1,
+      "size": 36
+    },
+    {
+      "kind": "text",
+      "at": 8.6,
+      "dur": 0.25,
+      "text": "5",
+      "x": 145,
+      "y": 830,
+      "size": 56
+    },
+    {
+      "kind": "text",
+      "at": 8.8,
+      "dur": 0.3,
+      "text": "13",
+      "x": 440,
+      "y": 790,
+      "size": 56
+    },
+    {
+      "kind": "text",
+      "at": 9.05,
+      "dur": 0.2,
+      "out": 17.2,
+      "text": "?",
+      "x": 485,
+      "y": 1000,
+      "size": 60,
+      "color": "green"
+    },
+    {
+      "kind": "text",
+      "at": 9.3,
+      "dur": 0.8,
+      "out": 23.4,
+      "text": "A) 30   B) 60   C) 65   D) 78",
+      "y": 1120,
+      "size": 52
+    },
+    {
+      "kind": "text",
+      "at": 9.8,
+      "dur": 0.9,
+      "out": 12.3,
+      "text": "Pause & comment your answer!",
+      "y": 1220,
+      "size": 56,
+      "color": "red"
+    },
+    {
+      "kind": "text",
+      "at": 12.6,
+      "dur": 4.4,
+      "out": 25.4,
+      "text": "{green|L}^2 = 13^2 - 5^2 = 144, so {green|L = 12}",
+      "x": 70,
+      "y": 1215,
+      "size": 54
+    },
+    {
+      "kind": "line",
+      "at": 17.2,
+      "dur": 0.5,
+      "x1": 200,
+      "y1": 990,
+      "x2": 800,
+      "y2": 990,
+      "color": "green",
+      "width": 10
+    },
+    {
+      "kind": "text",
+      "at": 17.5,
+      "dur": 0.3,
+      "text": "12",
+      "x": 475,
+      "y": 1000,
+      "size": 64,
+      "color": "green"
+    },
+    {
+      "kind": "text",
+      "at": 19.7,
+      "dur": 2.8,
+      "out": 25.4,
+      "text": "Area = 12 × 5 = {box red 23.0|{hl 22.6|60}}",
+      "x": 70,
+      "y": 1305,
+      "size": 58
+    },
+    {
+      "kind": "text",
+      "at": 23.6,
+      "dur": 0.6,
+      "text": "Answer: {box ink 24.6|{hl 24.2|B) 60}}",
+      "y": 1105,
+      "size": 68
+    },
+    {
+      "kind": "text",
+      "at": 25.6,
+      "dur": 0.4,
+      "text": "Follow",
+      "y": 1225,
+      "size": 58
+    },
+    {
+      "kind": "image",
+      "at": 25.9,
+      "dur": 0.6,
+      "src": "brand/edulogo.png",
+      "y": 1305,
+      "height": 120
+    },
+    {
+      "kind": "text",
+      "at": 26.6,
+      "dur": 0.7,
+      "text": "for more SAT tricks",
+      "y": 1440,
+      "size": 48
+    }
+  ],
+  "sfx": [
+    {
+      "file": "audio/ding.wav",
+      "at": 22.6,
+      "volume": 0.4
+    },
+    {
+      "file": "audio/ding.wav",
+      "at": 24.2,
+      "volume": 0.5
+    }
+  ],
+  "youtube": {
+    "title": "SAT Geometry: diagonal 13, width 5, find the area (2 steps)",
+    "description": "A Digital SAT style geometry question, solved in 2 steps.\n\nA rectangle has a diagonal of 13 and a width of 5.\n1. L² = 13² - 5² = 144, so L = 12\n2. Area = 12 × 5 = 60\n\nAnswer: B) 60\n\nMore DSAT practice on EduAbroad Study Materials 👉 https://app.goeduabroad.com/study-material\n\nEduAbroad: Run by Harvard-Cambridge Alumni.",
+    "tags": [
+      "SAT",
+      "Digital SAT",
+      "SAT Math",
+      "SAT geometry",
+      "DSAT",
+      "Pythagorean theorem",
+      "EduAbroad"
+    ]
+  },
+  "instagram": {
+    "caption": "Try solving this in 30 seconds ✏️\n\nA rectangle has a diagonal of 13 and a width of 5. What is its area?\nA) 30  B) 60  C) 65  D) 78\n\nComment your answer before the solution 👇\n\nMore DSAT practice on EduAbroad Study Materials 👉 app.goeduabroad.com/study-material (link in bio)\n\n#SAT #DigitalSAT #SATMath #SATPrep #EduAbroad"
+  },
+  "claims": [
+    {
+      "text": "Rectangle, diagonal 13, width 5, area? A) 30 B) 60 C) 65 D) 78",
+      "source": "original SAT-style question written for this Short (not copied from any test or book)"
+    },
+    {
+      "text": "13² - 5² = 169 - 25 = 144 = 12²; 12 × 5 = 60 (B)",
+      "source": "worked solution on screen, arithmetic checked"
+    }
+  ],
+  "voice": {
+    "name": "af_heart",
+    "speed": 1.08,
+    "lines": [
+      {
+        "at": 0.3,
+        "text": "Try solving this in thirty seconds."
+      },
+      {
+        "at": 2.4,
+        "text": "A rectangle has a diagonal of thirteen, and a width of five. What's its area?"
+      },
+      {
+        "at": 7.15,
+        "text": "The diagonal makes a right triangle."
+      },
+      {
+        "at": 9.8,
+        "text": "Pause, and drop your answer in the comments."
+      },
+      {
+        "at": 12.3,
+        "text": "Use Pythagoras. Length squared is thirteen squared, minus five squared. That's one forty-four, so the length is twelve."
+      },
+      {
+        "at": 19.45,
+        "text": "Area is length times width. Twelve times five is sixty."
+      },
+      {
+        "at": 23.6,
+        "text": "So the answer is B."
+      },
+      {
+        "at": 25.6,
+        "text": "Follow EduAbroad for more SAT tricks."
+      }
+    ]
+  }
+}
