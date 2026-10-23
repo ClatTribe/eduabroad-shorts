@@ -7,17 +7,21 @@
  * Instagram's API cannot schedule, so with --publish-at this script prepares the
  * Reel early and then waits until that time before pressing "publish".
  *
- * Instagram needs the video at a public URL, so it is first uploaded to the
- * portal's existing public Supabase Storage bucket (as the portal's own Reel
- * automation does).
+ * Instagram needs the video at a public URL, so it is first hosted for a few
+ * minutes: on Cloudinary when CLOUDINARY_* are set (deleted again after posting),
+ * otherwise in the portal's public Supabase Storage bucket.
  *
  *   --check   verify token, account and bucket only (posts nothing)
  *
- * Environment variables (same names as the portal's existing setup):
+ * Environment variables:
  *   INSTAGRAM_ACCESS_TOKEN, INSTAGRAM_BUSINESS_ACCOUNT_ID
- *   SUPABASE_URL (or NEXT_PUBLIC_SUPABASE_URL), SUPABASE_SERVICE_ROLE_KEY
- *   INSTAGRAM_VIDEO_BUCKET (optional, default "instagram-videos")
+ *   and EITHER  CLOUDINARY_CLOUD_NAME, CLOUDINARY_API_KEY, CLOUDINARY_API_SECRET   (preferred)
+ *   OR          SUPABASE_URL (or NEXT_PUBLIC_SUPABASE_URL), SUPABASE_SERVICE_ROLE_KEY,
+ *               INSTAGRAM_VIDEO_BUCKET (optional, default "instagram-videos")
+ *
+ *   node tools/upload-instagram.mjs sketches/<file>.json   posts a SAT whiteboard Short
  */
+import { createHash } from "node:crypto";
 import { existsSync, readFileSync, statSync } from "node:fs";
 
 // Two kinds of Instagram token work:
@@ -35,19 +39,31 @@ const arg = (name) => {
 const DRY = process.argv.includes("--dry-run");
 const publishAt = arg("--publish-at");
 
-if (!/^\d{4}-\d{2}-\d{2}$/.test(date ?? "")) {
-  console.error("usage: node tools/upload-instagram.mjs YYYY-MM-DD [--publish-at ISO] [--dry-run]");
+const isSketch = (date ?? "").endsWith(".json");
+if (!isSketch && !/^\d{4}-\d{2}-\d{2}$/.test(date ?? "")) {
+  console.error("usage: node tools/upload-instagram.mjs YYYY-MM-DD|sketches/<file>.json [--publish-at ISO] [--dry-run]");
   process.exit(2);
 }
-const ep = JSON.parse(readFileSync(`episodes/${date}.json`, "utf8"));
-const file = `out/${date}.mp4`;
+const ep = JSON.parse(readFileSync(isSketch ? date : `episodes/${date}.json`, "utf8"));
+const file = isSketch ? `out/${ep.id}.mp4` : `out/${date}.mp4`;
+const name = isSketch ? ep.id : date;
 const SUPABASE_URL = process.env.SUPABASE_URL || process.env.NEXT_PUBLIC_SUPABASE_URL;
 const BUCKET = process.env.INSTAGRAM_VIDEO_BUCKET || "instagram-videos";
+const CLD = {
+  cloud: process.env.CLOUDINARY_CLOUD_NAME,
+  key: process.env.CLOUDINARY_API_KEY,
+  secret: process.env.CLOUDINARY_API_SECRET,
+};
+const useCloudinary = Boolean(CLD.cloud && CLD.key && CLD.secret);
 const env = {
   INSTAGRAM_ACCESS_TOKEN: process.env.INSTAGRAM_ACCESS_TOKEN,
   INSTAGRAM_BUSINESS_ACCOUNT_ID: process.env.INSTAGRAM_BUSINESS_ACCOUNT_ID,
-  "SUPABASE_URL (or NEXT_PUBLIC_SUPABASE_URL)": SUPABASE_URL,
-  SUPABASE_SERVICE_ROLE_KEY: process.env.SUPABASE_SERVICE_ROLE_KEY,
+  ...(useCloudinary
+    ? {}
+    : {
+        "CLOUDINARY_* (or SUPABASE_URL)": SUPABASE_URL,
+        "CLOUDINARY_* (or SUPABASE_SERVICE_ROLE_KEY)": process.env.SUPABASE_SERVICE_ROLE_KEY,
+      }),
 };
 const missing = Object.entries(env)
   .filter(([, v]) => !v)
@@ -55,7 +71,8 @@ const missing = Object.entries(env)
 const caption = ep.instagram.caption.slice(0, 2200);
 
 if (DRY) {
-  console.log(`DRY RUN instagram ${date}`);
+  console.log(`DRY RUN instagram ${name}`);
+  console.log(`  hosting:     ${useCloudinary ? "Cloudinary" : "Supabase Storage"}`);
   console.log(`  file:        ${file} ${existsSync(file) ? `(${(statSync(file).size / 1e6).toFixed(1)} MB)` : "(MISSING)"}`);
   console.log(`  caption:     ${caption.split("\n")[0]} ...`);
   console.log(`  publish:     ${publishAt ?? "immediately"}`);
@@ -82,6 +99,17 @@ if (process.argv.includes("--check")) {
     process.exit(1);
   }
   console.log(`OK   instagram account @${me.username} (${me.media_count} posts)`);
+  if (useCloudinary) {
+    const ping = await fetch(`https://api.cloudinary.com/v1_1/${CLD.cloud}/ping`, {
+      headers: { Authorization: `Basic ${Buffer.from(`${CLD.key}:${CLD.secret}`).toString("base64")}` },
+    });
+    if (!ping.ok) {
+      console.error(`FAIL cloudinary (${ping.status}): ${await ping.text()}`);
+      process.exit(1);
+    }
+    console.log(`OK   cloudinary "${CLD.cloud}" reachable`);
+    process.exit(0);
+  }
   const list = await fetch(`${SUPABASE_URL}/storage/v1/object/list/${BUCKET}`, {
     method: "POST",
     headers: { Authorization: `Bearer ${process.env.SUPABASE_SERVICE_ROLE_KEY}`, apikey: process.env.SUPABASE_SERVICE_ROLE_KEY, "Content-Type": "application/json" },
@@ -103,9 +131,44 @@ async function graph(path, params, method = "POST") {
   return data;
 }
 
+// Cloudinary signed requests: sha1 of the sorted params + the API secret
+const cldSign = (params) =>
+  createHash("sha1")
+    .update(
+      Object.keys(params)
+        .sort()
+        .map((k) => `${k}=${params[k]}`)
+        .join("&") + CLD.secret,
+    )
+    .digest("hex");
+
+async function hostOnCloudinary() {
+  const params = { folder: "eduabroad-shorts", timestamp: Math.floor(Date.now() / 1000) };
+  const form = new FormData();
+  form.append("file", new Blob([readFileSync(file)], { type: "video/mp4" }), `${name}.mp4`);
+  for (const [k, v] of Object.entries(params)) form.append(k, String(v));
+  form.append("api_key", CLD.key);
+  form.append("signature", cldSign(params));
+  const res = await fetch(`https://api.cloudinary.com/v1_1/${CLD.cloud}/video/upload`, { method: "POST", body: form });
+  const data = await res.json();
+  if (!res.ok || !data.secure_url) throw new Error(`video hosting failed (${res.status}): ${data.error?.message ?? JSON.stringify(data)}`);
+  return { url: data.secure_url, publicId: data.public_id };
+}
+
+async function removeFromCloudinary(publicId) {
+  const params = { public_id: publicId, timestamp: Math.floor(Date.now() / 1000) };
+  const form = new URLSearchParams({ ...params, api_key: CLD.key, signature: cldSign(params) });
+  await fetch(`https://api.cloudinary.com/v1_1/${CLD.cloud}/video/destroy`, { method: "POST", body: form }).catch(() => {});
+}
+
 async function main() {
-  // 1. Host the MP4 publicly (Supabase Storage, public bucket)
-  const objectPath = `shorts/${date}-${Date.now()}.mp4`;
+  // 1. Host the MP4 publicly for Instagram to fetch
+  let videoUrl;
+  let cloudinaryId;
+  if (useCloudinary) {
+    ({ url: videoUrl, publicId: cloudinaryId } = await hostOnCloudinary());
+  } else {
+  const objectPath = `shorts/${name}-${Date.now()}.mp4`;
   const up = await fetch(`${SUPABASE_URL}/storage/v1/object/${BUCKET}/${objectPath}`, {
     method: "POST",
     headers: {
@@ -117,7 +180,8 @@ async function main() {
     body: readFileSync(file),
   });
   if (!up.ok) throw new Error(`video hosting failed (${up.status}): ${await up.text()}`);
-  const videoUrl = `${SUPABASE_URL}/storage/v1/object/public/${BUCKET}/${objectPath}`;
+  videoUrl = `${SUPABASE_URL}/storage/v1/object/public/${BUCKET}/${objectPath}`;
+  }
   console.log(`     hosted at ${videoUrl}`);
 
   // 2. Create the Reel container and wait for Instagram to process it
@@ -142,6 +206,8 @@ async function main() {
   const { id: mediaId } = await graph(`${ig}/media_publish`, { creation_id: creationId });
   const { permalink } = await graph(mediaId, { fields: "permalink" }, "GET").catch(() => ({}));
   console.log(`OK   instagram ${permalink ?? `media ${mediaId}`}`);
+  // Instagram keeps its own copy once published, so the temporary hosted file can go
+  if (cloudinaryId) await removeFromCloudinary(cloudinaryId);
 }
 
 main().catch((e) => {

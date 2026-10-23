@@ -62,11 +62,14 @@ The scheduled sessions run in this Claude cloud environment, which needs:
 1. **Secrets** (cloud environment settings, as environment variables). They're the same values your
    portal's own automation uses:
    `YOUTUBE_CLIENT_ID`, `YOUTUBE_CLIENT_SECRET`, `YOUTUBE_REFRESH_TOKEN`,
-   `INSTAGRAM_ACCESS_TOKEN`, `INSTAGRAM_BUSINESS_ACCOUNT_ID`,
-   `SUPABASE_URL`, `SUPABASE_SERVICE_ROLE_KEY` (Instagram needs the video at a public link; it goes in
-   your existing public `instagram-videos` bucket).
-2. **Allowed domains:** `graph.facebook.com`, `inxxmyjxizswmtxumrop.supabase.co`, `app.goeduabroad.com`
-   (YouTube's `googleapis.com` already works).
+   `INSTAGRAM_ACCESS_TOKEN` (the never-expiring Page token), `INSTAGRAM_BUSINESS_ACCOUNT_ID`.
+   Instagram needs the video at a public link for a few minutes. Preferred:
+   `CLOUDINARY_CLOUD_NAME`, `CLOUDINARY_API_KEY`, `CLOUDINARY_API_SECRET` (the file is deleted from
+   Cloudinary once the Reel is published). Fallback: `SUPABASE_URL`, `SUPABASE_SERVICE_ROLE_KEY`
+   (your existing public `instagram-videos` bucket).
+2. **Allowed domains:** `graph.facebook.com`, `api.cloudinary.com`, `res.cloudinary.com`,
+   `app.goeduabroad.com` (plus `inxxmyjxizswmtxumrop.supabase.co` only if you use the Supabase fallback;
+   YouTube's `googleapis.com` already works).
 3. This repository on GitHub, **public**, so the fresh sessions can download it.
 
 ### YouTube audit
