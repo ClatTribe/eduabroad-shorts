@@ -20,7 +20,13 @@
  */
 import { existsSync, readFileSync, statSync } from "node:fs";
 
-const GRAPH = "https://graph.facebook.com/v21.0";
+// Two kinds of Instagram token work:
+//  - "Instagram Login" tokens (start with IGAA, made in Meta App Dashboard > Instagram > API setup) use graph.instagram.com
+//  - "Facebook Login" / system-user tokens (start with EAA) use graph.facebook.com
+// INSTAGRAM_BUSINESS_ACCOUNT_ID is the Instagram user ID shown next to the token in either case.
+const GRAPH = (process.env.INSTAGRAM_ACCESS_TOKEN ?? "").startsWith("IGAA")
+  ? "https://graph.instagram.com/v21.0"
+  : "https://graph.facebook.com/v21.0";
 const date = process.argv[2];
 const arg = (name) => {
   const i = process.argv.indexOf(name);
