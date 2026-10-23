@@ -1,0 +1,65 @@
+{
+  "date": "2026-10-30",
+  "series": "myth-fact",
+  "template": "mythfact",
+  "musicSeed": 1030,
+  "hook": {
+    "line1": [
+      "Profile",
+      "ke"
+    ],
+    "line2": [
+      "myths"
+    ],
+    "highlight": "myths",
+    "subline": "Marks hi sab kuch hain?"
+  },
+  "myths": {
+    "seriesLabel": "Myth vs Fact",
+    "items": [
+      {
+        "myth": "Sirf marks dekhe jaate hain",
+        "fact": "Marks ke saath baaki profile bhi",
+        "detail": "Projects, internships aur SOP bhi kahani batate hain. Har course ki requirements padho."
+      },
+      {
+        "myth": "Internship badi company mein hi chahiye",
+        "fact": "Kya seekha, wo zyada zaroori",
+        "detail": "Chhoti company mein asli kaam kiya ho, toh SOP mein clearly likho."
+      },
+      {
+        "myth": "Certificates jitne zyada, utna accha",
+        "fact": "Course se juda kaam dikhao",
+        "detail": "Lambi list se behtar do teen relevant cheezein jo aapne sach mein ki."
+      }
+    ]
+  },
+  "closing": {
+    "line1": "Lambi list nahi,",
+    "line2": "asli kaam."
+  },
+  "cta": {
+    "button": "Explore karo",
+    "url": "app.goeduabroad.com"
+  },
+  "youtube": {
+    "title": "Marks hi sab kuch hain? Profile ke 3 myths | Myth vs Fact",
+    "description": "Profile ke 3 myths: sirf marks dekhe jaate hain, internship badi company mein hi chahiye, aur certificates jitne zyada utna accha. Lambi list nahi, asli kaam dikhao.\n\n👉 https://app.goeduabroad.com\n\nEduAbroad: Run by Harvard-Cambridge Alumni. 100% private. Contact aap karoge, hum nahi.",
+    "tags": [
+      "study abroad",
+      "Indian students",
+      "study abroad myths",
+      "EduAbroad",
+      "profile building"
+    ]
+  },
+  "instagram": {
+    "caption": "Marks hi sab kuch hain? ❌ Myth.\n\nProjects, internships aur SOP bhi kahani batate hain. Chhoti company mein asli kaam bhi count hota hai, aur lambi certificate list se behtar hai relevant kaam.\n\nKisko ye sunna chahiye? Tag karo 👇\n\n👉 app.goeduabroad.com (link in bio)\n\n#StudyAbroad #IndianStudents #StudyAbroadTips #EduAbroad #Reels"
+  },
+  "claims": [
+    {
+      "text": "Profile ke 3 myths",
+      "source": "count of myths in this video"
+    }
+  ]
+}

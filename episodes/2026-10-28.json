@@ -1,0 +1,118 @@
+{
+  "date": "2026-10-28",
+  "series": "portal",
+  "template": "feature",
+  "musicSeed": 1028,
+  "hook": {
+    "line1": [
+      "Visa",
+      "update"
+    ],
+    "line2": [
+      "kahan",
+      "milega?"
+    ],
+    "highlight": "milega?",
+    "subline": "Har jagah alag baat sunte ho?",
+    "chips": [
+      "UK visa: ?",
+      "Deadline: ?",
+      "IELTS tip: ?"
+    ]
+  },
+  "build": {
+    "beats": [
+      {
+        "speaker": "Cousin",
+        "line": "“Mere time pe toh aisa tha”"
+      },
+      {
+        "speaker": "WhatsApp",
+        "line": "“Forward aaya hai, sach hi hoga”"
+      },
+      {
+        "speaker": "Google",
+        "line": "Har site pe alag date."
+      }
+    ],
+    "googleTabs": [
+      "UK visa news",
+      "scholarship deadline",
+      "IELTS tips",
+      "Germany guide",
+      "OPT rules",
+      "Canada update"
+    ],
+    "punchline": {
+      "line1": "Info bahut hai.",
+      "line2": "Sahi kaunsi hai?"
+    }
+  },
+  "reveal": {
+    "kicker": "Noise nahi.",
+    "headline": "Seedhi baat.",
+    "featurePill": "EduAbroad Magazine",
+    "clips": [
+      {
+        "kind": "video",
+        "src": "footage/magazine/scroll.mp4",
+        "caption": "Visa, scholarships, IELTS.",
+        "subcaption": "Country guides bhi.",
+        "seconds": 4.6,
+        "playbackRate": 1.1
+      }
+    ]
+  },
+  "proof": {
+    "points": [
+      "Updated daily",
+      "Harvard-Cambridge, IIM alumni se",
+      "Country, exam, visa: search karo"
+    ]
+  },
+  "closing": {
+    "line1": "Forwards chhodo,",
+    "line2": "Magazine padho."
+  },
+  "cta": {
+    "button": "Padhna shuru",
+    "url": "app.goeduabroad.com/magazine"
+  },
+  "youtube": {
+    "title": "Visa update, scholarship deadline kahan dekhein? EduAbroad Magazine",
+    "description": "Cousin ki purani baat, WhatsApp forward, har site pe alag date. EduAbroad Magazine pe visa updates, scholarship deadlines, IELTS tips aur country guides ek jagah hain, Harvard-Cambridge aur IIM alumni counsellors se. Roz update hota hai.\n\n👉 https://app.goeduabroad.com/magazine\n\nEduAbroad: Run by Harvard-Cambridge Alumni. 100% private. Contact aap karoge, hum nahi.",
+    "tags": [
+      "study abroad",
+      "Indian students",
+      "EduAbroad",
+      "study abroad news",
+      "student visa",
+      "scholarships",
+      "IELTS"
+    ]
+  },
+  "instagram": {
+    "caption": "Visa update kahan milega? 📰\n\nForwards aur purani baatein chhodo. Visa updates, scholarship deadlines, IELTS tips aur country guides, sab EduAbroad Magazine pe.\n\n👉 app.goeduabroad.com/magazine (link in bio)\n\n#StudyAbroad #IndianStudents #StudentVisa #EduAbroad #Reels"
+  },
+  "claims": [
+    {
+      "text": "Visa, scholarships, IELTS. / Country guides bhi.",
+      "source": "Magazine page: 'Visa updates, scholarship deadlines, IELTS tips and honest country guides for Indian students'"
+    },
+    {
+      "text": "Updated daily",
+      "source": "Magazine page badge: 'Updated daily'"
+    },
+    {
+      "text": "Harvard-Cambridge, IIM alumni se",
+      "source": "Magazine page: 'from Harvard-Cambridge and IIM alumni counsellors'"
+    },
+    {
+      "text": "Country, exam, visa: search karo",
+      "source": "Magazine page search box: 'Search articles, countries, exams...' and category filters (Country Guide, Visa Tips)"
+    }
+  ],
+  "requiresCapture": [
+    "magazine"
+  ]
+}

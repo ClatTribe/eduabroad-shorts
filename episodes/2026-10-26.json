@@ -1,0 +1,62 @@
+{
+  "date": "2026-10-26",
+  "series": "seedhi-baat",
+  "template": "tips",
+  "musicSeed": 1026,
+  "hook": {
+    "line1": [
+      "University",
+      "ko"
+    ],
+    "line2": [
+      "email?"
+    ],
+    "highlight": "email?",
+    "subline": "Bhejne se pehle ye padh lo."
+  },
+  "tips": {
+    "seriesLabel": "Seedhi Baat",
+    "items": [
+      {
+        "title": "Subject line clear rakho",
+        "detail": "Naam, course aur intake, subject mein hi likh do. Padhne wale ko turant samajh aaye."
+      },
+      {
+        "title": "Pehle website check karo",
+        "detail": "Jo jawab website ya FAQ pe already hai, wo email mein mat poochho."
+      },
+      {
+        "title": "Chhota aur seedha likho",
+        "detail": "Ek email mein ek kaam. Do teen chhote paragraph kaafi hain."
+      },
+      {
+        "title": "Simple email ID se bhejo",
+        "detail": "Apne naam wali email ID rakho. Nicknames wali ID serious nahi lagti."
+      }
+    ]
+  },
+  "closing": {
+    "line1": "Chhota likho,",
+    "line2": "saaf likho."
+  },
+  "cta": {
+    "button": "Explore karo",
+    "url": "app.goeduabroad.com"
+  },
+  "youtube": {
+    "title": "University ko email kaise likhein? 4 seedhi tips",
+    "description": "Admissions team ko email bhejne se pehle: subject line clear rakho, pehle website aur FAQ check karo, chhota aur seedha likho, aur apne naam wali email ID se bhejo.\n\n👉 https://app.goeduabroad.com\n\nEduAbroad: Run by Harvard-Cambridge Alumni. 100% private. Contact aap karoge, hum nahi.",
+    "tags": [
+      "study abroad",
+      "Indian students",
+      "study abroad tips",
+      "EduAbroad",
+      "university email",
+      "admissions email"
+    ]
+  },
+  "instagram": {
+    "caption": "University ko email likhna hai? ✉️\n\n✅ Subject mein naam, course, intake\n✅ Pehle website aur FAQ check\n✅ Chhota, seedha email\n✅ Apne naam wali email ID\n\nSave karo, email bhejte waqt kaam aayega.\n\n👉 app.goeduabroad.com (link in bio)\n\n#StudyAbroad #IndianStudents #StudyAbroadTips #EduAbroad #Reels"
+  },
+  "claims": []
+}
