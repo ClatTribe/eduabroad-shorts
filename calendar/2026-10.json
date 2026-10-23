@@ -1,0 +1,39 @@
+{
+  "month": "2026-10",
+  "postTimeIST": "18:30",
+  "items": [
+    {
+      "date": "2026-10-23",
+      "day": "Fri",
+      "series": "myth-fact",
+      "template": "mythfact",
+      "topic": "SOP ke 3 myths: life story, ek SOP sab jagah, bhaari English",
+      "episode": "episodes/2026-10-23.json"
+    },
+    {
+      "date": "2026-10-26",
+      "day": "Mon",
+      "series": "seedhi-baat",
+      "template": "tips",
+      "topic": "University ko email kaise likhein: 4 tips (subject, website pehle, chhota email, simple ID)",
+      "episode": "episodes/2026-10-26.json"
+    },
+    {
+      "date": "2026-10-28",
+      "day": "Wed",
+      "series": "portal",
+      "template": "feature",
+      "topic": "EduAbroad Magazine: visa update kahan milega? (updated daily, alumni counsellors, search)",
+      "episode": "episodes/2026-10-28.json",
+      "feature": "magazine"
+    },
+    {
+      "date": "2026-10-30",
+      "day": "Fri",
+      "series": "myth-fact",
+      "template": "mythfact",
+      "topic": "Profile myths: sirf marks, badi company internship, zyada certificates",
+      "episode": "episodes/2026-10-30.json"
+    }
+  ]
+}
