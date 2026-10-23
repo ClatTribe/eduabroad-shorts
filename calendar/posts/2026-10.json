@@ -1,0 +1,96 @@
+{
+  "month": "2026-10",
+  "postTimeIST": "13:00",
+  "items": [
+    {
+      "date": "2026-10-23",
+      "day": "Fri",
+      "format": "myth",
+      "series": "Myth vs Fact",
+      "kind": "single",
+      "topic": "\"Last date pe apply karna chalega\"",
+      "post": "posts/2026-10-23.json"
+    },
+    {
+      "date": "2026-10-24",
+      "day": "Sat",
+      "format": "word",
+      "series": "IELTS Shabd",
+      "kind": "single",
+      "topic": "Effective (Efficient, Productive, Successful)",
+      "post": "posts/2026-10-24.json"
+    },
+    {
+      "date": "2026-10-25",
+      "day": "Sun",
+      "format": "parents",
+      "series": "Parents' Corner",
+      "kind": "carousel",
+      "topic": "\"Ye course karke kya banoge?\"",
+      "post": "posts/2026-10-25.json"
+    },
+    {
+      "date": "2026-10-26",
+      "day": "Mon",
+      "format": "checklist",
+      "series": "Seedhi Baat Checklist",
+      "kind": "carousel",
+      "topic": "Form bharne baithe ho? Ye 5 galtiyan mat karna.",
+      "post": "posts/2026-10-26.json"
+    },
+    {
+      "date": "2026-10-27",
+      "day": "Tue",
+      "format": "versus",
+      "series": "This vs That",
+      "kind": "single",
+      "topic": "Ek country vs kai countries",
+      "post": "posts/2026-10-27.json"
+    },
+    {
+      "date": "2026-10-28",
+      "day": "Wed",
+      "format": "checklist",
+      "series": "Seedhi Baat Checklist",
+      "kind": "carousel",
+      "topic": "Online interview hai? Ye 5 tayyari karo.",
+      "post": "posts/2026-10-28.json"
+    },
+    {
+      "date": "2026-10-29",
+      "day": "Thu",
+      "format": "versus",
+      "series": "This vs That",
+      "kind": "single",
+      "topic": "IELTS Speaking: Translate vs seedha English",
+      "post": "posts/2026-10-29.json"
+    },
+    {
+      "date": "2026-10-30",
+      "day": "Fri",
+      "format": "myth",
+      "series": "Myth vs Fact",
+      "kind": "single",
+      "topic": "\"Bas marks achhe hone chahiye\"",
+      "post": "posts/2026-10-30.json"
+    },
+    {
+      "date": "2026-10-31",
+      "day": "Sat",
+      "format": "word",
+      "series": "IELTS Shabd",
+      "kind": "single",
+      "topic": "Challenging (Difficult, Tough, Demanding)",
+      "post": "posts/2026-10-31.json"
+    },
+    {
+      "date": "2026-11-01",
+      "day": "Sun",
+      "format": "parents",
+      "series": "Parents' Corner",
+      "kind": "carousel",
+      "topic": "\"Visa reject ho gaya toh?\"",
+      "post": "posts/2026-11-01.json"
+    }
+  ]
+}

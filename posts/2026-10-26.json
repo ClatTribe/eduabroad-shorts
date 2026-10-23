@@ -1,0 +1,41 @@
+{
+  "date": "2026-10-26",
+  "content": {
+    "type": "checklist",
+    "title": "Form bharne baithe ho?",
+    "highlight": "Ye 5 galtiyan mat karna",
+    "subtitle": "Chhoti galti, bada sardard. Submit se pehle ek baar dekh lo.",
+    "steps": [
+      {
+        "title": "Naam ki spelling",
+        "detail": "Bilkul passport jaisa likho. Middle name aur surname ka order bhi wahi rakho.",
+        "tip": "Har form mein ek jaisa naam, har jagah."
+      },
+      {
+        "title": "Galat email",
+        "detail": "Wahi email do jo roz check karte ho. University ke saare updates wahin aayenge."
+      },
+      {
+        "title": "Galat program ya intake",
+        "detail": "Course ka naam aur intake do baar check karo. Milte julte naam wale courses bhi hote hain."
+      },
+      {
+        "title": "Document ka format",
+        "detail": "Upload se pehle file type aur size ki requirement padho. Scan saaf aur seedha ho."
+      },
+      {
+        "title": "Receipt save nahi ki",
+        "detail": "Fee payment aur submission ki confirmation ka screenshot aur PDF sambhal ke rakho.",
+        "tip": "Ek folder banao: Naam_University_Application."
+      }
+    ],
+    "saveLine": "submit se pehle kaam aayega."
+  },
+  "caption": "Application form mein chhoti galti bhi baad mein bada sardard banti hai. Ye 5 galtiyan mat karna 👇\n\n1. Naam ki spelling\n2. Galat email\n3. Galat program ya intake\n4. Document ka format\n5. Receipt save nahi ki\n\nSave karo 📌 aur us dost ko bhejo jo abhi form bhar raha hai.\n\n👉 app.goeduabroad.com\n\n#StudyAbroad #IndianStudents #StudyAbroadTips #EduAbroad #StudyAbroadChecklist",
+  "claims": [
+    {
+      "text": "Ye 5 galtiyan mat karna",
+      "source": "count of items in this post"
+    }
+  ]
+}

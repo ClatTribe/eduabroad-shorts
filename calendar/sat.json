@@ -1,0 +1,8 @@
+{
+  "series": "SAT Solve-it Shorts (whiteboard, English, voice)",
+  "day": "Sat",
+  "postTimeIST": "18:30",
+  "items": [
+    { "date": "2026-10-24", "topic": "Exponent trick: if 2^x = 5, find 2^x + 2^2x + 2^3x", "sketch": "sketches/sat-exponent-trick-voice.json" }
+  ]
+}

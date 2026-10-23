@@ -1,0 +1,41 @@
+{
+  "date": "2026-10-28",
+  "content": {
+    "type": "checklist",
+    "title": "Online interview hai?",
+    "highlight": "Ye 5 tayyari karo",
+    "subtitle": "Kuch universities shortlist ke baad baat karti hain. Ready raho.",
+    "steps": [
+      {
+        "title": "Camera aur light",
+        "detail": "Chehra saaf dikhe, light saamne se aaye. Background simple rakho.",
+        "tip": "Ek din pehle dost ke saath test call karo."
+      },
+      {
+        "title": "Internet ka backup",
+        "detail": "Wi-Fi ke saath phone hotspot ready rakho. Laptop charge pe lagao."
+      },
+      {
+        "title": "University ki research",
+        "detail": "Course, faculty aur projects ke baare mein padh ke jao. Kyun yahi, ye clear ho."
+      },
+      {
+        "title": "Apna SOP yaad rakho",
+        "detail": "Jo SOP mein likha hai, wahi baat apne shabdon mein bolo. Ratta mat maaro."
+      },
+      {
+        "title": "Apne sawaal ready",
+        "detail": "Aakhir mein poochne ke liye kuch achhe sawaal likh ke rakho.",
+        "tip": "Sawaal poochna dikhata hai ki aap serious ho."
+      }
+    ],
+    "saveLine": "interview mein kaam aayega."
+  },
+  "caption": "Online interview hai? Ye 5 tayyari pehle se kar lo 👇\n\n1. Camera aur light\n2. Internet ka backup\n3. University ki research\n4. Apna SOP yaad rakho\n5. Apne sawaal ready\n\nSave karo 📌 aur us dost ko bhejo jiska interview aane wala hai.\n\n👉 app.goeduabroad.com\n\n#StudyAbroad #IndianStudents #StudyAbroadTips #EduAbroad #Interview",
+  "claims": [
+    {
+      "text": "Ye 5 tayyari karo",
+      "source": "count of items in this post"
+    }
+  ]
+}

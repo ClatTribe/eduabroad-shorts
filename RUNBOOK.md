@@ -8,7 +8,8 @@ post the backup episode rather than something you are unsure about. Never push t
 DATE=$(TZ=Asia/Kolkata date +%F); DOW=$(TZ=Asia/Kolkata date +%u)   # 1=Mon 3=Wed 5=Fri
 ```
 If `DOW` is not 1, 3 or 5, stop and reply "Not a posting day".
-If `DATE` is before **2026-11-02** (the first planned day), stop and reply "Before start date".
+If `DATE` is before **2026-10-24**, stop and reply "Before start date" (2026-10-23 was posted by hand).
+Daily Instagram posts and the Saturday SAT Short have their own runbooks: `RUNBOOK-POSTS.md`, `RUNBOOK-SAT.md`.
 
 ## 1. Set up (about 2 minutes)
 ```bash

@@ -14,10 +14,18 @@ if [ ! -x tools/.venv/bin/python ]; then
   tools/.venv/bin/pip install -q numpy scipy soundfile
 fi
 tools/.venv/bin/python -I tools/make_sketch_audio.py --duration "$DUR" --seed "$SEED"
-# narration, if the spec has a "voice" block
+# narration, if the spec has a "voice" block. Scheduled sessions don't have the 340 MB voice model,
+# so they use the narration committed in public/voice/ (made on a machine that has the model).
 if node -e "process.exit(JSON.parse(require('fs').readFileSync('$SPEC','utf8')).voice?0:1)"; then
-  tools/.venv/bin/python -c "import kokoro_onnx" 2>/dev/null || tools/.venv/bin/pip install -q kokoro-onnx==0.6.1
-  tools/.venv/bin/python -I tools/make_sketch_voice.py "$SPEC"
+  if [ -f tools/models/kokoro-v1.0.onnx ]; then
+    tools/.venv/bin/python -c "import kokoro_onnx" 2>/dev/null || tools/.venv/bin/pip install -q kokoro-onnx==0.6.1
+    tools/.venv/bin/python -I tools/make_sketch_voice.py "$SPEC"
+  elif [ -f "public/voice/$NAME.wav" ]; then
+    echo "using committed narration public/voice/$NAME.wav"
+  else
+    echo "FAIL no narration: public/voice/$NAME.wav is missing and the voice model isn't installed" >&2
+    exit 1
+  fi
 fi
 
 node -e "const fs=require('fs');fs.writeFileSync('out/props-$NAME.json',JSON.stringify({spec:JSON.parse(fs.readFileSync('$SPEC','utf8'))}))"

@@ -1,0 +1,54 @@
+{
+  "date": "2026-10-23",
+  "series": "myth-fact",
+  "template": "mythfact",
+  "musicSeed": 1023,
+  "hook": {
+    "line1": ["SOP", "ke"],
+    "line2": ["myths"],
+    "highlight": "myths",
+    "subline": "Likhne se pehle ye dekh lo."
+  },
+  "myths": {
+    "seriesLabel": "Myth vs Fact",
+    "items": [
+      {
+        "myth": "SOP mein poori life story likho",
+        "fact": "Jo course se jude, wahi likho",
+        "detail": "Kyun ye course, kyun ye university, aage kya: yahi teen sawaal."
+      },
+      {
+        "myth": "Ek SOP sab universities ko bhej do",
+        "fact": "Har university ke liye badlo",
+        "detail": "Unke course ki wo cheez likho jo aapko sach mein pasand aayi."
+      },
+      {
+        "myth": "Bhaari English se impress honge",
+        "fact": "Simple English, clear baat",
+        "detail": "Apni awaaz mein likho. Padhne wale ko pehli baar mein samajh aaye."
+      }
+    ]
+  },
+  "closing": {
+    "line1": "Copy nahi,",
+    "line2": "apni kahani."
+  },
+  "cta": {
+    "button": "Explore karo",
+    "url": "app.goeduabroad.com"
+  },
+  "youtube": {
+    "title": "SOP likhne se pehle ye 3 myths clear karo | Myth vs Fact",
+    "description": "SOP likhne se pehle ye 3 myths clear kar lo: life story, ek SOP sab jagah, aur bhaari English.\n\n👉 https://app.goeduabroad.com\n\nEduAbroad: Run by Harvard-Cambridge Alumni. 100% private. Contact aap karoge, hum nahi.",
+    "tags": ["study abroad", "SOP", "statement of purpose", "study abroad myths", "EduAbroad"]
+  },
+  "instagram": {
+    "caption": "SOP mein poori life story? ❌ Myth.\n\nJo course se jude wahi likho, har university ke liye SOP badlo, aur simple English mein apni baat rakho.\n\nSOP likh rahe ho? Save karo, kaam aayega 📌\n\n👉 app.goeduabroad.com (link in bio)\n\n#StudyAbroad #IndianStudents #SOP #EduAbroad #Reels"
+  },
+  "claims": [
+    {
+      "text": "SOP ke 3 myths",
+      "source": "count of myths in this video"
+    }
+  ]
+}
