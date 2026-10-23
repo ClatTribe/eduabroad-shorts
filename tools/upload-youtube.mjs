@@ -10,7 +10,11 @@
  *
  * Needs these environment variables (same names as the portal's existing setup):
  *   YOUTUBE_CLIENT_ID, YOUTUBE_CLIENT_SECRET, YOUTUBE_REFRESH_TOKEN
- * The refresh token must have the https://www.googleapis.com/auth/youtube.upload scope.
+ * The refresh token must have the https://www.googleapis.com/auth/youtube.upload scope, and should also
+ * have https://www.googleapis.com/auth/youtube.readonly so the script can confirm the channel before uploading.
+ * It only uploads to the channel in YOUTUBE_CHANNEL_HANDLE (default @goeduabroadofficial).
+ *
+ *   --check     log in and print which channel the token belongs to (uploads nothing)
  *
  *   --private   setup test: upload but keep it private (delete it afterwards in YouTube Studio)
  *
@@ -27,13 +31,15 @@ const arg = (name) => {
 const DRY = process.argv.includes("--dry-run");
 const publishAt = arg("--publish-at");
 const PRIVATE = process.argv.includes("--private"); // setup test: stays private, never goes public
+const CHECK = process.argv.includes("--check");
+const CHANNEL = (process.env.YOUTUBE_CHANNEL_HANDLE || "@goeduabroadofficial").toLowerCase();
 
 const isSketch = (date ?? "").endsWith(".json");
-if (!isSketch && !/^\d{4}-\d{2}-\d{2}$/.test(date ?? "")) {
+if (!CHECK && !isSketch && !/^\d{4}-\d{2}-\d{2}$/.test(date ?? "")) {
   console.error("usage: node tools/upload-youtube.mjs YYYY-MM-DD|sketches/<file>.json [--publish-at ISO] [--dry-run]");
   process.exit(2);
 }
-const ep = JSON.parse(readFileSync(isSketch ? date : `episodes/${date}.json`, "utf8"));
+const ep = CHECK && !date?.match(/^\d|\.json$/) ? { youtube: { title: "", description: "" } } : JSON.parse(readFileSync(isSketch ? date : `episodes/${date}.json`, "utf8"));
 const file = isSketch ? `out/${ep.id}.mp4` : `out/${date}.mp4`;
 const lang = isSketch ? "en" : "hi"; // SAT whiteboard Shorts are in English
 const missing = ["YOUTUBE_CLIENT_ID", "YOUTUBE_CLIENT_SECRET", "YOUTUBE_REFRESH_TOKEN"].filter((k) => !process.env[k]);
@@ -63,7 +69,7 @@ if (missing.length) {
   console.error(`FAIL missing env: ${missing.join(", ")}`);
   process.exit(1);
 }
-if (!existsSync(file)) {
+if (!CHECK && !existsSync(file)) {
   console.error(`FAIL video not found: ${file}`);
   process.exit(1);
 }
@@ -84,9 +90,26 @@ async function token() {
   return data.access_token;
 }
 
+/** Which channel the token uploads to. Returns null when the token lacks the youtube.readonly scope. */
+async function channelOf(access) {
+  const res = await fetch("https://www.googleapis.com/youtube/v3/channels?part=snippet&mine=true", { headers: { Authorization: `Bearer ${access}` } });
+  const data = await res.json();
+  if (res.status === 403 && /scope/i.test(data.error?.message ?? "")) return null;
+  if (!res.ok) throw new Error(`channel lookup failed (${res.status}): ${data.error?.message ?? ""}`);
+  const c = data.items?.[0]?.snippet;
+  return c ? { title: c.title, handle: (c.customUrl ?? "").toLowerCase() } : { title: "(no channel)", handle: "" };
+}
+
 async function main() {
-  const video = readFileSync(file);
   const access = await token();
+  const ch = await channelOf(access);
+  if (CHECK) {
+    console.log(ch ? `OK   youtube token belongs to "${ch.title}" ${ch.handle}${ch.handle === CHANNEL ? "" : `  (NOT ${CHANNEL})`}` : "WARN token lacks youtube.readonly, so the channel can't be confirmed");
+    process.exit(ch && ch.handle === CHANNEL ? 0 : 1);
+  }
+  if (!ch) console.log(`WARN can't confirm the channel (token lacks youtube.readonly); uploading anyway`);
+  else if (ch.handle !== CHANNEL) throw new Error(`token belongs to "${ch.title}" ${ch.handle}, not ${CHANNEL}. Regenerate the refresh token and pick the right channel.`);
+  const video = readFileSync(file);
   const init = await fetch("https://www.googleapis.com/upload/youtube/v3/videos?uploadType=resumable&part=snippet,status", {
     method: "POST",
     headers: {
