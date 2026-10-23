@@ -1,0 +1,21 @@
+{
+  "date": "2026-12-11",
+  "content": {
+    "type": "word",
+    "word": "Evaluate",
+    "partOfSpeech": "verb",
+    "meaning": "Matlab: jaanchna, parakhna",
+    "synonyms": [
+      "Assess",
+      "Judge",
+      "Analyse"
+    ],
+    "example": "“Teachers evaluate each essay carefully.”"
+  },
+  "claims": [
+    {
+      "text": "Evaluate: Assess, Judge, Analyse",
+      "source": "standard dictionary meaning and synonyms"
+    }
+  ]
+}

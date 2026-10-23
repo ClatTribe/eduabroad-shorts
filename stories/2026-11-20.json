@@ -1,0 +1,21 @@
+{
+  "date": "2026-11-20",
+  "content": {
+    "type": "word",
+    "word": "Complex",
+    "partOfSpeech": "adjective",
+    "meaning": "Matlab: mushkil, uljha hua",
+    "synonyms": [
+      "Complicated",
+      "Intricate",
+      "Sophisticated"
+    ],
+    "example": "“This is a complex problem.”"
+  },
+  "claims": [
+    {
+      "text": "Complex: Complicated, Intricate, Sophisticated",
+      "source": "IELTS kit Flashcards tab (portal): 'Complex: Complicated, Intricate, Sophisticated'"
+    }
+  ]
+}

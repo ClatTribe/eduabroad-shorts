@@ -1,0 +1,21 @@
+{
+  "date": "2026-12-25",
+  "content": {
+    "type": "word",
+    "word": "Vary",
+    "partOfSpeech": "verb",
+    "meaning": "Matlab: alag alag hona",
+    "synonyms": [
+      "Differ",
+      "Change",
+      "Fluctuate"
+    ],
+    "example": "“Rent prices vary from city to city.”"
+  },
+  "claims": [
+    {
+      "text": "Vary: Differ, Change, Fluctuate",
+      "source": "IELTS kit Flashcards tab (portal): 'Vary: Differ, Change, Fluctuate'"
+    }
+  ]
+}

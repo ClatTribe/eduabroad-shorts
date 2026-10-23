@@ -1,0 +1,21 @@
+{
+  "date": "2027-01-08",
+  "content": {
+    "type": "word",
+    "word": "Contribute",
+    "partOfSpeech": "verb",
+    "meaning": "Matlab: yogdaan dena",
+    "synonyms": [
+      "Give",
+      "Provide",
+      "Supply"
+    ],
+    "example": "“Everyone can contribute to the project.”"
+  },
+  "claims": [
+    {
+      "text": "Contribute: Give, Provide, Supply",
+      "source": "standard dictionary meaning and synonyms"
+    }
+  ]
+}

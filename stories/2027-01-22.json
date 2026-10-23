@@ -1,0 +1,21 @@
+{
+  "date": "2027-01-22",
+  "content": {
+    "type": "word",
+    "word": "Facilitate",
+    "partOfSpeech": "verb",
+    "meaning": "Matlab: aasaan banana",
+    "synonyms": [
+      "Ease",
+      "Enable",
+      "Assist"
+    ],
+    "example": "“Technology can facilitate learning.”"
+  },
+  "claims": [
+    {
+      "text": "Facilitate: Ease, Enable, Assist",
+      "source": "standard dictionary meaning and synonyms"
+    }
+  ]
+}

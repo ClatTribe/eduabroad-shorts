@@ -1,0 +1,21 @@
+{
+  "date": "2026-12-04",
+  "content": {
+    "type": "word",
+    "word": "Conserve",
+    "partOfSpeech": "verb",
+    "meaning": "Matlab: bachaa ke rakhna",
+    "synonyms": [
+      "Preserve",
+      "Save",
+      "Protect"
+    ],
+    "example": "“We must conserve water.”"
+  },
+  "claims": [
+    {
+      "text": "Conserve: Preserve, Save, Protect",
+      "source": "IELTS kit Flashcards tab (portal): 'Conserve: Preserve, Save, Protect'"
+    }
+  ]
+}

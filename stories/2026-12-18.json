@@ -1,0 +1,21 @@
+{
+  "date": "2026-12-18",
+  "content": {
+    "type": "word",
+    "word": "Yield",
+    "partOfSpeech": "verb",
+    "meaning": "Matlab: paida karna, dena",
+    "synonyms": [
+      "Produce",
+      "Generate",
+      "Provide"
+    ],
+    "example": "“Regular practice will yield better results.”"
+  },
+  "claims": [
+    {
+      "text": "Yield: Produce, Generate, Provide",
+      "source": "IELTS kit Flashcards tab (portal): 'Yield: Produce, Generate, Provide'"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "date": "2026-11-13",
+  "content": {
+    "type": "word",
+    "word": "Advocate",
+    "partOfSpeech": "verb",
+    "meaning": "Matlab: kisi idea ka saath dena",
+    "synonyms": [
+      "Support",
+      "Promote",
+      "Champion"
+    ],
+    "example": "“Experts advocate daily exercise.”"
+  },
+  "claims": [
+    {
+      "text": "Advocate: Support, Promote, Champion",
+      "source": "IELTS kit Flashcards tab (portal): 'Advocate: Support, Promote, Champion'"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "date": "2027-01-29",
+  "content": {
+    "type": "word",
+    "word": "Substantial",
+    "partOfSpeech": "adjective",
+    "meaning": "Matlab: kaafi bada, thos",
+    "synonyms": [
+      "Large",
+      "Considerable",
+      "Sizeable"
+    ],
+    "example": "“There was a substantial rise in costs.”"
+  },
+  "claims": [
+    {
+      "text": "Substantial: Large, Considerable, Sizeable",
+      "source": "standard dictionary meaning and synonyms"
+    }
+  ]
+}

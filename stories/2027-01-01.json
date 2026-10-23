@@ -1,0 +1,21 @@
+{
+  "date": "2027-01-01",
+  "content": {
+    "type": "word",
+    "word": "Increasing",
+    "partOfSpeech": "adjective",
+    "meaning": "Matlab: badhta hua",
+    "synonyms": [
+      "Growing",
+      "Rising",
+      "Escalating"
+    ],
+    "example": "“There is increasing interest in AI.”"
+  },
+  "claims": [
+    {
+      "text": "Increasing: Growing, Rising, Escalating",
+      "source": "IELTS kit Flashcards tab (portal): 'Increasing: Growing, Rising, Escalating'"
+    }
+  ]
+}

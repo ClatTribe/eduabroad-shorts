@@ -1,0 +1,21 @@
+{
+  "date": "2027-01-15",
+  "content": {
+    "type": "word",
+    "word": "Important",
+    "partOfSpeech": "adjective",
+    "meaning": "Matlab: zaroori, ahem",
+    "synonyms": [
+      "Significant",
+      "Crucial",
+      "Major"
+    ],
+    "example": "“Sleep is important for good health.”"
+  },
+  "claims": [
+    {
+      "text": "Important: Significant, Crucial, Major",
+      "source": "IELTS kit Flashcards tab (portal): 'Important: Significant, Crucial, Major'"
+    }
+  ]
+}

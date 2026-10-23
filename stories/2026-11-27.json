@@ -1,0 +1,21 @@
+{
+  "date": "2026-11-27",
+  "content": {
+    "type": "word",
+    "word": "Prominent",
+    "partOfSpeech": "adjective",
+    "meaning": "Matlab: mashhoor, jaana maana",
+    "synonyms": [
+      "Famous",
+      "Notable",
+      "Distinguished"
+    ],
+    "example": "“She is a prominent scientist.”"
+  },
+  "claims": [
+    {
+      "text": "Prominent: Famous, Notable, Distinguished",
+      "source": "IELTS kit Flashcards tab (portal): 'Prominent: Famous, Notable, Distinguished'"
+    }
+  ]
+}

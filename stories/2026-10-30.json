@@ -1,0 +1,21 @@
+{
+  "date": "2026-10-30",
+  "content": {
+    "type": "word",
+    "word": "Motivate",
+    "partOfSpeech": "verb",
+    "meaning": "Matlab: josh dilana",
+    "synonyms": [
+      "Inspire",
+      "Encourage",
+      "Stimulate"
+    ],
+    "example": "“Good teachers motivate students.”"
+  },
+  "claims": [
+    {
+      "text": "Motivate: Inspire, Encourage, Stimulate",
+      "source": "IELTS kit Flashcards tab (portal): 'Motivate: Inspire, Encourage, Stimulate'"
+    }
+  ]
+}
