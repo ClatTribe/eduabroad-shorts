@@ -10,6 +10,9 @@ import { PostComposition, type PostProps } from "./posts/PostComposition";
 import sampleSketch from "../sketches/sat-exponent-trick.json";
 import { SketchShort, type SketchProps } from "./sketch/SketchShort";
 import type { SketchSpec } from "./sketch/spec";
+import sampleStory from "../stories/samples/tip.json";
+import { StoryComposition, type StoryProps } from "./stories/StoryComposition";
+import type { Story } from "./stories/story";
 
 const FPS = 30;
 
@@ -19,6 +22,11 @@ const calculateMetadata: CalculateMetadataFunction<ShortProps> = ({ props }) => 
 
 const sketchMetadata: CalculateMetadataFunction<SketchProps> = ({ props }) => ({
   durationInFrames: sec(props.spec.seconds, FPS),
+});
+
+// a SAT teaser freezes the Short mid-way, so the Story needs the Short's length (or its end fade kicks in)
+const storyMetadata: CalculateMetadataFunction<StoryProps> = ({ props }) => ({
+  durationInFrames: props.story.content.type === "sat" ? sec(props.story.content.spec.seconds, FPS) : 1,
 });
 
 const postMetadata: CalculateMetadataFunction<PostProps> = ({ props }) => ({
@@ -63,6 +71,17 @@ export const RemotionRoot: React.FC = () => (
       height={1350}
       defaultProps={{ post: samplePost as Post }}
       calculateMetadata={postMetadata}
+    />
+    {/* Instagram Stories: one 1080 x 1920 still. Render with tools/render-story.mjs <date> */}
+    <Composition
+      id="Story"
+      component={StoryComposition}
+      durationInFrames={1}
+      fps={30}
+      width={1080}
+      height={1920}
+      defaultProps={{ story: sampleStory as Story } satisfies StoryProps}
+      calculateMetadata={storyMetadata}
     />
   </>
 );

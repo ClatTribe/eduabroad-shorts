@@ -12,13 +12,10 @@
  * Environment variables: INSTAGRAM_ACCESS_TOKEN, INSTAGRAM_BUSINESS_ACCOUNT_ID,
  *   CLOUDINARY_CLOUD_NAME, CLOUDINARY_API_KEY, CLOUDINARY_API_SECRET
  */
-import { createHash } from "node:crypto";
 import { existsSync, readdirSync, readFileSync } from "node:fs";
 import path from "node:path";
+import { graph, hostAsJpeg, publish, removeFromCloudinary, REQUIRED_ENV, waitReady, waitUntil } from "./ig-lib.mjs";
 
-const GRAPH = (process.env.INSTAGRAM_ACCESS_TOKEN ?? "").startsWith("IGAA")
-  ? "https://graph.instagram.com/v21.0"
-  : "https://graph.facebook.com/v21.0";
 const file = process.argv[2];
 const arg = (name) => {
   const i = process.argv.indexOf(name);
@@ -40,10 +37,7 @@ const slides = existsSync(dir)
       .map((f) => path.join(dir, f))
   : [];
 const caption = post.caption.slice(0, 2200);
-const CLD = { cloud: process.env.CLOUDINARY_CLOUD_NAME, key: process.env.CLOUDINARY_API_KEY, secret: process.env.CLOUDINARY_API_SECRET };
-const missing = ["INSTAGRAM_ACCESS_TOKEN", "INSTAGRAM_BUSINESS_ACCOUNT_ID", "CLOUDINARY_CLOUD_NAME", "CLOUDINARY_API_KEY", "CLOUDINARY_API_SECRET"].filter(
-  (k) => !process.env[k],
-);
+const missing = REQUIRED_ENV.filter((k) => !process.env[k]);
 
 if (DRY) {
   console.log(`DRY RUN instagram post ${file}`);
@@ -62,61 +56,11 @@ if (!slides.length || slides.length > 10) {
   process.exit(1);
 }
 
-const sleep = (ms) => new Promise((r) => setTimeout(r, ms));
-
-async function graph(p, params, method = "POST") {
-  const qs = new URLSearchParams({ ...params, access_token: process.env.INSTAGRAM_ACCESS_TOKEN });
-  const res = await fetch(`${GRAPH}/${p}${method === "GET" ? `?${qs}` : ""}`, method === "GET" ? {} : { method, body: qs });
-  const data = await res.json();
-  if (!res.ok || data.error) throw new Error(`${p}: ${data.error?.message ?? res.status}`);
-  return data;
-}
-
-// Cloudinary signed requests: sha1 of the sorted params + the API secret
-const cldSign = (params) =>
-  createHash("sha1")
-    .update(
-      Object.keys(params)
-        .sort()
-        .map((k) => `${k}=${params[k]}`)
-        .join("&") + CLD.secret,
-    )
-    .digest("hex");
-
-async function hostAsJpeg(slide) {
-  const params = { folder: "eduabroad-posts", format: "jpg", timestamp: Math.floor(Date.now() / 1000) };
-  const form = new FormData();
-  form.append("file", new Blob([readFileSync(slide)], { type: "image/png" }), path.basename(slide));
-  for (const [k, v] of Object.entries(params)) form.append(k, String(v));
-  form.append("api_key", CLD.key);
-  form.append("signature", cldSign(params));
-  const res = await fetch(`https://api.cloudinary.com/v1_1/${CLD.cloud}/image/upload`, { method: "POST", body: form });
-  const data = await res.json();
-  if (!res.ok || !data.secure_url) throw new Error(`image hosting failed (${res.status}): ${data.error?.message ?? JSON.stringify(data)}`);
-  return { url: data.secure_url, publicId: data.public_id };
-}
-
-async function removeFromCloudinary(publicId) {
-  const params = { public_id: publicId, timestamp: Math.floor(Date.now() / 1000) };
-  const form = new URLSearchParams({ ...params, api_key: CLD.key, signature: cldSign(params) });
-  await fetch(`https://api.cloudinary.com/v1_1/${CLD.cloud}/image/destroy`, { method: "POST", body: form }).catch(() => {});
-}
-
-async function waitReady(containerId) {
-  for (let i = 0; i < 30; i++) {
-    const { status_code: status } = await graph(containerId, { fields: "status_code" }, "GET");
-    if (status === "FINISHED") return;
-    if (status === "ERROR" || status === "EXPIRED") throw new Error(`Instagram could not process the image (status ${status})`);
-    await sleep(5000);
-  }
-  throw new Error("Instagram took too long to process the post");
-}
-
 async function main() {
   const ig = process.env.INSTAGRAM_BUSINESS_ACCOUNT_ID;
   const hosted = [];
   try {
-    for (const s of slides) hosted.push(await hostAsJpeg(s));
+    for (const s of slides) hosted.push(await hostAsJpeg(s, "eduabroad-posts"));
     console.log(`     hosted ${hosted.length} slide(s) as JPEG`);
 
     let creationId;
@@ -133,16 +77,8 @@ async function main() {
     }
     await waitReady(creationId);
 
-    if (publishAt) {
-      const wait = new Date(publishAt).getTime() - Date.now();
-      if (wait > 0) {
-        console.log(`     ready; waiting ${Math.round(wait / 60000)} min until ${publishAt}`);
-        await sleep(wait);
-      }
-    }
-    const { id: mediaId } = await graph(`${ig}/media_publish`, { creation_id: creationId });
-    const { permalink } = await graph(mediaId, { fields: "permalink" }, "GET").catch(() => ({}));
-    console.log(`OK   instagram ${permalink ?? `media ${mediaId}`}`);
+    await waitUntil(publishAt);
+    console.log(`OK   instagram ${await publish(creationId)}`);
   } finally {
     // Instagram keeps its own copy once published (and a failed post doesn't need them), so the hosted files can go
     for (const h of hosted) await removeFromCloudinary(h.publicId);
