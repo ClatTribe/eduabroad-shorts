@@ -9,7 +9,7 @@ DATE=$(TZ=Asia/Kolkata date +%F)
 git clone --depth 1 https://github.com/ClatTribe/eduabroad-shorts.git ~/shorts && cd ~/shorts
 npm ci --no-audit --no-fund
 export NODE_USE_ENV_PROXY=1 NODE_NO_WARNINGS=1   # Node's fetch needs this to use the session's proxy
-export REMOTION_BROWSER_EXECUTABLE=$(ls -d /opt/pw-browsers/chromium_headless_shell-*/chrome-linux/headless_shell | head -1)
+export REMOTION_BROWSER_EXECUTABLE=$(ls -d /opt/pw-browsers/chromium_headless_shell-*/chrome-*/*headless?shell | head -1)
 ```
 If `DATE` is before **2026-10-24**, stop and reply "Before start date".
 
