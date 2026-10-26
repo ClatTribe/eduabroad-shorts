@@ -6,45 +6,45 @@
   "hook": {
     "line1": [
       "Myth",
-      "ya"
+      "or"
     ],
     "line2": [
       "Fact?"
     ],
     "highlight": "Fact?",
-    "subline": "Profile ke 3 bade darr."
+    "subline": "3 big profile fears."
   },
   "myths": {
     "seriesLabel": "Myth vs Fact",
     "items": [
       {
-        "myth": "Gap year matlab reject",
-        "fact": "Gap ko honestly explain karo",
-        "detail": "Us time kya seekha, kya kiya, SOP mein clearly batao."
+        "myth": "A gap year means rejection",
+        "fact": "Explain your gap honestly",
+        "detail": "In your SOP, say clearly what you learned and did during that time."
       },
       {
-        "myth": "Hindi medium se padha, admit nahi milega",
-        "fact": "Required score se kaam chalta hai",
-        "detail": "English test mein required score lao, medium se zyada wo dekha jaata hai."
+        "myth": "Studied in Hindi medium, so no admit",
+        "fact": "The required score is what counts",
+        "detail": "Get the required English test score. That matters more than your medium."
       },
       {
-        "myth": "Ek baar reject hua toh khatam",
-        "fact": "Feedback lo, phir try karo",
-        "detail": "Profile improve karo, shortlist badlo, agle intake mein apply karo."
+        "myth": "One rejection and it's over",
+        "fact": "Take feedback, then try again",
+        "detail": "Improve your profile, change your shortlist and apply in the next intake."
       }
     ]
   },
   "closing": {
-    "line1": "Darr nahi,",
-    "line2": "plan banao."
+    "line1": "Don't fear,",
+    "line2": "make a plan."
   },
   "cta": {
-    "button": "Explore karo",
+    "button": "Explore now",
     "url": "app.goeduabroad.com"
   },
   "youtube": {
-    "title": "Gap year matlab reject? Myth vs Fact",
-    "description": "Profile ke 3 bade darr, aur unka sach: gap year, Hindi medium, aur ek baar reject hona.\n\n👉 https://app.goeduabroad.com\n\nEduAbroad: Run by Harvard-Cambridge Alumni. 100% private. Contact aap karoge, hum nahi.",
+    "title": "Does a gap year mean rejection? Myth vs Fact",
+    "description": "3 big profile fears, and the truth: a gap year, studying in Hindi medium, and getting rejected once.\n\n👉 https://app.goeduabroad.com\n\nEduAbroad: Run by Harvard-Cambridge Alumni. 100% private. You contact us, we never contact you first.",
     "tags": [
       "study abroad",
       "gap year",
@@ -53,11 +53,11 @@
     ]
   },
   "instagram": {
-    "caption": "Gap year matlab reject? ❌ Myth.\n\nGap ko honestly explain karo, required English score lao, aur reject hue toh phir try karo.\n\nKisko ye sunna chahiye? Tag karo 👇\n\n👉 app.goeduabroad.com (link in bio)\n\n#StudyAbroad #IndianStudents #StudyAbroadTips #EduAbroad #Reels"
+    "caption": "Does a gap year mean rejection? ❌ Myth.\n\nExplain your gap honestly, get the required English score, and if you get rejected, try again.\n\nWho needs to hear this? Tag them 👇\n\n👉 app.goeduabroad.com (link in bio)\n\n#StudyAbroad #IndianStudents #StudyAbroadTips #EduAbroad #Reels"
   },
   "claims": [
     {
-      "text": "Profile ke 3 bade darr.",
+      "text": "3 big profile fears.",
       "source": "count of myths in this video"
     }
   ]

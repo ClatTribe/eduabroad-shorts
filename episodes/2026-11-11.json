@@ -5,16 +5,15 @@
   "musicSeed": 1111,
   "hook": {
     "line1": [
-      "Kaunsa",
+      "Which",
       "course"
     ],
     "line2": [
-      "mere",
-      "liye",
-      "sahi?"
+      "fits",
+      "me?"
     ],
-    "highlight": "sahi?",
-    "subline": "Options hazaar, dimaag confuse.",
+    "highlight": "me?",
+    "subline": "So many options, so confusing.",
     "chips": [
       "UG: B.Tech",
       "Budget: ?",
@@ -25,15 +24,15 @@
     "beats": [
       {
         "speaker": "Senior",
-        "line": "“Jo maine kiya, wahi kar le”"
+        "line": "“Just do what I did”"
       },
       {
         "speaker": "Relatives",
-        "line": "“Sharma ji ka beta Canada gaya”"
+        "line": "“The neighbour's son went to Canada”"
       },
       {
         "speaker": "Google",
-        "line": "Har list alag. Confusion double."
+        "line": "Every list is different. Double the confusion."
       }
     ],
     "googleTabs": [
@@ -45,28 +44,28 @@
       "which country"
     ],
     "punchline": {
-      "line1": "Lists bahut hain.",
-      "line2": "Fit kahan hai?"
+      "line1": "So many lists.",
+      "line2": "Where's the fit?"
     }
   },
   "reveal": {
-    "kicker": "List nahi.",
-    "headline": "Fit dekho.",
+    "kicker": "Not lists.",
+    "headline": "Find your fit.",
     "featurePill": "Course Finder",
     "clips": [
       {
         "kind": "video",
         "src": "footage/course-finder/scroll.mp4",
-        "caption": "Programs worldwide, ek jagah.",
-        "subcaption": "Country aur level se chuno.",
+        "caption": "Programs worldwide, one place.",
+        "subcaption": "Pick by country and level.",
         "seconds": 3.6,
         "playbackRate": 1.2
       },
       {
         "kind": "video",
         "src": "footage/course-finder/detail.mp4",
-        "caption": "Fees aur intake pehle dekho.",
-        "subcaption": "Budget ke andar shortlist.",
+        "caption": "See fees and intake first.",
+        "subcaption": "Shortlist within budget.",
         "seconds": 3.0,
         "playbackRate": 1.1
       }
@@ -74,22 +73,22 @@
   },
   "proof": {
     "points": [
-      "Worldwide programs, ek jagah",
+      "Worldwide programs, one place",
       "Country, level, intake filters",
-      "100% private. Koi spam call nahi."
+      "100% private. No spam calls."
     ]
   },
   "closing": {
-    "line1": "Lists mat ginno,",
-    "line2": "fit dhundo."
+    "line1": "Don't count lists,",
+    "line2": "find your fit."
   },
   "cta": {
-    "button": "Explore karo",
+    "button": "Explore now",
     "url": "app.goeduabroad.com/course-finder"
   },
   "youtube": {
-    "title": "Kaunsa course mere liye sahi? Lists nahi, fit dekho",
-    "description": "Senior kuch bolta hai, relatives kuch aur, aur Google pe har list alag.\n\nEduAbroad ke Course Finder pe programs aur universities worldwide ek jagah milte hain. Country, study level, university aur intake se filter karo, fees dekho, aur apne budget ke andar shortlist banao.\n\n👉 https://app.goeduabroad.com/course-finder\n\nEduAbroad: Run by Harvard-Cambridge Alumni. 100% private. Contact aap karoge, hum nahi.",
+    "title": "Which course is right for me? Look for fit, not lists",
+    "description": "A senior says one thing, relatives say another, and every list on Google is different.\n\nEduAbroad's Course Finder has programs and universities worldwide in one place. Filter by country, study level, university and intake, check the fees, and build a shortlist within your budget.\n\n👉 https://app.goeduabroad.com/course-finder\n\nEduAbroad: Run by Harvard-Cambridge Alumni. 100% private. You contact us, we never contact you first.",
     "tags": [
       "study abroad",
       "course finder",
@@ -99,11 +98,11 @@
     ]
   },
   "instagram": {
-    "caption": "Kaunsa course mere liye sahi? 🤔\n\nLists bahut hain, fit dekho. Course Finder pe programs worldwide, country, level aur intake filters ke saath.\n\n👉 app.goeduabroad.com/course-finder (link in bio)\n\n#StudyAbroad #IndianStudents #MSabroad #StudyAbroadTips #EduAbroad"
+    "caption": "Which course is right for me? 🤔\n\nThere are lots of lists, so look for fit. Course Finder has programs worldwide, with country, level and intake filters.\n\n👉 app.goeduabroad.com/course-finder (link in bio)\n\n#StudyAbroad #IndianStudents #MSabroad #StudyAbroadTips #EduAbroad"
   },
   "claims": [
     {
-      "text": "Programs worldwide, ek jagah. / Worldwide programs, ek jagah",
+      "text": "Programs worldwide, one place. / Worldwide programs, one place",
       "source": "Course Finder page: 'Explore programs and universities worldwide'"
     },
     {
@@ -111,11 +110,11 @@
       "source": "Course Finder filters: All Countries, All Study Levels, All Universities, All Intakes"
     },
     {
-      "text": "Fees aur intake pehle dekho.",
+      "text": "See fees and intake first.",
       "source": "Course Finder shows Tuition Fees and intakes"
     },
     {
-      "text": "100% private. Koi spam call nahi.",
+      "text": "100% private. No spam calls.",
       "source": "Homepage: '100% Private. You initiate contact, not us.'"
     }
   ],

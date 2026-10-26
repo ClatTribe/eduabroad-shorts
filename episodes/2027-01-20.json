@@ -5,15 +5,15 @@
   "musicSeed": 120,
   "hook": {
     "line1": [
-      "Kaunsa",
+      "Which",
       "country?"
     ],
     "line2": [
-      "Kaunsa",
+      "Which",
       "intake?"
     ],
     "highlight": "intake?",
-    "subline": "Sawaal bahut, jawab ek jagah.",
+    "subline": "So many questions, one place.",
     "chips": [
       "Fall?",
       "Spring?",
@@ -24,15 +24,15 @@
     "beats": [
       {
         "speaker": "Senior",
-        "line": "“Fall hi best hai, bas”"
+        "line": "“Fall is the best, that's it”"
       },
       {
         "speaker": "Relatives",
-        "line": "“Canada jao, sab jaate hain”"
+        "line": "“Go to Canada, everyone does”"
       },
       {
         "speaker": "Google",
-        "line": "Har blog alag bolta hai."
+        "line": "Every blog says something else."
       }
     ],
     "googleTabs": [
@@ -44,28 +44,28 @@
       "which intake"
     ],
     "punchline": {
-      "line1": "Sab alag bolte hain.",
-      "line2": "Khud dekho."
+      "line1": "Everyone differs.",
+      "line2": "See for yourself."
     }
   },
   "reveal": {
-    "kicker": "Sabki suno.",
-    "headline": "Khud dekho.",
+    "kicker": "Hear everyone.",
+    "headline": "See for yourself",
     "featurePill": "Course Finder",
     "clips": [
       {
         "kind": "video",
         "src": "footage/course-finder/scroll.mp4",
-        "caption": "Country, level, intake chuno.",
-        "subcaption": "List turant chhoti.",
+        "caption": "Pick country, level, intake.",
+        "subcaption": "Shorten your list fast.",
         "seconds": 3.6,
         "playbackRate": 1.2
       },
       {
         "kind": "video",
         "src": "footage/course-finder/detail.mp4",
-        "caption": "Fees aur intake saath mein.",
-        "subcaption": "Compare karna aasaan.",
+        "caption": "Fees and intakes together.",
+        "subcaption": "Easy to compare.",
         "seconds": 3.0,
         "playbackRate": 1.1
       }
@@ -73,22 +73,22 @@
   },
   "proof": {
     "points": [
-      "Worldwide programs, ek jagah",
+      "Worldwide programs, one place",
       "Country, level, intake filters",
-      "100% private. Koi spam call nahi."
+      "100% private. No spam calls."
     ]
   },
   "closing": {
-    "line1": "Sabki suno,",
-    "line2": "data se chuno."
+    "line1": "Listen to everyone,",
+    "line2": "choose with data."
   },
   "cta": {
-    "button": "Explore karo",
+    "button": "Explore now",
     "url": "app.goeduabroad.com/course-finder"
   },
   "youtube": {
-    "title": "Kaunsa country, kaunsa intake? Course Finder se khud dekho",
-    "description": "Sab alag bolte hain, toh khud dekho. EduAbroad Course Finder pe programs aur universities worldwide, country, study level, university aur intake filters ke saath, aur tuition fees bhi.\n\n👉 https://app.goeduabroad.com/course-finder\n\nEduAbroad: Run by Harvard-Cambridge Alumni. 100% private. Contact aap karoge, hum nahi.",
+    "title": "Which country, which intake? See for yourself on Course Finder",
+    "description": "Everyone says something different, so see for yourself. EduAbroad Course Finder has programs and universities worldwide, with country, study level, university and intake filters, plus tuition fees.\n\n👉 https://app.goeduabroad.com/course-finder\n\nEduAbroad: Run by Harvard-Cambridge Alumni. 100% private. You contact us, we never contact you first.",
     "tags": [
       "study abroad",
       "Indian students",
@@ -98,23 +98,23 @@
     ]
   },
   "instagram": {
-    "caption": "Kaunsa country, kaunsa intake? 🌍\n\nSabki suno, data se chuno. Course Finder pe country, level aur intake filters.\n\n👉 app.goeduabroad.com/course-finder (link in bio)\n\n#StudyAbroad #IndianStudents #StudyAbroadTips #EduAbroad #Reels"
+    "caption": "Which country, which intake? 🌍\n\nListen to everyone, choose with data. Country, level and intake filters on Course Finder.\n\n👉 app.goeduabroad.com/course-finder (link in bio)\n\n#StudyAbroad #IndianStudents #StudyAbroadTips #EduAbroad #Reels"
   },
   "claims": [
     {
-      "text": "Worldwide programs, ek jagah",
+      "text": "Worldwide programs, one place",
       "source": "Course Finder page: 'Explore programs and universities worldwide'"
     },
     {
-      "text": "Country, level, intake chuno. / Country, level, intake filters",
+      "text": "Pick country, level, intake. / Country, level, intake filters",
       "source": "Course Finder filters: All Countries, All Study Levels, All Universities, All Intakes"
     },
     {
-      "text": "Fees aur intake saath mein.",
+      "text": "Fees and intakes together.",
       "source": "Course Finder shows Tuition Fees and intakes"
     },
     {
-      "text": "100% private. Koi spam call nahi.",
+      "text": "100% private. No spam calls.",
       "source": "Homepage: '100% Private. You initiate contact, not us.'"
     }
   ],

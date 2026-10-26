@@ -5,49 +5,48 @@
   "musicSeed": 9001,
   "hook": {
     "line1": [
-      "Apply",
-      "karne",
-      "wale"
+      "About",
+      "to",
+      "apply?"
     ],
     "line2": [
-      "ho?",
-      "Ruko."
+      "Wait."
     ],
-    "highlight": "Ruko.",
-    "subline": "Ye documents pehle ready rakho."
+    "highlight": "Wait.",
+    "subline": "Get these documents ready first."
   },
   "tips": {
-    "seriesLabel": "Seedhi Baat",
+    "seriesLabel": "Straight Talk",
     "items": [
       {
-        "title": "Passport check karo",
-        "detail": "Expiry date dekho. Naam ki spelling har document mein same honi chahiye."
+        "title": "Check your passport",
+        "detail": "Look at the expiry date. Your name's spelling must match on every document."
       },
       {
-        "title": "Marksheets aur transcripts",
-        "detail": "School aur graduation ki marksheets, sab ki scanned copies ek folder mein rakho."
+        "title": "Marksheets and transcripts",
+        "detail": "School and graduation marksheets, with scanned copies of all of them in one folder."
       },
       {
         "title": "Test scores",
-        "detail": "IELTS, TOEFL, PTE ya GRE, jo bhi diya hai, uska score report save karo."
+        "detail": "IELTS, TOEFL, PTE or GRE, whichever you took, save the score report."
       },
       {
         "title": "Updated CV",
-        "detail": "Projects, internships aur achievements. Ek page, saaf aur simple."
+        "detail": "Projects, internships and achievements. One page, clean and simple."
       }
     ]
   },
   "closing": {
     "line1": "Documents ready,",
-    "line2": "tension half."
+    "line2": "half the stress gone."
   },
   "cta": {
-    "button": "Explore karo",
+    "button": "Explore now",
     "url": "app.goeduabroad.com"
   },
   "youtube": {
-    "title": "Abroad apply karne se pehle ye documents ready rakho",
-    "description": "Application shuru karne se pehle ye 4 cheezein ready rakho: passport, marksheets aur transcripts, test score reports, aur ek updated CV.\n\n👉 https://app.goeduabroad.com\n\nEduAbroad: Run by Harvard-Cambridge Alumni. 100% private. Contact aap karoge, hum nahi.",
+    "title": "Get these documents ready before you apply abroad",
+    "description": "Before you start your application, get these 4 things ready: your passport, marksheets and transcripts, test score reports, and an updated CV.\n\n👉 https://app.goeduabroad.com\n\nEduAbroad: Run by Harvard-Cambridge Alumni. 100% private. You contact us, we never contact you first.",
     "tags": [
       "study abroad",
       "study abroad documents",
@@ -56,7 +55,7 @@
     ]
   },
   "instagram": {
-    "caption": "Apply karne wale ho? ✋ Ruko.\n\nPassport, marksheets, test scores, updated CV. Pehle ye ready rakho, baaki sab aasaan.\n\nSave karo 📌\n\n👉 app.goeduabroad.com (link in bio)\n\n#StudyAbroad #IndianStudents #StudyAbroadTips #EduAbroad #Reels"
+    "caption": "About to apply? ✋ Wait.\n\nPassport, marksheets, test scores, updated CV. Get these ready first and the rest gets easier.\n\nSave this 📌\n\n👉 app.goeduabroad.com (link in bio)\n\n#StudyAbroad #IndianStudents #StudyAbroadTips #EduAbroad #Reels"
   },
   "claims": []
 }

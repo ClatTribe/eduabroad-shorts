@@ -6,47 +6,47 @@
   "hook": {
     "line1": [
       "Education",
-      "loan"
+      "loans"
     ],
     "line2": [
-      "samajh",
-      "aaya?"
+      "made",
+      "simple"
     ],
-    "highlight": "aaya?",
+    "highlight": "simple",
     "subline": "Collateral vs non-collateral."
   },
   "tips": {
-    "seriesLabel": "Seedhi Baat",
+    "seriesLabel": "Straight Talk",
     "items": [
       {
-        "title": "Collateral loan kya hai?",
-        "detail": "Property ya FD jaisi cheez security ke taur pe rakhi jaati hai."
+        "title": "What is a collateral loan?",
+        "detail": "Something like property or an FD is kept as security."
       },
       {
-        "title": "Non-collateral kya hai?",
-        "detail": "Kuch girvi nahi rakhna padta. Lender aapki profile, course aur co-applicant dekhta hai."
+        "title": "What is non-collateral?",
+        "detail": "You don't pledge anything. The lender looks at your profile, course and co-applicant."
       },
       {
-        "title": "Fark kahan padta hai?",
-        "detail": "Interest rate, loan amount aur approval ki shartein alag hoti hain."
+        "title": "Where's the difference?",
+        "detail": "Interest rate, loan amount and approval conditions are different."
       },
       {
-        "title": "Pehle kya karein?",
-        "detail": "Kai lenders se offers lo aur sirf rate nahi, total repayment compare karo."
+        "title": "What to do first?",
+        "detail": "Get offers from several lenders and compare the total repayment, not just the rate."
       }
     ]
   },
   "closing": {
-    "line1": "Interest rate nahi,",
-    "line2": "total cost dekho."
+    "line1": "Not just the rate,",
+    "line2": "see the total cost."
   },
   "cta": {
-    "button": "Explore karo",
+    "button": "Explore now",
     "url": "app.goeduabroad.com"
   },
   "youtube": {
-    "title": "Education loan: collateral vs non-collateral, simple mein",
-    "description": "Education loan do tarah ke hote hain: collateral (security ke saath) aur non-collateral (bina security ke). Dono mein interest rate, loan amount aur approval ki shartein alag hoti hain.\n\nKai lenders se offers lo aur total repayment compare karo, sirf interest rate nahi.\n\n👉 https://app.goeduabroad.com\n\nEduAbroad: Run by Harvard-Cambridge Alumni. 100% private. Contact aap karoge, hum nahi.",
+    "title": "Education loans: collateral vs non-collateral, made simple",
+    "description": "Education loans come in two types: collateral (with security) and non-collateral (without security). The interest rate, loan amount and approval conditions differ between them.\n\nGet offers from several lenders and compare the total repayment, not just the interest rate.\n\n👉 https://app.goeduabroad.com\n\nEduAbroad: Run by Harvard-Cambridge Alumni. 100% private. You contact us, we never contact you first.",
     "tags": [
       "study abroad",
       "Indian students",
@@ -57,7 +57,7 @@
     ]
   },
   "instagram": {
-    "caption": "Education loan samajh aaya? 🏦\n\nCollateral = security rakhni padti hai\nNon-collateral = bina security, profile dekhi jaati hai\n\nSirf interest rate nahi, total repayment compare karo.\n\n👉 app.goeduabroad.com (link in bio)\n\n#StudyAbroad #IndianStudents #StudyAbroadTips #EduAbroad #Reels"
+    "caption": "Do you understand education loans? 🏦\n\nCollateral = you keep something as security\nNon-collateral = no security, your profile is checked\n\nCompare the total repayment, not just the interest rate.\n\n👉 app.goeduabroad.com (link in bio)\n\n#StudyAbroad #IndianStudents #StudyAbroadTips #EduAbroad #Reels"
   },
   "claims": [
     {

@@ -5,48 +5,48 @@
   "musicSeed": 1130,
   "hook": {
     "line1": [
-      "Germany",
-      "mein"
+      "Free",
+      "study",
+      "in"
     ],
     "line2": [
-      "free",
-      "padhai?"
+      "Germany?"
     ],
-    "highlight": "free",
-    "subline": "Poora sach, simple mein."
+    "highlight": "Germany?",
+    "subline": "The full truth, made simple."
   },
   "tips": {
-    "seriesLabel": "Seedhi Baat",
+    "seriesLabel": "Straight Talk",
     "items": [
       {
-        "title": "Zyada public unis mein tuition nahi",
-        "detail": "Lekin har semester ek semester contribution dena padta hai."
+        "title": "Most public unis charge no tuition",
+        "detail": "But you pay a semester contribution every semester."
       },
       {
-        "title": "Kuch jagah fees hai",
-        "detail": "Kuch states aur universities non-EU students se tuition leti hain. Pehle check karo."
+        "title": "Some places charge fees",
+        "detail": "Some states and universities charge non-EU students tuition. Check first."
       },
       {
-        "title": "Rehne ka kharcha apna",
-        "detail": "Rent, khaana, insurance. Visa ke liye funds ka proof bhi dikhana padta hai."
+        "title": "Living costs are yours",
+        "detail": "Rent, food, insurance. For the visa you also show proof of funds."
       },
       {
-        "title": "German aati ho toh plus",
-        "detail": "Kai courses English mein hain, par German aane se rozmarra aasaan hota hai."
+        "title": "Knowing German helps",
+        "detail": "Many courses are in English, but German makes daily life easier."
       }
     ]
   },
   "closing": {
-    "line1": "Free ka matlab,",
-    "line2": "zero kharcha nahi."
+    "line1": "Free doesn't mean",
+    "line2": "zero cost."
   },
   "cta": {
-    "button": "Explore karo",
+    "button": "Explore now",
     "url": "app.goeduabroad.com"
   },
   "youtube": {
-    "title": "Germany mein free padhai? Poora sach",
-    "description": "Germany ki zyada public universities mein tuition fee nahi hoti, lekin semester contribution, rehne ka kharcha aur visa ke liye funds ka proof sab aapka. Kuch states aur universities non-EU students se fees bhi leti hain.\n\nFree ka matlab zero kharcha nahi.\n\n👉 https://app.goeduabroad.com\n\nEduAbroad: Run by Harvard-Cambridge Alumni. 100% private. Contact aap karoge, hum nahi.",
+    "title": "Free study in Germany? The full truth",
+    "description": "Most public universities in Germany charge no tuition fee, but the semester contribution, living costs and proof of funds for the visa are all on you. Some states and universities also charge non-EU students fees.\n\nFree doesn't mean zero cost.\n\n👉 https://app.goeduabroad.com\n\nEduAbroad: Run by Harvard-Cambridge Alumni. 100% private. You contact us, we never contact you first.",
     "tags": [
       "study abroad",
       "Indian students",
@@ -57,19 +57,19 @@
     ]
   },
   "instagram": {
-    "caption": "Germany mein free padhai? 🇩🇪\n\nTuition nahi (zyada public unis mein), par semester contribution, rent, insurance aur funds proof sab aapka. Kuch jagah non-EU fees bhi hai.\n\nFree ≠ zero kharcha.\n\n👉 app.goeduabroad.com (link in bio)\n\n#StudyAbroad #IndianStudents #StudyAbroadTips #EduAbroad #Reels"
+    "caption": "Free study in Germany? 🇩🇪\n\nNo tuition (at most public unis), but the semester contribution, rent, insurance and proof of funds are all on you. Some places charge non-EU fees too.\n\nFree ≠ zero cost.\n\n👉 app.goeduabroad.com (link in bio)\n\n#StudyAbroad #IndianStudents #StudyAbroadTips #EduAbroad #Reels"
   },
   "claims": [
     {
-      "text": "Zyada public unis mein tuition nahi",
+      "text": "Most public unis charge no tuition",
       "source": "VERIFY before posting: general knowledge about German public universities; ideally link your magazine article"
     },
     {
-      "text": "Kuch jagah fees hai",
+      "text": "Some places charge fees",
       "source": "VERIFY before posting: some states/universities charge non-EU students"
     },
     {
-      "text": "Visa ke liye funds ka proof",
+      "text": "Proof of funds for the visa",
       "source": "VERIFY before posting: German student visa financial proof requirement"
     }
   ]

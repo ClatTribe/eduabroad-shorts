@@ -5,15 +5,15 @@
   "musicSeed": 1118,
   "hook": {
     "line1": [
-      "Paisa",
-      "kahan"
+      "Who",
+      "pays"
     ],
     "line2": [
-      "se",
-      "aayega?"
+      "for",
+      "it?"
     ],
-    "highlight": "aayega?",
-    "subline": "Har parent ka asli sawaal.",
+    "highlight": "it?",
+    "subline": "Every parent's real question.",
     "chips": [
       "Fees: ₹₹₹",
       "Savings: ₹",
@@ -24,15 +24,15 @@
     "beats": [
       {
         "speaker": "Senior",
-        "line": "“Scholarship sirf toppers ko milti hai”"
+        "line": "“Scholarships are only for toppers”"
       },
       {
         "speaker": "Relatives",
-        "line": "“Itna kharcha? Socho beta”"
+        "line": "“So expensive? Think again”"
       },
       {
         "speaker": "Google",
-        "line": "Deadline yahan, eligibility wahan."
+        "line": "Deadline here, eligibility there."
       }
     ],
     "googleTabs": [
@@ -44,28 +44,28 @@
       "how to apply"
     ],
     "punchline": {
-      "line1": "Info bikhri hai.",
-      "line2": "Ek jagah kahan?"
+      "line1": "Info is scattered.",
+      "line2": "Where's one place?"
     }
   },
   "reveal": {
-    "kicker": "Bikhra nahi.",
-    "headline": "Ek jagah.",
+    "kicker": "Not scattered.",
+    "headline": "One place.",
     "featurePill": "Scholarship Finder",
     "clips": [
       {
         "kind": "video",
         "src": "footage/scholarship-finder/scroll.mp4",
-        "caption": "Top universities ki scholarships.",
-        "subcaption": "Duniya bhar se, ek jagah.",
+        "caption": "Scholarships from top unis.",
+        "subcaption": "From around the world.",
         "seconds": 3.6,
         "playbackRate": 1.2
       },
       {
         "kind": "video",
         "src": "footage/scholarship-finder/detail.mp4",
-        "caption": "Country aur level se filter.",
-        "subcaption": "Profile bharo, match pao.",
+        "caption": "Filter by country and level.",
+        "subcaption": "Add your profile, get matches.",
         "seconds": 3.0,
         "playbackRate": 1.1
       }
@@ -73,22 +73,22 @@
   },
   "proof": {
     "points": [
-      "Scholarships worldwide, ek list",
-      "Profile se personal recommendations",
-      "100% private. Koi spam call nahi."
+      "Scholarships worldwide, one list",
+      "Personal picks from your profile",
+      "100% private. No spam calls."
     ]
   },
   "closing": {
-    "line1": "Paise ki tension,",
-    "line2": "plan se kam karo."
+    "line1": "Worried about money?",
+    "line2": "Make a plan."
   },
   "cta": {
-    "button": "Explore karo",
+    "button": "Explore now",
     "url": "app.goeduabroad.com/scholarship-finder"
   },
   "youtube": {
-    "title": "Abroad ka paisa kahan se aayega? Scholarships ek jagah",
-    "description": "Har parent ka asli sawaal: paisa kahan se aayega?\n\nEduAbroad ke Scholarship Finder pe top universities aur institutions ki scholarships duniya bhar se ek jagah milti hain. Country aur level se filter karo, aur profile bharo toh personal recommendations bhi milti hain.\n\n👉 https://app.goeduabroad.com/scholarship-finder\n\nEduAbroad: Run by Harvard-Cambridge Alumni. 100% private. Contact aap karoge, hum nahi.",
+    "title": "How will you pay for studying abroad? Scholarships in one place",
+    "description": "Every parent's real question: where will the money come from?\n\nEduAbroad's Scholarship Finder has scholarships from top universities and institutions worldwide in one place. Filter by country and level, and fill in your profile to get personal recommendations.\n\n👉 https://app.goeduabroad.com/scholarship-finder\n\nEduAbroad: Run by Harvard-Cambridge Alumni. 100% private. You contact us, we never contact you first.",
     "tags": [
       "study abroad",
       "scholarship",
@@ -97,23 +97,23 @@
     ]
   },
   "instagram": {
-    "caption": "Abroad ka paisa kahan se aayega? 💸\n\nScholarship Finder: top universities ki scholarships, duniya bhar se, ek jagah. Profile bharo, recommendations pao.\n\n👉 app.goeduabroad.com/scholarship-finder (link in bio)\n\n#StudyAbroad #Scholarships #IndianStudents #StudyAbroadTips #EduAbroad"
+    "caption": "How will you pay for studying abroad? 💸\n\nScholarship Finder: scholarships from top universities, from around the world, in one place. Fill in your profile and get recommendations.\n\n👉 app.goeduabroad.com/scholarship-finder (link in bio)\n\n#StudyAbroad #Scholarships #IndianStudents #StudyAbroadTips #EduAbroad"
   },
   "claims": [
     {
-      "text": "Top universities ki scholarships. / Duniya bhar se / Scholarships worldwide, ek list",
+      "text": "Scholarships from top unis. / From around the world / Scholarships worldwide, one list",
       "source": "Scholarship Finder page: 'Discover scholarships from top universities and institutions worldwide'"
     },
     {
-      "text": "Profile se personal recommendations",
+      "text": "Personal picks from your profile",
       "source": "Scholarship Finder: 'Recommended For You (Complete profile)'"
     },
     {
-      "text": "Country aur level se filter.",
+      "text": "Filter by country and level.",
       "source": "Scholarship Finder filters: All Countries, All Levels"
     },
     {
-      "text": "100% private. Koi spam call nahi.",
+      "text": "100% private. No spam calls.",
       "source": "Homepage: '100% Private. You initiate contact, not us.'"
     }
   ],

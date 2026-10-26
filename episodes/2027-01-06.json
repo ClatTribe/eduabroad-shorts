@@ -5,15 +5,15 @@
   "musicSeed": 106,
   "hook": {
     "line1": [
-      "Naya",
-      "saal,"
+      "New",
+      "year,"
     ],
     "line2": [
       "funding",
       "plan?"
     ],
     "highlight": "plan?",
-    "subline": "Scholarships abhi se dhundo.",
+    "subline": "Find scholarships now.",
     "chips": [
       "Fees: ₹₹₹",
       "Scholarship: ?",
@@ -24,15 +24,15 @@
     "beats": [
       {
         "speaker": "Senior",
-        "line": "“Admit aane do, phir dekhenge”"
+        "line": "“Let the admit come, then we'll see”"
       },
       {
         "speaker": "Relatives",
-        "line": "“Scholarship toh luck hai”"
+        "line": "“Scholarships are just luck”"
       },
       {
         "speaker": "Google",
-        "line": "Deadline kab gayi, pata nahi."
+        "line": "Missed the deadline? No idea."
       }
     ],
     "googleTabs": [
@@ -44,28 +44,28 @@
       "eligibility"
     ],
     "punchline": {
-      "line1": "Der mat karo.",
-      "line2": "List abhi banao."
+      "line1": "Don't wait.",
+      "line2": "Make the list now."
     }
   },
   "reveal": {
-    "kicker": "Luck nahi.",
-    "headline": "List banao.",
+    "kicker": "Not luck.",
+    "headline": "Make a list.",
     "featurePill": "Scholarship Finder",
     "clips": [
       {
         "kind": "video",
         "src": "footage/scholarship-finder/scroll.mp4",
-        "caption": "Top universities ki scholarships.",
-        "subcaption": "Duniya bhar se, ek jagah.",
+        "caption": "Scholarships at top universities.",
+        "subcaption": "From around the world.",
         "seconds": 3.6,
         "playbackRate": 1.2
       },
       {
         "kind": "video",
         "src": "footage/scholarship-finder/detail.mp4",
-        "caption": "Profile bharo, match pao.",
-        "subcaption": "Country aur level filters.",
+        "caption": "Fill your profile, get matches.",
+        "subcaption": "Country and level filters.",
         "seconds": 3.0,
         "playbackRate": 1.1
       }
@@ -73,22 +73,22 @@
   },
   "proof": {
     "points": [
-      "Scholarships worldwide, ek list",
-      "Profile se personal recommendations",
-      "100% private. Koi spam call nahi."
+      "Scholarships worldwide, one list",
+      "Personal picks from your profile",
+      "100% private. No spam calls."
     ]
   },
   "closing": {
     "line1": "Funding plan,",
-    "line2": "January se."
+    "line2": "from January."
   },
   "cta": {
-    "button": "Explore karo",
+    "button": "Explore now",
     "url": "app.goeduabroad.com/scholarship-finder"
   },
   "youtube": {
-    "title": "Naya saal, funding plan? Scholarships abhi se dhundo",
-    "description": "Scholarship luck nahi, planning hai. EduAbroad Scholarship Finder pe top universities aur institutions ki scholarships duniya bhar se ek jagah. Country aur level se filter karo, aur profile bharo toh personal recommendations bhi milti hain.\n\n👉 https://app.goeduabroad.com/scholarship-finder\n\nEduAbroad: Run by Harvard-Cambridge Alumni. 100% private. Contact aap karoge, hum nahi.",
+    "title": "New year, funding plan? Find scholarships now",
+    "description": "Scholarships aren't luck, they're planning. EduAbroad Scholarship Finder lists scholarships from top universities and institutions worldwide in one place. Filter by country and level, and fill in your profile to get personal recommendations.\n\n👉 https://app.goeduabroad.com/scholarship-finder\n\nEduAbroad: Run by Harvard-Cambridge Alumni. 100% private. You contact us, we never contact you first.",
     "tags": [
       "study abroad",
       "Indian students",
@@ -98,23 +98,23 @@
     ]
   },
   "instagram": {
-    "caption": "Naya saal, funding plan? 💸\n\nScholarship luck nahi, list hai. Scholarship Finder pe duniya bhar ki scholarships, ek jagah.\n\n👉 app.goeduabroad.com/scholarship-finder (link in bio)\n\n#StudyAbroad #IndianStudents #StudyAbroadTips #EduAbroad #Reels"
+    "caption": "New year, funding plan? 💸\n\nScholarships aren't luck, they're a list. Scholarships from around the world in one place on Scholarship Finder.\n\n👉 app.goeduabroad.com/scholarship-finder (link in bio)\n\n#StudyAbroad #IndianStudents #StudyAbroadTips #EduAbroad #Reels"
   },
   "claims": [
     {
-      "text": "Top universities ki scholarships. / Duniya bhar se / Scholarships worldwide, ek list",
+      "text": "Scholarships at top universities. / From around the world. / Scholarships worldwide, one list",
       "source": "Scholarship Finder page: 'Discover scholarships from top universities and institutions worldwide'"
     },
     {
-      "text": "Profile bharo, match pao. / Profile se personal recommendations",
+      "text": "Fill your profile, get matches. / Personal picks from your profile",
       "source": "Scholarship Finder: 'Recommended For You (Complete profile)'"
     },
     {
-      "text": "Country aur level filters.",
+      "text": "Country and level filters.",
       "source": "Scholarship Finder filters: All Countries, All Levels"
     },
     {
-      "text": "100% private. Koi spam call nahi.",
+      "text": "100% private. No spam calls.",
       "source": "Homepage: '100% Private. You initiate contact, not us.'"
     }
   ],

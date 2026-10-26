@@ -5,15 +5,15 @@
   "musicSeed": 1223,
   "hook": {
     "line1": [
-      "Budget",
-      "kam,"
+      "Small",
+      "budget,"
     ],
     "line2": [
-      "sapne",
-      "bade?"
+      "big",
+      "dreams?"
     ],
-    "highlight": "bade?",
-    "subline": "Dono saath chal sakte hain.",
+    "highlight": "dreams?",
+    "subline": "You can have both.",
     "chips": [
       "Budget: ₹?",
       "Country: ?",
@@ -24,15 +24,15 @@
     "beats": [
       {
         "speaker": "Senior",
-        "line": "“Mehenga hai, rehne de”"
+        "line": "“It's expensive, forget it”"
       },
       {
         "speaker": "Relatives",
-        "line": "“Loan lena padega beta”"
+        "line": "“You'll have to take a loan”"
       },
       {
         "speaker": "Google",
-        "line": "Fees har jagah alag."
+        "line": "Fees differ everywhere."
       }
     ],
     "googleTabs": [
@@ -44,28 +44,28 @@
       "MS cost"
     ],
     "punchline": {
-      "line1": "Andaaza mat lagao.",
-      "line2": "Fees dekho."
+      "line1": "Stop guessing.",
+      "line2": "Check the fees."
     }
   },
   "reveal": {
-    "kicker": "Andaaza nahi.",
-    "headline": "Fees dekho.",
+    "kicker": "No guesswork.",
+    "headline": "See the fees.",
     "featurePill": "Course Finder",
     "clips": [
       {
         "kind": "video",
         "src": "footage/course-finder/scroll.mp4",
-        "caption": "Tuition fees ek nazar mein.",
-        "subcaption": "Program ke saath.",
+        "caption": "Tuition fees at a glance.",
+        "subcaption": "Along with each program.",
         "seconds": 3.6,
         "playbackRate": 1.2
       },
       {
         "kind": "video",
         "src": "footage/course-finder/detail.mp4",
-        "caption": "Country aur intake se filter.",
-        "subcaption": "Budget wali list banao.",
+        "caption": "Filter by country, intake.",
+        "subcaption": "Build a budget list.",
         "seconds": 3.0,
         "playbackRate": 1.1
       }
@@ -73,22 +73,22 @@
   },
   "proof": {
     "points": [
-      "Worldwide programs, ek jagah",
-      "Tuition fees pehle dekho",
-      "100% private. Koi spam call nahi."
+      "Worldwide programs, one place",
+      "See tuition fees first",
+      "100% private. No spam calls."
     ]
   },
   "closing": {
-    "line1": "Sapne bade rakho,",
-    "line2": "list smart rakho."
+    "line1": "Dream big,",
+    "line2": "shortlist smart."
   },
   "cta": {
-    "button": "Explore karo",
+    "button": "Explore now",
     "url": "app.goeduabroad.com/course-finder"
   },
   "youtube": {
-    "title": "Budget kam, sapne bade? Fees dekh ke course chuno",
-    "description": "Andaaza mat lagao, fees dekho. EduAbroad Course Finder pe programs aur universities worldwide, tuition fees ke saath. Country, study level aur intake se filter karo aur budget wali shortlist banao.\n\n👉 https://app.goeduabroad.com/course-finder\n\nEduAbroad: Run by Harvard-Cambridge Alumni. 100% private. Contact aap karoge, hum nahi.",
+    "title": "Small budget, big dreams? Pick a course by its fees",
+    "description": "Don't guess, check the fees. EduAbroad Course Finder has programs and universities worldwide, with tuition fees. Filter by country, study level and intake and build a shortlist that fits your budget.\n\n👉 https://app.goeduabroad.com/course-finder\n\nEduAbroad: Run by Harvard-Cambridge Alumni. 100% private. You contact us, we never contact you first.",
     "tags": [
       "study abroad",
       "Indian students",
@@ -98,23 +98,23 @@
     ]
   },
   "instagram": {
-    "caption": "Budget kam, sapne bade? 💸\n\nAndaaza nahi, fees dekho. Course Finder pe programs worldwide, fees aur filters ke saath.\n\n👉 app.goeduabroad.com/course-finder (link in bio)\n\n#StudyAbroad #IndianStudents #StudyAbroadTips #EduAbroad #Reels"
+    "caption": "Small budget, big dreams? 💸\n\nNo guesswork, check the fees. Programs worldwide on Course Finder, with fees and filters.\n\n👉 app.goeduabroad.com/course-finder (link in bio)\n\n#StudyAbroad #IndianStudents #StudyAbroadTips #EduAbroad #Reels"
   },
   "claims": [
     {
-      "text": "Worldwide programs, ek jagah",
+      "text": "Worldwide programs, one place",
       "source": "Course Finder page: 'Explore programs and universities worldwide'"
     },
     {
-      "text": "Tuition fees ek nazar mein. / Tuition fees pehle dekho",
+      "text": "Tuition fees at a glance. / See tuition fees first",
       "source": "Course Finder shows Tuition Fees"
     },
     {
-      "text": "Country aur intake se filter.",
+      "text": "Filter by country, intake.",
       "source": "Course Finder filters: All Countries, All Study Levels, All Universities, All Intakes"
     },
     {
-      "text": "100% private. Koi spam call nahi.",
+      "text": "100% private. No spam calls.",
       "source": "Homepage: '100% Private. You initiate contact, not us.'"
     }
   ],
