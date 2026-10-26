@@ -8,14 +8,14 @@
       "format": "myth",
       "series": "Myth vs Fact",
       "kind": "single",
-      "topic": "\"Late 20s mein padhne ka time nikal gaya\"",
+      "topic": "\"It's too late to study in your late 20s\"",
       "post": "posts/2027-01-01.json"
     },
     {
       "date": "2027-01-02",
       "day": "Sat",
       "format": "word",
-      "series": "IELTS Shabd",
+      "series": "IELTS Word",
       "kind": "single",
       "topic": "Sustainable (Eco-friendly, Green, Lasting)",
       "post": "posts/2027-01-02.json"
@@ -26,16 +26,16 @@
       "format": "parents",
       "series": "Parents' Corner",
       "kind": "carousel",
-      "topic": "\"Wahan naukri milegi?\"",
+      "topic": "\"Will I get a job there?\"",
       "post": "posts/2027-01-03.json"
     },
     {
       "date": "2027-01-04",
       "day": "Mon",
       "format": "checklist",
-      "series": "Seedhi Baat Checklist",
+      "series": "Straight Talk Checklist",
       "kind": "carousel",
-      "topic": "Mock test dena hai? Aise do, fayda hoga.",
+      "topic": "Taking a mock test? Do it this way.",
       "post": "posts/2027-01-04.json"
     },
     {
@@ -56,7 +56,7 @@
       "format": "feature",
       "series": "Portal Feature",
       "kind": "carousel",
-      "topic": "Scholarship Finder: Naye saal ka funding plan.",
+      "topic": "Scholarship Finder: New year, new funding plan.",
       "post": "posts/2027-01-06.json",
       "capture": "scholarship-finder"
     },
@@ -66,7 +66,7 @@
       "format": "versus",
       "series": "This vs That",
       "kind": "single",
-      "topic": "Chhota vs Lamba course",
+      "topic": "Short vs Long course",
       "post": "posts/2027-01-07.json"
     },
     {
@@ -75,14 +75,14 @@
       "format": "myth",
       "series": "Myth vs Fact",
       "kind": "single",
-      "topic": "\"Achhi IELTS taiyari ke liye paisa lagta hai\"",
+      "topic": "\"Good IELTS prep costs a lot of money\"",
       "post": "posts/2027-01-08.json"
     },
     {
       "date": "2027-01-09",
       "day": "Sat",
       "format": "word",
-      "series": "IELTS Shabd",
+      "series": "IELTS Word",
       "kind": "single",
       "topic": "Transform (Change, Alter, Revolutionize)",
       "post": "posts/2027-01-09.json"
@@ -93,16 +93,16 @@
       "format": "parents",
       "series": "Parents' Corner",
       "kind": "carousel",
-      "topic": "\"Hum milne kab aayenge?\"",
+      "topic": "\"When can we come to visit?\"",
       "post": "posts/2027-01-10.json"
     },
     {
       "date": "2027-01-11",
       "day": "Mon",
       "format": "checklist",
-      "series": "Seedhi Baat Checklist",
+      "series": "Straight Talk Checklist",
       "kind": "carousel",
-      "topic": "Seniors se baat? Ye 5 tips kaam aayenge.",
+      "topic": "Talking to seniors? These 5 tips will help.",
       "post": "posts/2027-01-11.json"
     },
     {
@@ -123,7 +123,7 @@
       "format": "feature",
       "series": "Portal Feature",
       "kind": "carousel",
-      "topic": "Admit Finder: Mere jaise kaun gaya?",
+      "topic": "Admit Finder: Who like me got in?",
       "post": "posts/2027-01-13.json"
     },
     {
@@ -141,14 +141,14 @@
       "format": "myth",
       "series": "Myth vs Fact",
       "kind": "single",
-      "topic": "\"Mere jaise profile ko admit nahi milega\"",
+      "topic": "\"A profile like mine won't get an admit\"",
       "post": "posts/2027-01-15.json"
     },
     {
       "date": "2027-01-16",
       "day": "Sat",
       "format": "word",
-      "series": "IELTS Shabd",
+      "series": "IELTS Word",
       "kind": "single",
       "topic": "Widespread (Common, Prevalent, Extensive)",
       "post": "posts/2027-01-16.json"
@@ -159,16 +159,16 @@
       "format": "parents",
       "series": "Parents' Corner",
       "kind": "carousel",
-      "topic": "\"Paise bhejna mushkil toh nahi?\"",
+      "topic": "\"Will sending money be hard?\"",
       "post": "posts/2027-01-17.json"
     },
     {
       "date": "2027-01-18",
       "day": "Mon",
       "format": "checklist",
-      "series": "Seedhi Baat Checklist",
+      "series": "Straight Talk Checklist",
       "kind": "carousel",
-      "topic": "Deadlines bhool jaate ho? Tracker banao.",
+      "topic": "Forgetting deadlines? Make a tracker.",
       "post": "posts/2027-01-18.json"
     },
     {
@@ -208,14 +208,14 @@
       "format": "myth",
       "series": "Myth vs Fact",
       "kind": "single",
-      "topic": "\"Mehengi university matlab behtar padhai\"",
+      "topic": "\"An expensive university means better teaching\"",
       "post": "posts/2027-01-22.json"
     },
     {
       "date": "2027-01-23",
       "day": "Sat",
       "format": "word",
-      "series": "IELTS Shabd",
+      "series": "IELTS Word",
       "kind": "single",
       "topic": "Enhance (Improve, Boost, Increase)",
       "post": "posts/2027-01-23.json"
@@ -226,16 +226,16 @@
       "format": "parents",
       "series": "Parents' Corner",
       "kind": "carousel",
-      "topic": "\"Itna sab akele kaise karoge?\"",
+      "topic": "\"How will you manage it all alone?\"",
       "post": "posts/2027-01-24.json"
     },
     {
       "date": "2027-01-25",
       "day": "Mon",
       "format": "checklist",
-      "series": "Seedhi Baat Checklist",
+      "series": "Straight Talk Checklist",
       "kind": "carousel",
-      "topic": "Jaane se pehle Health ki 5 tayyari.",
+      "topic": "Before you fly: 5 health checks.",
       "post": "posts/2027-01-25.json"
     },
     {
@@ -256,7 +256,7 @@
       "format": "feature",
       "series": "Portal Feature",
       "kind": "carousel",
-      "topic": "IELTS Test Kit: Roz thodi practice.",
+      "topic": "IELTS Test Kit: A little practice daily.",
       "post": "posts/2027-01-27.json"
     },
     {
@@ -274,14 +274,14 @@
       "format": "myth",
       "series": "Myth vs Fact",
       "kind": "single",
-      "topic": "\"Rolling admission hai toh koi jaldi nahi\"",
+      "topic": "\"Rolling admission means no rush\"",
       "post": "posts/2027-01-29.json"
     },
     {
       "date": "2027-01-30",
       "day": "Sat",
       "format": "word",
-      "series": "IELTS Shabd",
+      "series": "IELTS Word",
       "kind": "single",
       "topic": "Mitigate (Reduce, Lessen, Alleviate)",
       "post": "posts/2027-01-30.json"
@@ -292,7 +292,7 @@
       "format": "parents",
       "series": "Parents' Corner",
       "kind": "carousel",
-      "topic": "\"Yahan bhi achhe college hain, wahan kyun?\"",
+      "topic": "\"Good colleges are here too, why go there?\"",
       "post": "posts/2027-01-31.json"
     }
   ]

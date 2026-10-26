@@ -35,14 +35,14 @@
       "format": "myth",
       "series": "Myth vs Fact",
       "kind": "single",
-      "topic": "\"GRE har Masters ke liye zaroori hai\"",
+      "topic": "\"GRE is required for every Masters\"",
       "post": "posts/2026-12-04.json"
     },
     {
       "date": "2026-12-05",
       "day": "Sat",
       "format": "word",
-      "series": "IELTS Shabd",
+      "series": "IELTS Word",
       "kind": "single",
       "topic": "Flexible (Adaptable, Versatile, Adjustable)",
       "post": "posts/2026-12-05.json"
@@ -53,16 +53,16 @@
       "format": "parents",
       "series": "Parents' Corner",
       "kind": "carousel",
-      "topic": "\"Wahan beemar pade toh?\"",
+      "topic": "\"What if you fall sick there?\"",
       "post": "posts/2026-12-06.json"
     },
     {
       "date": "2026-12-07",
       "day": "Mon",
       "format": "checklist",
-      "series": "Seedhi Baat Checklist",
+      "series": "Straight Talk Checklist",
       "kind": "carousel",
-      "topic": "Do offers aa gaye? Aise compare karo.",
+      "topic": "Got two offers? Compare them like this.",
       "post": "posts/2026-12-07.json"
     },
     {
@@ -98,14 +98,14 @@
       "format": "myth",
       "series": "Myth vs Fact",
       "kind": "single",
-      "topic": "\"Ghar wahan jaake dhoondh lenge\"",
+      "topic": "\"We'll find a house after we land\"",
       "post": "posts/2026-12-11.json"
     },
     {
       "date": "2026-12-12",
       "day": "Sat",
       "format": "word",
-      "series": "IELTS Shabd",
+      "series": "IELTS Word",
       "kind": "single",
       "topic": "Persuade (Convince, Influence, Sway)",
       "post": "posts/2026-12-12.json"
@@ -116,16 +116,16 @@
       "format": "parents",
       "series": "Parents' Corner",
       "kind": "carousel",
-      "topic": "\"Itni door padhai pe focus karoge?\"",
+      "topic": "\"Will you focus on studies so far away?\"",
       "post": "posts/2026-12-13.json"
     },
     {
       "date": "2026-12-14",
       "day": "Mon",
       "format": "checklist",
-      "series": "Seedhi Baat Checklist",
+      "series": "Straight Talk Checklist",
       "kind": "carousel",
-      "topic": "University ko email? Ye 5 rules yaad rakho.",
+      "topic": "Emailing a university? Remember these 5 rules.",
       "post": "posts/2026-12-14.json"
     },
     {
@@ -143,7 +143,7 @@
       "format": "feature",
       "series": "Portal Feature",
       "kind": "carousel",
-      "topic": "Admit Finder: Kaun accept, kaun reject?",
+      "topic": "Admit Finder: Who got in, who didn't?",
       "post": "posts/2026-12-16.json"
     },
     {
@@ -161,14 +161,14 @@
       "format": "myth",
       "series": "Myth vs Fact",
       "kind": "single",
-      "topic": "\"SOP ka template copy karo, chalega\"",
+      "topic": "\"Copy an SOP template, it works\"",
       "post": "posts/2026-12-18.json"
     },
     {
       "date": "2026-12-19",
       "day": "Sat",
       "format": "word",
-      "series": "IELTS Shabd",
+      "series": "IELTS Word",
       "kind": "single",
       "topic": "Resilient (Strong, Tough, Durable)",
       "post": "posts/2026-12-19.json"
@@ -179,16 +179,16 @@
       "format": "parents",
       "series": "Parents' Corner",
       "kind": "carousel",
-      "topic": "\"Wahan ke log kaise honge?\"",
+      "topic": "\"What will the people there be like?\"",
       "post": "posts/2026-12-20.json"
     },
     {
       "date": "2026-12-21",
       "day": "Mon",
       "format": "checklist",
-      "series": "Seedhi Baat Checklist",
+      "series": "Straight Talk Checklist",
       "kind": "carousel",
-      "topic": "Shortlist banana hai? 5 steps, simple.",
+      "topic": "Making a shortlist? 5 simple steps.",
       "post": "posts/2026-12-21.json"
     },
     {
@@ -206,7 +206,7 @@
       "format": "feature",
       "series": "Portal Feature",
       "kind": "carousel",
-      "topic": "Course Finder: Budget kam, sapne bade.",
+      "topic": "Course Finder: Small budget, big dreams.",
       "post": "posts/2026-12-23.json",
       "capture": "course-finder"
     },
@@ -216,7 +216,7 @@
       "format": "versus",
       "series": "This vs That",
       "kind": "single",
-      "topic": "Job pehle vs Seedha",
+      "topic": "Job first vs Straight in",
       "post": "posts/2026-12-24.json"
     },
     {
@@ -225,14 +225,14 @@
       "format": "myth",
       "series": "Myth vs Fact",
       "kind": "single",
-      "topic": "\"Foreign degree mili toh job pakki\"",
+      "topic": "\"A foreign degree means a sure job\"",
       "post": "posts/2026-12-25.json"
     },
     {
       "date": "2026-12-26",
       "day": "Sat",
       "format": "word",
-      "series": "IELTS Shabd",
+      "series": "IELTS Word",
       "kind": "single",
       "topic": "Significant (Important, Notable, Considerable)",
       "post": "posts/2026-12-26.json"
@@ -243,16 +243,16 @@
       "format": "parents",
       "series": "Parents' Corner",
       "kind": "carousel",
-      "topic": "\"College achha hai, kaise pata chalega?\"",
+      "topic": "\"How do we know the college is good?\"",
       "post": "posts/2026-12-27.json"
     },
     {
       "date": "2026-12-28",
       "day": "Mon",
       "format": "checklist",
-      "series": "Seedhi Baat Checklist",
+      "series": "Straight Talk Checklist",
       "kind": "carousel",
-      "topic": "LOR chahiye? Aise maango.",
+      "topic": "Need an LOR? Ask for it like this.",
       "post": "posts/2026-12-28.json"
     },
     {
@@ -270,7 +270,7 @@
       "format": "feature",
       "series": "Portal Feature",
       "kind": "carousel",
-      "topic": "Fly & Settle: Pehla din abroad, aasaan.",
+      "topic": "Fly & Settle: Your first day abroad, easier.",
       "post": "posts/2026-12-30.json"
     },
     {
@@ -279,7 +279,7 @@
       "format": "versus",
       "series": "This vs That",
       "kind": "single",
-      "topic": "Flatmates vs Akele",
+      "topic": "Flatmates vs Alone",
       "post": "posts/2026-12-31.json"
     }
   ]

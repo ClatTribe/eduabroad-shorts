@@ -7,7 +7,7 @@
       "day": "Fri",
       "series": "myth-fact",
       "template": "mythfact",
-      "topic": "New year myths: 'abhi bahut time hai', 'deadline baad mein dekhenge', 'ek hi test kaafi'",
+      "topic": "New year myths: 'there's lots of time', 'deadlines can wait', 'one test is enough'",
       "episode": "episodes/2027-01-01.json"
     },
     {
@@ -15,7 +15,7 @@
       "day": "Mon",
       "series": "seedhi-baat",
       "template": "tips",
-      "topic": "Accommodation: on-campus vs off-campus, kya poochna hai",
+      "topic": "Accommodation: on-campus vs off-campus, what to ask",
       "episode": "episodes/2027-01-04.json"
     },
     {
@@ -23,7 +23,7 @@
       "day": "Wed",
       "series": "portal",
       "template": "feature",
-      "topic": "Scholarship Finder: naye saal mein funding plan",
+      "topic": "Scholarship Finder: a funding plan for the new year",
       "episode": "episodes/2027-01-06.json",
       "feature": "scholarship-finder"
     },
@@ -32,7 +32,7 @@
       "day": "Fri",
       "series": "myth-fact",
       "template": "mythfact",
-      "topic": "Average student ke liye scholarship nahi? + sirf merit + late apply",
+      "topic": "No scholarships for average students? + only merit + applying late",
       "episode": "episodes/2027-01-08.json"
     },
     {
@@ -40,7 +40,7 @@
       "day": "Mon",
       "series": "seedhi-baat",
       "template": "tips",
-      "topic": "Pehle hafte abroad: SIM, bank, ID, groceries, seniors se milo",
+      "topic": "First week abroad: SIM, bank, ID, groceries, meet seniors",
       "episode": "episodes/2027-01-11.json"
     },
     {
@@ -48,7 +48,7 @@
       "day": "Wed",
       "series": "portal",
       "template": "feature",
-      "topic": "Admit Finder: kaun accept, kaun reject, aur kyun",
+      "topic": "Admit Finder: who gets in, who doesn't, and why",
       "episode": "episodes/2027-01-13.json",
       "feature": "admit-finder"
     },
@@ -57,7 +57,7 @@
       "day": "Fri",
       "series": "myth-fact",
       "template": "mythfact",
-      "topic": "Sirf USA, UK, Canada hi options? (no claims about specific countries' rules)",
+      "topic": "Are USA, UK, Canada the only options? (no claims about specific countries' rules)",
       "episode": "episodes/2027-01-15.json"
     },
     {
@@ -65,7 +65,7 @@
       "day": "Mon",
       "series": "seedhi-baat",
       "template": "tips",
-      "topic": "Interview call aaya? University interview ke 4 tips",
+      "topic": "Got an interview call? 4 tips for university interviews",
       "episode": "episodes/2027-01-18.json"
     },
     {
@@ -82,7 +82,7 @@
       "day": "Fri",
       "series": "myth-fact",
       "template": "mythfact",
-      "topic": "Homesickness myths: 'strong log nahi rote', 'call se sab theek', 'akele handle karo'",
+      "topic": "Homesickness myths: 'strong people don't cry', 'a call fixes everything', 'handle it alone'",
       "episode": "episodes/2027-01-22.json"
     },
     {
@@ -90,7 +90,7 @@
       "day": "Mon",
       "series": "seedhi-baat",
       "template": "tips",
-      "topic": "Offer letter aaya, ab kya? Deposit, visa, loan, housing ka order",
+      "topic": "Got an offer letter, what now? Deposit, visa, loan, housing, in order",
       "episode": "episodes/2027-01-25.json"
     },
     {
@@ -98,7 +98,7 @@
       "day": "Wed",
       "series": "portal",
       "template": "feature",
-      "topic": "IELTS Online Test Kit: flashcards aur sample tasks se daily practice",
+      "topic": "IELTS Online Test Kit: daily practice with flashcards and sample tasks",
       "episode": "episodes/2027-01-27.json",
       "feature": "ielts-kit"
     },
@@ -107,7 +107,7 @@
       "day": "Fri",
       "series": "myth-fact",
       "template": "mythfact",
-      "topic": "IELTS ke bina admit nahi? (only say: requirements course pe depend karte hain, university site check karo)",
+      "topic": "No admit without IELTS? (only say: requirements depend on the course, check the university site)",
       "episode": "episodes/2027-01-29.json"
     }
   ]

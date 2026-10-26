@@ -7,7 +7,7 @@
       "day": "Mon",
       "series": "seedhi-baat",
       "template": "tips",
-      "topic": "Next year abroad? 4 cheezein abhi shuru karo (shortlist, test, SOP, LOR)",
+      "topic": "Abroad next year? Start 4 things now (shortlist, test, SOP, LOR)",
       "episode": "episodes/2026-11-02.json"
     },
     {
@@ -15,7 +15,7 @@
       "day": "Wed",
       "series": "portal",
       "template": "feature",
-      "topic": "Admit Finder: Mera profile kaafi hai kya? (Version 1)",
+      "topic": "Admit Finder: Is my profile good enough? (Version 1)",
       "episode": "episodes/2026-11-04.json",
       "feature": "admit-finder"
     },
@@ -24,7 +24,7 @@
       "day": "Fri",
       "series": "myth-fact",
       "template": "mythfact",
-      "topic": "IELTS 8+ = admit pakka? + low GPA + zyada applications",
+      "topic": "IELTS 8+ = sure admit? + low GPA + more applications",
       "episode": "episodes/2026-11-06.json"
     },
     {
@@ -32,7 +32,7 @@
       "day": "Mon",
       "series": "seedhi-baat",
       "template": "tips",
-      "topic": "Mummy Papa ke 4 sawaal: kharcha, safety, funding, padhai ke baad",
+      "topic": "Parents' 4 questions: cost, safety, funding, after the degree",
       "episode": "episodes/2026-11-09.json"
     },
     {
@@ -40,7 +40,7 @@
       "day": "Wed",
       "series": "portal",
       "template": "feature",
-      "topic": "Course Finder: lists nahi, fit dekho",
+      "topic": "Course Finder: not lists, find your fit",
       "episode": "episodes/2026-11-11.json",
       "feature": "course-finder"
     },
@@ -49,7 +49,7 @@
       "day": "Fri",
       "series": "myth-fact",
       "template": "mythfact",
-      "topic": "Abroad sirf toppers ke liye? + mehenga + perfect English",
+      "topic": "Studying abroad only for toppers? + expensive + perfect English",
       "episode": "episodes/2026-11-13.json"
     },
     {
@@ -57,7 +57,7 @@
       "day": "Mon",
       "series": "seedhi-baat",
       "template": "tips",
-      "topic": "SOP ki 4 galtiyan",
+      "topic": "4 SOP mistakes",
       "episode": "episodes/2026-11-16.json"
     },
     {
@@ -65,7 +65,7 @@
       "day": "Wed",
       "series": "portal",
       "template": "feature",
-      "topic": "Scholarship Finder: paisa kahan se aayega?",
+      "topic": "Scholarship Finder: who pays for it?",
       "episode": "episodes/2026-11-18.json",
       "feature": "scholarship-finder"
     },
@@ -74,7 +74,7 @@
       "day": "Fri",
       "series": "myth-fact",
       "template": "mythfact",
-      "topic": "LOR ke 3 myths",
+      "topic": "3 LOR myths",
       "episode": "episodes/2026-11-20.json"
     },
     {
@@ -82,7 +82,7 @@
       "day": "Mon",
       "series": "seedhi-baat",
       "template": "tips",
-      "topic": "Education loan: collateral vs non-collateral (VERIFY wording)",
+      "topic": "Education loans: collateral vs non-collateral (VERIFY wording)",
       "episode": "episodes/2026-11-23.json"
     },
     {
@@ -99,7 +99,7 @@
       "day": "Fri",
       "series": "myth-fact",
       "template": "mythfact",
-      "topic": "Shortlist myths: sirf dream uni, ranking, dost ki list",
+      "topic": "Shortlist myths: only dream unis, ranking, a friend's list",
       "episode": "episodes/2026-11-27.json"
     },
     {
@@ -107,7 +107,7 @@
       "day": "Mon",
       "series": "seedhi-baat",
       "template": "tips",
-      "topic": "Germany mein free padhai? Poora sach (VERIFY facts)",
+      "topic": "Free study in Germany? The full truth (VERIFY facts)",
       "episode": "episodes/2026-11-30.json"
     }
   ]

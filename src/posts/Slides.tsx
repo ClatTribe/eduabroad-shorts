@@ -552,7 +552,7 @@ const Versus: React.FC<{ c: Extract<PostContent, { type: "versus" }> }> = ({ c }
         color: theme.color.ink,
       }}
     >
-      <b style={{ color: theme.color.crimson }}>Seedhi baat: </b>
+      <b style={{ color: theme.color.crimson }}>Bottom line: </b>
       {c.bottomLine}
     </div>
   </Area>
@@ -762,12 +762,12 @@ const Parents: React.FC<{ c: Extract<PostContent, { type: "parents" }>; i: numbe
             color: theme.color.crimson,
           }}
         >
-          {c.answers.length} seedhe jawab →
+          {c.answers.length} straight answers →
         </div>
       </Area>
     );
   if (i === last)
-    return <ClosingSlide icon={<Share />} line1="Mummy Papa ko" line2={c.closing} sub="Ek share, aadhi tension kam." />;
+    return <ClosingSlide icon={<Share />} line1="Parents worried?" line2={c.closing} sub="One share, half the worry." />;
   return <StepSlide step={c.answers[i - 1]} n={i} />;
 };
 

@@ -44,16 +44,16 @@
       "format": "versus",
       "series": "This vs That",
       "kind": "single",
-      "topic": "Ek country vs kai countries",
+      "topic": "One country vs many countries",
       "post": "posts/2026-10-27.json"
     },
     {
       "date": "2026-10-28",
       "day": "Wed",
       "format": "checklist",
-      "series": "Seedhi Baat Checklist",
+      "series": "Straight Talk Checklist",
       "kind": "carousel",
-      "topic": "Online interview hai? Ye 5 tayyari karo.",
+      "topic": "Online interview? Prepare these 5 things.",
       "post": "posts/2026-10-28.json"
     },
     {
@@ -62,7 +62,7 @@
       "format": "versus",
       "series": "This vs That",
       "kind": "single",
-      "topic": "IELTS Speaking: Translate vs seedha English",
+      "topic": "IELTS Speaking: Translate vs think in English",
       "post": "posts/2026-10-29.json"
     },
     {
@@ -71,14 +71,14 @@
       "format": "myth",
       "series": "Myth vs Fact",
       "kind": "single",
-      "topic": "\"Bas marks achhe hone chahiye\"",
+      "topic": "\"Only good marks matter\"",
       "post": "posts/2026-10-30.json"
     },
     {
       "date": "2026-10-31",
       "day": "Sat",
       "format": "word",
-      "series": "IELTS Shabd",
+      "series": "IELTS Word",
       "kind": "single",
       "topic": "Challenging (Difficult, Tough, Demanding)",
       "post": "posts/2026-10-31.json"
@@ -89,7 +89,7 @@
       "format": "parents",
       "series": "Parents' Corner",
       "kind": "carousel",
-      "topic": "\"Visa reject ho gaya toh?\"",
+      "topic": "\"What if the visa is refused?\"",
       "post": "posts/2026-11-01.json"
     }
   ]

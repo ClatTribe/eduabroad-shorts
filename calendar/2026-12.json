@@ -16,7 +16,7 @@
       "day": "Fri",
       "series": "myth-fact",
       "template": "mythfact",
-      "topic": "Visa interview myths: perfect English, rattna, sirf documents",
+      "topic": "Visa interview myths: perfect English, memorising answers, only documents matter",
       "episode": "episodes/2026-12-04.json"
     },
     {
@@ -24,7 +24,7 @@
       "day": "Mon",
       "series": "seedhi-baat",
       "template": "tips",
-      "topic": "Visa interview ki tayyari: 4 cheezein (apna course samjho, funding clear, honest raho, documents order mein)",
+      "topic": "Visa interview prep: 4 things (know your course, clear funding, be honest, documents in order)",
       "episode": "episodes/2026-12-07.json"
     },
     {
@@ -32,7 +32,7 @@
       "day": "Wed",
       "series": "portal",
       "template": "feature",
-      "topic": "Fly & Settle: loan, visa, forex, insurance ek jagah",
+      "topic": "Fly & Settle: loan, visa, forex, insurance in one place",
       "episode": "episodes/2026-12-09.json",
       "feature": "fly-settle"
     },
@@ -41,7 +41,7 @@
       "day": "Fri",
       "series": "myth-fact",
       "template": "mythfact",
-      "topic": "Course myths: sirf CS ka scope? + bada city zaroori? + naam se course chunna",
+      "topic": "Course myths: only CS has scope? + must be a big city? + picking a course by its name",
       "episode": "episodes/2026-12-11.json"
     },
     {
@@ -49,7 +49,7 @@
       "day": "Mon",
       "series": "seedhi-baat",
       "template": "tips",
-      "topic": "Packing list: documents, dawai, adapters, pehle mahine ka budget",
+      "topic": "Packing list: documents, medicines, adapters, first month's budget",
       "episode": "episodes/2026-12-14.json"
     },
     {
@@ -57,7 +57,7 @@
       "day": "Wed",
       "series": "portal",
       "template": "feature",
-      "topic": "Admit Finder: mere jaise kaun gaya? (course + intake filter)",
+      "topic": "Admit Finder: who with my profile got in? (course + intake filter)",
       "episode": "episodes/2026-12-16.json",
       "feature": "admit-finder"
     },
@@ -66,7 +66,7 @@
       "day": "Fri",
       "series": "myth-fact",
       "template": "mythfact",
-      "topic": "Abroad jaake part-time job turant mil jaati hai? (no country rules, general)",
+      "topic": "Do you get a part-time job abroad right away? (no country rules, general)",
       "episode": "episodes/2026-12-18.json"
     },
     {
@@ -74,7 +74,7 @@
       "day": "Mon",
       "series": "seedhi-baat",
       "template": "tips",
-      "topic": "Budget sheet kaise banayein: tuition, rent, khaana, travel, buffer",
+      "topic": "How to make a budget sheet: tuition, rent, food, travel, buffer",
       "episode": "episodes/2026-12-21.json"
     },
     {
@@ -82,7 +82,7 @@
       "day": "Wed",
       "series": "portal",
       "template": "feature",
-      "topic": "Course Finder: budget kam, sapne bade (fees first)",
+      "topic": "Course Finder: small budget, big dreams (fees first)",
       "episode": "episodes/2026-12-23.json",
       "feature": "course-finder"
     },
@@ -91,7 +91,7 @@
       "day": "Fri",
       "series": "myth-fact",
       "template": "mythfact",
-      "topic": "Loan lena galat hai? + EMI ka darr + sirf scholarship se jaana",
+      "topic": "Is taking a loan wrong? + fear of EMIs + going only on a scholarship",
       "episode": "episodes/2026-12-25.json"
     },
     {
@@ -99,7 +99,7 @@
       "day": "Mon",
       "series": "seedhi-baat",
       "template": "tips",
-      "topic": "Naye saal ka study abroad plan: Jan se June tak",
+      "topic": "New year study abroad plan: January to June",
       "episode": "episodes/2026-12-28.json"
     },
     {
@@ -107,7 +107,7 @@
       "day": "Wed",
       "series": "portal",
       "template": "feature",
-      "topic": "Fly & Settle: pehla din abroad (accommodation, pick-up, job)",
+      "topic": "Fly & Settle: first day abroad (accommodation, pick-up, job)",
       "episode": "episodes/2026-12-30.json",
       "feature": "fly-settle"
     }
