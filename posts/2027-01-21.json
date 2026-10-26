@@ -2,33 +2,33 @@
   "date": "2027-01-21",
   "content": {
     "type": "versus",
-    "title": "Shortlist mein kya?",
+    "title": "On your shortlist?",
     "highlight": "Dream vs Safe",
     "left": "Dream",
     "right": "Safe",
     "rows": [
       {
         "label": "Chance",
-        "left": "Kam, par mumkin",
-        "right": "Zyada"
+        "left": "Lower, but possible",
+        "right": "Higher"
       },
       {
-        "label": "Kyun rakho",
-        "left": "Baad mein pachhtaawa na ho",
-        "right": "Haath mein ek admit rahe"
+        "label": "Why keep it",
+        "left": "So you have no regrets later",
+        "right": "So you hold at least one admit"
       },
       {
-        "label": "Galti",
-        "left": "Sirf dream mein apply",
-        "right": "Sirf safe pe ruk jaana"
+        "label": "Mistake",
+        "left": "Applying only to dreams",
+        "right": "Stopping at safe ones"
       }
     ],
-    "bottomLine": "Dono rakho, saath mein target bhi. Apne jaise profiles Admit Finder pe dekh ke decide karo."
+    "bottomLine": "Keep both, plus some targets. Look at profiles like yours on Admit Finder, then decide."
   },
-  "caption": "Dream university ya safe option? Shortlist mein dono ki jagah hai.\n\nAapki list mein kitni dream universities hain? Comment karo 👇\n\n👉 app.goeduabroad.com\n\n#StudyAbroad #IndianStudents #StudyAbroadTips #EduAbroad #StudyAbroadTips",
+  "caption": "Dream university or safe option? Your shortlist has room for both.\n\nHow many dream universities are on your list? Comment below 👇\n\n👉 app.goeduabroad.com\n\n#StudyAbroad #IndianStudents #StudyAbroadTips #EduAbroad #Shortlisting",
   "claims": [
     {
-      "text": "Admit Finder pe real profiles, accepted bhi aur rejected bhi",
+      "text": "Admit Finder has real profiles, both accepted and rejected",
       "source": "Admit Finder cards show Accepted and Rejected results"
     }
   ]

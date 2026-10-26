@@ -2,24 +2,24 @@
   "date": "2027-01-24",
   "content": {
     "type": "parents",
-    "label": "Har mummy papa ka sawaal",
-    "question": "Itna sab akele kaise karoge?",
+    "label": "Every parent's question",
+    "question": "How will you manage it all alone?",
     "answers": [
       {
-        "title": "Checklist se chalo",
-        "detail": "Har kaam ek list mein. Ek ek karke tick karo, sab manageable lagta hai."
+        "title": "Go by a checklist",
+        "detail": "Put every task on one list. Tick them off one by one and it all feels manageable."
       },
       {
-        "title": "University se poocho",
-        "detail": "International student office se madad maangne mein jhijhak mat karo."
+        "title": "Ask the university",
+        "detail": "Don't hesitate to ask the international student office for help."
       },
       {
-        "title": "Seniors ka network",
-        "detail": "Jo pehle gaye hain, unka experience sabse kaam ka hai. Abhi se baat shuru karo."
+        "title": "A network of seniors",
+        "detail": "Those who went before you have the most useful experience. Start talking to them now."
       }
     ],
-    "closing": "ye post bhejo."
+    "closing": "send them this."
   },
-  "caption": "\"Itna sab akele kaise karoge?\" 💛\n\nPehli baar sab kuch akele, ye darr samajh mein aata hai. 3 seedhe jawab jo tension kam karenge.\n\nMummy Papa ko ye post bhejo 👇\n\n👉 app.goeduabroad.com\n\n#StudyAbroad #IndianParents #StudyAbroadTips #EduAbroad",
+  "caption": "\"How will you manage it all alone?\" 💛\n\nDoing everything alone for the first time is a fear anyone can understand. 3 simple answers to ease the worry.\n\nSend this post to Mom and Dad 👇\n\n👉 app.goeduabroad.com\n\n#StudyAbroad #IndianParents #StudyAbroadTips #EduAbroad",
   "claims": []
 }

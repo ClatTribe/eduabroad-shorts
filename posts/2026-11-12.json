@@ -2,29 +2,29 @@
   "date": "2026-11-12",
   "content": {
     "type": "versus",
-    "title": "Kab jaana hai?",
+    "title": "When to go?",
     "highlight": "Fall vs Spring",
     "left": "Fall",
     "right": "Spring",
     "rows": [
       {
         "label": "Courses",
-        "left": "Aksar zyada options",
-        "right": "Kuch courses mein hi"
+        "left": "Often more options",
+        "right": "Only some courses"
       },
       {
-        "label": "Taiyari",
-        "left": "Plan jaldi shuru karna hoga",
-        "right": "Thoda extra time milta hai"
+        "label": "Prep",
+        "left": "Start planning early",
+        "right": "A little extra time"
       },
       {
         "label": "Batch",
-        "left": "Aksar bada batch",
-        "right": "Aksar chhota batch"
+        "left": "Often a bigger batch",
+        "right": "Often a smaller batch"
       }
     ],
-    "bottomLine": "Intake se zyada zaroori hai ki taiyari poori ho. Course page pe dono intakes check karo."
+    "bottomLine": "Being fully prepared matters more than the intake. Check both intakes on the course page."
   },
-  "caption": "Fall ya Spring? Dono mein fayde hain. Intake se pehle apni taiyari dekho.\n\nAap kab ja rahe ho? Comment karo 👇\n\n👉 app.goeduabroad.com\n\n#StudyAbroad #IndianStudents #StudyAbroadTips #EduAbroad #StudyAbroadTips",
+  "caption": "Fall or Spring? Both have benefits. Check your preparation before the intake.\n\nWhen are you going? Comment below 👇\n\n👉 app.goeduabroad.com\n\n#StudyAbroad #IndianStudents #StudyAbroadTips #EduAbroad",
   "claims": []
 }

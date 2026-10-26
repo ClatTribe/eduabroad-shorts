@@ -2,43 +2,43 @@
   "date": "2027-01-04",
   "content": {
     "type": "checklist",
-    "title": "Mock test dena hai?",
-    "highlight": "Aise do, fayda hoga.",
-    "subtitle": "Mock sirf score dekhne ke liye nahi, galtiyan pakadne ke liye hai.",
+    "title": "Taking a mock test?",
+    "highlight": "Do it this way.",
+    "subtitle": "A mock is not just for a score. It's for catching your mistakes.",
     "steps": [
       {
-        "title": "Asli test jaisa mahaul",
-        "detail": "Timer lagao, phone door rakho, ek baar mein poora test. Beech mein break nahi."
+        "title": "Real test conditions",
+        "detail": "Set a timer, keep your phone away, do the full test in one go. No breaks in between."
       },
       {
-        "title": "Galtiyan likho",
-        "detail": "Har galat answer ke saamne likho kyun galat hua. Time, vocab ya samajh."
+        "title": "Note your mistakes",
+        "detail": "Next to each wrong answer, write why it went wrong: time, vocab or understanding."
       },
       {
-        "title": "Pattern dhoondo",
-        "detail": "Ek hi type ki galti baar baar? Asli kaam wahi hai.",
-        "tip": "IELTS kit ka Failure Patterns tab isi ke liye hai."
+        "title": "Find the pattern",
+        "detail": "Making the same kind of mistake again and again? That's the real work.",
+        "tip": "The IELTS kit's Failure Patterns tab is made for this."
       },
       {
-        "title": "Weak section pe focus",
-        "detail": "Sab kuch dobara mat padho. Jahan marks ja rahe hain, wahan time do."
+        "title": "Focus on weak sections",
+        "detail": "Don't study everything again. Spend time where you're losing marks."
       },
       {
-        "title": "Phir se mock",
-        "detail": "Kuch din practice ke baad agla mock. Farak khud dikhega.",
-        "tip": "IELTS kit mein free full mock hai, sign up karke."
+        "title": "Take another mock",
+        "detail": "After a few days of practice, take the next mock. You'll see the difference.",
+        "tip": "The IELTS kit has a free full mock, with sign-up."
       }
     ],
-    "saveLine": "practice mein kaam aayega."
+    "saveLine": "it'll help in practice."
   },
-  "caption": "Mock test diya, score dekha, aage badh gaye? Aise mat karo. Mock ka sahi tareeka 👇\n\n1. Asli test jaisa mahaul\n2. Galtiyan likho\n3. Pattern dhoondo\n4. Weak section pe focus\n5. Phir se mock\n\nSave karo 📌 aur us dost ko bhejo jise iski zaroorat hai.\n\n👉 app.goeduabroad.com\n\n#StudyAbroad #IndianStudents #StudyAbroadTips #EduAbroad #IELTS",
+  "caption": "Took a mock, saw the score, moved on? Don't. Here's the right way to use a mock 👇\n\n1. Real test conditions\n2. Note your mistakes\n3. Find the pattern\n4. Focus on weak sections\n5. Take another mock\n\nSave this 📌 and send it to a friend who needs it.\n\n👉 app.goeduabroad.com\n\n#StudyAbroad #IndianStudents #StudyAbroadTips #EduAbroad #IELTS",
   "claims": [
     {
-      "text": "IELTS kit ka Failure Patterns tab",
+      "text": "The IELTS kit's Failure Patterns tab",
       "source": "IELTS kit 'Failure Patterns' tab"
     },
     {
-      "text": "IELTS kit mein free full mock (sign up karke)",
+      "text": "The IELTS kit has a free full mock (with sign-up)",
       "source": "IELTS kit page: 'Free Full-Length IELTS Mock Test' (needs sign-up)"
     }
   ]

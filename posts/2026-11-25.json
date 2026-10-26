@@ -3,23 +3,23 @@
   "content": {
     "type": "feature",
     "feature": "IELTS Test Kit",
-    "promise": "Free resources, ek jagah.",
+    "promise": "Free resources, one place.",
     "screenshot": "post-shots/ielts-mock.png",
     "screenshotCaption": "Free full mock: 151 minutes",
     "benefits": [
       "Free full mock: 151 minutes",
       "Daily 25 vocab flashcards",
-      "Failure patterns se seekho"
+      "Learn from failure patterns"
     ],
     "howTo": [
-      "IELTS Test Kit page kholo",
-      "Free Mock ke liye sign up karo",
-      "Test do, feedback padho"
+      "Open the IELTS Test Kit page",
+      "Sign up for the Free Mock",
+      "Take the test, read the feedback"
     ],
     "button": "Try it free",
     "url": "app.goeduabroad.com/ielts-online-test-kit"
   },
-  "caption": "IELTS ki taiyari ke liye sab kuch ek jagah.\n\nFull length mock test (151 minutes, charon modules, feedback ke saath), 25 vocab flashcards aur common failure patterns. Mock ke liye sign up karna hota hai.\n\n👉 app.goeduabroad.com/ielts-online-test-kit\n\n#StudyAbroad #IndianStudents #StudyAbroadTips #EduAbroad #IELTS",
+  "caption": "Everything for IELTS preparation in one place.\n\nA full-length mock test (151 minutes, all four modules, with feedback), 25 vocab flashcards and common failure patterns. The mock needs a sign-up.\n\n👉 app.goeduabroad.com/ielts-online-test-kit\n\n#StudyAbroad #IndianStudents #StudyAbroadTips #EduAbroad #IELTS",
   "claims": [
     {
       "text": "Free full mock: 151 minutes",
@@ -30,19 +30,19 @@
       "source": "IELTS kit Flashcards tab: 'Here are 25 IELTS-worthy words'"
     },
     {
-      "text": "151 minutes, charon modules, feedback ke saath",
+      "text": "151 minutes, all four modules, with feedback",
       "source": "IELTS kit page: '151 Minutes · Full Feedback · All 4 Modules'"
     },
     {
-      "text": "IELTS kit ka Failure Patterns tab",
+      "text": "Failure Patterns tab in the IELTS kit",
       "source": "IELTS kit 'Failure Patterns' tab"
     },
     {
-      "text": "IELTS kit mein free resources",
+      "text": "Free resources in the IELTS kit",
       "source": "IELTS kit page header: 'IELTS FREE LEARNING RESOURCES'"
     },
     {
-      "text": "IELTS kit mein free full mock (sign up karke)",
+      "text": "Free full mock in the IELTS kit (with sign-up)",
       "source": "IELTS kit page: 'Free Full-Length IELTS Mock Test' (needs sign-up)"
     }
   ]

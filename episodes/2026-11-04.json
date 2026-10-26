@@ -4,53 +4,83 @@
   "template": "feature",
   "musicSeed": 1104,
   "hook": {
-    "line1": ["Mera", "profile"],
-    "line2": ["kaafi", "hai", "kya?"],
-    "highlight": "kya?",
-    "subline": "Har applicant ka pehla sawaal.",
-    "chips": ["CGPA 7.4", "IELTS 6.5", "Work ex: 0"]
+    "line1": [
+      "Is",
+      "my",
+      "profile"
+    ],
+    "line2": [
+      "good",
+      "enough?"
+    ],
+    "highlight": "enough?",
+    "subline": "Every applicant's first question.",
+    "chips": [
+      "CGPA 7.4",
+      "IELTS 6.5",
+      "Work ex: 0"
+    ]
   },
   "build": {
     "beats": [
-      { "speaker": "Senior", "line": "“Arre ho jayega, tension mat le”" },
-      { "speaker": "Relatives", "line": "“Beta, abroad mein bahut competition hai”" },
-      { "speaker": "Google", "line": "Tabs pe tabs. Answer zero." }
+      {
+        "speaker": "Senior",
+        "line": "“Relax, you'll get in”"
+      },
+      {
+        "speaker": "Relatives",
+        "line": "“There's a lot of competition abroad”"
+      },
+      {
+        "speaker": "Google",
+        "line": "Tabs on tabs. Zero answers."
+      }
     ],
-    "googleTabs": ["best uni for MS", "will I get admit", "GRE cutoff", "profile eval", "safe uni list", "IELTS kitna"],
-    "punchline": { "line1": "Opinions bahut hain.", "line2": "Proof kahan hai?" }
+    "googleTabs": [
+      "best uni for MS",
+      "will I get admit",
+      "GRE cutoff",
+      "profile eval",
+      "safe uni list",
+      "IELTS kitna"
+    ],
+    "punchline": {
+      "line1": "Lots of opinions.",
+      "line2": "Where's the proof?"
+    }
   },
   "reveal": {
-    "kicker": "Opinion nahi.",
-    "headline": "Proof dekho.",
+    "kicker": "Not opinions.",
+    "headline": "See proof.",
     "featurePill": "Admit Finder",
     "clips": [
       {
         "kind": "video",
         "src": "footage/admit-finder/scroll.mp4",
-        "caption": "Accepted bhi. Rejected bhi.",
-        "subcaption": "Sab real admit profiles.",
+        "caption": "Accepted. Rejected. Both.",
+        "subcaption": "All real admit profiles.",
         "seconds": 3.6,
         "playbackRate": 1.35
       },
       {
         "kind": "card",
         "card": "admit-accepted",
-        "caption": "Jo admit hue,",
-        "subcaption": "unke real numbers.",
+        "caption": "Students who got in,",
+        "subcaption": "and their real numbers.",
         "seconds": 1.8
       },
       {
         "kind": "card",
         "card": "admit-rejected",
-        "caption": "IELTS 9. Phir bhi reject.",
-        "subcaption": "Bina sugar-coating ke.",
+        "caption": "IELTS 9. Still rejected.",
+        "subcaption": "No sugar-coating.",
         "seconds": 1.4
       },
       {
         "kind": "video",
         "src": "footage/admit-finder/filter.mp4",
-        "caption": "Course aur intake se filter karo.",
-        "subcaption": "Apna match dhundo.",
+        "caption": "Filter by course and intake.",
+        "subcaption": "Find your match.",
         "seconds": 2.0,
         "playbackRate": 1.5,
         "trimStartSeconds": 0.3
@@ -58,23 +88,55 @@
     ]
   },
   "proof": {
-    "points": ["Accepted aur rejected, dono dikhte hain", "Login ki zaroorat nahi", "100% private. Koi spam call nahi."]
+    "points": [
+      "Shows accepted and rejected",
+      "No login needed",
+      "100% private. No spam calls."
+    ]
   },
-  "closing": { "line1": "Ab guess mat karo.", "line2": "Check karo." },
-  "cta": { "button": "Try it free", "url": "app.goeduabroad.com" },
+  "closing": {
+    "line1": "Stop guessing.",
+    "line2": "Check the data."
+  },
+  "cta": {
+    "button": "Try it free",
+    "url": "app.goeduabroad.com"
+  },
   "youtube": {
-    "title": "Mera profile kaafi hai kya? Real admits dekho",
-    "description": "Mera profile kaafi hai kya? Har applicant ka pehla sawaal.\n\nSeniors bolte hain \"ho jayega\", relatives bolte hain \"bahut competition hai\", aur Google pe sirf opinions.\n\nEduAbroad ka Admit Finder dikhata hai real students ke real profiles: unka GPA, GRE, IELTS ya TOEFL, work experience, aur final result. Accepted bhi, rejected bhi. University, course, intake aur work experience se filter karo, aur apne jaise profiles dhundo.\n\nFree hai. Login ki zaroorat nahi.\n👉 https://app.goeduabroad.com/admit-finder\n\nEduAbroad: Run by Harvard-Cambridge Alumni. 100% private. Contact aap karoge, hum nahi.",
-    "tags": ["study abroad", "admit finder", "MS in USA", "Indian students", "EduAbroad", "university admissions"]
+    "title": "Is my profile good enough? See real admits",
+    "description": "Is my profile good enough? Every applicant's first question.\n\nSeniors say \"you'll get in\", relatives say \"there's a lot of competition\", and Google only has opinions.\n\nEduAbroad's Admit Finder shows real students' real profiles: their GPA, GRE, IELTS or TOEFL, work experience, and the final result. Accepted and rejected. Filter by university, course, intake and work experience, and find profiles like yours.\n\nIt's free. No login needed.\n👉 https://app.goeduabroad.com/admit-finder\n\nEduAbroad: Run by Harvard-Cambridge Alumni. 100% private. You contact us, we never contact you first.",
+    "tags": [
+      "study abroad",
+      "admit finder",
+      "MS in USA",
+      "Indian students",
+      "EduAbroad",
+      "university admissions"
+    ]
   },
   "instagram": {
-    "caption": "Mera profile kaafi hai kya? 🤔\n\nOpinions bahut hain, proof dekho. EduAbroad ka Admit Finder: real students ke GPA, GRE, IELTS aur result. Accepted bhi, rejected bhi.\n\nFree, login ki zaroorat nahi 👉 app.goeduabroad.com/admit-finder (link in bio)\n\n#StudyAbroad #IndianStudents #MSinUSA #UniversityAdmissions #EduAbroad"
+    "caption": "Is my profile good enough? 🤔\n\nLots of opinions, so look at proof. EduAbroad's Admit Finder: real students' GPA, GRE, IELTS and result. Accepted and rejected.\n\nFree, no login needed 👉 app.goeduabroad.com/admit-finder (link in bio)\n\n#StudyAbroad #IndianStudents #MSinUSA #UniversityAdmissions #EduAbroad"
   },
   "claims": [
-    { "text": "Accepted aur rejected, dono dikhte hain", "source": "Admit Finder footage (recorded 2026-10-22)" },
-    { "text": "IELTS 9. Phir bhi reject.", "source": "Real Tufts card on Admit Finder" },
-    { "text": "Login ki zaroorat nahi", "source": "app.goeduabroad.com/admit-finder loads without login" },
-    { "text": "100% private. Koi spam call nahi.", "source": "Homepage: '100% Private. You initiate contact, not us.'" },
-    { "text": "Try it free", "source": "Admit Finder is public and free" }
+    {
+      "text": "Shows accepted and rejected",
+      "source": "Admit Finder footage (recorded 2026-10-22)"
+    },
+    {
+      "text": "IELTS 9. Still rejected.",
+      "source": "Real Tufts card on Admit Finder"
+    },
+    {
+      "text": "No login needed",
+      "source": "app.goeduabroad.com/admit-finder loads without login"
+    },
+    {
+      "text": "100% private. No spam calls.",
+      "source": "Homepage: '100% Private. You initiate contact, not us.'"
+    },
+    {
+      "text": "Try it free",
+      "source": "Admit Finder is public and free"
+    }
   ]
 }

@@ -2,39 +2,39 @@
   "date": "2026-10-28",
   "content": {
     "type": "checklist",
-    "title": "Online interview hai?",
-    "highlight": "Ye 5 tayyari karo",
-    "subtitle": "Kuch universities shortlist ke baad baat karti hain. Ready raho.",
+    "title": "Online interview?",
+    "highlight": "Prepare these 5 things",
+    "subtitle": "Some universities talk to students after shortlisting. Be ready.",
     "steps": [
       {
-        "title": "Camera aur light",
-        "detail": "Chehra saaf dikhe, light saamne se aaye. Background simple rakho.",
-        "tip": "Ek din pehle dost ke saath test call karo."
+        "title": "Camera and light",
+        "detail": "Your face should be clearly visible, with light from the front. Keep the background simple.",
+        "tip": "Do a test call with a friend the day before."
       },
       {
-        "title": "Internet ka backup",
-        "detail": "Wi-Fi ke saath phone hotspot ready rakho. Laptop charge pe lagao."
+        "title": "Internet backup",
+        "detail": "Keep a phone hotspot ready along with Wi-Fi. Keep your laptop on charge."
       },
       {
-        "title": "University ki research",
-        "detail": "Course, faculty aur projects ke baare mein padh ke jao. Kyun yahi, ye clear ho."
+        "title": "Research the university",
+        "detail": "Read about the course, faculty and projects. Be clear on why this one."
       },
       {
-        "title": "Apna SOP yaad rakho",
-        "detail": "Jo SOP mein likha hai, wahi baat apne shabdon mein bolo. Ratta mat maaro."
+        "title": "Know your SOP",
+        "detail": "Say what your SOP says, in your own words. Don't memorise it."
       },
       {
-        "title": "Apne sawaal ready",
-        "detail": "Aakhir mein poochne ke liye kuch achhe sawaal likh ke rakho.",
-        "tip": "Sawaal poochna dikhata hai ki aap serious ho."
+        "title": "Have your questions",
+        "detail": "Write down a few good questions to ask at the end.",
+        "tip": "Asking questions shows you are serious."
       }
     ],
-    "saveLine": "interview mein kaam aayega."
+    "saveLine": "it helps in your interview."
   },
-  "caption": "Online interview hai? Ye 5 tayyari pehle se kar lo 👇\n\n1. Camera aur light\n2. Internet ka backup\n3. University ki research\n4. Apna SOP yaad rakho\n5. Apne sawaal ready\n\nSave karo 📌 aur us dost ko bhejo jiska interview aane wala hai.\n\n👉 app.goeduabroad.com\n\n#StudyAbroad #IndianStudents #StudyAbroadTips #EduAbroad #Interview",
+  "caption": "Got an online interview? Prepare these 5 things in advance 👇\n\n1. Camera and light\n2. Internet backup\n3. Research the university\n4. Know your SOP\n5. Have your questions ready\n\nSave this 📌 and send it to a friend whose interview is coming up.\n\n👉 app.goeduabroad.com\n\n#StudyAbroad #IndianStudents #StudyAbroadTips #EduAbroad #Interview",
   "claims": [
     {
-      "text": "Ye 5 tayyari karo",
+      "text": "Prepare these 5 things",
       "source": "count of items in this post"
     }
   ]

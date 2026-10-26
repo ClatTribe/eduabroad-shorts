@@ -5,49 +5,49 @@
   "musicSeed": 111,
   "hook": {
     "line1": [
-      "Pehla",
-      "hafta"
+      "First",
+      "week"
     ],
     "line2": [
       "abroad?",
-      "Ye",
-      "karo."
+      "Do",
+      "this."
     ],
-    "highlight": "karo.",
-    "subline": "Settle hone ki checklist."
+    "highlight": "this.",
+    "subline": "Your settling-in checklist."
   },
   "tips": {
-    "seriesLabel": "Seedhi Baat",
+    "seriesLabel": "Straight Talk",
     "items": [
       {
-        "title": "Local SIM aur bank",
-        "detail": "Pehle din SIM lo, phir bank account khulwao. Baaki sab isi se judta hai."
+        "title": "Local SIM and bank",
+        "detail": "Get a SIM on day one, then open a bank account. Everything else depends on these."
       },
       {
-        "title": "Student ID aur registration",
-        "detail": "University ke saare registration time pe poore karo."
+        "title": "Student ID and registration",
+        "detail": "Finish all university registrations on time."
       },
       {
-        "title": "Groceries ka setup",
-        "detail": "Paas ki dukaan dhundo aur pehle hafte ka khaana plan karo."
+        "title": "Set up groceries",
+        "detail": "Find a nearby store and plan your first week's meals."
       },
       {
-        "title": "Logon se milo",
-        "detail": "Seniors, classmates aur Indian community. Akele mat raho."
+        "title": "Meet people",
+        "detail": "Seniors, classmates and the Indian community. Don't stay alone."
       }
     ]
   },
   "closing": {
-    "line1": "Pehla hafta set,",
-    "line2": "baaki sab easy."
+    "line1": "First week sorted,",
+    "line2": "the rest gets easy."
   },
   "cta": {
-    "button": "Explore karo",
+    "button": "Explore now",
     "url": "app.goeduabroad.com"
   },
   "youtube": {
-    "title": "Abroad mein pehla hafta: settle hone ki checklist",
-    "description": "Abroad pahunch ke pehle hafte mein: local SIM aur bank account, student ID aur registration, groceries ka setup, aur seniors aur classmates se milna.\n\n👉 https://app.goeduabroad.com\n\nEduAbroad: Run by Harvard-Cambridge Alumni. 100% private. Contact aap karoge, hum nahi.",
+    "title": "First week abroad: your settling-in checklist",
+    "description": "In your first week abroad: a local SIM and bank account, student ID and registration, setting up groceries, and meeting seniors and classmates.\n\n👉 https://app.goeduabroad.com\n\nEduAbroad: Run by Harvard-Cambridge Alumni. 100% private. You contact us, we never contact you first.",
     "tags": [
       "study abroad",
       "Indian students",
@@ -58,7 +58,7 @@
     ]
   },
   "instagram": {
-    "caption": "Pehla hafta abroad? ✈️\n\nSIM + bank, student ID, groceries, aur naye log. Bas itna, aur settle ho gaye!\n\nJaane wale dost ko bhejo 👇\n\n👉 app.goeduabroad.com (link in bio)\n\n#StudyAbroad #IndianStudents #StudyAbroadTips #EduAbroad #Reels"
+    "caption": "First week abroad? ✈️\n\nSIM + bank, student ID, groceries, and new people. That's it, and you're settled!\n\nSend this to a friend who's leaving soon 👇\n\n👉 app.goeduabroad.com (link in bio)\n\n#StudyAbroad #IndianStudents #StudyAbroadTips #EduAbroad #Reels"
   },
   "claims": []
 }

@@ -3,39 +3,39 @@
   "content": {
     "type": "feature",
     "feature": "Course Finder",
-    "promise": "Lists nahi, fit dekho.",
+    "promise": "Not lists. Find your fit.",
     "screenshot": "footage/course-finder/still.png",
-    "screenshotCaption": "Programs worldwide, ek jagah",
+    "screenshotCaption": "Programs worldwide, in one place",
     "capture": {
       "feature": "course-finder",
       "clip": "scroll",
       "at": 0.3
     },
     "benefits": [
-      "Programs worldwide, ek jagah",
+      "Programs worldwide, in one place",
       "Country, level, intake filters",
-      "Tuition fees pehle dekho"
+      "See tuition fees upfront"
     ],
     "howTo": [
-      "app.goeduabroad.com/course-finder kholo",
-      "Country, level aur intake chuno",
-      "Fees aur intake compare karo"
+      "Open app.goeduabroad.com/course-finder",
+      "Pick country, level and intake",
+      "Compare fees and intakes"
     ],
-    "button": "Explore karo",
+    "button": "Explore now",
     "url": "app.goeduabroad.com/course-finder"
   },
-  "caption": "Sirf ranking list dekh ke course chunna band karo. Apne hisaab se filter karo.\n\nCourse Finder pe programs worldwide, ek jagah: country, level aur intake se filter, tuition fees saath mein.\n\n👉 app.goeduabroad.com/course-finder\n\n#StudyAbroad #IndianStudents #StudyAbroadTips #EduAbroad #CourseFinder",
+  "caption": "Stop picking a course only from ranking lists. Filter by what suits you.\n\nCourse Finder has programs worldwide in one place: filter by country, level and intake, with tuition fees shown.\n\n👉 app.goeduabroad.com/course-finder\n\n#StudyAbroad #IndianStudents #StudyAbroadTips #EduAbroad #CourseFinder",
   "claims": [
     {
       "text": "Course Finder: programs worldwide",
       "source": "Course Finder page: 'Explore programs and universities worldwide'"
     },
     {
-      "text": "Course Finder mein country, level aur intake filters",
+      "text": "Country, level and intake filters on Course Finder",
       "source": "Course Finder filters: All Countries, All Study Levels, All Universities, All Intakes"
     },
     {
-      "text": "Course Finder pe tuition fees",
+      "text": "Tuition fees on Course Finder",
       "source": "Course Finder shows Tuition Fees and intakes"
     }
   ]

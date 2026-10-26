@@ -2,42 +2,42 @@
   "date": "2027-01-25",
   "content": {
     "type": "checklist",
-    "title": "Jaane se pehle",
-    "highlight": "Health ki 5 tayyari.",
-    "subtitle": "Naye desh mein beemar padna sabse zyada pareshaan karta hai.",
+    "title": "Before you fly",
+    "highlight": "5 health checks.",
+    "subtitle": "Falling sick in a new country is the most stressful thing.",
     "steps": [
       {
         "title": "Full checkup",
-        "detail": "Doctor, dentist aur aankhon ka checkup jaane se pehle. Wahan ye mehenga pad sakta hai."
+        "detail": "A doctor, dentist and eye checkup before you go. These can be expensive there."
       },
       {
-        "title": "Dawai aur prescription",
-        "detail": "Regular dawai ka stock aur doctor ka prescription saath rakho. Rules pehle check karo."
+        "title": "Medicines and prescription",
+        "detail": "Carry a stock of regular medicines and the doctor's prescription. Check the rules first."
       },
       {
-        "title": "Insurance samjho",
-        "detail": "Policy mein kya cover hai aur kya nahi, ek baar padh lo. Claim kaise hota hai, ye bhi.",
-        "tip": "Fly & Settle pe travel aur health insurance ki help milti hai."
+        "title": "Understand your insurance",
+        "detail": "Read once what the policy covers and what it doesn't. Also how claims work.",
+        "tip": "Fly & Settle helps with travel and health insurance."
       },
       {
         "title": "Vaccination record",
-        "detail": "Saare records ek folder mein, scan karke bhi. University maang sakti hai."
+        "detail": "Keep all records in one folder, scanned too. Your university may ask for them."
       },
       {
         "title": "Emergency contacts",
-        "detail": "Local emergency number, university health centre aur ghar ka number. Phone mein bhi, likha hua bhi."
+        "detail": "Local emergency number, university health centre and home number. On your phone and on paper."
       }
     ],
-    "saveLine": "packing ke time kaam aayega."
+    "saveLine": "it'll help when you pack."
   },
-  "caption": "Flight se pehle health ki taiyari bhi zaroori hai. Ye 5 kaam karo 👇\n\n1. Full checkup\n2. Dawai aur prescription\n3. Insurance samjho\n4. Vaccination record\n5. Emergency contacts\n\nSave karo 📌 aur us dost ko bhejo jise iski zaroorat hai.\n\n👉 app.goeduabroad.com\n\n#StudyAbroad #IndianStudents #StudyAbroadTips #EduAbroad #StudyAbroadChecklist",
+  "caption": "Before the flight, prepare your health too. Do these 5 things 👇\n\n1. Full checkup\n2. Medicines and prescription\n3. Understand your insurance\n4. Vaccination record\n5. Emergency contacts\n\nSave this 📌 and send it to a friend who needs it.\n\n👉 app.goeduabroad.com\n\n#StudyAbroad #IndianStudents #StudyAbroadTips #EduAbroad #StudyAbroadChecklist",
   "claims": [
     {
-      "text": "Health ki 5 tayyari.",
+      "text": "5 health checks.",
       "source": "count of items in this post"
     },
     {
-      "text": "Fly & Settle: travel aur health insurance",
+      "text": "Fly & Settle: travel and health insurance",
       "source": "Fly & Settle page: 'comprehensive travel and health insurance coverage tailored for international students'"
     }
   ]

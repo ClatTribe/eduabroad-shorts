@@ -2,34 +2,34 @@
   "date": "2026-11-26",
   "content": {
     "type": "versus",
-    "title": "Kahan padhna hai?",
-    "highlight": "Bada vs chhota shehar",
-    "left": "Bada shehar",
-    "right": "Chhota shehar",
+    "title": "Where to study?",
+    "highlight": "Big city vs small town",
+    "left": "Big city",
+    "right": "Small town",
     "rows": [
       {
-        "label": "Kharcha",
-        "left": "Rent aksar zyada",
-        "right": "Aksar kam"
+        "label": "Cost",
+        "left": "Rent is often higher",
+        "right": "Often lower"
       },
       {
         "label": "Campus life",
-        "left": "Shehar mein bikhri hui",
-        "right": "Campus hi centre"
+        "left": "Spread across the city",
+        "right": "Campus is the centre"
       },
       {
-        "label": "Aana jaana",
-        "left": "Lamba ho sakta hai",
-        "right": "Aksar paidal ya cycle"
+        "label": "Commute",
+        "left": "Can be long",
+        "right": "Often walk or cycle"
       },
       {
-        "label": "Mahaul",
-        "left": "Bheed, speed, variety",
-        "right": "Shaant, padhai pe focus"
+        "label": "Vibe",
+        "left": "Crowds, speed, variety",
+        "right": "Calm, focus on study"
       }
     ],
-    "bottomLine": "Shehar se zyada course aur kharcha dekho. Wahan padh rahe seniors se baat karo."
+    "bottomLine": "Look at the course and cost more than the city. Talk to seniors studying there."
   },
-  "caption": "Bade shehar ki chamak ya chhote shehar ka sukoon?\n\nAapko kya pasand hai? Comment karo 👇\n\n👉 app.goeduabroad.com\n\n#StudyAbroad #IndianStudents #StudyAbroadTips #EduAbroad #StudentLife",
+  "caption": "The buzz of a big city or the calm of a small town?\n\nWhat do you prefer? Comment below 👇\n\n👉 app.goeduabroad.com\n\n#StudyAbroad #IndianStudents #StudyAbroadTips #EduAbroad #StudentLife",
   "claims": []
 }

@@ -5,29 +5,30 @@
   "musicSeed": 127,
   "hook": {
     "line1": [
-      "Roz",
-      "thodi"
+      "A",
+      "little",
+      "IELTS"
     ],
     "line2": [
-      "IELTS",
+      "daily",
       "practice?"
     ],
     "highlight": "practice?",
-    "subline": "Bina kharche ke shuru karo."
+    "subline": "Start without spending money."
   },
   "build": {
     "beats": [
       {
         "speaker": "Senior",
-        "line": "“Exam se hafta pehle padh lena”"
+        "line": "“Just study a week before the exam”"
       },
       {
         "speaker": "Relatives",
-        "line": "“Bas English movies dekho”"
+        "line": "“Just watch English movies”"
       },
       {
         "speaker": "Google",
-        "line": "Tips bahut, practice zero."
+        "line": "Lots of tips, zero practice."
       }
     ],
     "googleTabs": [
@@ -39,12 +40,12 @@
       "speaking practice"
     ],
     "punchline": {
-      "line1": "Tips bahut hain.",
-      "line2": "Practice kahan?"
+      "line1": "Lots of tips.",
+      "line2": "Where's the practice?"
     }
   },
   "reveal": {
-    "kicker": "Tips nahi.",
+    "kicker": "Not tips.",
     "headline": "Practice.",
     "featurePill": "IELTS Test Kit",
     "clips": [
@@ -52,7 +53,7 @@
         "kind": "video",
         "src": "footage/ielts-kit/tabs.mp4",
         "caption": "Flashcards, sample tasks, mock.",
-        "subcaption": "Free resources, ek jagah.",
+        "subcaption": "Free resources, one place.",
         "seconds": 3.6,
         "playbackRate": 1.25
       },
@@ -60,7 +61,7 @@
         "kind": "video",
         "src": "footage/ielts-kit/mock.mp4",
         "caption": "Full mock: 151 minutes.",
-        "subcaption": "Charon modules, feedback.",
+        "subcaption": "All 4 modules, feedback.",
         "seconds": 3.0,
         "playbackRate": 1.2
       }
@@ -69,21 +70,21 @@
   "proof": {
     "points": [
       "Daily 25 vocab flashcards",
-      "Sample tasks, charon sections",
+      "Sample tasks, all 4 sections",
       "Free full mock: 151 minutes"
     ]
   },
   "closing": {
-    "line1": "Roz thoda practice,",
-    "line2": "exam mein kam darr."
+    "line1": "A little practice daily,",
+    "line2": "less exam fear."
   },
   "cta": {
     "button": "Try it free",
     "url": "app.goeduabroad.com/ielts-online-test-kit"
   },
   "youtube": {
-    "title": "Roz thodi IELTS practice? Free IELTS Test Kit",
-    "description": "Tips bahut hain, practice karo. EduAbroad IELTS Online Test Kit mein 25 vocab flashcards, charon sections ke sample tasks, failure patterns, aur ek free full-length mock test (151 minutes, sign up karke).\n\n👉 https://app.goeduabroad.com/ielts-online-test-kit\n\nEduAbroad: Run by Harvard-Cambridge Alumni. 100% private. Contact aap karoge, hum nahi.",
+    "title": "A little IELTS practice every day? Free IELTS Test Kit",
+    "description": "There are lots of tips out there, so practise instead. The EduAbroad IELTS Online Test Kit has 25 vocab flashcards, sample tasks for all four sections, failure patterns, and a free full-length mock test (151 minutes, with sign-up).\n\n👉 https://app.goeduabroad.com/ielts-online-test-kit\n\nEduAbroad: Run by Harvard-Cambridge Alumni. 100% private. You contact us, we never contact you first.",
     "tags": [
       "study abroad",
       "Indian students",
@@ -93,7 +94,7 @@
     ]
   },
   "instagram": {
-    "caption": "Roz thodi IELTS practice? 📚\n\nFlashcards, sample tasks aur free full mock (151 min). Tips nahi, practice.\n\n👉 app.goeduabroad.com/ielts-online-test-kit (link in bio)\n\n#StudyAbroad #IndianStudents #StudyAbroadTips #EduAbroad #Reels"
+    "caption": "A little IELTS practice every day? 📚\n\nFlashcards, sample tasks and a free full mock (151 min). Not tips, practice.\n\n👉 app.goeduabroad.com/ielts-online-test-kit (link in bio)\n\n#StudyAbroad #IndianStudents #StudyAbroadTips #EduAbroad #Reels"
   },
   "claims": [
     {
@@ -101,7 +102,7 @@
       "source": "IELTS kit page: 'Free Full-Length IELTS Mock Test... 151 minutes' (needs sign-up, stated in description)"
     },
     {
-      "text": "Charon modules, feedback.",
+      "text": "All 4 modules, feedback.",
       "source": "IELTS kit page: '151 Minutes · Full Feedback · All 4 Modules'"
     },
     {
@@ -109,11 +110,11 @@
       "source": "IELTS kit Flashcards tab: 'Here are 25 IELTS-worthy words'"
     },
     {
-      "text": "Sample tasks, charon sections",
+      "text": "Sample tasks, all 4 sections",
       "source": "IELTS kit Sample Tasks: Listening, Reading, Speaking, Writing PDFs"
     },
     {
-      "text": "Free resources, ek jagah. / Try it free",
+      "text": "Free resources, one place. / Try it free",
       "source": "IELTS kit page header: 'IELTS FREE LEARNING RESOURCES'"
     }
   ],

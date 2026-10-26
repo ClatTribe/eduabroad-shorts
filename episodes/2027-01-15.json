@@ -5,49 +5,48 @@
   "musicSeed": 115,
   "hook": {
     "line1": [
-      "Sirf",
+      "Only",
       "USA,",
       "UK?"
     ],
     "line2": [
-      "Aur",
-      "bhi",
-      "hain!"
+      "There's",
+      "more!"
     ],
-    "highlight": "hain!",
-    "subline": "Country chunne ke 3 myths."
+    "highlight": "more!",
+    "subline": "3 myths about picking a country."
   },
   "myths": {
     "seriesLabel": "Myth vs Fact",
     "items": [
       {
-        "myth": "Sirf USA, UK, Canada hi options hain",
-        "fact": "Aur bhi countries hain",
-        "detail": "Germany, Ireland, Australia, New Zealand aur kai aur. Course aur budget se chuno."
+        "myth": "USA, UK and Canada are the only options",
+        "fact": "There are many more countries",
+        "detail": "Germany, Ireland, Australia, New Zealand and more. Choose by course and budget."
       },
       {
-        "myth": "Jo popular hai, wahi mere liye best",
-        "fact": "Apna fit dekho",
-        "detail": "Kharcha, course, language aur career plan. Sabka jawab alag hota hai."
+        "myth": "What's popular is best for me",
+        "fact": "Look at your own fit",
+        "detail": "Cost, course, language and career plan. Everyone's answer is different."
       },
       {
-        "myth": "Naam bada, degree badi",
-        "fact": "University aur course dekho",
-        "detail": "Country nahi, university aur course ki quality matter karti hai."
+        "myth": "Big name, big degree",
+        "fact": "Look at the university and course",
+        "detail": "It's the quality of the university and course that matters, not the country."
       }
     ]
   },
   "closing": {
-    "line1": "Map bada hai,",
-    "line2": "options bhi."
+    "line1": "The map is big,",
+    "line2": "so are your options."
   },
   "cta": {
-    "button": "Explore karo",
+    "button": "Explore now",
     "url": "app.goeduabroad.com"
   },
   "youtube": {
-    "title": "Sirf USA, UK, Canada hi options hain? Myth vs Fact",
-    "description": "Country chunne ke 3 myths. Aur bhi countries hain jaise Germany, Ireland, Australia aur New Zealand. Popular hamesha best nahi, apna fit dekho. Aur university aur course ki quality matter karti hai.\n\n👉 https://app.goeduabroad.com\n\nEduAbroad: Run by Harvard-Cambridge Alumni. 100% private. Contact aap karoge, hum nahi.",
+    "title": "Are USA, UK and Canada the only options? Myth vs Fact",
+    "description": "3 myths about choosing a country. There are many more countries, like Germany, Ireland, Australia and New Zealand. Popular isn't always best, look at your own fit. And the quality of the university and course is what matters.\n\n👉 https://app.goeduabroad.com\n\nEduAbroad: Run by Harvard-Cambridge Alumni. 100% private. You contact us, we never contact you first.",
     "tags": [
       "study abroad",
       "Indian students",
@@ -58,11 +57,11 @@
     ]
   },
   "instagram": {
-    "caption": "Sirf USA, UK, Canada? 🌍 Aur bhi hain!\n\nApna fit dekho: kharcha, course, language aur career plan.\n\n👉 app.goeduabroad.com (link in bio)\n\n#StudyAbroad #IndianStudents #StudyAbroadTips #EduAbroad #Reels"
+    "caption": "Only USA, UK, Canada? 🌍 There's more!\n\nLook at your own fit: cost, course, language and career plan.\n\n👉 app.goeduabroad.com (link in bio)\n\n#StudyAbroad #IndianStudents #StudyAbroadTips #EduAbroad #Reels"
   },
   "claims": [
     {
-      "text": "Country chunne ke 3 myths.",
+      "text": "3 myths about picking a country.",
       "source": "count of myths in this video"
     }
   ]

@@ -5,49 +5,47 @@
   "musicSeed": 1214,
   "hook": {
     "line1": [
-      "Bag",
-      "pack"
+      "Packing",
+      "your"
     ],
     "line2": [
-      "kar",
-      "rahe",
-      "ho?"
+      "bags?"
     ],
-    "highlight": "ho?",
-    "subline": "Ye bhoolna mat."
+    "highlight": "bags?",
+    "subline": "Don't forget these."
   },
   "tips": {
-    "seriesLabel": "Seedhi Baat",
+    "seriesLabel": "Straight Talk",
     "items": [
       {
-        "title": "Documents ka folder",
-        "detail": "Passport, visa, admit letter aur marksheets ki copies. Ek hand bag mein rakho."
+        "title": "Documents folder",
+        "detail": "Copies of your passport, visa, admit letter and marksheets. Keep them in your hand bag."
       },
       {
-        "title": "Dawai aur prescription",
-        "detail": "Regular dawaiyan aur doctor ki prescription saath rakho."
+        "title": "Medicines and prescription",
+        "detail": "Carry your regular medicines and your doctor's prescription."
       },
       {
-        "title": "Adapter aur charger",
-        "detail": "Wahan ka plug alag ho sakta hai. Ek universal adapter le lo."
+        "title": "Adapter and charger",
+        "detail": "The plugs there may be different. Take a universal adapter."
       },
       {
-        "title": "Pehle mahine ka budget",
-        "detail": "Rent, khaana aur travel ke liye pehle mahine ka paisa alag rakho."
+        "title": "First month's budget",
+        "detail": "Keep money aside for rent, food and travel in the first month."
       }
     ]
   },
   "closing": {
     "line1": "Smart packing,",
-    "line2": "kam panic."
+    "line2": "less panic."
   },
   "cta": {
-    "button": "Explore karo",
+    "button": "Explore now",
     "url": "app.goeduabroad.com"
   },
   "youtube": {
-    "title": "Abroad ja rahe ho? Packing mein ye 4 cheezein mat bhoolna",
-    "description": "Abroad jaane se pehle packing checklist: documents ka folder hand bag mein, dawai aur prescription, universal adapter aur charger, aur pehle mahine ka budget alag.\n\n👉 https://app.goeduabroad.com\n\nEduAbroad: Run by Harvard-Cambridge Alumni. 100% private. Contact aap karoge, hum nahi.",
+    "title": "Going abroad? Don't forget these 4 things when packing",
+    "description": "Packing checklist before you go abroad: a documents folder in your hand bag, medicines and prescription, a universal adapter and charger, and a separate budget for the first month.\n\n👉 https://app.goeduabroad.com\n\nEduAbroad: Run by Harvard-Cambridge Alumni. 100% private. You contact us, we never contact you first.",
     "tags": [
       "study abroad",
       "Indian students",
@@ -58,7 +56,7 @@
     ]
   },
   "instagram": {
-    "caption": "Bag pack kar rahe ho? 🧳\n\nDocuments folder, dawai + prescription, universal adapter, aur pehle mahine ka budget. Ye bhoolna mat!\n\nJaane wale dost ko bhejo 👇\n\n👉 app.goeduabroad.com (link in bio)\n\n#StudyAbroad #IndianStudents #StudyAbroadTips #EduAbroad #Reels"
+    "caption": "Packing your bags? 🧳\n\nDocuments folder, medicines + prescription, universal adapter, and your first month's budget. Don't forget these!\n\nSend this to a friend who's leaving soon 👇\n\n👉 app.goeduabroad.com (link in bio)\n\n#StudyAbroad #IndianStudents #StudyAbroadTips #EduAbroad #Reels"
   },
   "claims": []
 }

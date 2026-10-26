@@ -5,49 +5,48 @@
   "musicSeed": 1116,
   "hook": {
     "line1": [
-      "SOP",
-      "likh",
-      "rahe"
+      "Writing",
+      "your"
     ],
     "line2": [
-      "ho?",
-      "Ruko."
+      "SOP?",
+      "Wait."
     ],
-    "highlight": "Ruko.",
-    "subline": "Ye galtiyan mat karna."
+    "highlight": "Wait.",
+    "subline": "Avoid these mistakes."
   },
   "tips": {
-    "seriesLabel": "Seedhi Baat",
+    "seriesLabel": "Straight Talk",
     "items": [
       {
-        "title": "Resume copy mat karo",
-        "detail": "Committee ke paas resume already hai. SOP mein batao kyun aur kaise."
+        "title": "Don't copy your resume",
+        "detail": "The committee already has your resume. Your SOP should explain why and how."
       },
       {
-        "title": "Quote se shuru mat karo",
-        "detail": "Famous quotes sab likhte hain. Apni ek real story se shuru karo."
+        "title": "Don't start with a quote",
+        "detail": "Everyone uses famous quotes. Start with one real story of your own."
       },
       {
-        "title": "Har uni ko same SOP nahi",
-        "detail": "Course, faculty aur fit ke hisaab se har SOP thoda customise karo."
+        "title": "Not the same SOP for all",
+        "detail": "Adjust each SOP a little for the course, the faculty and your fit."
       },
       {
-        "title": "Zor se padh ke check karo",
-        "detail": "Jahan atko, wahan line chhoti karo. Simple English sabse strong hoti hai."
+        "title": "Read it out loud",
+        "detail": "Where you stumble, shorten the line. Simple English is the strongest."
       }
     ]
   },
   "closing": {
-    "line1": "Apni kahani,",
-    "line2": "apne shabdon mein."
+    "line1": "Your story,",
+    "line2": "in your own words."
   },
   "cta": {
-    "button": "Explore karo",
+    "button": "Explore now",
     "url": "app.goeduabroad.com"
   },
   "youtube": {
-    "title": "SOP likh rahe ho? Ye 4 galtiyan mat karna",
-    "description": "SOP mein sabse common galtiyan: resume copy karna, famous quote se shuru karna, har university ko same SOP bhejna, aur bina padhe submit kar dena.\n\nApni kahani, apne shabdon mein likho.\n\n👉 https://app.goeduabroad.com\n\nEduAbroad: Run by Harvard-Cambridge Alumni. 100% private. Contact aap karoge, hum nahi.",
+    "title": "Writing your SOP? Avoid these 4 mistakes",
+    "description": "The most common SOP mistakes: copying your resume, starting with a famous quote, sending every university the same SOP, and submitting without reading it.\n\nTell your story, in your own words.\n\n👉 https://app.goeduabroad.com\n\nEduAbroad: Run by Harvard-Cambridge Alumni. 100% private. You contact us, we never contact you first.",
     "tags": [
       "study abroad",
       "Indian students",
@@ -59,7 +58,7 @@
     ]
   },
   "instagram": {
-    "caption": "SOP likh rahe ho? ✋ Ruko.\n\n❌ Resume copy\n❌ Famous quote se start\n❌ Sabko same SOP\n✅ Apni real story, simple English\n\nSave karo, SOP likhte waqt kaam aayega.\n\n👉 app.goeduabroad.com (link in bio)\n\n#StudyAbroad #IndianStudents #StudyAbroadTips #EduAbroad #Reels"
+    "caption": "Writing your SOP? ✋ Wait.\n\n❌ Copying your resume\n❌ Starting with a famous quote\n❌ The same SOP for everyone\n✅ Your real story, in simple English\n\nSave this for when you write your SOP.\n\n👉 app.goeduabroad.com (link in bio)\n\n#StudyAbroad #IndianStudents #StudyAbroadTips #EduAbroad #Reels"
   },
   "claims": []
 }

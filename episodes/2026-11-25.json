@@ -6,15 +6,14 @@
   "hook": {
     "line1": [
       "IELTS",
-      "ki",
-      "tayyari?"
+      "prep"
     ],
     "line2": [
-      "Free",
-      "mein?"
+      "for",
+      "free?"
     ],
-    "highlight": "Free",
-    "subline": "Haan, sach mein.",
+    "highlight": "free?",
+    "subline": "Yes, really.",
     "chips": [
       "Band: ?",
       "Mock: ?",
@@ -25,15 +24,15 @@
     "beats": [
       {
         "speaker": "Senior",
-        "line": "“Coaching ke bina nahi hoga”"
+        "line": "“You can't do it without coaching”"
       },
       {
         "speaker": "Relatives",
-        "line": "“Itna mehenga exam, dhyan se beta”"
+        "line": "“It's an expensive exam, be careful”"
       },
       {
         "speaker": "Google",
-        "line": "PDFs pe PDFs. Plan zero."
+        "line": "PDFs on PDFs. Zero plan."
       }
     ],
     "googleTabs": [
@@ -45,20 +44,20 @@
       "IELTS PDF"
     ],
     "punchline": {
-      "line1": "Material bahut hai.",
-      "line2": "Plan kahan hai?"
+      "line1": "Lots of material.",
+      "line2": "Where's the plan?"
     }
   },
   "reveal": {
-    "kicker": "Bikhra nahi.",
-    "headline": "Ek kit.",
+    "kicker": "Not scattered.",
+    "headline": "One kit.",
     "featurePill": "IELTS Test Kit",
     "clips": [
       {
         "kind": "video",
         "src": "footage/ielts-kit/tabs.mp4",
         "caption": "Mock, flashcards, sample tasks.",
-        "subcaption": "Free resources, ek jagah.",
+        "subcaption": "Free resources, one place.",
         "seconds": 3.6,
         "playbackRate": 1.25
       },
@@ -66,7 +65,7 @@
         "kind": "video",
         "src": "footage/ielts-kit/mock.mp4",
         "caption": "Full mock: 151 minutes.",
-        "subcaption": "Charon modules, full feedback.",
+        "subcaption": "All 4 modules, full feedback.",
         "seconds": 3.0,
         "playbackRate": 1.2
       }
@@ -76,20 +75,20 @@
     "points": [
       "Free full mock: 151 minutes",
       "Daily 25 vocab flashcards",
-      "Failure patterns se seekho"
+      "Learn from failure patterns"
     ]
   },
   "closing": {
-    "line1": "Coaching se pehle,",
-    "line2": "free kit try karo."
+    "line1": "Before coaching,",
+    "line2": "try the free kit."
   },
   "cta": {
     "button": "Try it free",
     "url": "app.goeduabroad.com/ielts-online-test-kit"
   },
   "youtube": {
-    "title": "IELTS ki tayyari free mein? EduAbroad IELTS Test Kit",
-    "description": "Coaching se pehle ye free IELTS kit try karo.\n\nEduAbroad ke IELTS Online Test Kit mein: free full-length mock test (151 minutes, charon modules, feedback ke saath), 25 IELTS vocab flashcards, sample tasks, aur common failure patterns. Mock test ke liye sign up karke IELTS course select karna hota hai.\n\n👉 https://app.goeduabroad.com/ielts-online-test-kit\n\nEduAbroad: Run by Harvard-Cambridge Alumni. 100% private. Contact aap karoge, hum nahi.",
+    "title": "IELTS prep for free? EduAbroad IELTS Test Kit",
+    "description": "Try this free IELTS kit before you pay for coaching.\n\nEduAbroad's IELTS Online Test Kit has a free full-length mock test (151 minutes, all 4 modules, with feedback), 25 IELTS vocab flashcards, sample tasks, and common failure patterns. For the mock test you sign up and select the IELTS course.\n\n👉 https://app.goeduabroad.com/ielts-online-test-kit\n\nEduAbroad: Run by Harvard-Cambridge Alumni. 100% private. You contact us, we never contact you first.",
     "tags": [
       "IELTS",
       "IELTS preparation",
@@ -99,7 +98,7 @@
     ]
   },
   "instagram": {
-    "caption": "IELTS ki tayyari free mein? 📚 Haan.\n\nFree full mock (151 min, charon modules), 25 vocab flashcards, sample tasks aur failure patterns. Sab ek kit mein.\n\n👉 app.goeduabroad.com/ielts-online-test-kit (link in bio)\n\n#IELTS #IELTSPreparation #StudyAbroad #IndianStudents #EduAbroad"
+    "caption": "IELTS prep for free? 📚 Yes.\n\nA free full mock (151 min, all 4 modules), 25 vocab flashcards, sample tasks and failure patterns. All in one kit.\n\n👉 app.goeduabroad.com/ielts-online-test-kit (link in bio)\n\n#IELTS #IELTSPreparation #StudyAbroad #IndianStudents #EduAbroad"
   },
   "claims": [
     {
@@ -107,7 +106,7 @@
       "source": "IELTS kit page: 'Free Full-Length IELTS Mock Test... 151 minutes' (needs sign-up, stated in description)"
     },
     {
-      "text": "Charon modules, full feedback.",
+      "text": "All 4 modules, full feedback.",
       "source": "IELTS kit page: '151 Minutes · Full Feedback · All 4 Modules'"
     },
     {
@@ -115,11 +114,11 @@
       "source": "IELTS kit Flashcards tab: 'Here are 25 IELTS-worthy words'"
     },
     {
-      "text": "Free resources, ek jagah. / Try it free",
+      "text": "Free resources, one place. / Try it free",
       "source": "IELTS kit page header: 'IELTS FREE LEARNING RESOURCES'"
     },
     {
-      "text": "Failure patterns se seekho",
+      "text": "Learn from failure patterns",
       "source": "IELTS kit 'Failure Patterns' tab"
     }
   ],

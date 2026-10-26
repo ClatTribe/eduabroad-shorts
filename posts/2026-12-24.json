@@ -2,38 +2,38 @@
   "date": "2026-12-24",
   "content": {
     "type": "versus",
-    "title": "Masters kab?",
-    "highlight": "Job pehle vs Seedha",
-    "left": "Job pehle",
-    "right": "Seedha Masters",
+    "title": "When to do Masters?",
+    "highlight": "Job first vs Straight in",
+    "left": "Job first",
+    "right": "Straight in",
     "rows": [
       {
         "label": "Profile",
-        "left": "Experience jud jaata hai",
-        "right": "Academics fresh rehte hain"
+        "left": "Adds work experience",
+        "right": "Academics stay fresh"
       },
       {
-        "label": "Paisa",
-        "left": "Kuch savings ban jaati hain",
-        "right": "Funding pehle plan karo"
+        "label": "Money",
+        "left": "Builds some savings",
+        "right": "Plan funding early"
       },
       {
         "label": "Clarity",
-        "left": "Goal zyada saaf",
-        "right": "Goal pe kaam karna hoga"
+        "left": "Clearer goal",
+        "right": "Need to work on the goal"
       },
       {
         "label": "Time",
-        "left": "Degree thodi der se",
-        "right": "Career jaldi shuru"
+        "left": "Degree a bit later",
+        "right": "Career starts sooner"
       }
     ],
-    "bottomLine": "Galat option koi nahi. Admit Finder pe work ex filter se apne course ke admits dekho."
+    "bottomLine": "Neither option is wrong. Use the work ex filter on Admit Finder to see admits for your course."
   },
-  "caption": "Pehle job ya seedha Masters? Dono raaste chalte hain.\n\nAapka plan kya hai? Comment karo 👇\n\n👉 app.goeduabroad.com\n\n#StudyAbroad #IndianStudents #StudyAbroadTips #EduAbroad #MastersAbroad",
+  "caption": "Job first or Masters straight away? Both paths work.\n\nWhat's your plan? Comment below 👇\n\n👉 app.goeduabroad.com\n\n#StudyAbroad #IndianStudents #StudyAbroadTips #EduAbroad #MastersAbroad",
   "claims": [
     {
-      "text": "Admit Finder pe work ex filter",
+      "text": "Work ex filter on Admit Finder",
       "source": "Admit Finder filters: Intake, Year, Course, Work Experience, Acceptance"
     }
   ]

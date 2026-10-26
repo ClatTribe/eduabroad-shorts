@@ -2,20 +2,20 @@
   "date": "2026-12-10",
   "content": {
     "type": "versus",
-    "title": "Aage kya padhein?",
+    "title": "What to study next?",
     "highlight": "MS vs MBA",
     "left": "MS",
     "right": "MBA",
     "rows": [
       {
         "label": "Focus",
-        "left": "Technical, ek subject",
-        "right": "Business aur management"
+        "left": "Technical, one subject",
+        "right": "Business and management"
       },
       {
         "label": "Work ex",
-        "left": "Aksar zaroori nahi",
-        "right": "Aksar chahiye hota hai"
+        "left": "Often not required",
+        "right": "Often required"
       },
       {
         "label": "Class",
@@ -23,13 +23,13 @@
         "right": "Case studies, discussions"
       },
       {
-        "label": "Kiske liye",
-        "left": "Specialist banna hai",
-        "right": "Team aur business chalana"
+        "label": "Best for",
+        "left": "Becoming a specialist",
+        "right": "Running teams and business"
       }
     ],
-    "bottomLine": "Dono acche hain. Sawaal ye hai ki kuch saal baad aap kya kaam karna chahte ho."
+    "bottomLine": "Both are good. The real question is what work you want to do a few years from now."
   },
-  "caption": "MS ya MBA? Ye confusion bahut common hai.\n\nAap kis taraf ho? Comment karo 👇\n\n👉 app.goeduabroad.com\n\n#StudyAbroad #IndianStudents #StudyAbroadTips #EduAbroad #MastersAbroad",
+  "caption": "MS or MBA? This confusion is very common.\n\nWhich side are you on? Comment below 👇\n\n👉 app.goeduabroad.com\n\n#StudyAbroad #IndianStudents #StudyAbroadTips #EduAbroad #MastersAbroad",
   "claims": []
 }

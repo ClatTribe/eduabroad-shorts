@@ -2,34 +2,34 @@
   "date": "2026-10-27",
   "content": {
     "type": "versus",
-    "title": "Shortlist kaise banao?",
-    "highlight": "Ek country vs kai",
-    "left": "Ek country",
-    "right": "Kai countries",
+    "title": "How to shortlist?",
+    "highlight": "One country vs many",
+    "left": "One country",
+    "right": "Many",
     "rows": [
       {
         "label": "Research",
-        "left": "Gehri, ek system samjho",
-        "right": "Zyada time lagega"
+        "left": "Deeper, learn one system",
+        "right": "Takes more time"
       },
       {
         "label": "Documents",
-        "left": "Ek jaise rules",
-        "right": "Har country ke alag rules"
+        "left": "One set of rules",
+        "right": "Different rules per country"
       },
       {
         "label": "Options",
-        "left": "Kam choices",
-        "right": "Zyada choices"
+        "left": "Fewer choices",
+        "right": "More choices"
       },
       {
         "label": "Focus",
-        "left": "Seedha aur clear",
-        "right": "Dhyan bant sakta hai"
+        "left": "Simple and clear",
+        "right": "Focus can get split"
       }
     ],
-    "bottomLine": "Shuru mein ek ya do countries pe focus karo. Shortlist pakki ho, phir aage socho."
+    "bottomLine": "Start with one or two countries. Lock your shortlist, then think further."
   },
-  "caption": "Ek country ya kai countries? 🌍\n\nEk pe focus se research gehri hoti hai, kai countries se options badhte hain. Aapka plan kya hai?\n\nComment karo 👇\n\n👉 app.goeduabroad.com\n\n#StudyAbroad #IndianStudents #StudyAbroadTips #EduAbroad",
+  "caption": "One country or many? 🌍\n\nFocusing on one makes your research deeper. More countries give you more options. What's your plan?\n\nComment below 👇\n\n👉 app.goeduabroad.com\n\n#StudyAbroad #IndianStudents #StudyAbroadTips #EduAbroad",
   "claims": []
 }

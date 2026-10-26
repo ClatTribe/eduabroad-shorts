@@ -9,45 +9,44 @@
       "interview"
     ],
     "line2": [
-      "aa",
-      "raha",
-      "hai?"
+      "coming",
+      "up?"
     ],
-    "highlight": "hai?",
-    "subline": "4 cheezein pehle se ready."
+    "highlight": "up?",
+    "subline": "4 things to have ready."
   },
   "tips": {
-    "seriesLabel": "Seedhi Baat",
+    "seriesLabel": "Straight Talk",
     "items": [
       {
-        "title": "Apna course samjho",
-        "detail": "Ye course kyun, ye university kyun, aur baad mein kya. Do line mein bol pao."
+        "title": "Know your course",
+        "detail": "Why this course, why this university, and what comes after. Say it in two lines."
       },
       {
-        "title": "Funding clear rakho",
-        "detail": "Kharcha kaun uthayega aur kaise. Uske documents haath mein rakho."
+        "title": "Be clear on funding",
+        "detail": "Who pays and how. Keep those documents in hand."
       },
       {
-        "title": "Honest raho",
-        "detail": "Jo sach hai wahi bolo. Kuch nahi pata toh seedha bolo, kahani mat banao."
+        "title": "Be honest",
+        "detail": "Say what's true. If you don't know something, say so. Don't make up a story."
       },
       {
-        "title": "Documents order mein",
-        "detail": "Ek folder, sahi sequence. Jo maanga jaaye, wahi do."
+        "title": "Documents in order",
+        "detail": "One folder, the right sequence. Give exactly what they ask for."
       }
     ]
   },
   "closing": {
-    "line1": "Tayyari poori,",
-    "line2": "confidence apne aap."
+    "line1": "Full preparation,",
+    "line2": "confidence follows."
   },
   "cta": {
-    "button": "Explore karo",
+    "button": "Explore now",
     "url": "app.goeduabroad.com"
   },
   "youtube": {
-    "title": "Visa interview aa raha hai? Ye 4 cheezein ready rakho",
-    "description": "Visa interview se pehle ye 4 cheezein ready rakho: apna course aur university kyun chuni, funding ka clear plan aur documents, honest jawab, aur documents ek folder mein sahi order mein.\n\n👉 https://app.goeduabroad.com\n\nEduAbroad: Run by Harvard-Cambridge Alumni. 100% private. Contact aap karoge, hum nahi.",
+    "title": "Visa interview coming up? Have these 4 things ready",
+    "description": "Before your visa interview, have these 4 things ready: why you chose your course and university, a clear funding plan with documents, honest answers, and your documents in one folder in the right order.\n\n👉 https://app.goeduabroad.com\n\nEduAbroad: Run by Harvard-Cambridge Alumni. 100% private. You contact us, we never contact you first.",
     "tags": [
       "study abroad",
       "Indian students",
@@ -58,11 +57,11 @@
     ]
   },
   "instagram": {
-    "caption": "Visa interview aa raha hai? 🛂\n\n1. Course aur university kyun\n2. Funding clear\n3. Honest jawab\n4. Documents order mein\n\nSave karo 📌\n\n👉 app.goeduabroad.com (link in bio)\n\n#StudyAbroad #IndianStudents #StudyAbroadTips #EduAbroad #Reels"
+    "caption": "Visa interview coming up? 🛂\n\n1. Why this course and university\n2. Clear funding\n3. Honest answers\n4. Documents in order\n\nSave this 📌\n\n👉 app.goeduabroad.com (link in bio)\n\n#StudyAbroad #IndianStudents #StudyAbroadTips #EduAbroad #Reels"
   },
   "claims": [
     {
-      "text": "4 cheezein pehle se ready.",
+      "text": "4 things to have ready.",
       "source": "count of tips in this video"
     }
   ]

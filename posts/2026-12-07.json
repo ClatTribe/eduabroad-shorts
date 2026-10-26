@@ -2,34 +2,34 @@
   "date": "2026-12-07",
   "content": {
     "type": "checklist",
-    "title": "Do offers aa gaye?",
-    "highlight": "Aise compare karo.",
-    "subtitle": "Sirf naam aur ranking se decide mat karo.",
+    "title": "Got two offers?",
+    "highlight": "Compare them like this.",
+    "subtitle": "Don't decide on the name and ranking alone.",
     "steps": [
       {
-        "title": "Total kharcha",
-        "detail": "Tuition ke saath rent, khaana aur travel. Poore course ka hisaab lagao."
+        "title": "Total cost",
+        "detail": "Tuition plus rent, food and travel. Work it out for the whole course."
       },
       {
-        "title": "Scholarship ya funding",
-        "detail": "Kis offer mein kitni madad mil rahi hai? Wo kharche mein se ghatao."
+        "title": "Scholarship or funding",
+        "detail": "How much help does each offer give? Subtract it from the cost."
       },
       {
         "title": "Course modules",
-        "detail": "Jo subjects aapko chahiye, wo kahan zyada hain? Dono syllabus saath rakh ke dekho."
+        "detail": "Where are the subjects you want? Put both syllabuses side by side."
       },
       {
-        "title": "City aur rehna",
-        "detail": "Mausam, rent aur rehne ka mahaul. Wahan ke seniors se baat karo."
+        "title": "City and living",
+        "detail": "Weather, rent and the vibe of the place. Talk to seniors who live there."
       },
       {
-        "title": "Deposit ki deadline",
-        "detail": "Kis offer ko kab tak confirm karna hai? Galti se koi offer expire na ho.",
-        "tip": "Ek simple table banao: offer, kharcha, funding, deadline."
+        "title": "Deposit deadline",
+        "detail": "By when must you confirm each offer? Don't let one expire by mistake.",
+        "tip": "Make a simple table: offer, cost, funding, deadline."
       }
     ],
-    "saveLine": "decision ke time kaam aayega."
+    "saveLine": "it helps when you decide."
   },
-  "caption": "Ek se zyada offer aaye? Badhai ho! Ab aise compare karo 👇\n\n1. Total kharcha\n2. Scholarship ya funding\n3. Course modules\n4. City aur rehna\n5. Deposit ki deadline\n\nSave karo 📌 aur us dost ko bhejo jise iski zaroorat hai.\n\n👉 app.goeduabroad.com\n\n#StudyAbroad #IndianStudents #StudyAbroadTips #EduAbroad #StudyAbroadChecklist",
+  "caption": "Got more than one offer? Congratulations! Now compare them like this 👇\n\n1. Total cost\n2. Scholarship or funding\n3. Course modules\n4. City and living\n5. Deposit deadline\n\nSave it 📌 and send it to a friend who needs it.\n\n👉 app.goeduabroad.com\n\n#StudyAbroad #IndianStudents #StudyAbroadTips #EduAbroad #StudyAbroadChecklist",
   "claims": []
 }

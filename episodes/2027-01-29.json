@@ -5,47 +5,46 @@
   "musicSeed": 129,
   "hook": {
     "line1": [
-      "IELTS",
-      "ke"
+      "Admit",
+      "without"
     ],
     "line2": [
-      "bina",
-      "admit?"
+      "IELTS?"
     ],
-    "highlight": "admit?",
-    "subline": "English tests ke 3 myths."
+    "highlight": "IELTS?",
+    "subline": "3 myths about English tests."
   },
   "myths": {
     "seriesLabel": "Myth vs Fact",
     "items": [
       {
-        "myth": "IELTS ke bina admit nahi milta",
-        "fact": "Requirement course pe depend karti hai",
-        "detail": "Kai universities TOEFL, PTE ya Duolingo bhi maanti hain. Official site check karo."
+        "myth": "No admit without IELTS",
+        "fact": "It depends on the course's requirement",
+        "detail": "Many universities also accept TOEFL, PTE or Duolingo. Check the official site."
       },
       {
-        "myth": "IELTS ek hi baar de sakte ho",
-        "fact": "Retake kar sakte ho",
-        "detail": "Kitni baar bhi de sakte ho. Pichhli galtiyon se seekh ke dobara do."
+        "myth": "You can take IELTS only once",
+        "fact": "You can retake it",
+        "detail": "You can take it any number of times. Learn from past mistakes and try again."
       },
       {
-        "myth": "Speaking mein accent judge hota hai",
-        "fact": "Clarity aur fluency dekhi jaati hai",
-        "detail": "Apne accent mein, saaf aur bina ruke bolo. Wahi kaafi hai."
+        "myth": "Your accent is judged in Speaking",
+        "fact": "Clarity and fluency are what count",
+        "detail": "Speak clearly and smoothly in your own accent. That's enough."
       }
     ]
   },
   "closing": {
-    "line1": "Test se mat daro,",
-    "line2": "tayyari karo."
+    "line1": "Don't fear the test,",
+    "line2": "prepare for it."
   },
   "cta": {
-    "button": "Explore karo",
+    "button": "Explore now",
     "url": "app.goeduabroad.com"
   },
   "youtube": {
-    "title": "IELTS ke bina admit nahi milta? Myth vs Fact",
-    "description": "English tests ke 3 myths. Requirement course pe depend karti hai (kai universities TOEFL, PTE ya Duolingo bhi maanti hain), IELTS retake kar sakte ho, aur speaking mein accent nahi, clarity aur fluency dekhi jaati hai. Free IELTS resources: app.goeduabroad.com/ielts-online-test-kit\n\n👉 https://app.goeduabroad.com\n\nEduAbroad: Run by Harvard-Cambridge Alumni. 100% private. Contact aap karoge, hum nahi.",
+    "title": "No admit without IELTS? Myth vs Fact",
+    "description": "3 myths about English tests. The requirement depends on the course (many universities also accept TOEFL, PTE or Duolingo), you can retake IELTS, and in speaking it's clarity and fluency that count, not your accent. Free IELTS resources: app.goeduabroad.com/ielts-online-test-kit\n\n👉 https://app.goeduabroad.com\n\nEduAbroad: Run by Harvard-Cambridge Alumni. 100% private. You contact us, we never contact you first.",
     "tags": [
       "study abroad",
       "Indian students",
@@ -58,15 +57,15 @@
     ]
   },
   "instagram": {
-    "caption": "IELTS ke bina admit? 🤔\n\nRequirement course pe depend karti hai, IELTS retake kar sakte ho, aur speaking mein clarity matter karti hai, accent nahi.\n\n👉 app.goeduabroad.com (link in bio)\n\n#StudyAbroad #IndianStudents #StudyAbroadTips #EduAbroad #Reels"
+    "caption": "Admit without IELTS? 🤔\n\nThe requirement depends on the course, you can retake IELTS, and in speaking, clarity matters, not your accent.\n\n👉 app.goeduabroad.com (link in bio)\n\n#StudyAbroad #IndianStudents #StudyAbroadTips #EduAbroad #Reels"
   },
   "claims": [
     {
-      "text": "English tests ke 3 myths.",
+      "text": "3 myths about English tests.",
       "source": "count of myths in this video"
     },
     {
-      "text": "Retake kar sakte ho / Kitni baar bhi de sakte ho",
+      "text": "You can retake it / You can take it any number of times",
       "source": "EduAbroad IELTS kit page: 'There is no limit to the number of times you can take the exam'"
     }
   ]

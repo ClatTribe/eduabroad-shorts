@@ -9,43 +9,42 @@
       "job"
     ],
     "line2": [
-      "easy",
-      "hai?"
+      "easy?"
     ],
-    "highlight": "easy",
-    "subline": "3 myths jo pakadte nahi."
+    "highlight": "easy?",
+    "subline": "3 myths that don't hold up."
   },
   "myths": {
     "seriesLabel": "Myth vs Fact",
     "items": [
       {
-        "myth": "Wahan pahunchte hi job mil jaati hai",
-        "fact": "Job dhundhne mein time lagta hai",
-        "detail": "Pehle kuch mahine ka kharcha apne budget se plan karo."
+        "myth": "You get a job as soon as you land",
+        "fact": "Finding a job takes time",
+        "detail": "Plan the first few months' costs from your own budget."
       },
       {
-        "myth": "Part-time se poori fees nikal jaayegi",
-        "fact": "Part-time ek support hai, plan nahi",
-        "detail": "Fees aur rent ka plan pehle se banao. Job se bas madad milti hai."
+        "myth": "Part-time work will cover all your fees",
+        "fact": "Part-time work is support, not a plan",
+        "detail": "Plan fees and rent in advance. A job only helps a little."
       },
       {
-        "myth": "Kaam ke hours ki koi limit nahi",
-        "fact": "Har country ke apne rules hain",
-        "detail": "Student visa ke work rules pehle padho, aur unhe follow karo."
+        "myth": "There's no limit on work hours",
+        "fact": "Every country has its own rules",
+        "detail": "Read the student visa work rules first, and follow them."
       }
     ]
   },
   "closing": {
-    "line1": "Job pe nahi,",
-    "line2": "plan pe chalo."
+    "line1": "Rely on a plan,",
+    "line2": "not on a job."
   },
   "cta": {
-    "button": "Explore karo",
+    "button": "Explore now",
     "url": "app.goeduabroad.com"
   },
   "youtube": {
-    "title": "Abroad mein part-time job easy hai? Myth vs Fact",
-    "description": "Part-time job ke 3 bade myths. Job milne mein time lagta hai, part-time se poori fees nahi nikalti, aur har country ke student visa ke apne work rules hain. Pehle padho, phir plan karo.\n\n👉 https://app.goeduabroad.com\n\nEduAbroad: Run by Harvard-Cambridge Alumni. 100% private. Contact aap karoge, hum nahi.",
+    "title": "Is a part-time job abroad easy? Myth vs Fact",
+    "description": "3 big myths about part-time jobs. Finding a job takes time, part-time work won't cover all your fees, and every country has its own student visa work rules. Read them first, then plan.\n\n👉 https://app.goeduabroad.com\n\nEduAbroad: Run by Harvard-Cambridge Alumni. 100% private. You contact us, we never contact you first.",
     "tags": [
       "study abroad",
       "Indian students",
@@ -56,11 +55,11 @@
     ]
   },
   "instagram": {
-    "caption": "Part-time job easy hai? 🤔\n\nJob milne mein time lagta hai, fees ka plan pehle banao, aur visa ke work rules zaroor padho.\n\n👉 app.goeduabroad.com (link in bio)\n\n#StudyAbroad #IndianStudents #StudyAbroadTips #EduAbroad #Reels"
+    "caption": "Is a part-time job easy? 🤔\n\nFinding a job takes time, plan your fees in advance, and always read the visa work rules.\n\n👉 app.goeduabroad.com (link in bio)\n\n#StudyAbroad #IndianStudents #StudyAbroadTips #EduAbroad #Reels"
   },
   "claims": [
     {
-      "text": "3 myths jo pakadte nahi.",
+      "text": "3 myths that don't hold up.",
       "source": "count of myths in this video"
     }
   ]

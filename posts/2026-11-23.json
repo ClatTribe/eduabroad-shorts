@@ -2,42 +2,42 @@
   "date": "2026-11-23",
   "content": {
     "type": "checklist",
-    "title": "Kal test hai?",
-    "highlight": "Ye 5 kaam aaj karo.",
-    "subtitle": "Taiyari ho gayi. Ab bas chhoti galtiyon se bachna hai.",
+    "title": "Test tomorrow?",
+    "highlight": "Do these 5 things today.",
+    "subtitle": "Your preparation is done. Now just avoid small mistakes.",
     "steps": [
       {
-        "title": "ID check karo",
-        "detail": "Wahi ID le jao jo registration mein di thi. Naam ki spelling bhi match karo."
+        "title": "Check your ID",
+        "detail": "Take the same ID you used to register. Match the spelling of your name too."
       },
       {
-        "title": "Centre ka rasta dekho",
-        "detail": "Wahan pahunchne mein kitna time lagega, aaj hi check karo. Kal jaldi niklo."
+        "title": "Check the route",
+        "detail": "See today how long it takes to reach the centre. Leave early tomorrow."
       },
       {
-        "title": "Poori neend lo",
-        "detail": "Raat bhar padhne se kuch naya nahi aayega. Fresh dimaag zyada kaam aata hai."
+        "title": "Sleep well",
+        "detail": "Studying all night won't teach you anything new. A fresh mind works better."
       },
       {
-        "title": "Halka revision",
-        "detail": "Naya topic mat kholo. Apne notes aur purani galtiyan dekh lo.",
-        "tip": "IELTS kit ke Failure Patterns ek baar padh lo."
+        "title": "Light revision",
+        "detail": "Don't open a new topic. Go over your notes and old mistakes.",
+        "tip": "Read the Failure Patterns in the IELTS kit once."
       },
       {
-        "title": "Bag raat ko pack karo",
-        "detail": "ID, confirmation email aur paani. Jo allowed hai, wahi rakho. Subah ki bhaag daud bachegi."
+        "title": "Pack your bag at night",
+        "detail": "ID, confirmation email and water. Carry only what is allowed. It saves the morning rush."
       }
     ],
-    "saveLine": "test se pehle kaam aayega."
+    "saveLine": "it will help before your test."
   },
-  "caption": "Kal IELTS, TOEFL ya GRE hai? Aaj ye 5 kaam kar lo, kal tension kam hogi 👇\n\n1. ID check\n2. Centre ka rasta\n3. Poori neend\n4. Halka revision\n5. Bag raat ko pack\n\nSave karo 📌 aur us dost ko bhejo jise iski zaroorat hai.\n\n👉 app.goeduabroad.com\n\n#StudyAbroad #IndianStudents #StudyAbroadTips #EduAbroad #IELTS",
+  "caption": "IELTS, TOEFL or GRE tomorrow? Do these 5 things today and tomorrow will feel easier 👇\n\n1. Check your ID\n2. Check the route\n3. Sleep well\n4. Light revision\n5. Pack your bag at night\n\nSave this 📌 and send it to a friend who needs it.\n\n👉 app.goeduabroad.com\n\n#StudyAbroad #IndianStudents #StudyAbroadTips #EduAbroad #IELTS",
   "claims": [
     {
-      "text": "Ye 5 kaam aaj karo.",
+      "text": "Do these 5 things today.",
       "source": "count of items in this post"
     },
     {
-      "text": "IELTS kit ka Failure Patterns tab",
+      "text": "Failure Patterns tab in the IELTS kit",
       "source": "IELTS kit 'Failure Patterns' tab"
     }
   ]

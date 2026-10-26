@@ -5,47 +5,48 @@
   "musicSeed": 1225,
   "hook": {
     "line1": [
-      "Loan",
-      "lena"
+      "Is",
+      "a",
+      "loan"
     ],
     "line2": [
-      "galat",
-      "hai?"
+      "a",
+      "mistake?"
     ],
-    "highlight": "galat",
-    "subline": "Paise ke 3 myths."
+    "highlight": "mistake?",
+    "subline": "3 myths about money."
   },
   "myths": {
     "seriesLabel": "Myth vs Fact",
     "items": [
       {
-        "myth": "Education loan lena galat hai",
-        "fact": "Sahi plan ke saath loan ek tool hai",
-        "detail": "Repayment ka plan pehle samjho, phir decide karo."
+        "myth": "Taking an education loan is wrong",
+        "fact": "With the right plan, a loan is a tool",
+        "detail": "Understand the repayment plan first, then decide."
       },
       {
-        "myth": "Sirf scholarship se jaana chahiye",
-        "fact": "Mix plan karo",
-        "detail": "Savings, scholarship aur loan. Teeno milake plan zyada practical hota hai."
+        "myth": "You should go only on a scholarship",
+        "fact": "Plan a mix",
+        "detail": "Savings, scholarship and loan. All three together make a more practical plan."
       },
       {
-        "myth": "Sabse kam rate wala loan hi best",
-        "fact": "Total cost aur terms dekho",
-        "detail": "Processing fees, repayment shuru hone ka time aur shartein bhi compare karo."
+        "myth": "The lowest-rate loan is always best",
+        "fact": "Compare total cost and terms",
+        "detail": "Also compare processing fees, when repayment starts, and the conditions."
       }
     ]
   },
   "closing": {
-    "line1": "Darr se nahi,",
-    "line2": "plan se chalo."
+    "line1": "Don't go by fear,",
+    "line2": "go by a plan."
   },
   "cta": {
-    "button": "Explore karo",
+    "button": "Explore now",
     "url": "app.goeduabroad.com"
   },
   "youtube": {
-    "title": "Education loan lena galat hai? Myth vs Fact",
-    "description": "Paise ke 3 bade myths. Sahi plan ke saath loan ek tool hai, funding mix karo (savings, scholarship, loan), aur sirf interest rate nahi, total cost aur terms compare karo.\n\n👉 https://app.goeduabroad.com\n\nEduAbroad: Run by Harvard-Cambridge Alumni. 100% private. Contact aap karoge, hum nahi.",
+    "title": "Is taking an education loan wrong? Myth vs Fact",
+    "description": "3 big money myths. With the right plan, a loan is a tool. Mix your funding (savings, scholarship, loan). And compare the total cost and terms, not just the interest rate.\n\n👉 https://app.goeduabroad.com\n\nEduAbroad: Run by Harvard-Cambridge Alumni. 100% private. You contact us, we never contact you first.",
     "tags": [
       "study abroad",
       "Indian students",
@@ -56,11 +57,11 @@
     ]
   },
   "instagram": {
-    "caption": "Loan lena galat hai? 🤔\n\nSahi plan ke saath loan ek tool hai. Funding mix karo, aur sirf rate nahi, total cost dekho.\n\n👉 app.goeduabroad.com (link in bio)\n\n#StudyAbroad #IndianStudents #StudyAbroadTips #EduAbroad #Reels"
+    "caption": "Is taking a loan wrong? 🤔\n\nWith the right plan, a loan is a tool. Mix your funding, and look at the total cost, not just the rate.\n\n👉 app.goeduabroad.com (link in bio)\n\n#StudyAbroad #IndianStudents #StudyAbroadTips #EduAbroad #Reels"
   },
   "claims": [
     {
-      "text": "Paise ke 3 myths.",
+      "text": "3 myths about money.",
       "source": "count of myths in this video"
     }
   ]

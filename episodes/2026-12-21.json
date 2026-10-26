@@ -5,48 +5,48 @@
   "musicSeed": 1221,
   "hook": {
     "line1": [
-      "Kharcha",
-      "kitna"
+      "Costs?"
     ],
     "line2": [
-      "hoga?",
-      "Likho."
+      "Write",
+      "them",
+      "down."
     ],
-    "highlight": "Likho.",
-    "subline": "Budget sheet, 4 line mein."
+    "highlight": "down.",
+    "subline": "A budget sheet in 4 lines."
   },
   "tips": {
-    "seriesLabel": "Seedhi Baat",
+    "seriesLabel": "Straight Talk",
     "items": [
       {
         "title": "Tuition fees",
-        "detail": "University ki official site se, poore course ke liye. Har saal ki alag likho."
+        "detail": "From the university's official site, for the full course. Write each year separately."
       },
       {
-        "title": "Rent aur bills",
-        "detail": "Kamra, bijli, internet. Seniors se city ka real kharcha poocho."
+        "title": "Rent and bills",
+        "detail": "Room, electricity, internet. Ask seniors about the real cost in that city."
       },
       {
-        "title": "Khaana aur travel",
-        "detail": "Groceries, bus pass, phone. Chhote kharche bhi jodo."
+        "title": "Food and travel",
+        "detail": "Groceries, bus pass, phone. Add the small costs too."
       },
       {
         "title": "Emergency buffer",
-        "detail": "Ek hissa alag rakho jo sirf emergency ke liye ho."
+        "detail": "Keep a part aside that is only for emergencies."
       }
     ]
   },
   "closing": {
-    "line1": "Likha hua budget,",
-    "line2": "kam surprise."
+    "line1": "A written budget,",
+    "line2": "fewer surprises."
   },
   "cta": {
-    "button": "Explore karo",
+    "button": "Explore now",
     "url": "app.goeduabroad.com"
   },
   "youtube": {
-    "title": "Abroad padhai ka kharcha kaise plan karein? Simple budget sheet",
-    "description": "Abroad padhai ka budget 4 line mein: tuition fees (official site se), rent aur bills, khaana aur travel, aur ek emergency buffer. Likha hua budget, kam surprise.\n\n👉 https://app.goeduabroad.com\n\nEduAbroad: Run by Harvard-Cambridge Alumni. 100% private. Contact aap karoge, hum nahi.",
+    "title": "How to plan the cost of studying abroad? A simple budget sheet",
+    "description": "Your study abroad budget in 4 lines: tuition fees (from the official site), rent and bills, food and travel, and an emergency buffer. A written budget means fewer surprises.\n\n👉 https://app.goeduabroad.com\n\nEduAbroad: Run by Harvard-Cambridge Alumni. 100% private. You contact us, we never contact you first.",
     "tags": [
       "study abroad",
       "Indian students",
@@ -57,11 +57,11 @@
     ]
   },
   "instagram": {
-    "caption": "Kharcha kitna hoga? ✍️ Likho.\n\nTuition, rent + bills, khaana + travel, emergency buffer. Bas 4 line ka budget, aur tension half.\n\nSave karo 📌\n\n👉 app.goeduabroad.com (link in bio)\n\n#StudyAbroad #IndianStudents #StudyAbroadTips #EduAbroad #Reels"
+    "caption": "How much will it cost? ✍️ Write it down.\n\nTuition, rent + bills, food + travel, emergency buffer. Just a 4-line budget, and half the stress is gone.\n\nSave this 📌\n\n👉 app.goeduabroad.com (link in bio)\n\n#StudyAbroad #IndianStudents #StudyAbroadTips #EduAbroad #Reels"
   },
   "claims": [
     {
-      "text": "Budget sheet, 4 line mein.",
+      "text": "A budget sheet in 4 lines.",
       "source": "count of tips in this video"
     }
   ]

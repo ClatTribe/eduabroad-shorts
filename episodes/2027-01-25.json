@@ -5,48 +5,49 @@
   "musicSeed": 125,
   "hook": {
     "line1": [
-      "Offer",
-      "aaya!"
+      "Got",
+      "an",
+      "offer!"
     ],
     "line2": [
-      "Ab",
-      "kya?"
+      "What",
+      "now?"
     ],
-    "highlight": "kya?",
-    "subline": "Agle kadam, sahi order mein."
+    "highlight": "now?",
+    "subline": "Next steps, in the right order."
   },
   "tips": {
-    "seriesLabel": "Seedhi Baat",
+    "seriesLabel": "Straight Talk",
     "items": [
       {
-        "title": "Shartein padho",
-        "detail": "Conditional hai ya unconditional? Kya submit karna baaki hai, note karo."
+        "title": "Read the conditions",
+        "detail": "Is it conditional or unconditional? Note what you still need to submit."
       },
       {
-        "title": "Deposit ki date",
-        "detail": "Seat confirm karne ki deadline calendar mein daalo."
+        "title": "Deposit date",
+        "detail": "Put the deadline to confirm your seat in your calendar."
       },
       {
-        "title": "Visa ki list banao",
-        "detail": "Kaunse documents chahiye, aur appointment kab tak lena hai."
+        "title": "Make a visa list",
+        "detail": "Which documents you need, and by when to book the appointment."
       },
       {
-        "title": "Housing aur funding saath mein",
-        "detail": "Rehne ki jagah aur loan ya funds, dono parallel mein shuru karo."
+        "title": "Housing and funding together",
+        "detail": "Start on accommodation and your loan or funds in parallel."
       }
     ]
   },
   "closing": {
-    "line1": "Offer mil gaya,",
-    "line2": "ab plan pe chalo."
+    "line1": "Got the offer,",
+    "line2": "now follow the plan."
   },
   "cta": {
-    "button": "Explore karo",
+    "button": "Explore now",
     "url": "app.goeduabroad.com"
   },
   "youtube": {
-    "title": "Offer letter aaya, ab kya? Agle 4 kadam",
-    "description": "Offer letter ke baad: shartein dhyan se padho, deposit ki deadline note karo, visa documents ki list banao, aur housing aur funding parallel mein shuru karo.\n\n👉 https://app.goeduabroad.com\n\nEduAbroad: Run by Harvard-Cambridge Alumni. 100% private. Contact aap karoge, hum nahi.",
+    "title": "Got your offer letter, what now? The next 4 steps",
+    "description": "After your offer letter: read the conditions carefully, note the deposit deadline, make a list of visa documents, and start housing and funding in parallel.\n\n👉 https://app.goeduabroad.com\n\nEduAbroad: Run by Harvard-Cambridge Alumni. 100% private. You contact us, we never contact you first.",
     "tags": [
       "study abroad",
       "Indian students",
@@ -57,7 +58,7 @@
     ]
   },
   "instagram": {
-    "caption": "Offer aaya! 🎉 Ab kya?\n\nShartein padho, deposit date note karo, visa list banao, housing + funding saath mein.\n\nCongratulations, aur save karo 📌\n\n👉 app.goeduabroad.com (link in bio)\n\n#StudyAbroad #IndianStudents #StudyAbroadTips #EduAbroad #Reels"
+    "caption": "Got an offer! 🎉 What now?\n\nRead the conditions, note the deposit date, make a visa list, start housing + funding together.\n\nCongratulations, and save this 📌\n\n👉 app.goeduabroad.com (link in bio)\n\n#StudyAbroad #IndianStudents #StudyAbroadTips #EduAbroad #Reels"
   },
   "claims": []
 }

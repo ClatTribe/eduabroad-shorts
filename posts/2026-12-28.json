@@ -2,33 +2,33 @@
   "date": "2026-12-28",
   "content": {
     "type": "checklist",
-    "title": "LOR chahiye?",
-    "highlight": "Aise maango.",
-    "subtitle": "Achha LOR achhi planning se aata hai.",
+    "title": "Need an LOR?",
+    "highlight": "Ask for it like this.",
+    "subtitle": "A good LOR comes from good planning.",
     "steps": [
       {
-        "title": "Sahi insaan chuno",
-        "detail": "Jo aapko achhe se jaanta ho, wo bade naam se zyada kaam ka hai."
+        "title": "Pick the right person",
+        "detail": "Someone who knows you well matters more than a big name."
       },
       {
-        "title": "Jaldi poocho",
-        "detail": "Deadline se kaafi pehle request karo. Unke paas bhi baaki kaam hai."
+        "title": "Ask early",
+        "detail": "Request well before the deadline. They have other work too."
       },
       {
-        "title": "Brief bhejo",
-        "detail": "Resume, course ka naam aur wo projects jo unke saath kiye. Unhe yaad karna aasaan hoga."
+        "title": "Send a brief",
+        "detail": "Your resume, the course name and the projects you did with them. It makes recalling easy."
       },
       {
-        "title": "Process samjhao",
-        "detail": "Portal ka link kab aayega aur kya bharna hai, pehle se bata do."
+        "title": "Explain the process",
+        "detail": "Tell them in advance when the portal link will come and what to fill."
       },
       {
-        "title": "Thank you bolo",
-        "detail": "Submit hone ke baad shukriya. Result aaye toh unhe zaroor batao."
+        "title": "Say thank you",
+        "detail": "Thank them after they submit. Share your result with them when it comes."
       }
     ],
-    "saveLine": "LOR ke time kaam aayega."
+    "saveLine": "useful when you need an LOR."
   },
-  "caption": "Professor ya manager se LOR maangna awkward lagta hai? Ye 5 steps follow karo 👇\n\n1. Sahi insaan chuno\n2. Jaldi poocho\n3. Brief bhejo\n4. Process samjhao\n5. Thank you bolo\n\nSave karo 📌 aur us dost ko bhejo jise iski zaroorat hai.\n\n👉 app.goeduabroad.com\n\n#StudyAbroad #IndianStudents #StudyAbroadTips #EduAbroad #StudyAbroadChecklist",
+  "caption": "Asking a professor or manager for an LOR feels awkward? Follow these 5 steps 👇\n\n1. Pick the right person\n2. Ask early\n3. Send a brief\n4. Explain the process\n5. Say thank you\n\nSave it 📌 and send it to a friend who needs it.\n\n👉 app.goeduabroad.com\n\n#StudyAbroad #IndianStudents #StudyAbroadTips #EduAbroad #StudyAbroadChecklist",
   "claims": []
 }

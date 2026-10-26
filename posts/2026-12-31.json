@@ -2,34 +2,34 @@
   "date": "2026-12-31",
   "content": {
     "type": "versus",
-    "title": "Rehna kiske saath?",
-    "highlight": "Flatmates vs Akele",
+    "title": "Who to live with?",
+    "highlight": "Flatmates vs Alone",
     "left": "Flatmates",
-    "right": "Akele",
+    "right": "Alone",
     "rows": [
       {
-        "label": "Kharcha",
-        "left": "Rent baant jaata hai",
-        "right": "Poora rent khud"
+        "label": "Cost",
+        "left": "Rent is shared",
+        "right": "Full rent yourself"
       },
       {
         "label": "Privacy",
-        "left": "Kam",
-        "right": "Poori"
+        "left": "Less",
+        "right": "Full"
       },
       {
-        "label": "Saath",
-        "left": "Akelapan kam",
-        "right": "Shuru mein akela lag sakta hai"
+        "label": "Company",
+        "left": "Less lonely",
+        "right": "Can feel lonely at first"
       },
       {
         "label": "Rules",
-        "left": "Safai, bills pe settlement",
-        "right": "Apne rules, apni marzi"
+        "left": "Agree on cleaning, bills",
+        "right": "Your rules, your choice"
       }
     ],
-    "bottomLine": "Pehle saal flatmates ke saath aasaan rehta hai. Bills aur safai ke rules pehle din tay karo."
+    "bottomLine": "Flatmates make the first year easier. Agree on bills and cleaning rules on day one."
   },
-  "caption": "Flatmates ke saath ya akele? Dono ka apna maza aur apni dikkat.\n\nAap kya chunoge? Comment karo 👇\n\n👉 app.goeduabroad.com\n\n#StudyAbroad #IndianStudents #StudyAbroadTips #EduAbroad #StudentLife",
+  "caption": "With flatmates or alone? Each has its own fun and its own problems.\n\nWhat would you choose? Comment below 👇\n\n👉 app.goeduabroad.com\n\n#StudyAbroad #IndianStudents #StudyAbroadTips #EduAbroad #StudentLife",
   "claims": []
 }

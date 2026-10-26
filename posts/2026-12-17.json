@@ -2,34 +2,34 @@
   "date": "2026-12-17",
   "content": {
     "type": "versus",
-    "title": "Khaana kaise?",
+    "title": "What about food?",
     "highlight": "Meal plan vs Cooking",
     "left": "Meal plan",
-    "right": "Khud cooking",
+    "right": "Cook yourself",
     "rows": [
       {
         "label": "Time",
-        "left": "Bachta hai",
-        "right": "Roz thoda lagta hai"
+        "left": "Saves time",
+        "right": "Takes a little daily"
       },
       {
-        "label": "Kharcha",
-        "left": "Aksar fixed",
-        "right": "Planning se kam"
+        "label": "Cost",
+        "left": "Often fixed",
+        "right": "Lower with planning"
       },
       {
         "label": "Taste",
-        "left": "Jo milega wahi",
-        "right": "Ghar jaisa, apni marzi"
+        "left": "Whatever is served",
+        "right": "Like home, your choice"
       },
       {
         "label": "Skill",
-        "left": "Kuch naya nahi",
-        "right": "Life skill ban jaati hai"
+        "left": "Nothing new",
+        "right": "Becomes a life skill"
       }
     ],
-    "bottomLine": "Shuru mein meal plan aasaan hai. Par dal chawal banana abhi se seekh lo."
+    "bottomLine": "A meal plan is easier at first. But learn to make dal chawal before you go."
   },
-  "caption": "Mess ka khaana ya apni rasoi?\n\nAap kya chunoge? Comment karo 👇\n\n👉 app.goeduabroad.com\n\n#StudyAbroad #IndianStudents #StudyAbroadTips #EduAbroad #StudentLife",
+  "caption": "Mess food or your own kitchen?\n\nWhat would you choose? Comment below 👇\n\n👉 app.goeduabroad.com\n\n#StudyAbroad #IndianStudents #StudyAbroadTips #EduAbroad #StudentLife",
   "claims": []
 }

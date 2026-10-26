@@ -3,31 +3,31 @@
   "content": {
     "type": "feature",
     "feature": "Course Finder",
-    "promise": "Budget kam, sapne bade.",
+    "promise": "Small budget, big dreams.",
     "screenshot": "footage/course-finder/still.png",
-    "screenshotCaption": "Tuition fees ek nazar mein",
+    "screenshotCaption": "Tuition fees at a glance",
     "capture": {
       "feature": "course-finder",
       "clip": "scroll",
       "at": 0.3
     },
     "benefits": [
-      "Tuition fees pehle dekho",
-      "Programs worldwide, ek jagah",
-      "Country aur intake se filter"
+      "See tuition fees first",
+      "Programs worldwide, one place",
+      "Filter by country and intake"
     ],
     "howTo": [
-      "app.goeduabroad.com/course-finder kholo",
-      "Country aur intake chuno",
-      "Fees dekh ke shortlist karo"
+      "Open app.goeduabroad.com/course-finder",
+      "Pick a country and intake",
+      "Check fees, then shortlist"
     ],
-    "button": "Explore karo",
+    "button": "Explore now",
     "url": "app.goeduabroad.com/course-finder"
   },
-  "caption": "Course pasand aaya, fees dekh ke dil toot gaya? Ulta karo: pehle fees dekho.\n\nCourse Finder pe tuition fees aur intake saath mein dikhte hain. Budget ke andar wale options pehle.\n\n👉 app.goeduabroad.com/course-finder\n\n#StudyAbroad #IndianStudents #StudyAbroadTips #EduAbroad #CourseFinder",
+  "caption": "Loved a course, then saw the fees? Flip it: look at the fees first.\n\nCourse Finder shows tuition fees and intakes together. Options inside your budget come first.\n\n👉 app.goeduabroad.com/course-finder\n\n#StudyAbroad #IndianStudents #StudyAbroadTips #EduAbroad #CourseFinder",
   "claims": [
     {
-      "text": "Course Finder pe tuition fees",
+      "text": "Tuition fees on Course Finder",
       "source": "Course Finder shows Tuition Fees and intakes"
     },
     {
@@ -35,7 +35,7 @@
       "source": "Course Finder page: 'Explore programs and universities worldwide'"
     },
     {
-      "text": "Course Finder mein country, level aur intake filters",
+      "text": "Course Finder has country, level and intake filters",
       "source": "Course Finder filters: All Countries, All Study Levels, All Universities, All Intakes"
     }
   ]

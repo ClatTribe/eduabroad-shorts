@@ -3,37 +3,37 @@
   "content": {
     "type": "checklist",
     "title": "Application resume",
-    "highlight": "5 steps mein ready.",
-    "subtitle": "Job wala resume aur application wala resume thoda alag hota hai.",
+    "highlight": "Ready in 5 steps.",
+    "subtitle": "A resume for a job and one for an application are a little different.",
     "steps": [
       {
-        "title": "Chhota rakho",
-        "detail": "Zyada lamba hoga toh zaroori cheezein chhup jaayengi. Jo course se juda hai, wahi rakho."
+        "title": "Keep it short",
+        "detail": "If it's too long, the important things get lost. Keep only what relates to the course."
       },
       {
-        "title": "Education sabse upar",
-        "detail": "Degree, college aur score pehle. Uske baad projects aur experience."
+        "title": "Education at the top",
+        "detail": "Degree, college and score first. Then projects and experience."
       },
       {
-        "title": "Projects ka result likho",
-        "detail": "Kya banaya, kaunse tools use kiye aur result kya nikla. Chhoti, seedhi lines."
+        "title": "Write project results",
+        "detail": "What you built, which tools you used and what the result was. Short, simple lines."
       },
       {
-        "title": "Course se match karo",
-        "detail": "Data Science ke liye apply kar rahe ho? Data wale projects pehle dikhao."
+        "title": "Match it to the course",
+        "detail": "Applying for Data Science? Show your data projects first."
       },
       {
         "title": "Simple format",
-        "detail": "Ek font, saaf headings, PDF mein bhejo. Fancy design ki zaroorat nahi.",
-        "tip": "File ka naam: Naam_Resume.pdf"
+        "detail": "One font, clear headings, send it as a PDF. No fancy design needed.",
+        "tip": "File name: Name_Resume.pdf"
       }
     ],
-    "saveLine": "apply se pehle kaam aayega."
+    "saveLine": "it will help before you apply."
   },
-  "caption": "Application ke liye resume bana rahe ho? Ye 5 steps follow karo 👇\n\n1. Chhota rakho\n2. Education sabse upar\n3. Projects ka result likho\n4. Course se match karo\n5. Simple format\n\nSave karo 📌 aur us dost ko bhejo jise iski zaroorat hai.\n\n👉 app.goeduabroad.com\n\n#StudyAbroad #IndianStudents #StudyAbroadTips #EduAbroad #StudyAbroadChecklist",
+  "caption": "Making a resume for your application? Follow these 5 steps 👇\n\n1. Keep it short\n2. Education at the top\n3. Write project results\n4. Match it to the course\n5. Simple format\n\nSave this 📌 and send it to a friend who needs it.\n\n👉 app.goeduabroad.com\n\n#StudyAbroad #IndianStudents #StudyAbroadTips #EduAbroad #StudyAbroadChecklist",
   "claims": [
     {
-      "text": "5 steps mein ready.",
+      "text": "Ready in 5 steps.",
       "source": "count of items in this post"
     }
   ]

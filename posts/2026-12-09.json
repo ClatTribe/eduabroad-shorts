@@ -5,24 +5,24 @@
     "feature": "Fly & Settle",
     "promise": "Loan, visa, forex, insurance.",
     "screenshot": "post-shots/fly-settle-services.png",
-    "screenshotCaption": "Sab services ek jagah",
+    "screenshotCaption": "All services, one place",
     "benefits": [
       "Education loan assistance",
-      "Visa process mein expert guidance",
-      "Travel aur health insurance"
+      "Expert guidance on the visa process",
+      "Travel and health insurance"
     ],
     "howTo": [
-      "Fly & Settle page kholo",
-      "Service chuno, Learn More dabao",
+      "Open the Fly & Settle page",
+      "Pick a service, tap Learn More",
       "Confused? Talk to an Expert"
     ],
-    "button": "Baat karo",
+    "button": "Talk to us",
     "url": "app.goeduabroad.com/fly-&-settle-services"
   },
-  "caption": "Admit mil gaya. Ab loan, visa, forex aur insurance ka kya?\n\nFly & Settle pe ye sab services ek jagah. Samajh na aaye toh Talk to an Expert pe click karo.\n\n👉 app.goeduabroad.com/fly-&-settle-services\n\n#StudyAbroad #IndianStudents #StudyAbroadTips #EduAbroad #StudentVisa",
+  "caption": "Got your admit. Now what about the loan, visa, forex and insurance?\n\nFly & Settle has all these services in one place. Not sure where to start? Click Talk to an Expert.\n\n👉 app.goeduabroad.com/fly-&-settle-services\n\n#StudyAbroad #IndianStudents #StudyAbroadTips #EduAbroad #StudentVisa",
   "claims": [
     {
-      "text": "Loan, visa, forex, insurance. / Sab services ek jagah",
+      "text": "Loan, visa, forex, insurance. / All services, one place",
       "source": "Fly & Settle page lists Loans, Accommodation, Visa Assistance, Forex, Insurance, Pick Up Services, Job Assistance"
     },
     {
@@ -30,11 +30,11 @@
       "source": "Fly & Settle page: 'Get financial assistance for your education abroad'"
     },
     {
-      "text": "Visa process mein expert guidance",
+      "text": "Expert guidance on the visa process",
       "source": "Fly & Settle page: 'Our experts will guide you through every step of your application'"
     },
     {
-      "text": "Fly & Settle: travel aur health insurance",
+      "text": "Fly & Settle: travel and health insurance",
       "source": "Fly & Settle page: 'comprehensive travel and health insurance coverage tailored for international students'"
     },
     {

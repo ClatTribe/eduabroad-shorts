@@ -2,34 +2,34 @@
   "date": "2027-01-07",
   "content": {
     "type": "versus",
-    "title": "Course kitna lamba?",
-    "highlight": "Chhota vs Lamba course",
-    "left": "Chhota course",
-    "right": "Lamba course",
+    "title": "How long a course?",
+    "highlight": "Short vs Long course",
+    "left": "Short course",
+    "right": "Long course",
     "rows": [
       {
-        "label": "Kharcha",
-        "left": "Kam time, kam rent",
-        "right": "Zyada time, zyada kharcha"
+        "label": "Cost",
+        "left": "Less time, less rent",
+        "right": "More time, more cost"
       },
       {
         "label": "Pace",
-        "left": "Tez, packed schedule",
-        "right": "Aaram se, zyada subjects"
+        "left": "Fast, packed schedule",
+        "right": "Relaxed, more subjects"
       },
       {
         "label": "Internship",
-        "left": "Time kam milta hai",
-        "right": "Beech mein mauka ho sakta hai"
+        "left": "Less time for one",
+        "right": "May get a chance in between"
       },
       {
         "label": "Job",
-        "left": "Jaldi entry",
-        "right": "Zyada taiyari ke saath"
+        "left": "Earlier entry",
+        "right": "With more preparation"
       }
     ],
-    "bottomLine": "Course ki length country aur university pe depend karti hai. Sirf duration nahi, modules dekho."
+    "bottomLine": "Course length depends on the country and university. Look at the modules, not just the duration."
   },
-  "caption": "Chhota course ya lamba? Sasta hamesha behtar nahi, lamba hamesha zaroori nahi.\n\nAap kya chunoge? Comment karo 👇\n\n👉 app.goeduabroad.com\n\n#StudyAbroad #IndianStudents #StudyAbroadTips #EduAbroad #MastersAbroad",
+  "caption": "Short course or long one? Cheaper is not always better, and longer is not always needed.\n\nWhat would you pick? Comment below 👇\n\n👉 app.goeduabroad.com\n\n#StudyAbroad #IndianStudents #StudyAbroadTips #EduAbroad #MastersAbroad",
   "claims": []
 }

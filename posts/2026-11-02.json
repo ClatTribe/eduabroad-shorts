@@ -2,39 +2,39 @@
   "date": "2026-11-02",
   "content": {
     "type": "checklist",
-    "title": "Apply karne wale ho?",
-    "highlight": "Ye 5 documents ready?",
-    "subtitle": "Last week mein dhoondhoge toh deadline nikal jaayegi.",
+    "title": "Planning to apply?",
+    "highlight": "These 5 documents ready?",
+    "subtitle": "If you search for them in the last week, the deadline will pass.",
     "steps": [
       {
         "title": "Passport",
-        "detail": "Valid hona chahiye aur naam baaki documents se match kare. Expiry date abhi check karo.",
-        "tip": "Spelling ka mismatch sabse common galti hai."
+        "detail": "It must be valid and your name must match your other documents. Check the expiry date now.",
+        "tip": "A spelling mismatch is the most common mistake."
       },
       {
-        "title": "Marksheets aur transcripts",
-        "detail": "Har semester ki copies scan karke ek folder mein. Official transcript ka process college se pehle pooch lo."
+        "title": "Marksheets and transcripts",
+        "detail": "Scan every semester's copies into one folder. Ask your college early about the official transcript process."
       },
       {
         "title": "Test score reports",
-        "detail": "IELTS, TOEFL, PTE ya GRE, jo bhi diya. Score report ka PDF aur login details sambhal ke rakho."
+        "detail": "IELTS, TOEFL, PTE or GRE, whichever you took. Keep the score report PDF and login details safe."
       },
       {
         "title": "Updated resume",
-        "detail": "Saaf format, seedhi lines. Projects, internships aur achievements upar rakho."
+        "detail": "Clean format, simple lines. Put projects, internships and achievements at the top."
       },
       {
-        "title": "SOP aur LOR drafts",
-        "detail": "Final na ho toh bhi chalega. Draft ready hai toh editing ka time milta hai.",
-        "tip": "Har file ka naam aisa rakho: Naam_Document_University."
+        "title": "SOP and LOR drafts",
+        "detail": "They don't need to be final. A ready draft gives you time to edit.",
+        "tip": "Name every file like this: Name_Document_University."
       }
     ],
-    "saveLine": "apply karte waqt kaam aayega."
+    "saveLine": "it will help when you apply."
   },
-  "caption": "Application season mein sabse zyada time documents dhoondhne mein jaata hai. Ye 5 abhi ready karo 👇\n\n1. Passport\n2. Marksheets aur transcripts\n3. Test score reports\n4. Updated resume\n5. SOP aur LOR drafts\n\nSave karo 📌 aur us dost ko bhejo jise iski zaroorat hai.\n\n👉 app.goeduabroad.com\n\n#StudyAbroad #IndianStudents #StudyAbroadTips #EduAbroad #StudyAbroadChecklist",
+  "caption": "In application season, most time goes into hunting for documents. Get these 5 ready now 👇\n\n1. Passport\n2. Marksheets and transcripts\n3. Test score reports\n4. Updated resume\n5. SOP and LOR drafts\n\nSave this 📌 and send it to a friend who needs it.\n\n👉 app.goeduabroad.com\n\n#StudyAbroad #IndianStudents #StudyAbroadTips #EduAbroad #StudyAbroadChecklist",
   "claims": [
     {
-      "text": "Ye 5 documents ready?",
+      "text": "These 5 documents ready?",
       "source": "count of items in this post"
     }
   ]

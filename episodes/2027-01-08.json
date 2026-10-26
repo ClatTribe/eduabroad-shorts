@@ -5,47 +5,47 @@
   "musicSeed": 108,
   "hook": {
     "line1": [
-      "Scholarship",
-      "sirf"
+      "Scholarships",
+      "only"
     ],
     "line2": [
-      "toppers",
-      "ko?"
+      "for",
+      "toppers?"
     ],
-    "highlight": "ko?",
-    "subline": "3 myths, seedha sach."
+    "highlight": "toppers?",
+    "subline": "3 myths, the plain truth."
   },
   "myths": {
     "seriesLabel": "Myth vs Fact",
     "items": [
       {
-        "myth": "Average student ko scholarship nahi milti",
-        "fact": "Kai scholarships sirf marks pe nahi",
-        "detail": "Leadership, field, country ya need. Criteria alag alag hote hain."
+        "myth": "Average students don't get scholarships",
+        "fact": "Many scholarships aren't only about marks",
+        "detail": "Leadership, field, country or need. Criteria differ a lot."
       },
       {
-        "myth": "Scholarship matlab poori fees",
-        "fact": "Partial bhi badi madad hai",
-        "detail": "Chhoti scholarships milake bhi kharcha kaafi kam hota hai."
+        "myth": "A scholarship means full fees",
+        "fact": "Partial ones help a lot too",
+        "detail": "Even small scholarships together cut your costs a lot."
       },
       {
-        "myth": "Admit ke baad dekhenge",
-        "fact": "Kai deadlines jaldi hoti hain",
-        "detail": "Shortlist banate waqt hi scholarship deadlines bhi check karo."
+        "myth": "We'll look after the admit",
+        "fact": "Many deadlines come early",
+        "detail": "Check scholarship deadlines while you build your shortlist."
       }
     ]
   },
   "closing": {
-    "line1": "Jaldi dhundo,",
-    "line2": "zyada pao."
+    "line1": "Search early,",
+    "line2": "get more."
   },
   "cta": {
-    "button": "Explore karo",
+    "button": "Explore now",
     "url": "app.goeduabroad.com"
   },
   "youtube": {
-    "title": "Scholarship sirf toppers ko milti hai? Myth vs Fact",
-    "description": "Scholarship ke 3 myths: sirf toppers ko milti hai, matlab poori fees, aur admit ke baad dekhenge. Kai scholarships alag criteria pe hoti hain, partial bhi madad karti hain, aur kai deadlines jaldi hoti hain.\n\n👉 https://app.goeduabroad.com\n\nEduAbroad: Run by Harvard-Cambridge Alumni. 100% private. Contact aap karoge, hum nahi.",
+    "title": "Do only toppers get scholarships? Myth vs Fact",
+    "description": "3 scholarship myths: only toppers get them, a scholarship means full fees, and you can look after the admit. Many scholarships use other criteria, partial ones help too, and many deadlines come early.\n\n👉 https://app.goeduabroad.com\n\nEduAbroad: Run by Harvard-Cambridge Alumni. 100% private. You contact us, we never contact you first.",
     "tags": [
       "study abroad",
       "Indian students",
@@ -56,11 +56,11 @@
     ]
   },
   "instagram": {
-    "caption": "Scholarship sirf toppers ko? ❌ Myth.\n\nCriteria alag alag hote hain, partial bhi madad hai, aur deadlines jaldi check karo.\n\n👉 app.goeduabroad.com (link in bio)\n\n#StudyAbroad #IndianStudents #StudyAbroadTips #EduAbroad #Reels"
+    "caption": "Scholarships only for toppers? ❌ Myth.\n\nCriteria differ a lot, partial ones help too, and check deadlines early.\n\n👉 app.goeduabroad.com (link in bio)\n\n#StudyAbroad #IndianStudents #StudyAbroadTips #EduAbroad #Reels"
   },
   "claims": [
     {
-      "text": "3 myths, seedha sach.",
+      "text": "3 myths, the plain truth.",
       "source": "count of myths in this video"
     }
   ]

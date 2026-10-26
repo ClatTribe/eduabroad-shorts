@@ -3,26 +3,26 @@
   "content": {
     "type": "feature",
     "feature": "Fly & Settle",
-    "promise": "Pehla din abroad, aasaan.",
+    "promise": "Your first day abroad, easier.",
     "screenshot": "post-shots/fly-settle-arrival.png",
-    "screenshotCaption": "Pick-up se job support tak",
+    "screenshotCaption": "From pick-up to job support",
     "benefits": [
-      "Campus ke paas verified options",
+      "Verified options near campus",
       "Airport pick-up service",
-      "Resume aur job support"
+      "Resume and job support"
     ],
     "howTo": [
-      "Fly & Settle page kholo",
-      "Accommodation ya Pick Up chuno",
-      "Learn More dabao, details dekho"
+      "Open the Fly & Settle page",
+      "Pick Accommodation or Pick Up",
+      "Tap Learn More for details"
     ],
-    "button": "Baat karo",
+    "button": "Talk to us",
     "url": "app.goeduabroad.com/fly-&-settle-services"
   },
-  "caption": "Flight land hui. Ab rehna kahan hai, airport se kaise jaana hai?\n\nFly & Settle pe campus ke paas verified accommodation, airport pick-up aur baad mein job support.\n\n👉 app.goeduabroad.com/fly-&-settle-services\n\n#StudyAbroad #IndianStudents #StudyAbroadTips #EduAbroad #StudentLife",
+  "caption": "Your flight has landed. Now where do you stay, and how do you get there from the airport?\n\nFly & Settle has verified accommodation near campus, airport pick-up, and job support later on.\n\n👉 app.goeduabroad.com/fly-&-settle-services\n\n#StudyAbroad #IndianStudents #StudyAbroadTips #EduAbroad #StudentLife",
   "claims": [
     {
-      "text": "Campus ke paas verified options",
+      "text": "Verified options near campus",
       "source": "Fly & Settle page: 'verified accommodation options near your university campus'"
     },
     {
@@ -30,7 +30,7 @@
       "source": "Fly & Settle page: 'airport pickup services'"
     },
     {
-      "text": "Resume aur job support",
+      "text": "Resume and job support",
       "source": "Fly & Settle page: 'career guidance, resume help, and job placement support'"
     }
   ]

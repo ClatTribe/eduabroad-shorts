@@ -5,48 +5,48 @@
   "musicSeed": 1228,
   "hook": {
     "line1": [
-      "Naya",
-      "saal,"
+      "New",
+      "year,"
     ],
     "line2": [
-      "naya",
+      "new",
       "plan?"
     ],
     "highlight": "plan?",
-    "subline": "Abroad ka saal bhar ka plan."
+    "subline": "Your year-long study abroad plan."
   },
   "tips": {
-    "seriesLabel": "Seedhi Baat",
+    "seriesLabel": "Straight Talk",
     "items": [
       {
-        "title": "Shuru ke mahine: research",
-        "detail": "Countries, courses aur budget samjho. Ek lambi list banao."
+        "title": "Early months: research",
+        "detail": "Understand countries, courses and budget. Make a long list."
       },
       {
-        "title": "Phir: tests",
-        "detail": "IELTS, TOEFL, PTE ya GRE. Date book karo aur prep shuru."
+        "title": "Then: tests",
+        "detail": "IELTS, TOEFL, PTE or GRE. Book a date and start preparing."
       },
       {
-        "title": "Uske baad: SOP aur LOR",
-        "detail": "Drafts likho, recommenders ko pehle se bolo."
+        "title": "After that: SOP and LOR",
+        "detail": "Write drafts, and ask your recommenders early."
       },
       {
-        "title": "Phir: applications",
-        "detail": "Deadlines ki list banao aur ek ek karke submit karo."
+        "title": "Then: applications",
+        "detail": "List the deadlines and submit them one by one."
       }
     ]
   },
   "closing": {
-    "line1": "Plan saal bhar ka,",
-    "line2": "kaam roz thoda."
+    "line1": "A year-long plan,",
+    "line2": "a little work daily."
   },
   "cta": {
-    "button": "Explore karo",
+    "button": "Explore now",
     "url": "app.goeduabroad.com"
   },
   "youtube": {
-    "title": "Naye saal mein abroad ka plan? Saal bhar ka simple roadmap",
-    "description": "Naye saal mein abroad padhai ka plan: pehle research aur shortlist, phir tests, uske baad SOP aur LOR, aur phir applications. Har university ki deadline uski official site pe check karo.\n\n👉 https://app.goeduabroad.com\n\nEduAbroad: Run by Harvard-Cambridge Alumni. 100% private. Contact aap karoge, hum nahi.",
+    "title": "New year, study abroad plan? A simple year-long roadmap",
+    "description": "Your study abroad plan for the new year: research and shortlist first, then tests, after that SOP and LOR, and then applications. Check every university's deadline on its official site.\n\n👉 https://app.goeduabroad.com\n\nEduAbroad: Run by Harvard-Cambridge Alumni. 100% private. You contact us, we never contact you first.",
     "tags": [
       "study abroad",
       "Indian students",
@@ -57,7 +57,7 @@
     ]
   },
   "instagram": {
-    "caption": "Naya saal, naya plan? 🗓️\n\nResearch, phir tests, phir SOP + LOR, phir applications. Roz thoda kaam, saal bhar mein ready.\n\nSave karo 📌\n\n👉 app.goeduabroad.com (link in bio)\n\n#StudyAbroad #IndianStudents #StudyAbroadTips #EduAbroad #Reels"
+    "caption": "New year, new plan? 🗓️\n\nResearch, then tests, then SOP + LOR, then applications. A little work every day, and you're ready within the year.\n\nSave this 📌\n\n👉 app.goeduabroad.com (link in bio)\n\n#StudyAbroad #IndianStudents #StudyAbroadTips #EduAbroad #Reels"
   },
   "claims": []
 }

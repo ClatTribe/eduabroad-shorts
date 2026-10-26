@@ -5,48 +5,47 @@
   "musicSeed": 122,
   "hook": {
     "line1": [
-      "Ghar",
-      "ki",
-      "yaad?"
+      "Missing",
+      "home?"
     ],
     "line2": [
-      "Normal",
-      "hai."
+      "That's",
+      "normal."
     ],
-    "highlight": "Normal",
-    "subline": "Homesickness ke 3 myths."
+    "highlight": "normal.",
+    "subline": "3 myths about homesickness."
   },
   "myths": {
     "seriesLabel": "Myth vs Fact",
     "items": [
       {
-        "myth": "Strong log homesick nahi hote",
-        "fact": "Homesick hona normal hai",
-        "detail": "Naya desh, naye log. Thoda time lagta hai, aur ye theek hai."
+        "myth": "Strong people don't get homesick",
+        "fact": "Feeling homesick is normal",
+        "detail": "New country, new people. It takes time, and that's okay."
       },
       {
-        "myth": "Roz ghar call karo, sab theek",
-        "fact": "Wahan bhi routine banao",
-        "detail": "Call achhi hai, par wahan dost, clubs aur routine zaroori hain."
+        "myth": "Call home daily and all is well",
+        "fact": "Build a routine there too",
+        "detail": "Calls are good, but friends, clubs and a routine there matter too."
       },
       {
-        "myth": "Sab akele handle karo",
-        "fact": "Madad maangna strength hai",
-        "detail": "University ki student support services aur seniors se baat karo."
+        "myth": "Handle everything alone",
+        "fact": "Asking for help is a strength",
+        "detail": "Talk to your university's student support services and seniors."
       }
     ]
   },
   "closing": {
-    "line1": "Ghar door hai,",
-    "line2": "akele nahi ho."
+    "line1": "Home is far,",
+    "line2": "but you're not alone."
   },
   "cta": {
-    "button": "Explore karo",
+    "button": "Explore now",
     "url": "app.goeduabroad.com"
   },
   "youtube": {
-    "title": "Abroad mein ghar ki yaad aati hai? Myth vs Fact",
-    "description": "Homesickness ke 3 myths. Homesick hona normal hai, wahan bhi dost aur routine banao, aur madad maangna strength hai. University ki student support services aur seniors se baat karo.\n\n👉 https://app.goeduabroad.com\n\nEduAbroad: Run by Harvard-Cambridge Alumni. 100% private. Contact aap karoge, hum nahi.",
+    "title": "Missing home while studying abroad? Myth vs Fact",
+    "description": "3 myths about homesickness. Feeling homesick is normal, build friends and a routine there too, and asking for help is a strength. Talk to your university's student support services and seniors.\n\n👉 https://app.goeduabroad.com\n\nEduAbroad: Run by Harvard-Cambridge Alumni. 100% private. You contact us, we never contact you first.",
     "tags": [
       "study abroad",
       "Indian students",
@@ -57,11 +56,11 @@
     ]
   },
   "instagram": {
-    "caption": "Ghar ki yaad aati hai? 🏡 Normal hai.\n\nWahan dost aur routine banao, aur madad maangne se mat jhijhko.\n\nAbroad wale dost ko bhejo 💛\n\n👉 app.goeduabroad.com (link in bio)\n\n#StudyAbroad #IndianStudents #StudyAbroadTips #EduAbroad #Reels"
+    "caption": "Missing home? 🏡 That's normal.\n\nBuild friends and a routine there, and don't hesitate to ask for help.\n\nSend this to a friend abroad 💛\n\n👉 app.goeduabroad.com (link in bio)\n\n#StudyAbroad #IndianStudents #StudyAbroadTips #EduAbroad #Reels"
   },
   "claims": [
     {
-      "text": "Homesickness ke 3 myths.",
+      "text": "3 myths about homesickness.",
       "source": "count of myths in this video"
     }
   ]

@@ -6,45 +6,45 @@
   "hook": {
     "line1": [
       "Myth",
-      "ya"
+      "or"
     ],
     "line2": [
       "Fact?"
     ],
     "highlight": "Fact?",
-    "subline": "Admissions ke 3 bade myths."
+    "subline": "3 big admission myths."
   },
   "myths": {
     "seriesLabel": "Myth vs Fact",
     "items": [
       {
-        "myth": "IELTS 8+ hai toh admit pakka",
-        "fact": "Score sirf ek hissa hai",
-        "detail": "GPA, SOP, LOR aur experience bhi dekhe jaate hain. Admit Finder pe IELTS 9 wale bhi reject hue hain."
+        "myth": "IELTS 8+ means a sure admit",
+        "fact": "Your score is just one part",
+        "detail": "GPA, SOP, LOR and experience are checked too. On Admit Finder, even IELTS 9 profiles got rejected."
       },
       {
-        "myth": "Low GPA matlab koi chance nahi",
-        "fact": "Poori profile matter karti hai",
-        "detail": "Strong SOP, projects, experience aur sahi shortlist se raaste khulte hain."
+        "myth": "Low GPA means no chance",
+        "fact": "Your whole profile matters",
+        "detail": "A strong SOP, projects, experience and the right shortlist open doors."
       },
       {
-        "myth": "Jitni zyada applications, utna better",
-        "fact": "Sahi applications, zyada nahi",
-        "detail": "Har application mein fees aur mehnat lagti hai. Dream, target, safe ka balance rakho."
+        "myth": "More applications are better",
+        "fact": "Right applications, not more",
+        "detail": "Each application costs fees and effort. Balance dream, target and safe."
       }
     ]
   },
   "closing": {
-    "line1": "Myths pe mat chalo,",
-    "line2": "data dekho."
+    "line1": "Don't follow myths,",
+    "line2": "look at data."
   },
   "cta": {
-    "button": "Admits dekho",
+    "button": "See admits",
     "url": "app.goeduabroad.com/admit-finder"
   },
   "youtube": {
-    "title": "IELTS 8+ matlab admit pakka? Myth vs Fact",
-    "description": "Admissions ke 3 bade myths, aur unka sach.\n\nIELTS score sirf ek hissa hai. EduAbroad ke Admit Finder pe aise real profiles bhi hain jinka IELTS 9 tha aur phir bhi reject hue. Poori profile matter karti hai.\n\n👉 https://app.goeduabroad.com\n\nEduAbroad: Run by Harvard-Cambridge Alumni. 100% private. Contact aap karoge, hum nahi.",
+    "title": "IELTS 8+ means a sure admit? Myth vs Fact",
+    "description": "3 big admission myths, and the truth.\n\nYour IELTS score is just one part. EduAbroad's Admit Finder has real profiles with IELTS 9 that still got rejected. Your whole profile matters.\n\n👉 https://app.goeduabroad.com\n\nEduAbroad: Run by Harvard-Cambridge Alumni. 100% private. You contact us, we never contact you first.",
     "tags": [
       "study abroad",
       "Indian students",
@@ -56,19 +56,19 @@
     ]
   },
   "instagram": {
-    "caption": "Myth ya Fact? 🤔\n\nIELTS 8+ = admit pakka? Nahi. Admit Finder pe IELTS 9 wale bhi reject hue hain. Poori profile matter karti hai.\n\nAur 2 myths video mein 👆\n\n👉 app.goeduabroad.com (link in bio)\n\n#StudyAbroad #IndianStudents #StudyAbroadTips #EduAbroad #Reels"
+    "caption": "Myth or Fact? 🤔\n\nIELTS 8+ = sure admit? No. On Admit Finder, even IELTS 9 profiles got rejected. Your whole profile matters.\n\n2 more myths in the video 👆\n\n👉 app.goeduabroad.com (link in bio)\n\n#StudyAbroad #IndianStudents #StudyAbroadTips #EduAbroad #Reels"
   },
   "claims": [
     {
-      "text": "Admissions ke 3 bade myths.",
+      "text": "3 big admission myths.",
       "source": "count of myths in this video"
     },
     {
-      "text": "IELTS 8+ hai toh admit pakka",
+      "text": "IELTS 8+ means a sure admit",
       "source": "a common myth, shown as a myth (busted on screen)"
     },
     {
-      "text": "Admit Finder pe IELTS 9 wale bhi reject hue hain.",
+      "text": "On Admit Finder, even IELTS 9 profiles got rejected.",
       "source": "Real Tufts card on Admit Finder (IELTS 9, Rejected), recorded 2026-10-22"
     }
   ]

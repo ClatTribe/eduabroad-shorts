@@ -5,47 +5,47 @@
   "musicSeed": 101,
   "hook": {
     "line1": [
-      "Naya",
-      "saal,"
+      "New",
+      "year,"
     ],
     "line2": [
-      "purane",
+      "old",
       "myths?"
     ],
     "highlight": "myths?",
-    "subline": "3 myths jo saal kharab karte hain."
+    "subline": "3 myths that waste your year."
   },
   "myths": {
     "seriesLabel": "Myth vs Fact",
     "items": [
       {
-        "myth": "Abhi bahut time hai",
-        "fact": "Jaldi shuru, kam pressure",
-        "detail": "Research aur tests ke liye time lagta hai. Aaj se thoda thoda karo."
+        "myth": "There's a lot of time left",
+        "fact": "Start early, less pressure",
+        "detail": "Research and tests take time. Do a little every day, starting today."
       },
       {
-        "myth": "Deadlines baad mein dekhenge",
-        "fact": "Deadlines ki list abhi banao",
-        "detail": "Har university ki deadline official site pe check karo aur ek sheet mein likho."
+        "myth": "We'll check deadlines later",
+        "fact": "Make a deadline list now",
+        "detail": "Check each university's deadline on its official site and note it in one sheet."
       },
       {
-        "myth": "Ek hi test sab jagah chalega",
-        "fact": "Har course ki requirement alag hai",
-        "detail": "Kaunsa test, kitna score, ye har university ki site pe check karo."
+        "myth": "One test works everywhere",
+        "fact": "Each course has its own requirement",
+        "detail": "Which test and what score: check each university's site."
       }
     ]
   },
   "closing": {
-    "line1": "Naya saal,",
-    "line2": "naya plan."
+    "line1": "New year,",
+    "line2": "new plan."
   },
   "cta": {
-    "button": "Explore karo",
+    "button": "Explore now",
     "url": "app.goeduabroad.com"
   },
   "youtube": {
-    "title": "Naya saal, purane myths? Study abroad Myth vs Fact",
-    "description": "Naye saal ke 3 study abroad myths: abhi bahut time hai, deadlines baad mein, aur ek test sab jagah chalega. Jaldi shuru karo, deadlines ki list banao, aur har course ki requirement official site pe check karo.\n\n👉 https://app.goeduabroad.com\n\nEduAbroad: Run by Harvard-Cambridge Alumni. 100% private. Contact aap karoge, hum nahi.",
+    "title": "New year, old myths? Study abroad Myth vs Fact",
+    "description": "3 study abroad myths for the new year: there's lots of time, deadlines can wait, and one test works everywhere. Start early, make a deadline list, and check each course's requirement on the official site.\n\n👉 https://app.goeduabroad.com\n\nEduAbroad: Run by Harvard-Cambridge Alumni. 100% private. You contact us, we never contact you first.",
     "tags": [
       "study abroad",
       "Indian students",
@@ -56,11 +56,11 @@
     ]
   },
   "instagram": {
-    "caption": "Naya saal, purane myths? 🎆\n\nAbhi se shuru karo, deadlines ki list banao, aur har course ki requirement check karo.\n\n👉 app.goeduabroad.com (link in bio)\n\n#StudyAbroad #IndianStudents #StudyAbroadTips #EduAbroad #Reels"
+    "caption": "New year, old myths? 🎆\n\nStart now, make a deadline list, and check each course's requirement.\n\n👉 app.goeduabroad.com (link in bio)\n\n#StudyAbroad #IndianStudents #StudyAbroadTips #EduAbroad #Reels"
   },
   "claims": [
     {
-      "text": "3 myths jo saal kharab karte hain.",
+      "text": "3 myths that waste your year.",
       "source": "count of myths in this video"
     }
   ]

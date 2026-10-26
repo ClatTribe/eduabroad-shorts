@@ -5,48 +5,49 @@
   "musicSeed": 1127,
   "hook": {
     "line1": [
-      "Sirf",
+      "Only",
       "dream",
-      "uni?"
+      "unis?"
     ],
     "line2": [
-      "Ruko",
-      "zara."
+      "Wait",
+      "a",
+      "bit."
     ],
-    "highlight": "zara.",
-    "subline": "Shortlist ke 3 myths."
+    "highlight": "bit.",
+    "subline": "3 shortlist myths."
   },
   "myths": {
     "seriesLabel": "Myth vs Fact",
     "items": [
       {
-        "myth": "Sirf top universities mein apply karo",
-        "fact": "Dream, target, safe teeno rakho",
-        "detail": "Balanced list se admit ke chances aur options dono badhte hain."
+        "myth": "Apply only to top universities",
+        "fact": "Keep dream, target and safe",
+        "detail": "A balanced list improves both your chances and your options."
       },
       {
-        "myth": "Ranking hi sab kuch hai",
-        "fact": "Course aur fit zyada zaroori",
-        "detail": "Curriculum, location, budget aur career outcome bhi dekho."
+        "myth": "Ranking is everything",
+        "fact": "Course and fit matter more",
+        "detail": "Look at the curriculum, location, budget and career outcomes too."
       },
       {
-        "myth": "Jo dost ne chuna, wahi sahi",
-        "fact": "Aapki profile, aapki list",
-        "detail": "Har profile alag hai. Apne jaise real admits dekh ke decide karo."
+        "myth": "What your friend picked is right for you",
+        "fact": "Your profile, your list",
+        "detail": "Every profile is different. Decide after seeing real admits like yours."
       }
     ]
   },
   "closing": {
     "line1": "Smart list,",
-    "line2": "kam stress."
+    "line2": "less stress."
   },
   "cta": {
-    "button": "Admits dekho",
+    "button": "See admits",
     "url": "app.goeduabroad.com/admit-finder"
   },
   "youtube": {
-    "title": "Sirf dream university mein apply karo? Myth vs Fact",
-    "description": "University shortlist ke 3 bade myths.\n\nDream, target aur safe, teeno rakho. Ranking se zyada course aur fit dekho. Aur dost ki list copy mat karo, apne jaise real admits dekh ke decide karo.\n\n👉 https://app.goeduabroad.com\n\nEduAbroad: Run by Harvard-Cambridge Alumni. 100% private. Contact aap karoge, hum nahi.",
+    "title": "Apply only to dream universities? Myth vs Fact",
+    "description": "3 big university shortlist myths.\n\nKeep dream, target and safe options. Look at course and fit more than ranking. And don't copy a friend's list, decide after seeing real admits like yours.\n\n👉 https://app.goeduabroad.com\n\nEduAbroad: Run by Harvard-Cambridge Alumni. 100% private. You contact us, we never contact you first.",
     "tags": [
       "study abroad",
       "Indian students",
@@ -57,11 +58,11 @@
     ]
   },
   "instagram": {
-    "caption": "Sirf dream uni? ✋ Ruko zara.\n\nDream + target + safe = smart shortlist. Ranking se zyada fit matter karta hai.\n\nApne jaise real admits dekho: Admit Finder 👇\n\n👉 app.goeduabroad.com (link in bio)\n\n#StudyAbroad #IndianStudents #StudyAbroadTips #EduAbroad #Reels"
+    "caption": "Only dream unis? ✋ Wait a bit.\n\nDream + target + safe = a smart shortlist. Fit matters more than ranking.\n\nSee real admits like yours on Admit Finder 👇\n\n👉 app.goeduabroad.com (link in bio)\n\n#StudyAbroad #IndianStudents #StudyAbroadTips #EduAbroad #Reels"
   },
   "claims": [
     {
-      "text": "Shortlist ke 3 myths.",
+      "text": "3 shortlist myths.",
       "source": "count of myths in this video"
     }
   ]

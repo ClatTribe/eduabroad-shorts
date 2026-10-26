@@ -5,7 +5,7 @@
     "feature": "Course Finder",
     "promise": "Country, level, intake.",
     "screenshot": "footage/course-finder/still.png",
-    "screenshotCaption": "Apne filters, apni list",
+    "screenshotCaption": "Your filters, your list",
     "capture": {
       "feature": "course-finder",
       "clip": "scroll",
@@ -13,21 +13,21 @@
     },
     "benefits": [
       "Country, level, intake filters",
-      "Programs worldwide, ek jagah",
-      "Fees aur intake saath mein"
+      "Programs worldwide, one place",
+      "Fees and intakes side by side"
     ],
     "howTo": [
-      "app.goeduabroad.com/course-finder kholo",
-      "Teeno filters lagao",
-      "Jo fit ho, shortlist mein daalo"
+      "Open app.goeduabroad.com/course-finder",
+      "Apply all three filters",
+      "Shortlist the ones that fit"
     ],
-    "button": "Explore karo",
+    "button": "Explore now",
     "url": "app.goeduabroad.com/course-finder"
   },
-  "caption": "Har country, har level, har intake. Sab ek jagah filter karo.\n\nCourse Finder pe programs worldwide hain. Teen filters lagao aur apni list khud banao.\n\n👉 app.goeduabroad.com/course-finder\n\n#StudyAbroad #IndianStudents #StudyAbroadTips #EduAbroad #CourseFinder",
+  "caption": "Every country, every level, every intake. Filter it all in one place.\n\nCourse Finder has programs from around the world. Apply three filters and build your own list.\n\n👉 app.goeduabroad.com/course-finder\n\n#StudyAbroad #IndianStudents #StudyAbroadTips #EduAbroad #CourseFinder",
   "claims": [
     {
-      "text": "Course Finder mein country, level aur intake filters",
+      "text": "Course Finder has country, level and intake filters",
       "source": "Course Finder filters: All Countries, All Study Levels, All Universities, All Intakes"
     },
     {
@@ -35,7 +35,7 @@
       "source": "Course Finder page: 'Explore programs and universities worldwide'"
     },
     {
-      "text": "Course Finder pe tuition fees",
+      "text": "Course Finder shows tuition fees",
       "source": "Course Finder shows Tuition Fees and intakes"
     }
   ]

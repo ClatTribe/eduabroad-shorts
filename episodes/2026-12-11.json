@@ -5,48 +5,47 @@
   "musicSeed": 1211,
   "hook": {
     "line1": [
-      "Sirf",
-      "CS",
-      "ka"
+      "Only",
+      "CS"
     ],
     "line2": [
-      "scope",
-      "hai?"
+      "has",
+      "scope?"
     ],
-    "highlight": "scope",
-    "subline": "Course chunne ke 3 myths."
+    "highlight": "scope?",
+    "subline": "3 myths about picking a course."
   },
   "myths": {
     "seriesLabel": "Myth vs Fact",
     "items": [
       {
-        "myth": "Abroad mein sirf CS ka scope hai",
-        "fact": "Har field ke achhe courses hain",
-        "detail": "Business, design, health, public policy. Apni interest aur profile se chuno."
+        "myth": "Abroad, only CS has scope",
+        "fact": "Every field has good courses",
+        "detail": "Business, design, health, public policy. Choose by your interest and profile."
       },
       {
-        "myth": "Bade city mein hi padhna chahiye",
-        "fact": "City se zyada fit zaroori",
-        "detail": "Chhote city mein bhi achhe campus hote hain. Kharcha aur lifestyle bhi dekho."
+        "myth": "You must study in a big city",
+        "fact": "Fit matters more than the city",
+        "detail": "Smaller cities have good campuses too. Check costs and lifestyle as well."
       },
       {
-        "myth": "Course ka naam dekh ke chuno",
-        "fact": "Curriculum padho",
-        "detail": "Same naam, alag subjects. Modules, projects aur internships check karo."
+        "myth": "Pick a course by its name",
+        "fact": "Read the curriculum",
+        "detail": "Same name, different subjects. Check modules, projects and internships."
       }
     ]
   },
   "closing": {
-    "line1": "Trend nahi,",
-    "line2": "apna fit chuno."
+    "line1": "Skip the trend,",
+    "line2": "pick your fit."
   },
   "cta": {
-    "button": "Explore karo",
+    "button": "Explore now",
     "url": "app.goeduabroad.com"
   },
   "youtube": {
-    "title": "Abroad mein sirf CS ka scope hai? Myth vs Fact",
-    "description": "Course chunne ke 3 bade myths. Sirf CS hi option nahi, bada city zaroori nahi, aur course ka naam nahi, curriculum padho.\n\n👉 https://app.goeduabroad.com\n\nEduAbroad: Run by Harvard-Cambridge Alumni. 100% private. Contact aap karoge, hum nahi.",
+    "title": "Does only CS have scope abroad? Myth vs Fact",
+    "description": "3 big myths about choosing a course. CS isn't the only option, a big city isn't a must, and don't go by the course name, read the curriculum.\n\n👉 https://app.goeduabroad.com\n\nEduAbroad: Run by Harvard-Cambridge Alumni. 100% private. You contact us, we never contact you first.",
     "tags": [
       "study abroad",
       "Indian students",
@@ -57,11 +56,11 @@
     ]
   },
   "instagram": {
-    "caption": "Sirf CS ka scope hai? ❌ Myth.\n\nHar field ke achhe courses hain. City se zyada fit matter karta hai. Aur naam nahi, curriculum padho.\n\n👉 app.goeduabroad.com (link in bio)\n\n#StudyAbroad #IndianStudents #StudyAbroadTips #EduAbroad #Reels"
+    "caption": "Only CS has scope? ❌ Myth.\n\nEvery field has good courses. Fit matters more than the city. And read the curriculum, not just the name.\n\n👉 app.goeduabroad.com (link in bio)\n\n#StudyAbroad #IndianStudents #StudyAbroadTips #EduAbroad #Reels"
   },
   "claims": [
     {
-      "text": "Course chunne ke 3 myths.",
+      "text": "3 myths about picking a course.",
       "source": "count of myths in this video"
     }
   ]

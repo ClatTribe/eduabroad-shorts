@@ -2,51 +2,51 @@
   "date": "2026-12-21",
   "content": {
     "type": "checklist",
-    "title": "Shortlist banana hai?",
-    "highlight": "5 steps, simple.",
-    "subtitle": "Dost ki list copy mat karo. Apni profile se shuru karo.",
+    "title": "Making a shortlist?",
+    "highlight": "5 simple steps.",
+    "subtitle": "Don't copy a friend's list. Start from your own profile.",
     "steps": [
       {
-        "title": "Apni profile likho",
-        "detail": "GPA, test scores, experience aur budget. Sab ek jagah."
+        "title": "Write your profile",
+        "detail": "GPA, test scores, experience and budget. All in one place."
       },
       {
-        "title": "Real data dekho",
-        "detail": "Apne jaise profiles ka result dekho, accepted bhi aur rejected bhi.",
-        "tip": "Admit Finder pe course aur intake se filter karo."
+        "title": "Look at real data",
+        "detail": "See results for profiles like yours, accepted and rejected.",
+        "tip": "On Admit Finder, filter by course and intake."
       },
       {
-        "title": "Courses filter karo",
-        "detail": "Country, level aur intake chuno. Fees pehle dekho, phir dil lagao.",
-        "tip": "Course Finder mein ye saare filters hain."
+        "title": "Filter courses",
+        "detail": "Pick country, level and intake. Check fees first, then fall in love.",
+        "tip": "Course Finder has all these filters."
       },
       {
-        "title": "Teen bucket banao",
-        "detail": "Dream, target aur safe. Har bucket mein kuch universities."
+        "title": "Make three buckets",
+        "detail": "Dream, target and safe. A few universities in each."
       },
       {
-        "title": "Deadline ke saath list",
-        "detail": "Final list mein har university ki deadline aur documents likh do."
+        "title": "List with deadlines",
+        "detail": "Write each university's deadline and documents in your final list."
       }
     ],
-    "saveLine": "shortlist mein kaam aayega."
+    "saveLine": "useful for your shortlist."
   },
-  "caption": "Shortlist banana sabse confusing step lagta hai. 5 steps mein simple karo 👇\n\n1. Apni profile likho\n2. Real data dekho\n3. Courses filter karo\n4. Teen bucket banao\n5. Deadline ke saath list\n\nSave karo 📌 aur us dost ko bhejo jise iski zaroorat hai.\n\n👉 app.goeduabroad.com\n\n#StudyAbroad #IndianStudents #StudyAbroadTips #EduAbroad #StudyAbroadChecklist",
+  "caption": "Making a shortlist feels like the most confusing step. Keep it simple in 5 steps 👇\n\n1. Write your profile\n2. Look at real data\n3. Filter courses\n4. Make three buckets\n5. List with deadlines\n\nSave it 📌 and send it to a friend who needs it.\n\n👉 app.goeduabroad.com\n\n#StudyAbroad #IndianStudents #StudyAbroadTips #EduAbroad #StudyAbroadChecklist",
   "claims": [
     {
-      "text": "5 steps, simple.",
+      "text": "5 simple steps.",
       "source": "count of items in this post"
     },
     {
-      "text": "Admit Finder pe course aur intake se filter karo.",
+      "text": "On Admit Finder, filter by course and intake.",
       "source": "Admit Finder filters: Intake, Year, Course, Work Experience, Acceptance"
     },
     {
-      "text": "Admit Finder pe real profiles, accepted bhi aur rejected bhi",
+      "text": "Real profiles on Admit Finder, accepted and rejected",
       "source": "Admit Finder cards show Accepted and Rejected results"
     },
     {
-      "text": "Course Finder mein country, level aur intake filters",
+      "text": "Course Finder has country, level and intake filters",
       "source": "Course Finder filters: All Countries, All Study Levels, All Universities, All Intakes"
     }
   ]

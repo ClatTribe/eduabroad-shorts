@@ -2,28 +2,28 @@
   "date": "2026-12-27",
   "content": {
     "type": "parents",
-    "label": "Har mummy papa ka sawaal",
-    "question": "College achha hai, kaise pata chalega?",
+    "label": "Every parent asks",
+    "question": "How do we know the college is good?",
     "answers": [
       {
-        "title": "Course modules dekho",
-        "detail": "Kya padhaya jaata hai, wo naam se zyada zaroori hai."
+        "title": "Look at the modules",
+        "detail": "What is taught matters more than the name."
       },
       {
-        "title": "Real admits dekho",
-        "detail": "Admit Finder pe real students ke profiles aur results hain. Saath baith ke dekho."
+        "title": "See real admits",
+        "detail": "Admit Finder has real students' profiles and results. Look at them together."
       },
       {
-        "title": "Seniors se baat",
-        "detail": "Jo wahan padh rahe hain, unse classes, city aur kharche ke baare mein poocho."
+        "title": "Talk to seniors",
+        "detail": "Ask students already there about classes, the city and costs."
       }
     ],
-    "closing": "ye post bhejo."
+    "closing": "share this post."
   },
-  "caption": "\"College achha hai, kaise pata chalega?\" 💛\n\nBrochure sab achhe dikhte hain. 3 seedhe jawab jo tension kam karenge.\n\nMummy Papa ko ye post bhejo 👇\n\n👉 app.goeduabroad.com\n\n#StudyAbroad #IndianParents #StudyAbroadTips #EduAbroad",
+  "caption": "\"How do we know the college is good?\" 💛\n\nEvery brochure looks good. 3 simple answers to ease the tension.\n\nSend this post to Mum and Dad 👇\n\n👉 app.goeduabroad.com\n\n#StudyAbroad #IndianParents #StudyAbroadTips #EduAbroad",
   "claims": [
     {
-      "text": "Admit Finder pe real profiles, accepted bhi aur rejected bhi",
+      "text": "Real profiles on Admit Finder, accepted and rejected",
       "source": "Admit Finder cards show Accepted and Rejected results"
     }
   ]

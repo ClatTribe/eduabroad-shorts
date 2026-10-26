@@ -3,9 +3,9 @@
   "content": {
     "type": "feature",
     "feature": "Admit Finder",
-    "promise": "Kaun accept, kaun reject?",
+    "promise": "Who got in, who didn't?",
     "screenshot": "post-shots/admit-tufts.png",
-    "screenshotCaption": "IELTS 9. Phir bhi reject.",
+    "screenshotCaption": "IELTS 9. Still rejected.",
     "screenshotBlur": [
       {
         "x": 76,
@@ -15,34 +15,34 @@
       }
     ],
     "benefits": [
-      "Accepted aur rejected, dono",
-      "GPA, GRE, IELTS aur result",
-      "Login ki zaroorat nahi"
+      "Accepted and rejected, both",
+      "GPA, GRE, IELTS and result",
+      "No login needed"
     ],
     "howTo": [
-      "app.goeduabroad.com/admit-finder kholo",
-      "Course aur intake se filter karo",
-      "Apne jaise profiles dekho"
+      "Open app.goeduabroad.com/admit-finder",
+      "Filter by course and intake",
+      "See profiles like yours"
     ],
     "button": "Try it free",
     "url": "app.goeduabroad.com/admit-finder"
   },
-  "caption": "IELTS 9 aur phir bhi reject. Ye real profile hai, Admit Finder se.\n\nSirf success stories nahi, rejected profiles bhi dikhte hain. Taaki aap sach dekh ke plan karo. Free hai, login nahi chahiye.\n\n👉 app.goeduabroad.com/admit-finder\n\n#StudyAbroad #IndianStudents #StudyAbroadTips #EduAbroad #AdmitFinder",
+  "caption": "IELTS 9 and still rejected. This is a real profile from Admit Finder.\n\nYou see rejected profiles too, not just success stories, so you can plan with the real picture. It's free, no login needed.\n\n👉 app.goeduabroad.com/admit-finder\n\n#StudyAbroad #IndianStudents #StudyAbroadTips #EduAbroad #AdmitFinder",
   "claims": [
     {
-      "text": "IELTS 9. Phir bhi reject.",
+      "text": "IELTS 9. Still rejected.",
       "source": "Real Tufts card on Admit Finder (IELTS 9, Rejected), recorded 2026-10-22"
     },
     {
-      "text": "Accepted aur rejected, dono",
+      "text": "Accepted and rejected, both",
       "source": "Admit Finder cards show Accepted and Rejected results"
     },
     {
-      "text": "GPA, GRE, IELTS aur result",
+      "text": "GPA, GRE, IELTS and result",
       "source": "Admit Finder cards show GPA, GRE, English test and result"
     },
     {
-      "text": "Login ki zaroorat nahi / Free hai",
+      "text": "No login needed / It's free",
       "source": "app.goeduabroad.com/admit-finder is public and loads without login"
     }
   ]

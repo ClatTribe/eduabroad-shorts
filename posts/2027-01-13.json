@@ -3,34 +3,34 @@
   "content": {
     "type": "feature",
     "feature": "Admit Finder",
-    "promise": "Mere jaise kaun gaya?",
+    "promise": "Who like me got in?",
     "screenshot": "post-shots/admit-filter.png",
-    "screenshotCaption": "Course aur intake chuno",
+    "screenshotCaption": "Pick your course and intake",
     "benefits": [
       "Intake, course, work ex filters",
-      "Accepted aur rejected, dono",
-      "Login ki zaroorat nahi"
+      "Both accepted and rejected",
+      "No login needed"
     ],
     "howTo": [
-      "app.goeduabroad.com/admit-finder kholo",
-      "Intake, course aur work ex chuno",
-      "Apne jaise profiles dekho"
+      "Open app.goeduabroad.com/admit-finder",
+      "Pick intake, course and work ex",
+      "See profiles like yours"
     ],
     "button": "Try it free",
     "url": "app.goeduabroad.com/admit-finder"
   },
-  "caption": "Mere jaise profile wale kahan gaye? Ab andaza mat lagao.\n\nAdmit Finder pe intake, course, work experience aur result se filter karo. Real profiles, accepted bhi aur rejected bhi. Free, login nahi chahiye.\n\n👉 app.goeduabroad.com/admit-finder\n\n#StudyAbroad #IndianStudents #StudyAbroadTips #EduAbroad #AdmitFinder",
+  "caption": "Where did students with a profile like yours get in? Stop guessing.\n\nOn Admit Finder, filter by intake, course, work experience and result. Real profiles, both accepted and rejected. Free, no login needed.\n\n👉 app.goeduabroad.com/admit-finder\n\n#StudyAbroad #IndianStudents #StudyAbroadTips #EduAbroad #AdmitFinder",
   "claims": [
     {
       "text": "Intake, course, work ex filters",
       "source": "Admit Finder filters: Intake, Year, Course, Work Experience, Acceptance"
     },
     {
-      "text": "Accepted aur rejected, dono",
+      "text": "Both accepted and rejected",
       "source": "Admit Finder cards show Accepted and Rejected results"
     },
     {
-      "text": "Login ki zaroorat nahi / Free",
+      "text": "No login needed / Free",
       "source": "app.goeduabroad.com/admit-finder is public and loads without login"
     }
   ]

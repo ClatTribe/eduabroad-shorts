@@ -2,29 +2,29 @@
   "date": "2026-11-19",
   "content": {
     "type": "versus",
-    "title": "Masters mein kaunsa?",
+    "title": "Which Masters?",
     "highlight": "Thesis vs Non-thesis",
     "left": "Thesis",
     "right": "Non-thesis",
     "rows": [
       {
         "label": "Focus",
-        "left": "Ek topic pe research",
-        "right": "Courses aur projects zyada"
+        "left": "Research on one topic",
+        "right": "More courses and projects"
       },
       {
-        "label": "Kiske liye",
-        "left": "PhD ya research ka plan",
-        "right": "Seedha industry ka plan"
+        "label": "Best for",
+        "left": "A PhD or research plan",
+        "right": "A direct industry plan"
       },
       {
         "label": "Guide",
-        "left": "Professor ke saath kaam",
-        "right": "Zyada apne hisaab se"
+        "left": "Work with a professor",
+        "right": "More self-directed"
       }
     ],
-    "bottomLine": "Pehle apna goal tay karo, option khud saaf ho jaayega. Course page pe dono options dekho."
+    "bottomLine": "Decide your goal first and the choice becomes clear. Check both options on the course page."
   },
-  "caption": "Thesis ya non-thesis? Jawab aapke goal mein chhupa hai.\n\nAap kaunsa loge? Comment karo 👇\n\n👉 app.goeduabroad.com\n\n#StudyAbroad #IndianStudents #StudyAbroadTips #EduAbroad #MastersAbroad",
+  "caption": "Thesis or non-thesis? The answer is in your goal.\n\nWhich would you choose? Comment below 👇\n\n👉 app.goeduabroad.com\n\n#StudyAbroad #IndianStudents #StudyAbroadTips #EduAbroad #MastersAbroad",
   "claims": []
 }

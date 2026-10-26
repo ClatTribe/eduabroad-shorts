@@ -2,24 +2,24 @@
   "date": "2026-12-20",
   "content": {
     "type": "parents",
-    "label": "Har mummy papa ka sawaal",
-    "question": "Wahan ke log kaise honge?",
+    "label": "Every parent asks",
+    "question": "What will the people there be like?",
     "answers": [
       {
-        "title": "Sab naye hain",
-        "detail": "Classmates bhi dost dhoondh rahe hain. Pehla hello aap bolo."
+        "title": "Everyone is new",
+        "detail": "Your classmates are looking for friends too. Say the first hello."
       },
       {
         "title": "Indian community",
-        "detail": "Apni university ke Indian student groups dhoondo, pehle se join kar lo."
+        "detail": "Find your university's Indian student groups and join them early."
       },
       {
-        "title": "Culture samjho",
-        "detail": "Naye tareeke ajeeb lag sakte hain. Judge karne se pehle samjho."
+        "title": "Understand the culture",
+        "detail": "New ways may feel strange. Understand them before you judge."
       }
     ],
-    "closing": "ye post bhejo."
+    "closing": "share this post."
   },
-  "caption": "\"Wahan ke log kaise honge?\" 💛\n\nNaya desh, naye log. Thoda darr normal hai. 3 seedhe jawab jo tension kam karenge.\n\nMummy Papa ko ye post bhejo 👇\n\n👉 app.goeduabroad.com\n\n#StudyAbroad #IndianParents #StudyAbroadTips #EduAbroad",
+  "caption": "\"What will the people there be like?\" 💛\n\nNew country, new people. A little fear is normal. 3 simple answers to ease the tension.\n\nSend this post to Mum and Dad 👇\n\n👉 app.goeduabroad.com\n\n#StudyAbroad #IndianParents #StudyAbroadTips #EduAbroad",
   "claims": []
 }

@@ -2,28 +2,28 @@
   "date": "2026-11-15",
   "content": {
     "type": "parents",
-    "label": "Har mummy papa ka sawaal",
-    "question": "Itna kharcha kaise manage hoga?",
+    "label": "Every parent asks",
+    "question": "How will we manage the cost?",
     "answers": [
       {
-        "title": "Saath mein budget sheet",
-        "detail": "Tuition, rent, khaana aur travel. Saath baith ke ek sheet pe likho, andaaza nahi."
+        "title": "A budget sheet, together",
+        "detail": "Tuition, rent, food and travel. Sit together and write it on one sheet, not a guess."
       },
       {
-        "title": "Funding ke teen raaste",
-        "detail": "Savings, scholarship aur education loan. Teeno ko milake plan banao."
+        "title": "Three ways to fund it",
+        "detail": "Savings, scholarships and an education loan. Make a plan that combines all three."
       },
       {
-        "title": "Scholarships pehle dhoondo",
-        "detail": "Scholarship Finder pe country aur level se filter karke saath mein dekho."
+        "title": "Find scholarships first",
+        "detail": "Filter by country and level on Scholarship Finder and look together."
       }
     ],
-    "closing": "ye post bhejo."
+    "closing": "Share this post."
   },
-  "caption": "\"Itna kharcha kaise manage hoga?\" 💛\n\nPaise ki baat sabse pehle aati hai, aur sahi bhi hai. 3 seedhe jawab jo tension kam karenge.\n\nMummy Papa ko ye post bhejo 👇\n\n👉 app.goeduabroad.com\n\n#StudyAbroad #IndianParents #StudyAbroadTips #EduAbroad",
+  "caption": "\"How will we manage the cost?\" 💛\n\nMoney comes up first, and rightly so. 3 simple answers that will ease the worry.\n\nSend this post to your parents 👇\n\n👉 app.goeduabroad.com\n\n#StudyAbroad #IndianParents #StudyAbroadTips #EduAbroad",
   "claims": [
     {
-      "text": "Scholarship Finder pe country aur level se filter",
+      "text": "Filter by country and level on Scholarship Finder",
       "source": "Scholarship Finder filters: All Countries, All Levels"
     }
   ]

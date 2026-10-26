@@ -2,43 +2,43 @@
   "date": "2026-11-09",
   "content": {
     "type": "checklist",
-    "title": "University website pe?",
-    "highlight": "Ye 5 cheezein dekho.",
-    "subtitle": "Brochure nahi, course ka page sabse zaroori hai.",
+    "title": "On a university website?",
+    "highlight": "Check these 5 things.",
+    "subtitle": "Not the brochure. The course page matters most.",
     "steps": [
       {
         "title": "Eligibility",
-        "detail": "Kaunsi degree, kitne marks aur kaunsa background chahiye. Ye pehle padho, baaki baad mein."
+        "detail": "Which degree, what marks and what background they need. Read this first, the rest later."
       },
       {
         "title": "English test requirement",
-        "detail": "Kaunsa test chalega aur minimum score kya hai. Har course ka alag ho sakta hai."
+        "detail": "Which test is accepted and the minimum score. It can differ for each course."
       },
       {
         "title": "Deadlines",
-        "detail": "Application, scholarship aur deposit, teeno ki dates alag hoti hain. Calendar mein daal do.",
-        "tip": "Timezone bhi dekho. Unki raat, hamari subah ho sakti hai."
+        "detail": "Application, scholarship and deposit dates are often different. Put all three in your calendar.",
+        "tip": "Check the time zone too. Their night can be our morning."
       },
       {
         "title": "Course modules",
-        "detail": "Naam pe mat jao. Kaunse subjects padhaye jaate hain, wo dekho."
+        "detail": "Don't go by the name. Look at which subjects are actually taught."
       },
       {
-        "title": "Fees aur funding page",
-        "detail": "Tuition ke saath baaki kharche bhi wahi likhe hote hain. Scholarships ka link bhi aksar wahin milta hai.",
-        "tip": "Course Finder pe fees pehle compare kar lo."
+        "title": "Fees and funding page",
+        "detail": "Other costs are usually listed next to tuition. The scholarships link is often there too.",
+        "tip": "Compare fees on Course Finder first."
       }
     ],
-    "saveLine": "research mein kaam aayega."
+    "saveLine": "it will help your research."
   },
-  "caption": "University ki website pe kho jaate ho? Course page pe ye 5 cheezein pehle dekho 👇\n\n1. Eligibility\n2. English test requirement\n3. Deadlines\n4. Course modules\n5. Fees aur funding\n\nSave karo 📌 aur us dost ko bhejo jise iski zaroorat hai.\n\n👉 app.goeduabroad.com\n\n#StudyAbroad #IndianStudents #StudyAbroadTips #EduAbroad #StudyAbroadChecklist",
+  "caption": "Lost on university websites? Check these 5 things on the course page first 👇\n\n1. Eligibility\n2. English test requirement\n3. Deadlines\n4. Course modules\n5. Fees and funding\n\nSave this 📌 and send it to a friend who needs it.\n\n👉 app.goeduabroad.com\n\n#StudyAbroad #IndianStudents #StudyAbroadTips #EduAbroad #StudyAbroadChecklist",
   "claims": [
     {
-      "text": "Ye 5 cheezein dekho.",
+      "text": "Check these 5 things.",
       "source": "count of items in this post"
     },
     {
-      "text": "Course Finder pe tuition fees",
+      "text": "Tuition fees on Course Finder",
       "source": "Course Finder shows Tuition Fees and intakes"
     }
   ]

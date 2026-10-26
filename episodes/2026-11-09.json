@@ -5,49 +5,47 @@
   "musicSeed": 1109,
   "hook": {
     "line1": [
-      "Mummy",
-      "Papa",
-      "ke"
+      "Your",
+      "parents'"
     ],
     "line2": [
-      "sawaal",
-      "ready?"
+      "questions?"
     ],
-    "highlight": "ready?",
-    "subline": "Abroad ki baat se pehle socho."
+    "highlight": "questions?",
+    "subline": "Have answers before you talk."
   },
   "tips": {
-    "seriesLabel": "Seedhi Baat",
+    "seriesLabel": "Straight Talk",
     "items": [
       {
-        "title": "Kharcha kitna hoga?",
-        "detail": "Tuition ke saath rent, khaana, insurance aur travel bhi jodo. Poore saal ka budget banao."
+        "title": "How much will it cost?",
+        "detail": "Add rent, food, insurance and travel to tuition. Make a budget for the full year."
       },
       {
-        "title": "Safety ka kya?",
-        "detail": "City, campus aur accommodation ke baare mein seniors se baat karo. Real experience suno."
+        "title": "What about safety?",
+        "detail": "Talk to seniors about the city, campus and housing. Listen to real experiences."
       },
       {
-        "title": "Paise kahan se aayenge?",
-        "detail": "Savings, scholarship aur education loan. Teeno options pehle se samjho."
+        "title": "Where will the money come from?",
+        "detail": "Savings, scholarships and education loans. Understand all three options first."
       },
       {
-        "title": "Padhai ke baad kya?",
-        "detail": "Course ka career outcome aur us country ke post-study work rules pehle check karo."
+        "title": "What after the degree?",
+        "detail": "Check the course's career outcomes and that country's post-study work rules first."
       }
     ]
   },
   "closing": {
-    "line1": "Parents ko saath lo,",
-    "line2": "plan dikhao."
+    "line1": "Bring parents along,",
+    "line2": "show them the plan."
   },
   "cta": {
-    "button": "Plan banao",
+    "button": "Make a plan",
     "url": "app.goeduabroad.com"
   },
   "youtube": {
-    "title": "Abroad padhna hai? Parents ye 4 sawaal zaroor poochenge",
-    "description": "Mummy Papa se abroad ki baat karne se pehle in 4 sawaalon ke jawab ready rakho: kharcha, safety, paise kahan se, aur padhai ke baad kya.\n\nPlan dikhaoge toh baat aasaan hogi.\n\n👉 https://app.goeduabroad.com\n\nEduAbroad: Run by Harvard-Cambridge Alumni. 100% private. Contact aap karoge, hum nahi.",
+    "title": "Want to study abroad? Your parents will ask these 4 questions",
+    "description": "Before you talk to your parents about studying abroad, have answers ready for these 4 questions: cost, safety, where the money comes from, and what happens after the degree.\n\nShow them a plan and the talk gets easier.\n\n👉 https://app.goeduabroad.com\n\nEduAbroad: Run by Harvard-Cambridge Alumni. 100% private. You contact us, we never contact you first.",
     "tags": [
       "study abroad",
       "Indian students",
@@ -59,7 +57,7 @@
     ]
   },
   "instagram": {
-    "caption": "Mummy Papa ke sawaal ready? 👨‍👩‍👧\n\nKharcha, safety, funding, aur padhai ke baad kya. Ye 4 jawab pehle se socho, baat aasaan ho jaayegi.\n\nParents ko tag karo 👇\n\n👉 app.goeduabroad.com (link in bio)\n\n#StudyAbroad #IndianStudents #StudyAbroadTips #EduAbroad #Reels"
+    "caption": "Ready for your parents' questions? 👨‍👩‍👧\n\nCost, safety, funding, and what happens after the degree. Think through these 4 answers first and the talk gets easier.\n\nTag your parents 👇\n\n👉 app.goeduabroad.com (link in bio)\n\n#StudyAbroad #IndianStudents #StudyAbroadTips #EduAbroad #Reels"
   },
   "claims": []
 }

@@ -5,14 +5,16 @@
   "musicSeed": 1216,
   "hook": {
     "line1": [
-      "Mere",
-      "jaise"
+      "Who",
+      "got",
+      "in"
     ],
     "line2": [
-      "kaun",
-      "gaya?"
+      "with",
+      "my",
+      "profile?"
     ],
-    "highlight": "gaya?",
+    "highlight": "profile?",
     "subline": "Same course, same intake.",
     "chips": [
       "B.Tech ECE",
@@ -24,15 +26,15 @@
     "beats": [
       {
         "speaker": "Senior",
-        "line": "“Mere batch se sab US gaye”"
+        "line": "“My whole batch went to the US”"
       },
       {
         "speaker": "Relatives",
-        "line": "“Padosi ka beta UK mein hai”"
+        "line": "“The neighbour's son is in the UK”"
       },
       {
         "speaker": "Google",
-        "line": "Stories bahut, data zero."
+        "line": "Lots of stories, zero data."
       }
     ],
     "googleTabs": [
@@ -44,13 +46,13 @@
       "profile evaluation"
     ],
     "punchline": {
-      "line1": "Kahaniyan bahut hain.",
-      "line2": "Data kahan hai?"
+      "line1": "Lots of stories.",
+      "line2": "Where's the data?"
     }
   },
   "reveal": {
-    "kicker": "Kahani nahi.",
-    "headline": "Data dekho.",
+    "kicker": "No stories.",
+    "headline": "See the data.",
     "featurePill": "Admit Finder",
     "clips": [
       {
@@ -64,8 +66,8 @@
       {
         "kind": "video",
         "src": "footage/admit-finder/filter.mp4",
-        "caption": "Course aur intake chuno.",
-        "subcaption": "Apne jaise profiles dekho.",
+        "caption": "Pick course and intake.",
+        "subcaption": "See profiles like yours.",
         "seconds": 3.0,
         "playbackRate": 1.2
       }
@@ -73,22 +75,22 @@
   },
   "proof": {
     "points": [
-      "Accepted aur rejected, dono",
-      "Login ki zaroorat nahi",
-      "100% private. Koi spam call nahi."
+      "Accepted and rejected, both",
+      "No login needed",
+      "100% private. No spam calls."
     ]
   },
   "closing": {
-    "line1": "Apne jaise dekho,",
-    "line2": "phir decide karo."
+    "line1": "See profiles like yours,",
+    "line2": "then decide."
   },
   "cta": {
     "button": "Try it free",
     "url": "app.goeduabroad.com/admit-finder"
   },
   "youtube": {
-    "title": "Mere jaise profile wale kahan gaye? Admit Finder dekho",
-    "description": "Seniors aur padosiyon ki kahaniyan bahut hain, data nahi. EduAbroad Admit Finder pe real students ke profiles dekho: GPA, GRE, IELTS ya TOEFL, work experience aur result. Course aur intake se filter karke apne jaise profiles dhundo. Free hai, login ki zaroorat nahi.\n\n👉 https://app.goeduabroad.com/admit-finder\n\nEduAbroad: Run by Harvard-Cambridge Alumni. 100% private. Contact aap karoge, hum nahi.",
+    "title": "Where did profiles like mine get in? Check Admit Finder",
+    "description": "Seniors and neighbours have lots of stories, but no data. On EduAbroad Admit Finder, see real students' profiles: GPA, GRE, IELTS or TOEFL, work experience and result. Filter by course and intake to find profiles like yours. It's free, no login needed.\n\n👉 https://app.goeduabroad.com/admit-finder\n\nEduAbroad: Run by Harvard-Cambridge Alumni. 100% private. You contact us, we never contact you first.",
     "tags": [
       "study abroad",
       "Indian students",
@@ -99,7 +101,7 @@
     ]
   },
   "instagram": {
-    "caption": "Mere jaise kaun gaya? 🤔\n\nKahani nahi, data dekho. Admit Finder pe real profiles, course aur intake filters ke saath. Free, login nahi.\n\n👉 app.goeduabroad.com/admit-finder (link in bio)\n\n#StudyAbroad #IndianStudents #StudyAbroadTips #EduAbroad #Reels"
+    "caption": "Who with my profile got in? 🤔\n\nSkip the stories, see the data. Real profiles on Admit Finder, with course and intake filters. Free, no login.\n\n👉 app.goeduabroad.com/admit-finder (link in bio)\n\n#StudyAbroad #IndianStudents #StudyAbroadTips #EduAbroad #Reels"
   },
   "claims": [
     {
@@ -107,19 +109,19 @@
       "source": "Admit Finder cards show GPA, GRE, English test and result"
     },
     {
-      "text": "Course aur intake chuno.",
+      "text": "Pick course and intake.",
       "source": "Admit Finder filters: Intake, Year, Course, Work Experience, Acceptance"
     },
     {
-      "text": "Accepted aur rejected, dono / Accepted bhi. Rejected bhi.",
+      "text": "Accepted and rejected, both / Accepted too. Rejected too.",
       "source": "Admit Finder cards show Accepted and Rejected results"
     },
     {
-      "text": "Login ki zaroorat nahi",
+      "text": "No login needed",
       "source": "app.goeduabroad.com/admit-finder loads without login"
     },
     {
-      "text": "100% private. Koi spam call nahi.",
+      "text": "100% private. No spam calls.",
       "source": "Homepage: '100% Private. You initiate contact, not us.'"
     },
     {

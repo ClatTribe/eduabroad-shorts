@@ -2,24 +2,24 @@
   "date": "2026-11-01",
   "content": {
     "type": "parents",
-    "label": "Har mummy papa ka sawaal",
-    "question": "Visa reject ho gaya toh?",
+    "label": "Every parent asks",
+    "question": "What if the visa is refused?",
     "answers": [
       {
-        "title": "Pehle reason samjho",
-        "detail": "Refusal letter dhyan se padho. Kya kami thi, wahi se agla kadam tay hota hai."
+        "title": "Understand the reason",
+        "detail": "Read the refusal letter carefully. What was missing decides your next step."
       },
       {
-        "title": "Kami theek karo",
-        "detail": "Documents, funds ka proof ya jawab, jo bhi kamzor tha, use mazboot karo."
+        "title": "Fix the gap",
+        "detail": "Documents, proof of funds or your answers: whatever was weak, make it strong."
       },
       {
-        "title": "Phir se apply",
-        "detail": "Ek refusal ka matlab raasta band nahi. Taiyari ke saath dobara apply karo."
+        "title": "Apply again",
+        "detail": "One refusal does not close the road. Prepare well and apply again."
       }
     ],
-    "closing": "ye post bhejo."
+    "closing": "Share this post."
   },
-  "caption": "\"Visa reject ho gaya toh?\" 💛\n\nYe darr har ghar mein hota hai. 3 seedhe jawab jo tension kam karenge.\n\nMummy Papa ko ye post bhejo 👇\n\n👉 app.goeduabroad.com\n\n#StudyAbroad #IndianParents #StudyAbroadTips #EduAbroad",
+  "caption": "\"What if the visa is refused?\" 💛\n\nEvery family has this fear. 3 simple answers that will ease the worry.\n\nSend this post to your parents 👇\n\n👉 app.goeduabroad.com\n\n#StudyAbroad #IndianParents #StudyAbroadTips #EduAbroad",
   "claims": []
 }

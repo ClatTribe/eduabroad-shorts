@@ -5,46 +5,45 @@
   "musicSeed": 1030,
   "hook": {
     "line1": [
-      "Profile",
-      "ke"
+      "Profile"
     ],
     "line2": [
       "myths"
     ],
     "highlight": "myths",
-    "subline": "Marks hi sab kuch hain?"
+    "subline": "Do marks decide everything?"
   },
   "myths": {
     "seriesLabel": "Myth vs Fact",
     "items": [
       {
-        "myth": "Sirf marks dekhe jaate hain",
-        "fact": "Marks ke saath baaki profile bhi",
-        "detail": "Projects, internships aur SOP bhi kahani batate hain. Har course ki requirements padho."
+        "myth": "Only your marks are checked",
+        "fact": "Marks plus the rest of your profile",
+        "detail": "Projects, internships and your SOP tell your story too. Read each course's requirements."
       },
       {
-        "myth": "Internship badi company mein hi chahiye",
-        "fact": "Kya seekha, wo zyada zaroori",
-        "detail": "Chhoti company mein asli kaam kiya ho, toh SOP mein clearly likho."
+        "myth": "Your internship must be at a big company",
+        "fact": "What you learned matters more",
+        "detail": "If you did real work at a small company, explain it clearly in your SOP."
       },
       {
-        "myth": "Certificates jitne zyada, utna accha",
-        "fact": "Course se juda kaam dikhao",
-        "detail": "Lambi list se behtar do teen relevant cheezein jo aapne sach mein ki."
+        "myth": "The more certificates, the better",
+        "fact": "Show work linked to your course",
+        "detail": "Two or three relevant things you really did beat a long list."
       }
     ]
   },
   "closing": {
-    "line1": "Lambi list nahi,",
-    "line2": "asli kaam."
+    "line1": "Not a long list,",
+    "line2": "real work."
   },
   "cta": {
-    "button": "Explore karo",
+    "button": "Explore now",
     "url": "app.goeduabroad.com"
   },
   "youtube": {
-    "title": "Marks hi sab kuch hain? Profile ke 3 myths | Myth vs Fact",
-    "description": "Profile ke 3 myths: sirf marks dekhe jaate hain, internship badi company mein hi chahiye, aur certificates jitne zyada utna accha. Lambi list nahi, asli kaam dikhao.\n\n👉 https://app.goeduabroad.com\n\nEduAbroad: Run by Harvard-Cambridge Alumni. 100% private. Contact aap karoge, hum nahi.",
+    "title": "Do marks decide everything? 3 profile myths | Myth vs Fact",
+    "description": "3 profile myths: only marks are checked, your internship must be at a big company, and the more certificates the better. Show real work, not a long list.\n\n👉 https://app.goeduabroad.com\n\nEduAbroad: Run by Harvard-Cambridge Alumni. 100% private. You contact us, we never contact you first.",
     "tags": [
       "study abroad",
       "Indian students",
@@ -54,11 +53,11 @@
     ]
   },
   "instagram": {
-    "caption": "Marks hi sab kuch hain? ❌ Myth.\n\nProjects, internships aur SOP bhi kahani batate hain. Chhoti company mein asli kaam bhi count hota hai, aur lambi certificate list se behtar hai relevant kaam.\n\nKisko ye sunna chahiye? Tag karo 👇\n\n👉 app.goeduabroad.com (link in bio)\n\n#StudyAbroad #IndianStudents #StudyAbroadTips #EduAbroad #Reels"
+    "caption": "Do marks decide everything? ❌ Myth.\n\nProjects, internships and your SOP tell your story too. Real work at a small company counts, and relevant work beats a long list of certificates.\n\nWho needs to hear this? Tag them 👇\n\n👉 app.goeduabroad.com (link in bio)\n\n#StudyAbroad #IndianStudents #StudyAbroadTips #EduAbroad #Reels"
   },
   "claims": [
     {
-      "text": "Profile ke 3 myths",
+      "text": "3 profile myths",
       "source": "count of myths in this video"
     }
   ]

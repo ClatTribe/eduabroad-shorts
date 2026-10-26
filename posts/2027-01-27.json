@@ -3,26 +3,26 @@
   "content": {
     "type": "feature",
     "feature": "IELTS Test Kit",
-    "promise": "Roz thodi practice.",
+    "promise": "A little practice daily.",
     "screenshot": "post-shots/ielts-sample-tasks.png",
-    "screenshotCaption": "Sample tasks, charon sections",
+    "screenshotCaption": "Sample tasks, all four sections",
     "benefits": [
-      "Sample tasks, charon sections",
+      "Sample tasks, all four sections",
       "Daily 25 vocab flashcards",
       "Free full mock: 151 minutes"
     ],
     "howTo": [
-      "IELTS Test Kit page kholo",
-      "Sample Tasks se shuru karo",
-      "Roz flashcards, hafte mein mock"
+      "Open the IELTS Test Kit page",
+      "Start with Sample Tasks",
+      "Flashcards daily, a mock weekly"
     ],
     "button": "Try it free",
     "url": "app.goeduabroad.com/ielts-online-test-kit"
   },
-  "caption": "IELTS ki taiyari roz thodi thodi, ek din mein sab nahi.\n\nIELTS Test Kit mein charon sections ke sample tasks, 25 vocab flashcards aur 151 minute ka full mock (sign up karke).\n\n👉 app.goeduabroad.com/ielts-online-test-kit\n\n#StudyAbroad #IndianStudents #StudyAbroadTips #EduAbroad #IELTS",
+  "caption": "Prepare for IELTS a little every day, not all in one day.\n\nThe IELTS Test Kit has sample tasks for all four sections, 25 vocab flashcards and a 151 minute full mock (with sign-up).\n\n👉 app.goeduabroad.com/ielts-online-test-kit\n\n#StudyAbroad #IndianStudents #StudyAbroadTips #EduAbroad #IELTS",
   "claims": [
     {
-      "text": "Sample tasks, charon sections",
+      "text": "Sample tasks, all four sections",
       "source": "IELTS kit Sample Tasks: Listening, Reading, Speaking, Writing PDFs"
     },
     {
@@ -34,7 +34,7 @@
       "source": "IELTS kit page: 'Free Full-Length IELTS Mock Test... 151 minutes' (needs sign-up, stated in caption)"
     },
     {
-      "text": "IELTS kit mein free resources",
+      "text": "The IELTS kit has free resources",
       "source": "IELTS kit page header: 'IELTS FREE LEARNING RESOURCES'"
     }
   ]

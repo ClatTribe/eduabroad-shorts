@@ -5,48 +5,48 @@
   "musicSeed": 1120,
   "hook": {
     "line1": [
-      "LOR",
-      "koi",
-      "bhi"
+      "Anyone",
+      "can"
     ],
     "line2": [
-      "likh",
-      "dega?"
+      "write",
+      "an",
+      "LOR?"
     ],
-    "highlight": "dega?",
-    "subline": "LOR ke 3 bade myths."
+    "highlight": "LOR?",
+    "subline": "3 big LOR myths."
   },
   "myths": {
     "seriesLabel": "Myth vs Fact",
     "items": [
       {
-        "myth": "LOR toh koi bhi likh dega",
-        "fact": "Jo aapko jaanta ho, wahi likhe",
-        "detail": "Bade naam se zyada, specific examples matter karte hain."
+        "myth": "Anyone can write your LOR",
+        "fact": "Someone who knows you should",
+        "detail": "Specific examples matter more than a big name."
       },
       {
-        "myth": "Sab LOR same ho sakte hain",
-        "fact": "Har LOR alag angle dikhaye",
-        "detail": "Ek padhai, ek project, ek kaam. Alag recommenders, alag strengths."
+        "myth": "All your LORs can be the same",
+        "fact": "Each LOR shows a new angle",
+        "detail": "One for studies, one for a project, one for work. Different people, different strengths."
       },
       {
-        "myth": "LOR last week mein mangwa lo",
-        "fact": "Recommender ko time do",
-        "detail": "Pehle se poocho, aur apna resume aur goals unke saath share karo."
+        "myth": "Ask for LORs in the last week",
+        "fact": "Give your recommender time",
+        "detail": "Ask early, and share your resume and goals with them."
       }
     ]
   },
   "closing": {
-    "line1": "Sahi log chuno,",
-    "line2": "jaldi poocho."
+    "line1": "Pick the right people,",
+    "line2": "ask early."
   },
   "cta": {
-    "button": "Explore karo",
+    "button": "Explore now",
     "url": "app.goeduabroad.com"
   },
   "youtube": {
-    "title": "LOR koi bhi likh dega? Myth vs Fact",
-    "description": "Letter of Recommendation ke 3 bade myths.\n\nLOR wahi likhe jo aapko sach mein jaanta ho, har LOR alag strength dikhaye, aur recommender ko time do.\n\n👉 https://app.goeduabroad.com\n\nEduAbroad: Run by Harvard-Cambridge Alumni. 100% private. Contact aap karoge, hum nahi.",
+    "title": "Can anyone write your LOR? Myth vs Fact",
+    "description": "3 big myths about Letters of Recommendation.\n\nYour LOR should come from someone who really knows you, each LOR should show a different strength, and your recommender needs time.\n\n👉 https://app.goeduabroad.com\n\nEduAbroad: Run by Harvard-Cambridge Alumni. 100% private. You contact us, we never contact you first.",
     "tags": [
       "study abroad",
       "Indian students",
@@ -57,11 +57,11 @@
     ]
   },
   "instagram": {
-    "caption": "LOR koi bhi likh dega? ❌ Myth.\n\nJo aapko jaanta ho, wahi likhe. Har LOR alag angle dikhaye. Aur recommender ko time do.\n\nApne LOR wale dost ko bhejo 👇\n\n👉 app.goeduabroad.com (link in bio)\n\n#StudyAbroad #IndianStudents #StudyAbroadTips #EduAbroad #Reels"
+    "caption": "Anyone can write your LOR? ❌ Myth.\n\nIt should come from someone who knows you. Each LOR should show a different angle. And give your recommender time.\n\nSend this to a friend who needs LORs 👇\n\n👉 app.goeduabroad.com (link in bio)\n\n#StudyAbroad #IndianStudents #StudyAbroadTips #EduAbroad #Reels"
   },
   "claims": [
     {
-      "text": "LOR ke 3 bade myths.",
+      "text": "3 big LOR myths.",
       "source": "count of myths in this video"
     }
   ]

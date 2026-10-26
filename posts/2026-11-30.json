@@ -2,42 +2,42 @@
   "date": "2026-11-30",
   "content": {
     "type": "checklist",
-    "title": "Scholarship apply?",
-    "highlight": "Ye 5 steps follow karo.",
-    "subtitle": "Scholarship ka process bhi admission jitna dhyaan maangta hai.",
+    "title": "Applying for scholarships?",
+    "highlight": "Follow these 5 steps.",
+    "subtitle": "The scholarship process needs as much care as your admission.",
     "steps": [
       {
-        "title": "Eligibility padho",
-        "detail": "Country, course, marks ya background. Jo fit nahi, usme time mat lagao."
+        "title": "Read the eligibility",
+        "detail": "Country, course, marks or background. Don't spend time on ones you don't fit."
       },
       {
-        "title": "Deadlines alag likho",
-        "detail": "Scholarship ki deadline admission se alag ho sakti hai. Dono ki alag list banao."
+        "title": "List deadlines separately",
+        "detail": "The scholarship deadline can differ from the admission one. Keep two separate lists."
       },
       {
-        "title": "Documents ready rakho",
-        "detail": "Transcripts, resume, recommendation, aur kabhi kabhi income proof. Pehle se scan kar lo."
+        "title": "Keep documents ready",
+        "detail": "Transcripts, resume, recommendations, and sometimes income proof. Scan them in advance."
       },
       {
-        "title": "Essay khud likho",
-        "detail": "Apni kahani, apne shabdon mein. Template wala essay sab jagah ek jaisa lagta hai."
+        "title": "Write the essay yourself",
+        "detail": "Your story, in your own words. A template essay looks the same everywhere."
       },
       {
-        "title": "Zyada jagah apply karo",
-        "detail": "Chhoti scholarships bhi kaam ki hain. Kai milkar bada farak laati hain.",
-        "tip": "Scholarship Finder pe country aur level se filter karo."
+        "title": "Apply widely",
+        "detail": "Small scholarships help too. Several together make a big difference.",
+        "tip": "Filter by country and level on Scholarship Finder."
       }
     ],
-    "saveLine": "funding mein kaam aayega."
+    "saveLine": "it will help with funding."
   },
-  "caption": "Scholarship ke liye apply kar rahe ho? Ye 5 steps miss mat karna 👇\n\n1. Eligibility padho\n2. Deadlines alag likho\n3. Documents ready\n4. Essay khud likho\n5. Zyada jagah apply karo\n\nSave karo 📌 aur us dost ko bhejo jise iski zaroorat hai.\n\n👉 app.goeduabroad.com\n\n#StudyAbroad #IndianStudents #StudyAbroadTips #EduAbroad #Scholarships",
+  "caption": "Applying for scholarships? Don't miss these 5 steps 👇\n\n1. Read the eligibility\n2. List deadlines separately\n3. Keep documents ready\n4. Write the essay yourself\n5. Apply widely\n\nSave this 📌 and send it to a friend who needs it.\n\n👉 app.goeduabroad.com\n\n#StudyAbroad #IndianStudents #StudyAbroadTips #EduAbroad #Scholarships",
   "claims": [
     {
-      "text": "Ye 5 steps follow karo.",
+      "text": "Follow these 5 steps.",
       "source": "count of items in this post"
     },
     {
-      "text": "Scholarship Finder pe country aur level se filter",
+      "text": "Filter by country and level on Scholarship Finder",
       "source": "Scholarship Finder filters: All Countries, All Levels"
     }
   ]

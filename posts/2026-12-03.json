@@ -2,29 +2,29 @@
   "date": "2026-12-03",
   "content": {
     "type": "versus",
-    "title": "Kis basis pe chuno?",
+    "title": "How should you pick?",
     "highlight": "Ranking vs Course fit",
     "left": "Ranking",
     "right": "Course fit",
     "rows": [
       {
-        "label": "Batata hai",
-        "left": "University ka overall naam",
-        "right": "Aapke subject ki padhai"
+        "label": "Tells you",
+        "left": "The university's overall name",
+        "right": "How your subject is taught"
       },
       {
-        "label": "Fayda",
-        "left": "Resume pe naam",
-        "right": "Skills aur projects"
+        "label": "Benefit",
+        "left": "A name on your resume",
+        "right": "Skills and projects"
       },
       {
         "label": "Risk",
-        "left": "Course kaam ka na ho",
-        "right": "Naam kam suna ho"
+        "left": "Course may not suit you",
+        "right": "Less famous name"
       }
     ],
-    "bottomLine": "Ranking ek filter hai, faisla nahi. Modules padho, phir decide karo."
+    "bottomLine": "Ranking is a filter, not the decision. Read the modules, then decide."
   },
-  "caption": "Ranking ya course fit? Dono zaroori, par faisla ek se nahi hota.\n\nAap kisko zyada weight doge? Comment karo 👇\n\n👉 app.goeduabroad.com\n\n#StudyAbroad #IndianStudents #StudyAbroadTips #EduAbroad #StudyAbroadTips",
+  "caption": "Ranking or course fit? Both matter, but one alone shouldn't decide it.\n\nWhich one gets more weight from you? Comment below 👇\n\n👉 app.goeduabroad.com\n\n#StudyAbroad #IndianStudents #StudyAbroadTips #EduAbroad #UniversityRankings",
   "claims": []
 }

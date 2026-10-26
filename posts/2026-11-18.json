@@ -3,39 +3,39 @@
   "content": {
     "type": "feature",
     "feature": "Scholarship Finder",
-    "promise": "Paisa kahan se aayega?",
+    "promise": "Where will funds come from?",
     "screenshot": "footage/scholarship-finder/still.png",
-    "screenshotCaption": "Top universities ki scholarships",
+    "screenshotCaption": "Scholarships at top universities",
     "capture": {
       "feature": "scholarship-finder",
       "clip": "scroll",
       "at": 0.3
     },
     "benefits": [
-      "Scholarships worldwide, ek list",
-      "Country aur level se filter",
-      "Profile se personal recommendations"
+      "Scholarships worldwide, one list",
+      "Filter by country and level",
+      "Personal picks from your profile"
     ],
     "howTo": [
-      "app.goeduabroad.com/scholarship-finder kholo",
-      "Country aur level chuno",
-      "Profile complete karo, match pao"
+      "Open app.goeduabroad.com/scholarship-finder",
+      "Pick country and level",
+      "Complete your profile, get matches"
     ],
-    "button": "Dhoondo",
+    "button": "Find yours",
     "url": "app.goeduabroad.com/scholarship-finder"
   },
-  "caption": "Funding ki tension? Pehle dekho kya kya available hai.\n\nScholarship Finder pe top universities aur institutions ki scholarships ek list mein. Profile complete karoge toh personal recommendations bhi milengi.\n\n👉 app.goeduabroad.com/scholarship-finder\n\n#StudyAbroad #IndianStudents #StudyAbroadTips #EduAbroad #Scholarships",
+  "caption": "Worried about funding? First see what's available.\n\nScholarship Finder lists scholarships from top universities and institutions in one place. Complete your profile and you also get personal recommendations.\n\n👉 app.goeduabroad.com/scholarship-finder\n\n#StudyAbroad #IndianStudents #StudyAbroadTips #EduAbroad #Scholarships",
   "claims": [
     {
-      "text": "Top universities ki scholarships / Scholarships worldwide, ek list",
+      "text": "Scholarships at top universities / Scholarships worldwide, one list",
       "source": "Scholarship Finder page: 'Discover scholarships from top universities and institutions worldwide'"
     },
     {
-      "text": "Scholarship Finder pe country aur level se filter",
+      "text": "Filter by country and level on Scholarship Finder",
       "source": "Scholarship Finder filters: All Countries, All Levels"
     },
     {
-      "text": "Profile se personal recommendations / Profile complete karo, match pao",
+      "text": "Personal picks from your profile / Complete your profile, get matches",
       "source": "Scholarship Finder: 'Recommended For You (Complete profile)'"
     }
   ]

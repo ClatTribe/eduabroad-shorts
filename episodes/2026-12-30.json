@@ -5,17 +5,17 @@
   "musicSeed": 1230,
   "hook": {
     "line1": [
-      "Pehla",
-      "din"
+      "First",
+      "day"
     ],
     "line2": [
       "abroad?",
-      "Tension?"
+      "Worried?"
     ],
-    "highlight": "Tension?",
-    "subline": "Ghar, pick-up, job ki fikar.",
+    "highlight": "Worried?",
+    "subline": "Housing, pick-up, job worries.",
     "chips": [
-      "Ghar: ?",
+      "Housing: ?",
       "Pick-up: ?",
       "Job: ?"
     ]
@@ -24,15 +24,15 @@
     "beats": [
       {
         "speaker": "Senior",
-        "line": "“Airport se khud nikal lena”"
+        "line": "“Find your own way from the airport”"
       },
       {
         "speaker": "Relatives",
-        "line": "“Rehne ka kya socha beta?”"
+        "line": "“Where will you stay?”"
       },
       {
         "speaker": "Google",
-        "line": "Listings pe listings."
+        "line": "Listings after listings."
       }
     ],
     "googleTabs": [
@@ -44,28 +44,28 @@
       "first week abroad"
     ],
     "punchline": {
-      "line1": "Fikar bahut hai.",
-      "line2": "Plan kahan hai?"
+      "line1": "So many worries.",
+      "line2": "Where's the plan?"
     }
   },
   "reveal": {
-    "kicker": "Fikar nahi.",
+    "kicker": "No worries.",
     "headline": "Plan ready.",
     "featurePill": "Fly & Settle",
     "clips": [
       {
         "kind": "video",
         "src": "footage/fly-settle/services.mp4",
-        "caption": "Accommodation aur pick-up.",
-        "subcaption": "Pahunchne se pehle plan.",
+        "caption": "Accommodation and pick-up.",
+        "subcaption": "Plan before you land.",
         "seconds": 3.6,
         "playbackRate": 1.25
       },
       {
         "kind": "video",
         "src": "footage/fly-settle/expert.mp4",
-        "caption": "Job assistance bhi.",
-        "subcaption": "Resume se placement support.",
+        "caption": "Job assistance too.",
+        "subcaption": "From resume to placement.",
         "seconds": 3.0,
         "playbackRate": 1.1
       }
@@ -73,22 +73,22 @@
   },
   "proof": {
     "points": [
-      "Campus ke paas verified options",
+      "Verified options near campus",
       "Airport pick-up service",
-      "Resume aur job support"
+      "Resume and job support"
     ]
   },
   "closing": {
-    "line1": "Pahunchne se pehle,",
-    "line2": "plan ready rakho."
+    "line1": "Before you land,",
+    "line2": "get your plan ready."
   },
   "cta": {
-    "button": "Explore karo",
+    "button": "Explore now",
     "url": "app.goeduabroad.com/fly-&-settle-services"
   },
   "youtube": {
-    "title": "Abroad mein pehla din? Ghar, pick-up aur job ki tension kam",
-    "description": "Pahunchne se pehle plan ready rakho. EduAbroad Fly & Settle pe university campus ke paas verified accommodation options, airport pick-up service aur job assistance (career guidance, resume help, placement support) milte hain.\n\n👉 https://app.goeduabroad.com/fly-&-settle-services\n\nEduAbroad: Run by Harvard-Cambridge Alumni. 100% private. Contact aap karoge, hum nahi.",
+    "title": "First day abroad? Less stress about housing, pick-up and jobs",
+    "description": "Get your plan ready before you land. On EduAbroad Fly & Settle you get verified accommodation options near your university campus, airport pick-up service and job assistance (career guidance, resume help, placement support).\n\n👉 https://app.goeduabroad.com/fly-&-settle-services\n\nEduAbroad: Run by Harvard-Cambridge Alumni. 100% private. You contact us, we never contact you first.",
     "tags": [
       "study abroad",
       "Indian students",
@@ -99,11 +99,11 @@
     ]
   },
   "instagram": {
-    "caption": "Pehla din abroad? ✈️\n\nGhar, airport pick-up aur job support: Fly & Settle pe plan pehle se ready karo.\n\n👉 app.goeduabroad.com/fly-&-settle-services (link in bio)\n\n#StudyAbroad #IndianStudents #StudyAbroadTips #EduAbroad #Reels"
+    "caption": "First day abroad? ✈️\n\nHousing, airport pick-up and job support: get your plan ready in advance on Fly & Settle.\n\n👉 app.goeduabroad.com/fly-&-settle-services (link in bio)\n\n#StudyAbroad #IndianStudents #StudyAbroadTips #EduAbroad #Reels"
   },
   "claims": [
     {
-      "text": "Accommodation aur pick-up. / Campus ke paas verified options",
+      "text": "Accommodation and pick-up. / Verified options near campus",
       "source": "Fly & Settle page: 'verified accommodation options near your university campus'"
     },
     {
@@ -111,7 +111,7 @@
       "source": "Fly & Settle page: 'airport pickup services'"
     },
     {
-      "text": "Job assistance bhi. / Resume se placement support. / Resume aur job support",
+      "text": "Job assistance too. / From resume to placement. / Resume and job support",
       "source": "Fly & Settle page: 'career guidance, resume help, and job placement support'"
     }
   ],

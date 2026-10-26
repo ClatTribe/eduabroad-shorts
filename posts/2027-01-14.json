@@ -2,38 +2,38 @@
   "date": "2027-01-14",
   "content": {
     "type": "versus",
-    "title": "IELTS ki taiyari?",
+    "title": "Preparing for IELTS?",
     "highlight": "Self-study vs Coaching",
     "left": "Self-study",
     "right": "Coaching",
     "rows": [
       {
-        "label": "Kharcha",
-        "left": "Kam ya free",
-        "right": "Fees lagti hai"
+        "label": "Cost",
+        "left": "Low or free",
+        "right": "You pay fees"
       },
       {
         "label": "Discipline",
-        "left": "Khud karna padta hai",
-        "right": "Schedule milta hai"
+        "left": "All on you",
+        "right": "You get a schedule"
       },
       {
         "label": "Feedback",
-        "left": "Mock tests se",
-        "right": "Teacher se seedha"
+        "left": "From mock tests",
+        "right": "Straight from a teacher"
       },
       {
         "label": "Speed",
-        "left": "Apni marzi se",
-        "right": "Batch ke saath"
+        "left": "Your own pace",
+        "right": "With the batch"
       }
     ],
-    "bottomLine": "Coaching lo ya na lo, mock test zaroor do. IELTS kit mein free resources ek jagah hain."
+    "bottomLine": "Coaching or not, do take mock tests. The IELTS kit has free resources in one place."
   },
-  "caption": "Self-study ya coaching? Dono se log achha score laate hain.\n\nAap kaise padh rahe ho? Comment karo 👇\n\n👉 app.goeduabroad.com\n\n#StudyAbroad #IndianStudents #StudyAbroadTips #EduAbroad #IELTS",
+  "caption": "Self-study or coaching? People score well with both.\n\nHow are you preparing? Comment below 👇\n\n👉 app.goeduabroad.com\n\n#StudyAbroad #IndianStudents #StudyAbroadTips #EduAbroad #IELTS",
   "claims": [
     {
-      "text": "IELTS kit mein free resources",
+      "text": "The IELTS kit has free resources",
       "source": "IELTS kit page header: 'IELTS FREE LEARNING RESOURCES'"
     }
   ]

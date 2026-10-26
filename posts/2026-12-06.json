@@ -2,24 +2,24 @@
   "date": "2026-12-06",
   "content": {
     "type": "parents",
-    "label": "Har mummy papa ka sawaal",
-    "question": "Wahan beemar pade toh?",
+    "label": "Every parent asks",
+    "question": "What if you fall sick there?",
     "answers": [
       {
-        "title": "Insurance samjho",
-        "detail": "Policy mein kya cover hai aur claim kaise hota hai. Mummy papa ko bhi samjhao."
+        "title": "Understand insurance",
+        "detail": "Know what the policy covers and how a claim works. Explain it to Mum and Dad too."
       },
       {
-        "title": "Health centre ka pata",
-        "detail": "Apni university ki health services ka address aur number pehle se save karo."
+        "title": "Know the health centre",
+        "detail": "Save your university's health services address and number in advance."
       },
       {
-        "title": "Dawai ka stock",
-        "detail": "Regular dawai aur prescription saath le jao. Le jaane ke rules pehle check karo."
+        "title": "Stock your medicines",
+        "detail": "Carry your regular medicines and prescriptions. Check the rules for carrying them first."
       }
     ],
-    "closing": "ye post bhejo."
+    "closing": "share this post."
   },
-  "caption": "\"Wahan beemar pade toh?\" 💛\n\nHealth ki chinta sabse badi chinta hai. 3 seedhe jawab jo tension kam karenge.\n\nMummy Papa ko ye post bhejo 👇\n\n👉 app.goeduabroad.com\n\n#StudyAbroad #IndianParents #StudyAbroadTips #EduAbroad",
+  "caption": "\"What if you fall sick there?\" 💛\n\nHealth is the biggest worry for most parents. 3 simple answers to ease the tension.\n\nSend this post to Mum and Dad 👇\n\n👉 app.goeduabroad.com\n\n#StudyAbroad #IndianParents #StudyAbroadTips #EduAbroad",
   "claims": []
 }

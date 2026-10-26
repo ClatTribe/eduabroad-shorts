@@ -5,47 +5,46 @@
   "musicSeed": 1113,
   "hook": {
     "line1": [
-      "Topper",
-      "nahi"
+      "Not",
+      "a"
     ],
     "line2": [
-      "ho",
-      "toh?"
+      "topper?"
     ],
-    "highlight": "toh?",
-    "subline": "3 myths jo sabko rokte hain."
+    "highlight": "topper?",
+    "subline": "3 myths that hold people back."
   },
   "myths": {
     "seriesLabel": "Myth vs Fact",
     "items": [
       {
-        "myth": "Abroad sirf toppers ke liye hai",
-        "fact": "Har profile ke liye options hain",
-        "detail": "Universities alag alag level ki hoti hain. Sahi shortlist sabse zaroori hai."
+        "myth": "Studying abroad is only for toppers",
+        "fact": "There are options for every profile",
+        "detail": "Universities are at different levels. The right shortlist matters most."
       },
       {
-        "myth": "Bahut mehenga hai, apne bas ka nahi",
-        "fact": "Scholarships aur loans bhi hain",
-        "detail": "Kai students funding plan karke jaate hain. Pehle budget banao, phir country chuno."
+        "myth": "It's too expensive for people like us",
+        "fact": "Scholarships and loans exist",
+        "detail": "Many students go with a funding plan. Make a budget first, then pick a country."
       },
       {
-        "myth": "English perfect honi chahiye",
-        "fact": "Required score chahiye, perfect nahi",
-        "detail": "Har course ka minimum score hota hai. Prep karo, mock do, aage badho."
+        "myth": "Your English must be perfect",
+        "fact": "You need the required score",
+        "detail": "Every course has a minimum score. Prepare, take a mock test, move ahead."
       }
     ]
   },
   "closing": {
-    "line1": "Pehle check karo,",
-    "line2": "phir decide karo."
+    "line1": "Check first,",
+    "line2": "then decide."
   },
   "cta": {
-    "button": "Explore karo",
+    "button": "Explore now",
     "url": "app.goeduabroad.com"
   },
   "youtube": {
-    "title": "Abroad sirf toppers ke liye hai? Myth vs Fact",
-    "description": "3 myths jo bahut students ko abroad apply karne se rokte hain, aur unka sach.\n\nHar profile ke liye options hain. Funding ke raaste hain. Aur English perfect nahi, required score chahiye.\n\n👉 https://app.goeduabroad.com\n\nEduAbroad: Run by Harvard-Cambridge Alumni. 100% private. Contact aap karoge, hum nahi.",
+    "title": "Is studying abroad only for toppers? Myth vs Fact",
+    "description": "3 myths that stop many students from applying abroad, and the truth.\n\nThere are options for every profile. There are ways to fund it. And your English doesn't need to be perfect, you need the required score.\n\n👉 https://app.goeduabroad.com\n\nEduAbroad: Run by Harvard-Cambridge Alumni. 100% private. You contact us, we never contact you first.",
     "tags": [
       "study abroad",
       "Indian students",
@@ -56,11 +55,11 @@
     ]
   },
   "instagram": {
-    "caption": "Topper nahi ho toh abroad nahi? ❌ Myth.\n\nHar profile ke liye options hain, funding ke raaste hain, aur English perfect nahi, required score chahiye.\n\nKis dost ko ye sunna chahiye? Tag karo 👇\n\n👉 app.goeduabroad.com (link in bio)\n\n#StudyAbroad #IndianStudents #StudyAbroadTips #EduAbroad #Reels"
+    "caption": "Not a topper, so no abroad? ❌ Myth.\n\nThere are options for every profile, there are ways to fund it, and your English needs the required score, not perfection.\n\nWhich friend needs to hear this? Tag them 👇\n\n👉 app.goeduabroad.com (link in bio)\n\n#StudyAbroad #IndianStudents #StudyAbroadTips #EduAbroad #Reels"
   },
   "claims": [
     {
-      "text": "3 myths jo sabko rokte hain.",
+      "text": "3 myths that hold people back.",
       "source": "count of myths in this video"
     }
   ]

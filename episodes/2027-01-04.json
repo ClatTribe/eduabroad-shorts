@@ -5,48 +5,48 @@
   "musicSeed": 104,
   "hook": {
     "line1": [
-      "Rehna",
-      "kahan"
+      "Where",
+      "to"
     ],
     "line2": [
-      "hai?",
-      "Socho."
+      "live?",
+      "Think."
     ],
-    "highlight": "Socho.",
+    "highlight": "Think.",
     "subline": "On-campus vs off-campus."
   },
   "tips": {
-    "seriesLabel": "Seedhi Baat",
+    "seriesLabel": "Straight Talk",
     "items": [
       {
-        "title": "On-campus: aasaan shuruaat",
-        "detail": "Campus paas, setup simple. Aksar jaldi apply karna padta hai."
+        "title": "On-campus: an easy start",
+        "detail": "Close to class, simple setup. You often have to apply early."
       },
       {
-        "title": "Off-campus: zyada options",
-        "detail": "Rent aur location compare karo. Flatmates ke saath kharcha baant sakte ho."
+        "title": "Off-campus: more options",
+        "detail": "Compare rent and location. You can share costs with flatmates."
       },
       {
-        "title": "Lease dhyan se padho",
-        "detail": "Deposit, notice period aur bills kiske zimme hain, sab likha hona chahiye."
+        "title": "Read the lease carefully",
+        "detail": "Deposit, notice period and who pays the bills: it should all be in writing."
       },
       {
-        "title": "Scam se bacho",
-        "detail": "Bina dekhe ya bina contract ke advance paisa mat bhejo."
+        "title": "Avoid scams",
+        "detail": "Never send an advance without seeing the place or signing a contract."
       }
     ]
   },
   "closing": {
-    "line1": "Ghar sahi,",
-    "line2": "padhai sahi."
+    "line1": "Right home,",
+    "line2": "better studies."
   },
   "cta": {
-    "button": "Explore karo",
+    "button": "Explore now",
     "url": "app.goeduabroad.com"
   },
   "youtube": {
-    "title": "Abroad mein rehna kahan hai? On-campus vs off-campus",
-    "description": "On-campus housing mein shuruaat aasaan hoti hai, off-campus mein zyada options. Lease dhyan se padho aur bina contract ke advance paisa kabhi mat bhejo.\n\n👉 https://app.goeduabroad.com\n\nEduAbroad: Run by Harvard-Cambridge Alumni. 100% private. Contact aap karoge, hum nahi.",
+    "title": "Where to live abroad? On-campus vs off-campus",
+    "description": "On-campus housing makes the start easy, off-campus gives you more options. Read the lease carefully and never send an advance without a contract.\n\n👉 https://app.goeduabroad.com\n\nEduAbroad: Run by Harvard-Cambridge Alumni. 100% private. You contact us, we never contact you first.",
     "tags": [
       "study abroad",
       "Indian students",
@@ -57,7 +57,7 @@
     ]
   },
   "instagram": {
-    "caption": "Rehna kahan hai? 🏠\n\nOn-campus = aasaan shuruaat\nOff-campus = zyada options\nLease padho, aur bina contract paisa mat bhejo!\n\nSave karo 📌\n\n👉 app.goeduabroad.com (link in bio)\n\n#StudyAbroad #IndianStudents #StudyAbroadTips #EduAbroad #Reels"
+    "caption": "Where will you live? 🏠\n\nOn-campus = easy start\nOff-campus = more options\nRead the lease, and never pay without a contract!\n\nSave this 📌\n\n👉 app.goeduabroad.com (link in bio)\n\n#StudyAbroad #IndianStudents #StudyAbroadTips #EduAbroad #Reels"
   },
   "claims": []
 }

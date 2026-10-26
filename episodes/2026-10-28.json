@@ -5,15 +5,15 @@
   "musicSeed": 1028,
   "hook": {
     "line1": [
-      "Visa",
-      "update"
+      "Where's",
+      "the"
     ],
     "line2": [
-      "kahan",
-      "milega?"
+      "visa",
+      "update?"
     ],
-    "highlight": "milega?",
-    "subline": "Har jagah alag baat sunte ho?",
+    "highlight": "update?",
+    "subline": "Everyone tells you something else?",
     "chips": [
       "UK visa: ?",
       "Deadline: ?",
@@ -24,15 +24,15 @@
     "beats": [
       {
         "speaker": "Cousin",
-        "line": "“Mere time pe toh aisa tha”"
+        "line": "“It was like this in my time”"
       },
       {
         "speaker": "WhatsApp",
-        "line": "“Forward aaya hai, sach hi hoga”"
+        "line": "“It's a forward, so it must be true”"
       },
       {
         "speaker": "Google",
-        "line": "Har site pe alag date."
+        "line": "A different date on every site."
       }
     ],
     "googleTabs": [
@@ -44,20 +44,20 @@
       "Canada update"
     ],
     "punchline": {
-      "line1": "Info bahut hai.",
-      "line2": "Sahi kaunsi hai?"
+      "line1": "So much info.",
+      "line2": "Which one is right?"
     }
   },
   "reveal": {
-    "kicker": "Noise nahi.",
-    "headline": "Seedhi baat.",
+    "kicker": "No noise.",
+    "headline": "Straight facts.",
     "featurePill": "EduAbroad Magazine",
     "clips": [
       {
         "kind": "video",
         "src": "footage/magazine/scroll.mp4",
         "caption": "Visa, scholarships, IELTS.",
-        "subcaption": "Country guides bhi.",
+        "subcaption": "Country guides too.",
         "seconds": 4.6,
         "playbackRate": 1.1
       }
@@ -66,21 +66,21 @@
   "proof": {
     "points": [
       "Updated daily",
-      "Harvard-Cambridge, IIM alumni se",
-      "Country, exam, visa: search karo"
+      "From Harvard-Cambridge, IIM alumni",
+      "Search by country, exam, visa"
     ]
   },
   "closing": {
-    "line1": "Forwards chhodo,",
-    "line2": "Magazine padho."
+    "line1": "Skip the forwards,",
+    "line2": "read the Magazine."
   },
   "cta": {
-    "button": "Padhna shuru",
+    "button": "Start reading",
     "url": "app.goeduabroad.com/magazine"
   },
   "youtube": {
-    "title": "Visa update, scholarship deadline kahan dekhein? EduAbroad Magazine",
-    "description": "Cousin ki purani baat, WhatsApp forward, har site pe alag date. EduAbroad Magazine pe visa updates, scholarship deadlines, IELTS tips aur country guides ek jagah hain, Harvard-Cambridge aur IIM alumni counsellors se. Roz update hota hai.\n\n👉 https://app.goeduabroad.com/magazine\n\nEduAbroad: Run by Harvard-Cambridge Alumni. 100% private. Contact aap karoge, hum nahi.",
+    "title": "Where to find visa updates and scholarship deadlines? EduAbroad Magazine",
+    "description": "Your cousin's old advice, WhatsApp forwards, a different date on every site. EduAbroad Magazine has visa updates, scholarship deadlines, IELTS tips and country guides in one place, from Harvard-Cambridge and IIM alumni counsellors. It's updated daily.\n\n👉 https://app.goeduabroad.com/magazine\n\nEduAbroad: Run by Harvard-Cambridge Alumni. 100% private. You contact us, we never contact you first.",
     "tags": [
       "study abroad",
       "Indian students",
@@ -92,11 +92,11 @@
     ]
   },
   "instagram": {
-    "caption": "Visa update kahan milega? 📰\n\nForwards aur purani baatein chhodo. Visa updates, scholarship deadlines, IELTS tips aur country guides, sab EduAbroad Magazine pe.\n\n👉 app.goeduabroad.com/magazine (link in bio)\n\n#StudyAbroad #IndianStudents #StudentVisa #EduAbroad #Reels"
+    "caption": "Where do you get visa updates? 📰\n\nSkip the forwards and old stories. Visa updates, scholarship deadlines, IELTS tips and country guides, all on EduAbroad Magazine.\n\n👉 app.goeduabroad.com/magazine (link in bio)\n\n#StudyAbroad #IndianStudents #StudentVisa #EduAbroad #Reels"
   },
   "claims": [
     {
-      "text": "Visa, scholarships, IELTS. / Country guides bhi.",
+      "text": "Visa, scholarships, IELTS. / Country guides too.",
       "source": "Magazine page: 'Visa updates, scholarship deadlines, IELTS tips and honest country guides for Indian students'"
     },
     {
@@ -104,11 +104,11 @@
       "source": "Magazine page badge: 'Updated daily'"
     },
     {
-      "text": "Harvard-Cambridge, IIM alumni se",
+      "text": "From Harvard-Cambridge, IIM alumni",
       "source": "Magazine page: 'from Harvard-Cambridge and IIM alumni counsellors'"
     },
     {
-      "text": "Country, exam, visa: search karo",
+      "text": "Search by country, exam, visa",
       "source": "Magazine page search box: 'Search articles, countries, exams...' and category filters (Country Guide, Visa Tips)"
     }
   ],

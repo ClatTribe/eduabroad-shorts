@@ -5,47 +5,48 @@
   "musicSeed": 1204,
   "hook": {
     "line1": [
-      "Visa",
-      "interview"
+      "Scared",
+      "of",
+      "your"
     ],
     "line2": [
-      "ka",
-      "darr?"
+      "visa",
+      "interview?"
     ],
-    "highlight": "darr?",
-    "subline": "3 myths, seedha sach."
+    "highlight": "interview?",
+    "subline": "3 myths, the straight truth."
   },
   "myths": {
     "seriesLabel": "Myth vs Fact",
     "items": [
       {
-        "myth": "Visa officer ko perfect English chahiye",
-        "fact": "Clear aur honest jawab chahiye",
-        "detail": "Simple English mein seedha jawab do. Accent se fark nahi padta."
+        "myth": "The visa officer wants perfect English",
+        "fact": "Clear, honest answers matter",
+        "detail": "Answer directly in simple English. Your accent doesn't matter."
       },
       {
-        "myth": "Jawab ratt ke jao",
-        "fact": "Apni baat, apne shabdon mein",
-        "detail": "Ratta lagta hai, sunne wale ko pata chalta hai. Points yaad rakho, lines nahi."
+        "myth": "Memorise your answers",
+        "fact": "Say it in your own words",
+        "detail": "Memorised answers sound memorised. Remember points, not lines."
       },
       {
-        "myth": "Documents hi sab kuch hain",
-        "fact": "Documents aur clarity, dono",
-        "detail": "Documents ready rakho, par apna plan bhi samjha pao."
+        "myth": "Documents are everything",
+        "fact": "Documents and clarity, both",
+        "detail": "Keep your documents ready, and be able to explain your plan too."
       }
     ]
   },
   "closing": {
-    "line1": "Darr kam,",
-    "line2": "tayyari zyada."
+    "line1": "Less fear,",
+    "line2": "more preparation."
   },
   "cta": {
-    "button": "Explore karo",
+    "button": "Explore now",
     "url": "app.goeduabroad.com"
   },
   "youtube": {
-    "title": "Visa interview mein perfect English chahiye? Myth vs Fact",
-    "description": "Visa interview ke 3 bade myths. Perfect English nahi, clear aur honest jawab chahiye. Ratta mat lagao, apne shabdon mein bolo. Aur documents ke saath apna plan bhi samjha pao.\n\n👉 https://app.goeduabroad.com\n\nEduAbroad: Run by Harvard-Cambridge Alumni. 100% private. Contact aap karoge, hum nahi.",
+    "title": "Do you need perfect English for a visa interview? Myth vs Fact",
+    "description": "3 big visa interview myths. You don't need perfect English, you need clear and honest answers. Don't memorise, say it in your own words. And along with your documents, be able to explain your plan.\n\n👉 https://app.goeduabroad.com\n\nEduAbroad: Run by Harvard-Cambridge Alumni. 100% private. You contact us, we never contact you first.",
     "tags": [
       "study abroad",
       "Indian students",
@@ -56,11 +57,11 @@
     ]
   },
   "instagram": {
-    "caption": "Visa interview ka darr? 😰\n\nPerfect English nahi, clear jawab chahiye. Ratta nahi, apne shabd. Documents ke saath clarity bhi.\n\n👉 app.goeduabroad.com (link in bio)\n\n#StudyAbroad #IndianStudents #StudyAbroadTips #EduAbroad #Reels"
+    "caption": "Scared of your visa interview? 😰\n\nNot perfect English, clear answers. Not memorised lines, your own words. Documents plus clarity.\n\n👉 app.goeduabroad.com (link in bio)\n\n#StudyAbroad #IndianStudents #StudyAbroadTips #EduAbroad #Reels"
   },
   "claims": [
     {
-      "text": "3 myths, seedha sach.",
+      "text": "3 myths, the straight truth.",
       "source": "count of myths in this video"
     }
   ]
