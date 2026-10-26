@@ -27,7 +27,7 @@ bash tools/story-day.sh "$DATE" --no-upload
 - **Exit 3 (NO_STORY):** on Wed and Sun that's expected: stop and reply "No Story today".
   On Tue or Fri it means `stories/$DATE.json` is missing: write it (copy `stories/samples/tip.json` on Tuesday,
   `stories/samples/word.json` on Friday, and an existing Story of the same type as your model). Rules from
-  `WRITING-RULES.md`: warm Hinglish, no em dashes, no invented numbers, no competitor names, a word must not repeat
+  `WRITING-RULES.md`: English only (no Hinglish), no em dashes, no invented numbers, no competitor names, a word must not repeat
   any word in `posts/` or `stories/`. Run `node tools/check-story.mjs stories/$DATE.json` until it passes, then step 2 again.
   On Mon/Thu/Sat it means there is no post or SAT Short today to share: stop and report.
 - **Exit 1:** read the log, fix what you can, retry once. Otherwise stop and report.

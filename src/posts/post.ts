@@ -80,12 +80,12 @@ export type Post = {
 };
 
 export const SERIES_LABEL: Record<PostContent["type"], string> = {
-  checklist: "Seedhi Baat",
+  checklist: "Straight Talk",
   "admit-guess": "Guess the Admit",
   feature: "Portal Feature",
   versus: "This vs That",
   myth: "Myth vs Fact",
-  word: "IELTS Shabd",
+  word: "IELTS Word",
   parents: "Parents' Corner",
 };
 

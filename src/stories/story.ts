@@ -27,7 +27,7 @@ export const STORY_SAFE = { top: 250, bottom: 1670, side: 80 };
 
 /** The teaser moment of a SAT Short: the question is fully written, just before the solution starts. */
 export const teaserTime = (spec: SketchSpec): number => {
-  const pause = spec.items.find((i) => i.kind === "text" && /Pause/.test(i.text));
+  const pause = spec.items.find((i) => i.kind === "text" && /Pause/.test(i.text)) as { out?: number } | undefined;
   if (pause && pause.out !== undefined) return pause.out - 0.1;
   return Math.min(spec.seconds / 3, 10);
 };

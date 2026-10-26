@@ -23,7 +23,7 @@ bash tools/post-day.sh "$DATE" --no-upload
     Sat word, Sun parents). Copy an existing post of the same format as your model.
   - Prefer formats that need no new data (checklist, versus, myth, word, parents). Use admit-guess only with a real
     Admit Finder card, and feature only with a screenshot filmed by `tools/capture-portal.mjs`.
-  - Rules from `WRITING-RULES.md`: warm Hinglish, no em dashes, no invented numbers or stats, no competitor names,
+  - Rules from `WRITING-RULES.md`: English only (no Hinglish), no em dashes, no invented numbers or stats, no competitor names,
     every claim listed in `claims`. The topic must not repeat any topic in `posts/` or `calendar/posts/`.
   - Run `node tools/check-post.mjs posts/$DATE.json` until it passes, then run step 2 again.
 - **Exit 1:** read the log, fix what you can (usually a line that's too long), retry once. Otherwise stop and report.

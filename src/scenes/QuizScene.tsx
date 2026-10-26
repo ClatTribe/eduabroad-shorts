@@ -320,7 +320,7 @@ export const QuestionScene: React.FC = () => {
   return (
     <AbsoluteFill>
       <QuizBoard phase="question" />
-      <BottomLine text="Comment karo: A, B, C ya D?" delay={sec(COUNT_FROM, fps)} color={theme.color.crimson} />
+      <BottomLine text="Comment: A, B, C or D?" delay={sec(COUNT_FROM, fps)} color={theme.color.crimson} />
       <Sounds cues={sounds} />
     </AbsoluteFill>
   );

@@ -175,7 +175,7 @@ const Checklist: React.FC<{ c: Extract<PostContent, { type: "checklist" }>; i: n
     );
   if (i === last)
     return (
-      <ClosingSlide icon={<Bookmark />} line1="Save karo," line2={c.saveLine} sub="Dost ko bhejo jise ye chahiye." />
+      <ClosingSlide icon={<Bookmark />} line1="Save this," line2={c.saveLine} sub="Send it to a friend who needs it." />
     );
   return <StepSlide step={c.steps[i - 1]} n={i} />;
 };
@@ -282,17 +282,17 @@ const AdmitGuess: React.FC<{ c: Extract<PostContent, { type: "admit-guess" }>; i
   <Area style={{ gap: 64, justifyContent: "center" }}>
     {i === 0 ? (
       <Headline
-        line1="Guess karo:"
-        line2="accept ya reject?"
+        line1="Your guess:"
+        line2="accept or reject?"
         size={104}
-        size2={fitSize(["accept ya reject?"], 104, 920)}
+        size2={fitSize(["accept or reject?"], 104, 920)}
       />
     ) : (
       <Headline line1="Result:" line2={`${c.result}!`} size={104} />
     )}
     <AdmitCard c={c} reveal={i === 1} />
     <div style={{ ...body(36), color: theme.color.muted }}>
-      {i === 0 ? "Comment mein jawab do, phir swipe karo." : c.takeaway}
+      {i === 0 ? "Comment your answer, then swipe." : c.takeaway}
     </div>
   </Area>
 );
@@ -386,7 +386,7 @@ const Feature: React.FC<{ c: Extract<PostContent, { type: "feature" }>; i: numbe
   if (i === 2)
     return (
       <Area center style={{ gap: 44 }}>
-        <Headline line1="Kya milta hai?" size={100} />
+        <Headline line1="What you get" size={100} />
         {c.benefits.map((b) => (
           <Card key={b} style={{ padding: "32px 36px", display: "flex", alignItems: "center", gap: 30 }}>
             <CheckDot size={74} />
@@ -408,7 +408,7 @@ const Feature: React.FC<{ c: Extract<PostContent, { type: "feature" }>; i: numbe
   if (i === 3)
     return (
       <Area center style={{ gap: 40 }}>
-        <Headline line1="Kaise use karein?" size={fitSize(["Kaise use karein?"], 100, 920)} />
+        <Headline line1="How to use it" size={fitSize(["How to use it"], 100, 920)} />
         {c.howTo.map((h, k) => (
           <div key={h} style={{ display: "flex", alignItems: "center", gap: 30 }}>
             <div
@@ -562,7 +562,7 @@ const Versus: React.FC<{ c: Extract<PostContent, { type: "versus" }> }> = ({ c }
 const Myth: React.FC<{ c: Extract<PostContent, { type: "myth" }> }> = ({ c }) => (
   <Area style={{ gap: 46, justifyContent: "center" }}>
     <div style={{ position: "relative" }}>
-      <div style={{ ...body(38), color: theme.color.muted, marginBottom: 30 }}>Log kehte hain...</div>
+      <div style={{ ...body(38), color: theme.color.muted, marginBottom: 30 }}>People say...</div>
       <Card style={{ padding: "58px 44px 48px", backgroundColor: theme.color.pinkBg }}>
         <div
           style={{
@@ -633,7 +633,7 @@ const Myth: React.FC<{ c: Extract<PostContent, { type: "myth" }> }> = ({ c }) =>
 // ---------------- Saturday: IELTS word ----------------
 const Word: React.FC<{ c: Extract<PostContent, { type: "word" }> }> = ({ c }) => (
   <Area center style={{ gap: 38 }}>
-    <div style={{ ...body(36), color: theme.color.muted }}>Is hafte ka shabd</div>
+    <div style={{ ...body(36), color: theme.color.muted }}>Word of the week</div>
     <div
       style={{
         fontFamily: theme.font.heading,

@@ -41,7 +41,7 @@ if (!CHECK && !isSketch && !/^\d{4}-\d{2}-\d{2}$/.test(date ?? "")) {
 }
 const ep = CHECK && !date?.match(/^\d|\.json$/) ? { youtube: { title: "", description: "" } } : JSON.parse(readFileSync(isSketch ? date : `episodes/${date}.json`, "utf8"));
 const file = isSketch ? `out/${ep.id}.mp4` : `out/${date}.mp4`;
-const lang = isSketch ? "en" : "hi"; // SAT whiteboard Shorts are in English
+const lang = "en"; // all Shorts are in English (since 2026-10-26)
 const missing = ["YOUTUBE_CLIENT_ID", "YOUTUBE_CLIENT_SECRET", "YOUTUBE_REFRESH_TOKEN"].filter((k) => !process.env[k]);
 
 const title = ep.youtube.title.slice(0, 100);

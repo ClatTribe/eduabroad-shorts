@@ -5,47 +5,47 @@
   "musicSeed": 1026,
   "hook": {
     "line1": [
-      "University",
-      "ko"
+      "Emailing",
+      "a"
     ],
     "line2": [
-      "email?"
+      "university?"
     ],
-    "highlight": "email?",
-    "subline": "Bhejne se pehle ye padh lo."
+    "highlight": "university?",
+    "subline": "Read this before you hit send."
   },
   "tips": {
-    "seriesLabel": "Seedhi Baat",
+    "seriesLabel": "Straight Talk",
     "items": [
       {
-        "title": "Subject line clear rakho",
-        "detail": "Naam, course aur intake, subject mein hi likh do. Padhne wale ko turant samajh aaye."
+        "title": "Write a clear subject",
+        "detail": "Put your name, course and intake in the subject line. The reader knows the context at once."
       },
       {
-        "title": "Pehle website check karo",
-        "detail": "Jo jawab website ya FAQ pe already hai, wo email mein mat poochho."
+        "title": "Check the website first",
+        "detail": "If the answer is already on the website or FAQ page, don't ask it by email."
       },
       {
-        "title": "Chhota aur seedha likho",
-        "detail": "Ek email mein ek kaam. Do teen chhote paragraph kaafi hain."
+        "title": "Keep it short",
+        "detail": "One email, one request. Two or three short paragraphs are enough."
       },
       {
-        "title": "Simple email ID se bhejo",
-        "detail": "Apne naam wali email ID rakho. Nicknames wali ID serious nahi lagti."
+        "title": "Use a simple email ID",
+        "detail": "Send it from an ID with your real name. A nickname ID doesn't look serious."
       }
     ]
   },
   "closing": {
-    "line1": "Chhota likho,",
-    "line2": "saaf likho."
+    "line1": "Write short,",
+    "line2": "write clear."
   },
   "cta": {
-    "button": "Explore karo",
+    "button": "Explore now",
     "url": "app.goeduabroad.com"
   },
   "youtube": {
-    "title": "University ko email kaise likhein? 4 seedhi tips",
-    "description": "Admissions team ko email bhejne se pehle: subject line clear rakho, pehle website aur FAQ check karo, chhota aur seedha likho, aur apne naam wali email ID se bhejo.\n\n👉 https://app.goeduabroad.com\n\nEduAbroad: Run by Harvard-Cambridge Alumni. 100% private. Contact aap karoge, hum nahi.",
+    "title": "Emailing a university? 4 simple tips",
+    "description": "Before you email an admissions team: write a clear subject line, check the website and FAQ first, keep it short, and send it from an email ID with your real name.\n\n👉 https://app.goeduabroad.com\n\nEduAbroad: Run by Harvard-Cambridge Alumni. 100% private. You contact us, we never contact you first.",
     "tags": [
       "study abroad",
       "Indian students",
@@ -56,7 +56,7 @@
     ]
   },
   "instagram": {
-    "caption": "University ko email likhna hai? ✉️\n\n✅ Subject mein naam, course, intake\n✅ Pehle website aur FAQ check\n✅ Chhota, seedha email\n✅ Apne naam wali email ID\n\nSave karo, email bhejte waqt kaam aayega.\n\n👉 app.goeduabroad.com (link in bio)\n\n#StudyAbroad #IndianStudents #StudyAbroadTips #EduAbroad #Reels"
+    "caption": "Writing to a university? ✉️\n\n✅ Name, course and intake in the subject\n✅ Check the website and FAQ first\n✅ Keep the email short\n✅ Use an email ID with your real name\n\nSave this for the next time you write one.\n\n👉 app.goeduabroad.com (link in bio)\n\n#StudyAbroad #IndianStudents #StudyAbroadTips #EduAbroad #Reels"
   },
   "claims": []
 }

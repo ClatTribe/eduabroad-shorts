@@ -6,7 +6,8 @@ These rules apply to every episode, whether a person or the scheduled Claude ses
 ## Voice
 - Warm, conversational, like a friend or a slightly older cousin giving advice. Not corporate, not salesy.
 - Audience: Indian students and their parents exploring study abroad.
-- Light Hinglish in Latin script ("Ab guess mat karo. Check karo."). No Devanagari on screen.
+- **English only** (since 26 Oct 2026; no Hinglish, no Hindi words, no Devanagari). Simple, warm Indian English
+  that a 17-year-old and their parents both follow easily ("Stop guessing. Check the data.").
 - Short lines. Big text on a phone fits about 14 to 18 characters per line.
 - **Never use em dashes (—) or en dashes (–)** anywhere: on screen, titles, descriptions, captions.
 - Must not read as AI-written: no "Unlock your potential", "In today's world", "Let's dive in", "game-changer",
@@ -15,10 +16,10 @@ These rules apply to every episode, whether a person or the scheduled Claude ses
 ## Claims (most important)
 - Only use claims that appear on the portal itself, or general advice that contains no statistics.
 - **Never invent numbers.** Every number shown on screen must be listed in `claims[]` with its source
-  (the checker blocks the episode otherwise). Counting items in the video ("4 cheezein") is fine.
-- Never name competitors. Never promise outcomes ("guarantee", "pakka admit", "visa pakka").
+  (the checker blocks the episode otherwise). Counting items in the video ("4 things") is fine.
+- Never name competitors. Never promise outcomes ("guarantee", "sure admit", "visa guaranteed").
 - Rules that change or differ by country (visa rules, work-hour limits, PR, fees, deadlines, loan rates):
-  keep it general ("rules pehle check karo"). If a specific fact is truly needed, add it to `claims[]` with a
+  keep it general ("check the current rules first"). If a specific fact is truly needed, add it to `claims[]` with a
   source starting with `VERIFY` and **it will not post** until a human confirms it and edits the source.
 - Portal features: only describe what is visible on the live page. Do not film or quote the IELTS Band
   Predictor tab (it shows unverified accuracy claims).
@@ -32,15 +33,15 @@ These rules apply to every episode, whether a person or the scheduled Claude ses
 ## The three series
 | Day | Series | `template` | Shape |
 |---|---|---|---|
-| Monday | Seedhi Baat (`seedhi-baat`) | `tips` | Question hook, then 3 to 5 numbered tips (title + one-line detail), closing line, CTA |
+| Monday | Straight Talk (`seedhi-baat`, label "Straight Talk") | `tips` | Question hook, then 3 to 5 numbered tips (title + one-line detail), closing line, CTA |
 | Wednesday | Portal feature (`portal`) | `feature` | Version 1 structure: question hook with chips, 3 opinion beats + punchline, crimson reveal with real portal footage, 2 to 3 proof ticks, closing line, CTA |
-| Friday | Myth vs Fact (`myth-fact`) | `mythfact` | "Myth ya Fact?" hook, 2 or 3 myths each busted by a fact + one-line detail, closing line, CTA |
+| Friday | Myth vs Fact (`myth-fact`) | `mythfact` | "Myth or Fact?" hook, 2 or 3 myths each busted by a fact + one-line detail, closing line, CTA |
 
 Copy an existing episode of the same template as your starting point.
 
 ## Fields worth knowing
 - `musicSeed`: any whole number. Use the date digits (e.g. 1209 for 9 Dec) so every episode sounds different.
-- `hook.highlight`: one word from the hook that gets the crimson gradient (usually the last, e.g. "kya?").
+- `hook.highlight`: one word from the hook that gets the crimson gradient (usually the last, e.g. "enough?").
 - `requiresCapture` (portal episodes): feature names from `tools/portal-pages.json`; footage is filmed fresh
   on the day and referenced as `footage/<feature>/<clip>.mp4`.
 - `cta.url`: must be on app.goeduabroad.com. Point to the feature page when there is one.

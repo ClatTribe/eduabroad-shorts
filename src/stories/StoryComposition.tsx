@@ -95,7 +95,7 @@ const Share: React.FC<{ c: Extract<StoryContent, { type: "share" }> }> = ({ c })
         color: theme.color.muted,
       }}
     >
-      Aaj ka post: <span style={{ color: theme.color.ink }}>{SERIES_LABEL[c.postType]}</span>
+      Today&apos;s post: <span style={{ color: theme.color.ink }}>{SERIES_LABEL[c.postType]}</span>
     </div>
     <Img
       src={staticFile(c.image)}
@@ -110,14 +110,14 @@ const Share: React.FC<{ c: Extract<StoryContent, { type: "share" }> }> = ({ c })
         boxShadow: theme.shadow.card,
       }}
     />
-    <Footer text="Feed pe poora dekho" />
+    <Footer text="See the full post on our feed" />
   </>
 );
 
 const Tip: React.FC<{ c: Extract<StoryContent, { type: "tip" }> }> = ({ c }) => (
   <>
     <Grid />
-    <Header label="Aaj ki tip" />
+    <Header label="Tip of the day" />
     <div style={{ ...middle, gap: 64 }}>
       <div style={{ fontFamily: theme.font.heading, fontWeight: 900, letterSpacing: -2, lineHeight: 1.05 }}>
         <div style={{ fontSize: fitSize([c.title], 96, 920), color: theme.color.ink }}>{c.title}</div>
@@ -150,9 +150,9 @@ const Tip: React.FC<{ c: Extract<StoryContent, { type: "tip" }> }> = ({ c }) => 
 const Word: React.FC<{ c: Extract<StoryContent, { type: "word" }> }> = ({ c }) => (
   <>
     <Grid />
-    <Header label="Aaj ka shabd" />
+    <Header label="Word of the day" />
     <div style={{ ...middle, gap: 52 }}>
-      <div style={{ fontFamily: theme.font.body, fontWeight: 700, fontSize: 40, color: theme.color.muted }}>IELTS ke liye</div>
+      <div style={{ fontFamily: theme.font.body, fontWeight: 700, fontSize: 40, color: theme.color.muted }}>For IELTS</div>
       <div
         style={{
           fontFamily: theme.font.heading,

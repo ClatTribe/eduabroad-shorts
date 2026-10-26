@@ -40,7 +40,7 @@ const MythCard: React.FC<{ myth: string }> = ({ myth }) => {
             opacity: card,
           }}
         >
-          Log kehte hain...
+          People say...
         </div>
         <div
           style={{
