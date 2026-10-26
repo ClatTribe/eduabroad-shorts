@@ -4,9 +4,18 @@
     "type": "word",
     "word": "Significant",
     "partOfSpeech": "adjective",
-    "meaning": "Matlab: bada, important",
-    "synonyms": ["Considerable", "Notable", "Major"],
+    "meaning": "Meaning: big, important",
+    "synonyms": [
+      "Considerable",
+      "Notable",
+      "Major"
+    ],
     "example": "“There has been a significant rise in online learning.”"
   },
-  "claims": [{ "text": "Significant: Considerable, Notable, Major", "source": "standard dictionary meaning and synonyms" }]
+  "claims": [
+    {
+      "text": "Significant: Considerable, Notable, Major",
+      "source": "standard dictionary meaning and synonyms"
+    }
+  ]
 }
