@@ -8,7 +8,7 @@ DATE=$(TZ=Asia/Kolkata date +%F); DOW=$(TZ=Asia/Kolkata date +%u)   # 6 = Saturd
 git clone --depth 1 https://github.com/ClatTribe/eduabroad-shorts.git ~/shorts && cd ~/shorts
 npm ci --no-audit --no-fund
 export NODE_USE_ENV_PROXY=1 NODE_NO_WARNINGS=1
-export REMOTION_BROWSER_EXECUTABLE=$(ls -d /opt/pw-browsers/chromium_headless_shell-*/chrome-*/*headless?shell | head -1)
+export REMOTION_BROWSER_EXECUTABLE=$(find /opt/pw-browsers -maxdepth 3 -type f \( -name headless_shell -o -name chrome-headless-shell \) | head -1)
 ```
 If `DOW` is not 6, stop and reply "Not a SAT day".
 

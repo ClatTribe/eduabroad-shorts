@@ -16,7 +16,7 @@ Daily Instagram posts and the Saturday SAT Short have their own runbooks: `RUNBO
 git clone --depth 1 https://github.com/ClatTribe/eduabroad-shorts.git ~/shorts && cd ~/shorts
 npm ci --no-audit --no-fund
 export NODE_USE_ENV_PROXY=1 NODE_NO_WARNINGS=1   # Node's fetch needs this to use the session's proxy
-export REMOTION_BROWSER_EXECUTABLE=$(ls -d /opt/pw-browsers/chromium_headless_shell-*/chrome-*/*headless?shell | head -1)
+export REMOTION_BROWSER_EXECUTABLE=$(find /opt/pw-browsers -maxdepth 3 -type f \( -name headless_shell -o -name chrome-headless-shell \) | head -1)
 node tools/upload-youtube.mjs "$DATE" --dry-run; node tools/upload-instagram.mjs "$DATE" --dry-run
 ```
 The dry runs tell you which credentials are missing. If any are missing, still render, but do not upload,
